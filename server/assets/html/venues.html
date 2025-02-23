@@ -1,0 +1,53 @@
+<div class="alert alert-secondary" role="alert">
+    Venues
+  </div>
+  
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Venue</th>
+            <th scope="col">City</th>
+            <th scope="col">State</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $_, $venue := .Venues }}
+        <tr>
+            <td>
+                <div>
+                    <input type="hidden" name="venueName" value="{{ $venue.Venue }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
+                        hx-post="/venue/">{{ $venue.Venue }}</a>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <input type="hidden" name="city" value="{{ $venue.City }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/city/">
+                      {{ $venue.City }}
+                    </a>
+                  </div>
+          
+            </td>
+            <td>
+                <div>
+                    <input type="hidden" name="state" value="{{ $venue.State }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/state/">
+                      {{ $venue.State }}</a>
+                  </div>
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/venues"
+                hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
+        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/venues"
+                hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
+    </ul>
+</nav>

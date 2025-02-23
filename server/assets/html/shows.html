@@ -1,0 +1,62 @@
+<div class="alert alert-secondary" role="alert">
+  {{ if .Message }}
+  {{ .Message }}
+  {{ else }}
+  Shows
+  {{ end }}
+</div>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Year</th>
+      <th scope="col">Venue</th>
+      <th scope="col">City</th>
+      <th scope="col">State</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $index, $show := .Shows }}
+    <tr>
+      <td>
+        {{ formatDate $show.Date "January 2" }}
+      <td>
+        <div>
+          <span>
+            {{ $year := formatDate $show.Date "2006" }}
+            <input type="hidden" name="year" value="{{ $year }}">
+            <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/year/">
+              {{ $year }}
+            </a>
+          </span>
+        </div>
+
+      </td>
+      <td>
+        <div>
+          <input type="hidden" name="venueName" value="{{ $show.Venue }}">
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
+              hx-post="/venue/">{{ $show.Venue }}</a>
+      </div>
+
+      </td>
+      <td>
+        <div>
+          <input type="hidden" name="city" value="{{ $show.City }}">
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/city/">
+            {{ $show.City }}
+          </a>
+        </div>
+      </td>
+      <td>
+        <div>
+          <input type="hidden" name="state" value="{{ $show.State }}">
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/state/">
+            {{ $show.State }}</a>
+        </div>
+      </td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>

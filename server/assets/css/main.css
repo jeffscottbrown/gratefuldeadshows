@@ -1,0 +1,27 @@
+body {
+}
+
+main {
+    padding-bottom: 80px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+a[hx-get], 
+a[hx-post], 
+a[hx-put], 
+a[hx-delete] {
+    text-decoration: none;
+}
+
+a[hx-get]:hover, 
+a[hx-post]:hover, 
+a[hx-put]:hover, 
+a[hx-delete]:hover {
+    /* text-decoration: underline; */
+    cursor: pointer;
+}

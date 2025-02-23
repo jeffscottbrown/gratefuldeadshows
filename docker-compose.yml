@@ -1,0 +1,29 @@
+services:
+  # Go Application Service
+  go-app:
+    # image: jeffscottbrown/gratefulweb:0.1.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - DB_HOST=gratefuldb
+      - DB_PASSWORD=mysecretpassword
+      - DB_NAME=shows
+    depends_on:
+      - gratefuldb
+    ports:
+      - "8080:8080"
+
+  # PostgreSQL Service
+  gratefuldb:
+    image: jeffscottbrown/gratefuldocker:0.1.0
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: shows
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres-data:
+    driver: local
