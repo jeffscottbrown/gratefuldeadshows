@@ -46,6 +46,12 @@ func GetShowsAtVenue(venue string) []Show {
 	return shows
 }
 
+func GetShow(id int) Show {
+	var show Show
+	db.Preload("Sets.Songs").First(&show, id)
+	return show
+}
+
 func GetShowsInState(state string) []Show {
 	var shows []Show
 	db.Where("state = ?", state).Order("date asc").Find(&shows)

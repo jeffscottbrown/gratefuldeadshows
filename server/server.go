@@ -63,6 +63,21 @@ func configureApplicationHandlers(router *gin.Engine) {
 			"Message": "All Shows At " + venueName,
 		})
 	})
+	router.POST("/show", func(c *gin.Context) {
+		id := c.PostForm("id")
+		idInt, err := strconv.Atoi(id)
+		if err != nil || idInt < 0 {
+			c.HTML(http.StatusBadRequest, "error.html", gin.H{
+				"Message": "Invalid Show ID",
+			})
+			return
+		}
+		show := db.GetShow(idInt)
+		c.HTML(http.StatusOK, "show.html", gin.H{
+			"Show":    show,
+			"Message": "Show On " + show.Date.Format("January 11, 2006"),
+		})
+	})
 
 	router.POST("/state", func(c *gin.Context) {
 		stateName := c.PostForm("state")

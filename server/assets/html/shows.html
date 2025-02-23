@@ -20,25 +20,28 @@
     {{ range $index, $show := .Shows }}
     <tr>
       <td>
-        {{ formatDate $show.Date "January 2" }}
+        <div>
+          <input type="hidden" name="id" value="{{ $show.ID }}">
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/show/">
+            {{ formatDate $show.Date "January 2" }}
+          </a>
+        </div>
       <td>
         <div>
-          <span>
-            {{ $year := formatDate $show.Date "2006" }}
-            <input type="hidden" name="year" value="{{ $year }}">
-            <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/year/">
-              {{ $year }}
-            </a>
-          </span>
+          {{ $year := formatDate $show.Date "2006" }}
+          <input type="hidden" name="year" value="{{ $year }}">
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/year/">
+            {{ $year }}
+          </a>
         </div>
 
       </td>
       <td>
         <div>
           <input type="hidden" name="venueName" value="{{ $show.Venue }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-              hx-post="/venue/">{{ $show.Venue }}</a>
-      </div>
+          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/venue/">{{
+            $show.Venue }}</a>
+        </div>
 
       </td>
       <td>

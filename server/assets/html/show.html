@@ -1,0 +1,13 @@
+<div class="alert alert-secondary" role="alert">
+    {{ formatDate .Show.Date "January 2, 2006" }} at {{ .Show.Venue }} in {{ .Show.City }}, {{ .Show.State }}
+</div>
+
+
+{{ range $index, $set := .Show.Sets }}
+    <h2>Set {{ $set.Number }}</h2>
+    <ol>
+        {{ range $index, $song := $set.Songs }}
+            <li>{{ $song.Title }}</li>
+        {{ end }}
+    </ol>
+{{end}}
