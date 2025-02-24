@@ -25,3 +25,11 @@ a[hx-delete]:hover {
     /* text-decoration: underline; */
     cursor: pointer;
 }
+
+
+.top-search-form {
+    justify-content: center;
+    margin-top: 20px; 
+    padding: 10px;
+    padding-right: 180px;
+}
