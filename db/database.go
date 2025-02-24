@@ -15,15 +15,29 @@ var db *gorm.DB
 
 func init() {
 
+	dbUser := os.Getenv("DB_USER")
 	dbPassword := os.Getenv("DB_PASSWORD")
 	dbName := os.Getenv("DB_NAME")
 	dbHost := os.Getenv("DB_HOST")
+
+	if dbUser == "" {
+		log.Fatal("DB_USER environment variable is not set")
+	}
+	if dbPassword == "" {
+		log.Fatal("DB_PASSWORD environment variable is not set")
+	}
+	if dbName == "" {
+		log.Fatal("DB_NAME environment variable is not set")
+	}
+	if dbHost == "" {
+		log.Fatal("DB_HOST environment variable is not set")
+	}
 
 	if dbPassword == "" || dbName == "" || dbHost == "" {
 		log.Fatal("One or more environment variables are not set")
 	}
 
-	connStr := fmt.Sprintf("user=postgres password=%s dbname=%s host=%s sslmode=disable", dbPassword, dbName, dbHost)
+	connStr := fmt.Sprintf("user=%s password=%s dbname=%s host=%s sslmode=disable", dbUser, dbPassword, dbName, dbHost)
 
 	var err error
 

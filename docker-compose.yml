@@ -1,25 +1,22 @@
 services:
-  # Application Service
   gratefulwebapp:
-    # image: jeffscottbrown/gratefulweb:0.1.5
+    # image: jeffscottbrown/gratefulweb:0.2.0
     build:
       context: .
       dockerfile: Dockerfile
     environment:
-      - DB_HOST=gratefuldb
-      - DB_PASSWORD=mysecretpassword
+      - DB_HOST=gratefuldata
+      - DB_PASSWORD=bosco
       - DB_NAME=shows
+      - DB_USER=postgres
     depends_on:
-      - gratefuldb
+      - gratefuldata
     ports:
       - "8080:8080"
-
-  # PostgreSQL Service
-  gratefuldb:
-    image: jeffscottbrown/gratefuldocker:0.1.2
+  gratefuldata:
+    image: jeffscottbrown/gratefulpostgres:0.2.1
     environment:
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_PASSWORD: bosco
       POSTGRES_DB: shows
     ports:
       - "5432:5432"
