@@ -29,38 +29,32 @@
       <td>
         <div>
           {{ $year := formatDate $show.Date "2006" }}
-          <input type="hidden" name="year" value="{{ $year }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/year/">
-            {{ $year }}
-          </a>
-        </div>
-
-      </td>
-      <td>
-        <div>
-          <input type="hidden" name="venueName" value="{{ $show.Venue }}">
-          <input type="hidden" name="cityName" value="{{ $show.City }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/venue/">{{
-            $show.Venue }}</a>
+          {{ template "itemlink" (dict "attributeName" "year" "attributeValue" $year) }}
         </div>
 
       </td>
       <td>
         <div>
           <input type="hidden" name="city" value="{{ $show.City }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/city/">
-            {{ $show.City }}
-          </a>
+            {{ template "itemlink" (dict "attributeName" "venue" "attributeValue" $show.Venue) }}
         </div>
       </td>
       <td>
         <div>
-          <input type="hidden" name="state" value="{{ $show.State }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/state/">
-            {{ $show.State }}</a>
+          {{ template "itemlink" (dict "attributeName" "city" "attributeValue" $show.City) }}
+        </div>
+      </td>
+      <td>
+        <div>
+            {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $show.State) }}
         </div>
       </td>
     </tr>
     {{ end }}
   </tbody>
 </table>
+
+{{ block "itemlink" .attributeName .attributeValue }}
+<input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
+<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{ .attributeValue }}</a>
+{{ end }}

@@ -31,6 +31,7 @@ func createAndConfigureRouter() *gin.Engine {
 func configureApplicationHandlers(router *gin.Engine) {
 	router.SetFuncMap(template.FuncMap{
 		"formatDate": formatDate,
+		"dict":       dict,
 	})
 	router.LoadHTMLGlob("server/assets/html/*")
 	router.GET("/", func(c *gin.Context) {
@@ -57,8 +58,8 @@ func configureApplicationHandlers(router *gin.Engine) {
 		})
 	})
 	router.POST("/venue", func(c *gin.Context) {
-		venueName := c.PostForm("venueName")
-		cityName := c.PostForm("cityName")
+		venueName := c.PostForm("venue")
+		cityName := c.PostForm("city")
 		shows := db.GetShowsAtVenue(venueName, cityName)
 		c.HTML(http.StatusOK, "shows.html", gin.H{
 			"Shows":   shows,
@@ -125,6 +126,14 @@ func configureApplicationHandlers(router *gin.Engine) {
 
 func formatDate(t time.Time, layout string) string {
 	return t.Format(layout)
+}
+
+func dict(values ...interface{}) map[string]interface{} {
+	m := make(map[string]interface{})
+	for i := 0; i < len(values); i += 2 {
+		m[values[i].(string)] = values[i+1]
+	}
+	return m
 }
 
 func getRandomGratefulDeadQuote() string {
