@@ -7,7 +7,14 @@
     <h2>Set {{ $set.Number }}</h2>
     <ol>
         {{ range $index, $song := $set.Songs }}
-            <li>{{ $song.Title }}</li>
+            <li>
+                <div>
+                    <input type="hidden" name="songTitle" value="{{ $song.Title }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/song/">{{
+                      $song.Title }}</a>
+                  </div>
+
+            </li>
         {{ end }}
     </ol>
 {{end}}

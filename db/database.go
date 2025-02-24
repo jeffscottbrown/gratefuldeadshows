@@ -98,6 +98,16 @@ func GetVenues(max int, offset int) []struct {
 	return venues
 }
 
+func GetShowsWithSong(songTitle string) []Show {
+	var shows []Show
+	db.Joins("JOIN show_sets ON shows.id = show_sets.show_id").
+		Joins("JOIN set_songs ON show_sets.set_id = set_songs.set_id").
+		Joins("JOIN songs ON set_songs.song_id = songs.id").
+		Where("songs.title = ?", songTitle).Order("date asc").
+		Find(&shows)
+	return shows
+}
+
 func PrintStatistics() {
 	var count int64
 

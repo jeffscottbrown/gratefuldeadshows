@@ -79,6 +79,14 @@ func configureApplicationHandlers(router *gin.Engine) {
 			"Message": "Show On " + show.Date.Format("January 11, 2006"),
 		})
 	})
+	router.POST("/song", func(c *gin.Context) {
+		songTitle := c.PostForm("songTitle")
+		shows := db.GetShowsWithSong(songTitle)
+		c.HTML(http.StatusOK, "shows.html", gin.H{
+			"Shows":   shows,
+			"Message": "Shows When The Band Played " + songTitle,
+		})
+	})
 
 	router.POST("/state", func(c *gin.Context) {
 		stateName := c.PostForm("state")
