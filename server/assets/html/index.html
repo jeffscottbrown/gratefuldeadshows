@@ -107,23 +107,24 @@
                         <option value="WI">Wisconsin</option>
                         <option value="WY">Wyoming</option>
                     </select>
-                </li> 
+                </li>
 
 
 
 
                 <li class="nav-item active"><a hx-get="/venues" hx-target="#main" class="nav-link active" aria-current="page">Venues</a></li>
-            </ul>   
+            </ul>
         </header>
         <main>
             <div class="container" id="main">
             </div>
-        </main> 
+        </main>
     </div>
     <footer class="footer mt-auto py-3 bg-light">
-        <div class="container">
-            <span class="text-muted">Grateful Data, At Your Pleasure</span>
+        <div class="container" id="live-data" hx-get="/quote" hx-trigger="every 8s" hx-swap="innerHTML">
+            Grateful Data, At Your Pleasure
         </div>
     </footer>
 </body>
+
 </html>
