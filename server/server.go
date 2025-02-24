@@ -38,6 +38,26 @@ func configureApplicationHandlers(router *gin.Engine) {
 		c.HTML(http.StatusOK, "index.html", gin.H{})
 	})
 
+	router.GET("/songs", func(c *gin.Context) {
+		offset := c.DefaultQuery("offset", "0")
+		offsetInt, err := strconv.Atoi(offset)
+		if err != nil || offsetInt < 0 {
+			offsetInt = 0
+		}
+
+		max := c.DefaultQuery("max", "10")
+		maxInt, err := strconv.Atoi(max)
+		if err != nil || maxInt > 20 {
+			maxInt = 10
+		}
+		songs := db.GetSongs(maxInt, offsetInt)
+		c.HTML(http.StatusOK, "songs.html", gin.H{
+			"Songs":          songs,
+			"NextOffset":     offsetInt + 10,
+			"PreviousOffset": offsetInt - 10,
+		})
+	})
+
 	router.GET("/venues", func(c *gin.Context) {
 		offset := c.DefaultQuery("offset", "0")
 		offsetInt, err := strconv.Atoi(offset)

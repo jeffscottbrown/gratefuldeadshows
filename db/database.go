@@ -84,6 +84,12 @@ func GetShowsInYear(year string) []Show {
 	return shows
 }
 
+func GetSongs(max int, offset int) []Song {
+	var songs []Song
+	db.Order("title").Limit(max).Offset(offset).Find(&songs)
+	return songs
+}
+
 func GetVenues(max int, offset int) []struct {
 	City  string
 	State string

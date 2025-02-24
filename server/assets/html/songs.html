@@ -1,0 +1,37 @@
+<div class="alert alert-secondary" role="alert">
+    Songs
+</div>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Song Title</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range $_, $song := .Songs }}
+        <tr>
+            <td>
+                <div>
+                    <input type="hidden" name="songTitle" value="{{ $song.Title }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
+                        hx-post="/song/">{{
+                        $song.Title }}</a>
+                </div>
+
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+
+<nav aria-label="Show Navigation">
+    <ul class="pagination">
+        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/songs"
+                hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
+        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/songs"
+                hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
+    </ul>
+</nav>
