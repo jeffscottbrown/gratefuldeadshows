@@ -137,7 +137,6 @@ func dict(values ...interface{}) map[string]interface{} {
 }
 
 func getRandomGratefulDeadQuote() string {
-	rand.Seed(time.Now().UnixNano())
 	return quotes[rand.Intn(len(quotes))]
 }
 
