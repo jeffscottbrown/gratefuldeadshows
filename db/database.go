@@ -97,5 +97,5 @@ func PrintStatistics() {
 	slog.Info("Songs", slog.Int64("count", count))
 
 	db.Model(&Show{}).Distinct("venue").Count(&count)
-	slog.Info("Venus", slog.Int64("count", count))
+	slog.Info("Venues", slog.Int64("count", count))
 }

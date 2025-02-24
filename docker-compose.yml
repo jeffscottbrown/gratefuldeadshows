@@ -1,10 +1,10 @@
 services:
-  # Go Application Service
-  go-app:
-    image: jeffscottbrown/gratefulweb:0.1.4
-    # build:
-    #   context: .
-    #   dockerfile: Dockerfile
+  # Application Service
+  gratefulwebapp:
+    # image: jeffscottbrown/gratefulweb:0.1.5
+    build:
+      context: .
+      dockerfile: Dockerfile
     environment:
       - DB_HOST=gratefuldb
       - DB_PASSWORD=mysecretpassword
