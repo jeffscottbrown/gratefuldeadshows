@@ -80,7 +80,7 @@ func GetShowsInCity(city string) []Show {
 
 func GetShowsInYear(year string) []Show {
 	var shows []Show
-	db.Where("EXTRACT(YEAR FROM date) = ?", year).Find(&shows)
+	db.Where("EXTRACT(YEAR FROM date) = ?", year).Order("date asc").Find(&shows)
 	return shows
 }
 
