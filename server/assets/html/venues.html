@@ -17,10 +17,11 @@
             <td>
                 <div>
                     <input type="hidden" name="venueName" value="{{ $venue.Venue }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-                        hx-post="/venue/">{{ $venue.Venue }}</a>
-                </div>
-            </td>
+                    <input type="hidden" name="cityName" value="{{ $venue.City }}">
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/venue/">{{
+                      $venue.Venue }}</a>
+                  </div>
+                      </td>
             <td>
                 <div>
                     <input type="hidden" name="city" value="{{ $venue.City }}">

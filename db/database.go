@@ -54,9 +54,9 @@ func init() {
 	}
 }
 
-func GetShowsAtVenue(venue string) []Show {
+func GetShowsAtVenue(venue string, city string) []Show {
 	var shows []Show
-	db.Where("venue = ?", venue).Order("date asc").Find(&shows)
+	db.Where("venue = ? AND city = ?", venue, city).Order("date asc").Find(&shows)
 	return shows
 }
 

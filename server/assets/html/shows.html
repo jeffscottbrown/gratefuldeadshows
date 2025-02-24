@@ -39,6 +39,7 @@
       <td>
         <div>
           <input type="hidden" name="venueName" value="{{ $show.Venue }}">
+          <input type="hidden" name="cityName" value="{{ $show.City }}">
           <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/venue/">{{
             $show.Venue }}</a>
         </div>

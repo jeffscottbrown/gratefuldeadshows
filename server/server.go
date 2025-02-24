@@ -58,10 +58,11 @@ func configureApplicationHandlers(router *gin.Engine) {
 	})
 	router.POST("/venue", func(c *gin.Context) {
 		venueName := c.PostForm("venueName")
-		shows := db.GetShowsAtVenue(venueName)
+		cityName := c.PostForm("cityName")
+		shows := db.GetShowsAtVenue(venueName, cityName)
 		c.HTML(http.StatusOK, "shows.html", gin.H{
 			"Shows":   shows,
-			"Message": "All Shows At " + venueName,
+			"Message": "All Shows At " + venueName + " In " + cityName,
 		})
 	})
 	router.POST("/show", func(c *gin.Context) {
