@@ -36,7 +36,7 @@
       <td>
         <div>
           <input type="hidden" name="city" value="{{ $show.City }}">
-            {{ template "itemlink" (dict "attributeName" "venue" "attributeValue" $show.Venue) }}
+          {{ template "itemlink" (dict "attributeName" "venue" "attributeValue" $show.Venue) }}
         </div>
       </td>
       <td>
@@ -46,7 +46,7 @@
       </td>
       <td>
         <div>
-            {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $show.State) }}
+          {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $show.State) }}
         </div>
       </td>
     </tr>
@@ -56,5 +56,6 @@
 
 {{ block "itemlink" .attributeName .attributeValue }}
 <input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
-<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{ .attributeValue }}</a>
+<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
+  .attributeValue }}</a>
 {{ end }}

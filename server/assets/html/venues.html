@@ -1,7 +1,7 @@
 <div class="alert alert-secondary" role="alert">
     Venues
-  </div>
-  
+</div>
+
 
 <table class="table table-striped">
     <thead>
@@ -18,25 +18,26 @@
                 <div>
                     <input type="hidden" name="venue" value="{{ $venue.Venue }}">
                     <input type="hidden" name="city" value="{{ $venue.City }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/venue/">{{
-                      $venue.Venue }}</a>
-                  </div>
-                      </td>
+                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
+                        hx-post="/venue/">{{
+                        $venue.Venue }}</a>
+                </div>
+            </td>
             <td>
                 <div>
                     <input type="hidden" name="city" value="{{ $venue.City }}">
                     <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/city/">
-                      {{ $venue.City }}
+                        {{ $venue.City }}
                     </a>
-                  </div>
-          
+                </div>
+
             </td>
             <td>
                 <div>
                     <input type="hidden" name="state" value="{{ $venue.State }}">
                     <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/state/">
-                      {{ $venue.State }}</a>
-                  </div>
+                        {{ $venue.State }}</a>
+                </div>
             </td>
         </tr>
         {{ end }}

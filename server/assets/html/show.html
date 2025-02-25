@@ -4,17 +4,17 @@
 
 
 {{ range $index, $set := .Show.Sets }}
-    <h2>Set {{ $set.Number }}</h2>
-    <ol>
-        {{ range $index, $song := $set.Songs }}
-            <li>
-                <div>
-                    <input type="hidden" name="songTitle" value="{{ $song.Title }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/song/">{{
-                      $song.Title }}</a>
-                  </div>
+<h2>Set {{ $set.Number }}</h2>
+<ol>
+    {{ range $index, $song := $set.Songs }}
+    <li>
+        <div>
+            <input type="hidden" name="songTitle" value="{{ $song.Title }}">
+            <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/song/">{{
+                $song.Title }}</a>
+        </div>
 
-            </li>
-        {{ end }}
-    </ol>
+    </li>
+    {{ end }}
+</ol>
 {{end}}
