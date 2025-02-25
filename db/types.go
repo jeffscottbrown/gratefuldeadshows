@@ -6,10 +6,12 @@ type Song struct {
 	ID    uint `gorm:"primarykey"`
 	Title string
 }
+
 type Set struct {
 	ID     uint `gorm:"primarykey"`
 	Number int
 	Songs  []Song `gorm:"many2many:set_songs;"`
+	ShowID uint
 }
 type Show struct {
 	ID    uint      `gorm:"primarykey"`
@@ -17,5 +19,5 @@ type Show struct {
 	Venue string
 	City  string
 	State string
-	Sets  []Set `gorm:"many2many:show_sets;"`
+	Sets  []Set `gorm:"foreignKey:ShowID"`
 }
