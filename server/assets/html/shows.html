@@ -54,7 +54,7 @@
   </tbody>
 </table>
 
-{{ block "itemlink" .attributeName .attributeValue }}
+{{ block "itemlink" . }}
 <input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
 <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
   .attributeValue }}</a>
