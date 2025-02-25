@@ -33,7 +33,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"formatDate": formatDate,
 		"dict":       dict,
 	})
-	router.LoadHTMLGlob("server/assets/html/*")
+	router.LoadHTMLGlob("server/html/*")
 	router.GET("/", func(c *gin.Context) {
 		c.HTML(http.StatusOK, "index.html", gin.H{})
 	})
@@ -141,7 +141,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 		c.String(http.StatusOK, getRandomGratefulDeadQuote())
 	})
 
-	router.Static("/static", "server/assets")
+	router.Static("/static", "server/assets/")
 }
 
 func formatDate(t time.Time, layout string) string {
