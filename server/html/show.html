@@ -4,9 +4,9 @@
 
 
 {{ range $index, $set := .Show.Sets }}
-<h2>Set {{ $set.Number }}</h2>
+<h2>Set {{ $set.SetNumber }}</h2>
 <ol>
-    {{ range $index, $song := $set.Songs }}
+    {{ range $index, $song := $set.SongPerformances }}
     <li>
         <div>
             <input type="hidden" name="songTitle" value="{{ $song.Title }}">

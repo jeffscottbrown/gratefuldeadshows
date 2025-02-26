@@ -62,7 +62,7 @@ func GetShowsAtVenue(venue string, city string) []Show {
 
 func GetShow(id int) Show {
 	var show Show
-	db.Preload("Sets.Songs").First(&show, id)
+	db.Preload("Sets.SongPerformances").First(&show, id)
 	return show
 }
 
@@ -84,9 +84,13 @@ func GetShowsInYear(year string) []Show {
 	return shows
 }
 
-func GetSongs(max int, offset int) []Song {
-	var songs []Song
-	db.Order("title").Limit(max).Offset(offset).Find(&songs)
+func GetSongs(max int, offset int) []struct {
+	Title string
+} {
+	var songs []struct {
+		Title string
+	}
+	db.Model(&SongPerformance{}).Distinct("title").Order("title").Limit(max).Offset(offset).Find(&songs)
 	return songs
 }
 
@@ -106,11 +110,10 @@ func GetVenues(max int, offset int) []struct {
 
 func GetShowsWithSong(songTitle string) []Show {
 	var shows []Show
-	db.Joins("JOIN sets ON shows.id = sets.show_id").
-		Joins("JOIN set_songs ON sets.id = set_songs.set_id").
-		Joins("JOIN songs ON set_songs.song_id = songs.id").
-		Where("songs.title = ?", songTitle).
-		Distinct("shows.*").
+	db.Joins("JOIN sets ON sets.show_id = shows.id").
+		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
+		Where("song_performances.title = ?", songTitle).
+		Order("shows.date asc").
 		Find(&shows)
 	return shows
 }
@@ -124,7 +127,7 @@ func PrintStatistics() {
 	db.Model(&Set{}).Count(&count)
 	slog.Info("Sets", slog.Int64("count", count))
 
-	db.Model(&Song{}).Count(&count)
+	db.Model(&SongPerformance{}).Count(&count)
 	slog.Info("Songs", slog.Int64("count", count))
 
 	db.Model(&Show{}).Distinct("venue").Count(&count)

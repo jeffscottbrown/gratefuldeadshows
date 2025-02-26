@@ -2,17 +2,20 @@ package db
 
 import "time"
 
-type Song struct {
-	ID    uint `gorm:"primarykey"`
-	Title string
+type SongPerformance struct {
+	ID         uint `gorm:"primarykey"`
+	SetID      uint
+	Title      string
+	OrderInSet int
 }
 
 type Set struct {
-	ID     uint `gorm:"primarykey"`
-	Number int
-	Songs  []Song `gorm:"many2many:set_songs;"`
-	ShowID uint
+	ID               uint `gorm:"primarykey"`
+	ShowID           uint
+	SetNumber        int
+	SongPerformances []SongPerformance `gorm:"foreignKey:SetID"`
 }
+
 type Show struct {
 	ID    uint      `gorm:"primarykey"`
 	Date  time.Time `gorm:"type:date"`

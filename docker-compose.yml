@@ -1,6 +1,6 @@
 services:
   gratefulwebapp:
-    image: jeffscottbrown/gratefulweb:0.3.1
+    image: jeffscottbrown/gratefulweb:0.4.0
     # build:
     #   context: .
     #   dockerfile: Dockerfile
@@ -14,7 +14,7 @@ services:
     ports:
       - "8080:8080"
   gratefuldata:
-    image: jeffscottbrown/gratefulpostgres:0.3.1
+    image: jeffscottbrown/gratefulpostgres:0.4.0
     environment:
       POSTGRES_PASSWORD: bosco
       POSTGRES_DB: shows
