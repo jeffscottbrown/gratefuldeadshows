@@ -35,8 +35,8 @@
       </td>
       <td>
         <div>
-          <input type="hidden" name="city" value="{{ $show.City }}">
-          {{ template "itemlink" (dict "attributeName" "venue" "attributeValue" $show.Venue) }}
+          {{ $hiddenFormFields := dict "city" $show.City }}
+          {{ template "itemlink" (dict "hiddenFormFields" $hiddenFormFields "attributeName" "venue" "attributeValue" $show.Venue) }}
         </div>
       </td>
       <td>
@@ -53,9 +53,3 @@
     {{ end }}
   </tbody>
 </table>
-
-{{ block "itemlink" . }}
-<input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
-<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
-  .attributeValue }}</a>
-{{ end }}

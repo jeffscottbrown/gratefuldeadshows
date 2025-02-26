@@ -16,34 +16,26 @@
         <tr>
             <td>
                 <div>
-                    <input type="hidden" name="venue" value="{{ $venue.Venue }}">
-                    <input type="hidden" name="city" value="{{ $venue.City }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-                        hx-post="/venue/">{{
-                        $venue.Venue }}</a>
+                    {{ $hiddenFormFields := dict "city" $venue.City }}
+                    {{ template "itemlink" (dict "hiddenFormFields" $hiddenFormFields "attributeName" "venue"
+                    "attributeValue" $venue.Venue) }}
                 </div>
             </td>
             <td>
                 <div>
-                    <input type="hidden" name="city" value="{{ $venue.City }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/city/">
-                        {{ $venue.City }}
-                    </a>
+                    {{ template "itemlink" (dict "attributeName" "city" "attributeValue" $venue.City) }}
                 </div>
 
             </td>
             <td>
                 <div>
-                    <input type="hidden" name="state" value="{{ $venue.State }}">
-                    <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/state/">
-                        {{ $venue.State }}</a>
+                    {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $venue.State) }}
                 </div>
             </td>
         </tr>
         {{ end }}
     </tbody>
 </table>
-
 
 <nav aria-label="Show Navigation">
     <ul class="pagination">

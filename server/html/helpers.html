@@ -1,0 +1,11 @@
+
+{{ block "itemlink" . }}
+{{ if .hiddenFormFields }}
+{{ range $key, $value := .hiddenFormFields }}
+<input type="hidden" name="{{ $key }}" value="{{ $value }}">
+{{ end }}
+{{ end }}
+<input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
+<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
+  .attributeValue }}</a>
+{{ end }}
