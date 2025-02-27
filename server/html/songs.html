@@ -2,29 +2,12 @@
     Songs
 </div>
 
-
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th scope="col">Song Title</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{ range $_, $song := .Songs }}
-        <tr>
-            <td>
-                <div>
-                    
-                    <input type="hidden" name="song" value="{{ $song.Title }}">
-                    <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-                        hx-post="/song">{{
-                        $song.Title }}</a>
-                </div>
-
-            </td>
-        </tr>
-        {{ end }}
-    </tbody>
-</table>
-
+<div class="mb-3">
+    <input type="text" class="form-control" id="songTitle" name="songTitle" placeholder="Search for a song title" 
+           hx-post="/search" hx-swap="innerHTML" hx-target="#songTable" hx-trigger="keyup[this.value.length > 2] changed delay:500ms">
+</div>
+<div id="songTable">
+{{ template "songTable" . }}
 {{ template "pagination" dict "Fields" .Pagination.Fields "Uri" .Pagination.Uri "PreviousOffset" .Pagination.PreviousOffset "NextOffset" .Pagination.NextOffset "NavLabel" "Song Pagination"}}
+</div>
+

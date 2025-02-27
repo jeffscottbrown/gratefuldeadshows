@@ -160,6 +160,14 @@ func renderCountry(c *gin.Context) {
 	})
 }
 
+func renderSongSearchResults(ctx *gin.Context) {
+	query := ctx.PostForm("songTitle")
+	songs := db.SongSearch(query)
+	ctx.HTML(http.StatusOK, "songTable", gin.H{
+		"Songs": songs,
+	})
+}
+
 func getRandomGratefulDeadQuote() string {
 	return quotes[rand.Intn(len(quotes))]
 }

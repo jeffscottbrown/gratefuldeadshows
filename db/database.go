@@ -108,6 +108,12 @@ func GetShowsInYear(year string, max int, offset int) []Show {
 	return shows
 }
 
+func SongSearch(query string) []Song {
+	var songs []Song
+	db.Where("title ILIKE ?", "%"+query+"%").Find(&songs)
+	return songs
+}
+
 func GetSongs(max int, offset int) []struct {
 	Title string
 } {

@@ -42,12 +42,14 @@ func configureApplicationHandlers(router *gin.Engine) {
 	router.POST("/state", renderState)
 	router.POST("/country", renderCountry)
 	router.POST("/year", renderYear)
+	router.POST("/search", renderSongSearchResults)
+
 	router.GET("/quote", renderQuote)
 
 	redir := func(c *gin.Context) {
 		c.Redirect(http.StatusMovedPermanently, "/")
 	}
-	for _, route := range []string{"/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
+	for _, route := range []string{"/search", "/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
 		router.GET(route, redir)
 	}
 
