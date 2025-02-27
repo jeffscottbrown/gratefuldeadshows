@@ -14,9 +14,10 @@
         <tr>
             <td>
                 <div>
+                    
                     <input type="hidden" name="songTitle" value="{{ $song.Title }}">
                     <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-                        hx-post="/song/">{{
+                        hx-post="/song">{{
                         $song.Title }}</a>
                 </div>
 
@@ -26,12 +27,4 @@
     </tbody>
 </table>
 
-
-<nav aria-label="Show Navigation">
-    <ul class="pagination">
-        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/songs"
-                hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
-        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/songs"
-                hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
-    </ul>
-</nav>
+{{ template "pagination" dict "Fields" .Pagination.Fields "Uri" .Pagination.Uri "PreviousOffset" .Pagination.PreviousOffset "NextOffset" .Pagination.NextOffset "NavLabel" "Song Pagination"}}

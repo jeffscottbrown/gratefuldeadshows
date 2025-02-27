@@ -13,7 +13,7 @@ import (
 
 var db *gorm.DB
 
-func init() {
+func LoadData() {
 
 	dbUser := os.Getenv("DB_USER")
 	dbPassword := os.Getenv("DB_PASSWORD")
@@ -52,35 +52,59 @@ func init() {
 	if err != nil {
 		log.Fatal(err)
 	}
+
 }
 
-func GetShowsAtVenue(venue string, city string) []Show {
+func PrintStatistics() {
+	var count int64
+
+	db.Model(&Show{}).Count(&count)
+	slog.Info("Shows", slog.Int64("count", count))
+
+	db.Model(&Set{}).Count(&count)
+	slog.Info("Sets", slog.Int64("count", count))
+
+	db.Model(&SongPerformance{}).Count(&count)
+	slog.Info("Songs", slog.Int64("count", count))
+
+	db.Model(&Show{}).Distinct("venue").Count(&count)
+	slog.Info("Venues", slog.Int64("count", count))
+}
+
+func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...string) []Show {
+
 	var shows []Show
-	db.Where("venue = ? AND city = ?", venue, city).Order("date asc").Find(&shows)
+	db.Where("venue = ? AND city = ?", venue, city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	return shows
+}
+
+func GetShowsInCountry(country string, max int, offset int) []Show {
+	var shows []Show
+	db.Where("country = ?", country).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	return shows
 }
 
 func GetShow(id int) Show {
 	var show Show
-	db.Preload("Sets.SongPerformances").First(&show, id)
+	db.Preload("Sets.SongPerformances.Song").First(&show, id)
 	return show
 }
 
-func GetShowsInState(state string) []Show {
+func GetShowsInState(state string, max int, offset int) []Show {
 	var shows []Show
-	db.Where("state = ?", state).Order("date asc").Find(&shows)
+	db.Where("state = ?", state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	return shows
 }
 
-func GetShowsInCity(city string) []Show {
+func GetShowsInCity(city string, max int, offset int) []Show {
 	var shows []Show
-	db.Where("city = ?", city).Order("date asc").Find(&shows)
+	db.Where("city = ?", city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	return shows
 }
 
-func GetShowsInYear(year string) []Show {
+func GetShowsInYear(year string, max int, offset int) []Show {
 	var shows []Show
-	db.Where("EXTRACT(YEAR FROM date) = ?", year).Order("date asc").Find(&shows)
+	db.Where("EXTRACT(YEAR FROM date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	return shows
 }
 
@@ -90,7 +114,7 @@ func GetSongs(max int, offset int) []struct {
 	var songs []struct {
 		Title string
 	}
-	db.Model(&SongPerformance{}).Distinct("title").Order("title").Limit(max).Offset(offset).Find(&songs)
+	db.Model(&Song{}).Distinct("title").Order("title").Limit(max).Offset(offset).Find(&songs)
 	return songs
 }
 
@@ -108,28 +132,16 @@ func GetVenues(max int, offset int) []struct {
 	return venues
 }
 
-func GetShowsWithSong(songTitle string) []Show {
+func GetShowsWithSong(songTitle string, max int, offset int) []Show {
 	var shows []Show
+
 	db.Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
-		Where("song_performances.title = ?", songTitle).
-		Order("shows.date asc").
+		Joins("JOIN songs ON songs.id = song_performances.song_id").
+		Where("songs.title = ?", songTitle).
+		Limit(max).
+		Offset(offset).
+		Preload("Sets.SongPerformances.Song").
 		Find(&shows)
 	return shows
-}
-
-func PrintStatistics() {
-	var count int64
-
-	db.Model(&Show{}).Count(&count)
-	slog.Info("Shows", slog.Int64("count", count))
-
-	db.Model(&Set{}).Count(&count)
-	slog.Info("Sets", slog.Int64("count", count))
-
-	db.Model(&SongPerformance{}).Count(&count)
-	slog.Info("Songs", slog.Int64("count", count))
-
-	db.Model(&Show{}).Distinct("venue").Count(&count)
-	slog.Info("Venues", slog.Int64("count", count))
 }

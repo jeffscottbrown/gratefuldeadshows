@@ -2,11 +2,17 @@ package db
 
 import "time"
 
+type Song struct {
+	ID    uint `gorm:"primarykey"`
+	Title string
+}
+
 type SongPerformance struct {
 	ID         uint `gorm:"primarykey"`
 	SetID      uint
-	Title      string
 	OrderInSet int
+	SongID     uint
+	Song       Song `gorm:"foreignKey:SongID"`
 }
 
 type Set struct {
@@ -17,10 +23,11 @@ type Set struct {
 }
 
 type Show struct {
-	ID    uint      `gorm:"primarykey"`
-	Date  time.Time `gorm:"type:date"`
-	Venue string
-	City  string
-	State string
-	Sets  []Set `gorm:"foreignKey:ShowID"`
+	ID      uint      `gorm:"primarykey"`
+	Date    time.Time `gorm:"type:date"`
+	Venue   string
+	City    string
+	State   string
+	Country string
+	Sets    []Set `gorm:"foreignKey:ShowID"`
 }

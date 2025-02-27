@@ -1,4 +1,3 @@
-
 {{ block "itemlink" . }}
 {{ if .hiddenFormFields }}
 {{ range $key, $value := .hiddenFormFields }}
@@ -8,4 +7,23 @@
 <input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
 <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
   .attributeValue }}</a>
+
+{{ end }}
+
+{{ block "pagination" . }}
+<nav aria-label={{ .NavLabel }}>
+  <ul class="pagination">
+    <div>
+      {{ if .Fields }}
+        {{ range $key, $value := .Fields }}
+          <input type="hidden" name="{{ $key }}" value="{{ $value }}">
+        {{ end }}
+      {{ end }}
+      <li hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
+          hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
+      <li hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
+          hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
+    </div>
+  </ul>
+</nav>
 {{ end }}

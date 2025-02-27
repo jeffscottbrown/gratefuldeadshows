@@ -14,6 +14,7 @@
       <th scope="col">Venue</th>
       <th scope="col">City</th>
       <th scope="col">State</th>
+      <th scope="col">Country</th>
     </tr>
   </thead>
   <tbody>
@@ -25,6 +26,7 @@
           <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/show/">
             {{ formatDate $show.Date "January 2" }}
           </a>
+
         </div>
       <td>
         <div>
@@ -49,7 +51,16 @@
           {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $show.State) }}
         </div>
       </td>
+      <td>
+        <div>
+          {{ template "itemlink" (dict "attributeName" "country" "attributeValue" $show.Country) }}
+        </div>
+      </td>
     </tr>
     {{ end }}
   </tbody>
 </table>
+
+{{ template "pagination" dict "Fields" .Pagination.Fields "Uri" .Pagination.Uri "PreviousOffset" .Pagination.PreviousOffset "NextOffset" .Pagination.NextOffset "NavLabel" "Show Pagination"}}
+
+

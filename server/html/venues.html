@@ -37,11 +37,4 @@
     </tbody>
 </table>
 
-<nav aria-label="Show Navigation">
-    <ul class="pagination">
-        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/venues"
-                hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
-        <li class="page-item"><a class="page-link" hx-target="#main" hx-get="/venues"
-                hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
-    </ul>
-</nav>
+{{ template "pagination" dict "Fields" .Pagination.Fields "Uri" .Pagination.Uri "PreviousOffset" .Pagination.PreviousOffset "NextOffset" .Pagination.NextOffset "NavLabel" "Venue Pagination"}}

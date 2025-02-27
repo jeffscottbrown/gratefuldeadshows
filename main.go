@@ -15,6 +15,7 @@ func main() {
 		slog.Debug("Failed to load .env file", "error", err)
 	}
 
+	db.LoadData()
 	db.PrintStatistics()
 	server.Run()
 }
