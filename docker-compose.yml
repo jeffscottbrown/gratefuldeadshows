@@ -10,7 +10,8 @@ services:
       - DB_NAME=shows
       - DB_USER=postgres
     depends_on:
-      - gratefuldata
+      gratefuldata:
+        condition: service_healthy
     ports:
       - "8080:8080"
   gratefuldata:
@@ -20,3 +21,8 @@ services:
       POSTGRES_DB: shows
     ports:
       - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 3s
+      retries: 6
+      timeout: 2s
