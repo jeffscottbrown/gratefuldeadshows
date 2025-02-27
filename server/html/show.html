@@ -10,7 +10,7 @@
     <li>
         <div>
             <input type="hidden" name="song" value="{{ $song.Song.Title }}">
-            <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/song/">{{
+            <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/song/">{{
                 $song.Song.Title }}</a>
         </div>
 

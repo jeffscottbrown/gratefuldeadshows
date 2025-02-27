@@ -23,7 +23,7 @@
       <td>
         <div>
           <input type="hidden" name="id" value="{{ $show.ID }}">
-          <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/show/">
+          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/show/">
             {{ formatDate $show.Date "January 2" }}
           </a>
 

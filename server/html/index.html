@@ -114,9 +114,9 @@
                     </select>
                 </li>
 
-                <li class="nav-item active"><a hx-post="/songs" hx-target="#main" class="nav-link active"
+                <li class="nav-item active"><a hx-post="/songs" hx-target="#main" hx-push-url="true" class="nav-link active"
                         aria-current="page">Songs</a></li>
-                <li class="nav-item active"><a hx-post="/venues" hx-target="#main" class="nav-link active"
+                <li class="nav-item active"><a hx-post="/venues" hx-target="#main" hx-push-url="true" class="nav-link active"
                         aria-current="page">Venues</a></li>
             </ul>
         </header>
@@ -126,7 +126,7 @@
         </main>
     </div>
     <footer class="footer mt-auto py-3 bg-light">
-        <div class="container" id="live-data" hx-get="/quote" hx-trigger="every 8s" hx-swap="innerHTML">
+        <div hx-push-url="true" class="container" id="live-data" hx-get="/quote" hx-trigger="every 8s" hx-swap="innerHTML">
             Grateful Data, At Your Pleasure
         </div>
     </footer>

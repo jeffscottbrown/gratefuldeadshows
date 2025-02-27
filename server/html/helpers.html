@@ -5,7 +5,7 @@
 {{ end }}
 {{ end }}
 <input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
-<a style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
+<a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/{{ .attributeName  }}/">{{
   .attributeValue }}</a>
 
 {{ end }}
@@ -19,9 +19,9 @@
           <input type="hidden" name="{{ $key }}" value="{{ $value }}">
         {{ end }}
       {{ end }}
-      <li hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
+      <li hx-push-url="true" hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
           hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
-      <li hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
+      <li hx-push-url="true" hx-include="closest div"  class="page-item"><a class="page-link" hx-target="#main" hx-post={{ .Uri }}
           hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
     </div>
   </ul>
