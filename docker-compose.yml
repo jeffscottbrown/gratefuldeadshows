@@ -15,7 +15,7 @@ services:
     ports:
       - "8080:8080"
   gratefuldata:
-    image: jeffscottbrown/gratefulpostgres:0.4.4
+    image: jeffscottbrown/gratefulpostgres:0.4.5
     environment:
       POSTGRES_PASSWORD: bosco
       POSTGRES_DB: shows
