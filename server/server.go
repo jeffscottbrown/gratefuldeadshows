@@ -44,6 +44,13 @@ func configureApplicationHandlers(router *gin.Engine) {
 	router.POST("/year", renderYear)
 	router.GET("/quote", renderQuote)
 
+	redir := func(c *gin.Context) {
+		c.Redirect(http.StatusMovedPermanently, "/")
+	}
+	for _, route := range []string{"/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
+		router.GET(route, redir)
+	}
+
 	router.Static("/static", "server/assets/")
 }
 
