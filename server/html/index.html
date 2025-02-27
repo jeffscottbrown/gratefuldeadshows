@@ -20,7 +20,24 @@
             <ul class="nav nav-item">
 
                 <li class="nav-item active">
-
+                    <select hx-push-url="true" hx-on::after-request="this.value = '';" hx-trigger="change" id="country" name="country"
+                        class="form-select" hx-post="/country" hx-target="#main">
+                        <option value="">Choose Country...</option>
+                        <option value="NL">Netherlands</option>
+                        <option value="CA">Canada</option>
+                        <option value="SE">Sweden</option>
+                        <option value="EG">Egypt</option>
+                        <option value="DK">Denmark</option>
+                        <option value="UK">United Kingdom</option>
+                        <option value="ES">Spain</option>
+                        <option value="US">United States</option>
+                        <option value="JM">Jamaica</option>
+                        <option value="FR">France</option>
+                        <option value="DE">Germany</option>
+                        <option value="LU">Luxembourg</option>
+                    </select>
+                </li>
+                <li class="nav-item active">
                     <select hx-push-url="true" hx-on::after-request="this.value = '';" hx-trigger="change" id="yearSelect" name="year"
                         class="form-select" hx-post="/year" hx-target="#main">
                         <option value="">Choose Year...</option>
