@@ -129,7 +129,7 @@ func renderState(c *gin.Context) {
 func renderShowsWithSong(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	song := c.PostForm("songTitle")
+	song := c.PostForm("song")
 	shows := db.GetShowsWithSong(song, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{

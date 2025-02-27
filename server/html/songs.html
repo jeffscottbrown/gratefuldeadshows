@@ -15,7 +15,7 @@
             <td>
                 <div>
                     
-                    <input type="hidden" name="songTitle" value="{{ $song.Title }}">
+                    <input type="hidden" name="song" value="{{ $song.Title }}">
                     <a style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
                         hx-post="/song">{{
                         $song.Title }}</a>
