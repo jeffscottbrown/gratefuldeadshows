@@ -58,30 +58,56 @@ func LoadData() {
 func PrintStatistics() {
 	var count int64
 
+	db.Model(&Show{}).Distinct("venue").Scan(&count)
+	slog.Info("Venue", slog.Int64("count", count))
+
 	db.Model(&Show{}).Count(&count)
-	slog.Info("Shows", slog.Int64("count", count))
+	slog.Info("Show", slog.Int64("count", count))
 
 	db.Model(&Set{}).Count(&count)
-	slog.Info("Sets", slog.Int64("count", count))
+	slog.Info("Set", slog.Int64("count", count))
+
+	db.Model(&Song{}).Count(&count)
+	slog.Info("Song", slog.Int64("count", count))
 
 	db.Model(&SongPerformance{}).Count(&count)
-	slog.Info("Songs", slog.Int64("count", count))
-
-	db.Model(&Show{}).Distinct("venue").Count(&count)
-	slog.Info("Venues", slog.Int64("count", count))
+	slog.Info("Song Performance", slog.Int64("count", count))
 }
 
-func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...string) []Show {
+func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...string) struct {
+	Shows      []Show
+	TotalCount int
+} {
 
 	var shows []Show
 	db.Where("venue = ? AND city = ?", venue, city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	return shows
+	var totalCount int64
+	db.Model(&Show{}).Where("venue = ? AND city = ?", venue, city).Count(&totalCount)
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }
 
-func GetShowsInCountry(country string, max int, offset int) []Show {
+func GetShowsInCountry(country string, max int, offset int) struct {
+	Shows      []Show
+	TotalCount int
+} {
 	var shows []Show
 	db.Where("country = ?", country).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	return shows
+
+	var totalCount int64
+	db.Model(&Show{}).Where("country = ?", country).Count(&totalCount)
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }
 
 func GetShow(id int) Show {
@@ -90,22 +116,55 @@ func GetShow(id int) Show {
 	return show
 }
 
-func GetShowsInState(state string, max int, offset int) []Show {
+func GetShowsInState(state string, max int, offset int) struct {
+	Shows      []Show
+	TotalCount int
+} {
 	var shows []Show
 	db.Where("state = ?", state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	return shows
+	var totalCount int64
+	db.Model(&Show{}).Where("state = ?", state).Count(&totalCount)
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }
 
-func GetShowsInCity(city string, max int, offset int) []Show {
+func GetShowsInCity(city string, max int, offset int) struct {
+	Shows      []Show
+	TotalCount int
+} {
 	var shows []Show
 	db.Where("city = ?", city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	return shows
+	var totalCount int64
+	db.Model(&Show{}).Where("city = ?", city).Count(&totalCount)
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }
 
-func GetShowsInYear(year string, max int, offset int) []Show {
+func GetShowsInYear(year string, max int, offset int) struct {
+	Shows      []Show
+	TotalCount int
+} {
 	var shows []Show
 	db.Where("EXTRACT(YEAR FROM date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	return shows
+	var totalCount int64
+	db.Model(&Show{}).Where("EXTRACT(YEAR FROM date) = ?", year).Count(&totalCount)
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }
 
 func SongSearch(query string) []Song {
@@ -114,20 +173,36 @@ func SongSearch(query string) []Song {
 	return songs
 }
 
-func GetSongs(max int, offset int) []struct {
-	Title string
+func GetSongs(max int, offset int) struct {
+	Songs []struct {
+		Title string
+	}
+	TotalCount int
 } {
 	var songs []struct {
 		Title string
 	}
 	db.Model(&Song{}).Distinct("title").Order("title").Limit(max).Offset(offset).Find(&songs)
-	return songs
+	var totalCount int64
+	db.Model(&Song{}).Select("COUNT(DISTINCT(title))").Scan(&totalCount)
+	return struct {
+		Songs []struct {
+			Title string
+		}
+		TotalCount int
+	}{
+		Songs:      songs,
+		TotalCount: int(totalCount),
+	}
 }
 
-func GetVenues(max int, offset int) []struct {
-	City  string
-	State string
-	Venue string
+func GetVenues(max int, offset int) struct {
+	Venues []struct {
+		City  string
+		State string
+		Venue string
+	}
+	TotalCount int
 } {
 	var venues []struct {
 		City  string
@@ -135,10 +210,26 @@ func GetVenues(max int, offset int) []struct {
 		Venue string
 	}
 	db.Model(&Show{}).Distinct("city", "state", "venue").Order("venue").Limit(max).Offset(offset).Find(&venues)
-	return venues
+	var totalCount int64
+	db.Model(&Show{}).Select("COUNT(DISTINCT(city, state, venue))").Scan(&totalCount)
+	fmt.Printf("Total count: %d\n", totalCount)
+	return struct {
+		Venues []struct {
+			City  string
+			State string
+			Venue string
+		}
+		TotalCount int
+	}{
+		Venues:     venues,
+		TotalCount: int(totalCount),
+	}
 }
 
-func GetShowsWithSong(songTitle string, max int, offset int) []Show {
+func GetShowsWithSong(songTitle string, max int, offset int) struct {
+	Shows      []Show
+	TotalCount int
+} {
 	var shows []Show
 
 	db.Joins("JOIN sets ON sets.show_id = shows.id").
@@ -149,5 +240,20 @@ func GetShowsWithSong(songTitle string, max int, offset int) []Show {
 		Offset(offset).
 		Preload("Sets.SongPerformances.Song").
 		Find(&shows)
-	return shows
+
+	var totalCount int64
+	db.Model(&Show{}).
+		Joins("JOIN sets ON sets.show_id = shows.id").
+		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
+		Joins("JOIN songs ON songs.id = song_performances.song_id").
+		Where("songs.title = ?", songTitle).
+		Count(&totalCount)
+
+	return struct {
+		Shows      []Show
+		TotalCount int
+	}{
+		Shows:      shows,
+		TotalCount: int(totalCount),
+	}
 }

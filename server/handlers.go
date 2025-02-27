@@ -36,22 +36,22 @@ func renderRoot(c *gin.Context) {
 func renderSongs(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	songs := db.GetSongs(pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetSongs(pagingInfo.Max, pagingInfo.Offset)
 
 	c.HTML(http.StatusOK, "songs.html", gin.H{
-		"Songs":      songs,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/songs", nil),
+		"Songs":      results.Songs,
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/songs", nil),
 	})
 }
 
 func renderVenues(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	venues := db.GetVenues(pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetVenues(pagingInfo.Max, pagingInfo.Offset)
 
 	c.HTML(http.StatusOK, "venues.html", gin.H{
-		"Venues":     venues,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/venues", nil),
+		"Venues":     results.Venues,
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/venues", nil),
 	})
 }
 
@@ -60,7 +60,7 @@ func renderVenue(c *gin.Context) {
 
 	venue := c.PostForm("venue")
 	city := c.PostForm("city")
-	shows := db.GetShowsAtVenue(venue, city, pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetShowsAtVenue(venue, city, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"venue": venue,
@@ -68,9 +68,9 @@ func renderVenue(c *gin.Context) {
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      results.Shows,
 		"Message":    "All Shows At " + venue + " In " + city,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/venue", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/venue", data),
 	})
 }
 
@@ -78,16 +78,16 @@ func renderCity(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
 	city := c.PostForm("city")
-	shows := db.GetShowsInCity(city, pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetShowsInCity(city, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"city": city,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      results.Shows,
 		"Message":    "All Shows In " + city,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/city", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/city", data),
 	})
 }
 
@@ -96,16 +96,16 @@ func renderYear(c *gin.Context) {
 
 	year := c.PostForm("year")
 
-	shows := db.GetShowsInYear(year, pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetShowsInYear(year, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"year": year,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      results.Shows,
 		"Message":    "All Shows From " + year,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/year", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/year", data),
 	})
 }
 
@@ -113,16 +113,16 @@ func renderState(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
 	state := c.PostForm("state")
-	shows := db.GetShowsInState(state, pagingInfo.Max, pagingInfo.Offset)
+	results := db.GetShowsInState(state, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"state": state,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      results.Shows,
 		"Message":    "All Shows In " + state,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/state", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/state", data),
 	})
 }
 
@@ -130,33 +130,33 @@ func renderShowsWithSong(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
 	song := c.PostForm("song")
-	shows := db.GetShowsWithSong(song, pagingInfo.Max, pagingInfo.Offset)
+	result := db.GetShowsWithSong(song, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"song": song,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      result.Shows,
 		"Message":    "Shows When The Band Played " + song,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/song", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, result.TotalCount, "/song", data),
 	})
 }
 
 func renderCountry(c *gin.Context) {
-	pagingInfo := createOffsetAndMaxForPagination(c)
 
 	country := c.PostForm("country")
-	shows := db.GetShowsInCountry(country, pagingInfo.Max, pagingInfo.Offset)
+	pagingInfo := createOffsetAndMaxForPagination(c)
+	results := db.GetShowsInCountry(country, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"country": country,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      shows,
+		"Shows":      results.Shows,
 		"Message":    "All Shows In " + country,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, "/country", data),
+		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/country", data),
 	})
 }
 
