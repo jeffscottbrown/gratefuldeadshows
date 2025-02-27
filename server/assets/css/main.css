@@ -25,3 +25,7 @@ a[hx-delete]:hover {
     /* text-decoration: underline; */
     cursor: pointer;
 }
+
+.pagination .page-item {
+    display: inline-block;
+}
