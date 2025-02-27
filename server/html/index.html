@@ -20,6 +20,7 @@
             <ul class="nav nav-item">
 
                 <li class="nav-item active">
+
                     <select hx-push-url="true" hx-on::after-request="this.value = '';" hx-trigger="change" id="yearSelect" name="year"
                         class="form-select" hx-post="/year" hx-target="#main">
                         <option value="">Choose Year...</option>
@@ -126,7 +127,7 @@
         </main>
     </div>
     <footer class="footer mt-auto py-3 bg-light">
-        <div hx-push-url="true" class="container" id="live-data" hx-get="/quote" hx-trigger="every 8s" hx-swap="innerHTML">
+        <div class="container" id="live-data" hx-get="/quote" hx-trigger="every 8s" hx-swap="innerHTML">
             Grateful Data, At Your Pleasure
         </div>
     </footer>
