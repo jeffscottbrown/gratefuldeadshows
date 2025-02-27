@@ -20,7 +20,7 @@
             <ul class="nav nav-item">
 
                 <li class="nav-item active">
-                    <select hx-on::after-request="this.value = '';" hx-trigger="change" id="yearSelect" name="year"
+                    <select hx-push-url="true" hx-on::after-request="this.value = '';" hx-trigger="change" id="yearSelect" name="year"
                         class="form-select" hx-post="/year" hx-target="#main">
                         <option value="">Choose Year...</option>
                         <option value="1965">1965</option>
@@ -58,7 +58,7 @@
                 </li>
                 <li class="nav-item active">
 
-                    <select hx-on::after-request="this.value = '';" hx-trigger="change" id="stateSelect" name="state"
+                    <select hx-push-url="true" hx-on::after-request="this.value = '';" hx-trigger="change" id="stateSelect" name="state"
                         class="form-select" hx-post="/state" hx-target="#main">
                         <option value="">Choose State...</option>
                         <option value="AL">Alabama</option>
