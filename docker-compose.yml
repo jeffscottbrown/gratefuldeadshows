@@ -1,6 +1,6 @@
 services:
   gratefulwebapp:
-    image: jeffscottbrown/gratefulweb:0.4.5
+    image: jeffscottbrown/gratefulweb:0.4.6
     # build:
     #   context: .
     #   dockerfile: Dockerfile
