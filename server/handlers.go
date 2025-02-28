@@ -91,6 +91,12 @@ func renderCity(c *gin.Context) {
 	})
 }
 
+func renderNumbers(c *gin.Context) {
+	c.HTML(http.StatusOK, "numbers.html", gin.H{
+		"GratefulDeadHistory": db.History,
+	})
+}
+
 func renderYear(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 

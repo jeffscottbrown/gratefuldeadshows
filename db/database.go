@@ -3,7 +3,6 @@ package db
 import (
 	"fmt"
 	"log"
-	"log/slog"
 	"os"
 	"time"
 
@@ -13,7 +12,9 @@ import (
 
 var db *gorm.DB
 
-func LoadData() {
+var History GratefulDeadHistory
+
+func init() {
 
 	dbUser := os.Getenv("DB_USER")
 	dbPassword := os.Getenv("DB_PASSWORD")
@@ -52,26 +53,28 @@ func LoadData() {
 	if err != nil {
 		log.Fatal(err)
 	}
-
-}
-
-func PrintStatistics() {
 	var count int64
 
 	db.Model(&Show{}).Distinct("venue").Count(&count)
-	slog.Info("Venue", slog.Int64("count", count))
+	History.NumberOfVenues = int(count)
+
+	db.Model(&Show{}).Distinct("city").Count(&count)
+	History.NumberOfCities = int(count)
+
+	db.Model(&Show{}).Distinct("country").Count(&count)
+	History.NumberOfCountries = int(count)
 
 	db.Model(&Show{}).Count(&count)
-	slog.Info("Show", slog.Int64("count", count))
+	History.NumberOfShows = int(count)
 
 	db.Model(&Set{}).Count(&count)
-	slog.Info("Set", slog.Int64("count", count))
+	History.NumberOfSets = int(count)
 
 	db.Model(&Song{}).Count(&count)
-	slog.Info("Song", slog.Int64("count", count))
+	History.NumberOfDistinctSongs = int(count)
 
 	db.Model(&SongPerformance{}).Count(&count)
-	slog.Info("Song Performance", slog.Int64("count", count))
+	History.NumberOfSongPerformances = int(count)
 }
 
 func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...string) struct {

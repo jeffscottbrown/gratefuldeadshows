@@ -3,7 +3,6 @@ package main
 import (
 	"log/slog"
 
-	"github.com/jeffscottbrown/gratefulweb/db"
 	"github.com/jeffscottbrown/gratefulweb/server"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
@@ -15,7 +14,5 @@ func main() {
 		slog.Debug("Failed to load .env file", "error", err)
 	}
 
-	db.LoadData()
-	db.PrintStatistics()
 	server.Run()
 }

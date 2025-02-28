@@ -31,3 +31,13 @@ type Show struct {
 	Country string
 	Sets    []Set `gorm:"foreignKey:ShowID"`
 }
+
+type GratefulDeadHistory struct {
+	NumberOfShows            int
+	NumberOfSets             int
+	NumberOfDistinctSongs    int
+	NumberOfSongPerformances int
+	NumberOfVenues           int
+	NumberOfCities           int
+	NumberOfCountries        int
+}

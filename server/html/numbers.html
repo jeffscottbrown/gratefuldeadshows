@@ -1,0 +1,37 @@
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header">
+            <h4 class="mb-0">Concert History Numbers</h4>
+        </div>
+        <div class="card-body">
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Shows:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfShows }}</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Sets:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfSets }}</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Distinct Songs:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfDistinctSongs }}</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Song Performances:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfSongPerformances }}</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Venues:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfVenues }}</div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4 fw-bold">Number Of Cities:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfCities }}</div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 fw-bold">Number Of Countries:</div>
+                <div class="col-md-8">{{ .GratefulDeadHistory.NumberOfCountries }}</div>
+            </div>
+        </div>
+    </div>
+</div>
