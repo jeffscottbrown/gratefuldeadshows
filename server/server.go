@@ -50,7 +50,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 	redir := func(c *gin.Context) {
 		c.Redirect(http.StatusMovedPermanently, "/")
 	}
-	for _, route := range []string{"/search", "/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
+	for _, route := range []string{"/numbers", "/search", "/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
 		router.GET(route, redir)
 	}
 
