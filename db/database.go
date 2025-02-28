@@ -58,7 +58,7 @@ func LoadData() {
 func PrintStatistics() {
 	var count int64
 
-	db.Model(&Show{}).Distinct("venue").Scan(&count)
+	db.Model(&Show{}).Distinct("venue").Count(&count)
 	slog.Info("Venue", slog.Int64("count", count))
 
 	db.Model(&Show{}).Count(&count)
