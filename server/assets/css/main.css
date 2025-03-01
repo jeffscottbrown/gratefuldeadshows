@@ -29,3 +29,7 @@ a[hx-delete]:hover {
 .pagination .page-item {
     display: inline-block;
 }
+
+ .card-body .row {
+    background-color: #f8f9fa; 
+}
