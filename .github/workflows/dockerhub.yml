@@ -30,3 +30,11 @@ jobs:
           push: true
           platforms: linux/amd64,linux/arm64
           tags: ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest,${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:${{env.DOCKER_IMAGE_VERSION}}
+      - name: Configure gcloud CLI
+        uses: google-github-actions/setup-gcloud@v1
+        with:
+          project_id: gratefuldata
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Deploy to Cloud Run
+        run: gcloud run deploy gratefuldata --image ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:${{env.DOCKER_IMAGE_VERSION}} --platform managed --region us-central1 --allow-unauthenticated
