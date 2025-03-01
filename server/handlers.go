@@ -199,4 +199,8 @@ var quotes = []string{
 	"Reach out your hand if your cup be empty.",
 	"Let there be songs to fill the air.",
 	"Once in a while you get shown the light in the strangest of places if you look at it right.",
+	"What a long, strange trip it's been.",
+	"Sugar magnolia, blossoms blooming, heads all empty and I don't care.",
+	"Sometimes the songs that we hear are just songs of our own.",
+	"But the heat came round and busted me for smiling on a cloudy day.",
 }
