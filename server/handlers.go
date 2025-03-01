@@ -71,7 +71,7 @@ func renderVenue(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "All Shows At " + venue + " In " + city,
+		"Message":    "Shows At " + venue + " In " + city,
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venue", data),
 	})
 }
@@ -88,7 +88,7 @@ func renderCity(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "All Shows In " + city,
+		"Message":    "Shows In " + city,
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/city", data),
 	})
 }
@@ -112,7 +112,7 @@ func renderYear(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "All Shows From " + year,
+		"Message":    "Shows From " + year,
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/year", data),
 	})
 }
@@ -129,7 +129,7 @@ func renderState(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "All Shows In " + state,
+		"Message":    "Shows In " + state,
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/state", data),
 	})
 }
@@ -163,7 +163,7 @@ func renderCountry(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "All Shows In " + country,
+		"Message":    "Shows In " + country,
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/country", data),
 	})
 }
