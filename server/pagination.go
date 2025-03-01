@@ -59,9 +59,10 @@ func createOffsetAndMaxForPagination2(c *gin.Context, totalCount int) struct {
 	}
 }
 
-func getPagination(max int, offset int, totalCount int, uri string, fields map[string]string) struct {
+func getPagination(offset int, totalCount int, uri string, fields map[string]string) struct {
 	NextOffset     int
 	PreviousOffset int
+	LastOffset     int
 	Uri            string
 	Fields         map[string]string
 } {
@@ -82,11 +83,13 @@ func getPagination(max int, offset int, totalCount int, uri string, fields map[s
 	return struct {
 		NextOffset     int
 		PreviousOffset int
+		LastOffset     int
 		Uri            string
 		Fields         map[string]string
 	}{
 		NextOffset:     nextOffset,
 		PreviousOffset: previousOffset,
+		LastOffset:     maxOffset,
 		Uri:            uri,
 		Fields:         fields,
 	}

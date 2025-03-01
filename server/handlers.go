@@ -40,7 +40,7 @@ func renderSongs(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "songs.html", gin.H{
 		"Songs":      results.Songs,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/songs", nil),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil),
 	})
 }
 
@@ -51,7 +51,7 @@ func renderVenues(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "venues.html", gin.H{
 		"Venues":     results.Venues,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/venues", nil),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venues", nil),
 	})
 }
 
@@ -70,7 +70,7 @@ func renderVenue(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
 		"Message":    "All Shows At " + venue + " In " + city,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/venue", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venue", data),
 	})
 }
 
@@ -87,7 +87,7 @@ func renderCity(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
 		"Message":    "All Shows In " + city,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/city", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/city", data),
 	})
 }
 
@@ -111,7 +111,7 @@ func renderYear(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
 		"Message":    "All Shows From " + year,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/year", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/year", data),
 	})
 }
 
@@ -128,7 +128,7 @@ func renderState(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
 		"Message":    "All Shows In " + state,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/state", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/state", data),
 	})
 }
 
@@ -145,7 +145,7 @@ func renderShowsWithSong(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      result.Shows,
 		"Message":    "Shows When The Band Played " + song,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, result.TotalCount, "/song", data),
+		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, "/song", data),
 	})
 }
 
@@ -162,7 +162,7 @@ func renderCountry(c *gin.Context) {
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
 		"Message":    "All Shows In " + country,
-		"Pagination": getPagination(pagingInfo.Max, pagingInfo.Offset, results.TotalCount, "/country", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/country", data),
 	})
 }
 
