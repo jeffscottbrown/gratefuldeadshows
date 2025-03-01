@@ -30,34 +30,6 @@ func createOffsetAndMaxForPagination(c *gin.Context) struct {
 		Offset: offsetInt,
 	}
 }
-func createOffsetAndMaxForPagination2(c *gin.Context, totalCount int) struct {
-	Max    int
-	Offset int
-} {
-	offset := c.PostForm("offset")
-	max := c.PostForm("max")
-
-	offsetInt, err := strconv.Atoi(offset)
-	if err != nil || offsetInt < 0 {
-		offsetInt = 0
-	}
-	maxOffset := totalCount - 10
-	if offsetInt > maxOffset {
-		offsetInt = maxOffset
-	}
-
-	maxInt, err := strconv.Atoi(max)
-	if err != nil || maxInt > 20 {
-		maxInt = 10
-	}
-	return struct {
-		Max    int
-		Offset int
-	}{
-		Max:    maxInt,
-		Offset: offsetInt,
-	}
-}
 
 func getPagination(offset int, totalCount int, uri string, fields map[string]string) struct {
 	NextOffset     int
