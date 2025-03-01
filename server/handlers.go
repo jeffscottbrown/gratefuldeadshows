@@ -38,9 +38,11 @@ func renderSongs(c *gin.Context) {
 
 	results := db.GetSongs(pagingInfo.Max, pagingInfo.Offset)
 
+	pagination := getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil)
+
 	c.HTML(http.StatusOK, "songs.html", gin.H{
 		"Songs":      results.Songs,
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil),
+		"Pagination": pagination,
 	})
 }
 

@@ -8,6 +8,6 @@
 </div>
 <div id="songTable">
 {{ template "songTable" . }}
-{{ template "pagination" dict "LastOffset" .Pagination.LastOffset "Fields" .Pagination.Fields "Uri" .Pagination.Uri "PreviousOffset" .Pagination.PreviousOffset "NextOffset" .Pagination.NextOffset "NavLabel" "Song Pagination"}}
+{{ template "pagination" .Pagination }}
 </div>
 
