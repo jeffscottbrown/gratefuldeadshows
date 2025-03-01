@@ -2,11 +2,9 @@ package db
 
 import (
 	"fmt"
-	"log"
-	"os"
-	"time"
+	"strings"
 
-	"gorm.io/driver/postgres"
+	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
 
@@ -16,46 +14,20 @@ var History GratefulDeadHistory
 
 func init() {
 
-	dbUser := os.Getenv("DB_USER")
-	dbPassword := os.Getenv("DB_PASSWORD")
-	dbName := os.Getenv("DB_NAME")
-	dbHost := os.Getenv("DB_HOST")
-
-	if dbUser == "" {
-		log.Fatal("DB_USER environment variable is not set")
-	}
-	if dbPassword == "" {
-		log.Fatal("DB_PASSWORD environment variable is not set")
-	}
-	if dbName == "" {
-		log.Fatal("DB_NAME environment variable is not set")
-	}
-	if dbHost == "" {
-		log.Fatal("DB_HOST environment variable is not set")
-	}
-
-	if dbPassword == "" || dbName == "" || dbHost == "" {
-		log.Fatal("One or more environment variables are not set")
-	}
-
-	connStr := fmt.Sprintf("user=%s password=%s dbname=%s host=%s sslmode=disable", dbUser, dbPassword, dbName, dbHost)
-
 	var err error
-
-	for i := 0; i < 3; i++ {
-		db, err = gorm.Open(postgres.Open(connStr), &gorm.Config{})
-		if err == nil {
-			break
-		}
-		log.Printf("Failed to connect to database. Retrying in 3 seconds... (%d/3)", i+1)
-		time.Sleep(3 * time.Second)
-	}
+	db, err = gorm.Open(sqlite.Open("./db/gratefuldata.db"), &gorm.Config{})
 	if err != nil {
-		log.Fatal(err)
+		fmt.Printf("Failed to connect database: %v\n", err)
+		panic("failed to connect database")
 	}
+
 	var count int64
 
-	db.Model(&Show{}).Distinct("venue").Count(&count)
+	db.Model(&Show{}).
+		Select("city, state, mind, COUNT(*)").
+		Group("city, state, venue").
+		Count(&count)
+
 	History.NumberOfVenues = int(count)
 
 	db.Model(&Show{}).Distinct("city").Count(&count)
@@ -158,9 +130,9 @@ func GetShowsInYear(year string, max int, offset int) struct {
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("EXTRACT(YEAR FROM date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	db.Where("strftime('%Y', date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	var totalCount int64
-	db.Model(&Show{}).Where("EXTRACT(YEAR FROM date) = ?", year).Count(&totalCount)
+	db.Model(&Show{}).Where("strftime('%Y', date) = ?", year).Count(&totalCount)
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -172,7 +144,7 @@ func GetShowsInYear(year string, max int, offset int) struct {
 
 func SongSearch(query string) []Song {
 	var songs []Song
-	db.Where("title ILIKE ?", "%"+query+"%").Find(&songs)
+	db.Where("LOWER(title) LIKE ?", "%"+strings.ToLower(query)+"%").Find(&songs)
 	return songs
 }
 
@@ -212,10 +184,13 @@ func GetVenues(max int, offset int) struct {
 		State string
 		Venue string
 	}
-	db.Model(&Show{}).Distinct("city", "state", "venue").Order("venue").Limit(max).Offset(offset).Find(&venues)
+	db.Model(&Show{}).Select("city, state, venue").Distinct("city", "state", "venue").Order("venue").Limit(max).Offset(offset).Find(&venues)
 	var totalCount int64
-	db.Model(&Show{}).Select("COUNT(DISTINCT(city, state, venue))").Scan(&totalCount)
-	fmt.Printf("Total count: %d\n", totalCount)
+	db.Model(&Show{}).
+		Select("city, state, venue, COUNT(*)").
+		Group("city, state, venue").
+		Count(&totalCount)
+
 	return struct {
 		Venues []struct {
 			City  string

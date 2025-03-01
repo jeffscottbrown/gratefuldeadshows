@@ -1,5 +1,6 @@
-FROM golang:1.24-alpine AS appbuilder
+FROM golang:1.24.0-alpine AS appbuilder
 
+RUN apk update && apk add --no-cache build-base go
 WORKDIR /build
 
 COPY go.mod go.sum ./
@@ -8,15 +9,19 @@ RUN go mod download
 
 COPY . .
 
-RUN CGO_ENABLED=0 go build -o gdapp .
+ENV CGO_ENABLED=1
 
-FROM gcr.io/distroless/static-debian12
+RUN go build -o gdapp .
+
+FROM alpine:latest
 
 ENV GIN_MODE=release
 
 WORKDIR /app
-COPY --from=appbuilder /build/gdapp .
+
+COPY --from=appbuilder /build/gdapp ./
 COPY --from=appbuilder /build/server/assets ./server/assets/
 COPY --from=appbuilder /build/server/html ./server/html/
+COPY --from=appbuilder /build/db/gratefuldata.db ./db/
 
 CMD ["./gdapp"]
