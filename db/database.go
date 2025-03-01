@@ -216,6 +216,7 @@ func GetShowsWithSong(songTitle string, max int, offset int) struct {
 		Where("songs.title = ?", songTitle).
 		Limit(max).
 		Offset(offset).
+		Order("date asc").
 		Preload("Sets.SongPerformances.Song").
 		Find(&shows)
 
