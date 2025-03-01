@@ -10,7 +10,7 @@ The data provided in the application was sourced from
 
 If you have [Go installed](https://golang.org/) (1.24 or later), you can run the application with the following command:
 
-```go
+```bash
 go run .
 ```
 
@@ -23,7 +23,7 @@ reloading enabled source code changes will be automatically reloading in
 the application without requiring the application to be explicitly restarted.
 Saving changes to the filesystem will trigger a reload of the system.
 
-```go
+```bash
 go tool air
 ```
 
