@@ -5,6 +5,7 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/dustin/go-humanize"
 	"github.com/gin-gonic/gin"
 )
 
@@ -27,8 +28,9 @@ func createAndConfigureRouter() *gin.Engine {
 
 func configureApplicationHandlers(router *gin.Engine) {
 	router.SetFuncMap(template.FuncMap{
-		"formatDate": formatDate,
-		"dict":       dict,
+		"formatDate":   formatDate,
+		"dict":         dict,
+		"formatNumber": formatNumber,
 	})
 	router.LoadHTMLGlob("server/html/*")
 
@@ -55,6 +57,10 @@ func configureApplicationHandlers(router *gin.Engine) {
 	}
 
 	router.Static("/static", "server/assets/")
+}
+
+func formatNumber(n int) string {
+	return humanize.Comma(int64(n))
 }
 
 func formatDate(t time.Time, layout string) string {
