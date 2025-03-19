@@ -137,16 +137,19 @@ func renderState(c *gin.Context) {
 func renderShowsWithSong(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	song := c.PostForm("song")
-	result := db.GetShowsWithSong(song, pagingInfo.Max, pagingInfo.Offset)
+	songIdString := c.PostForm("song")
+
+	songId, _ := strconv.Atoi(songIdString)
+
+	result := db.GetShowsWithSong(songId, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
-		"song": song,
+		"song": songIdString,
 	}
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      result.Shows,
-		"Message":    "Shows When The Band Played " + song,
+		"Message":    "Shows When The Band Played " + result.SongTitle,
 		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, "/song", data),
 	})
 }
