@@ -8,6 +8,8 @@ The data provided in the application was sourced from
 
 ## Running The Application
 
+### Run From Source
+
 If you have [Go installed](https://golang.org/) (1.24 or later), you can run the application with the following command:
 
 ```bash
@@ -27,6 +29,8 @@ Saving changes to the filesystem will trigger a reload of the system.
 go tool air
 ```
 
+### Run In A Docker Container
+
 The project provides a [Dockerfile](https://www.docker.com/) for containerizing the application. 
 
 Images are published to dockerhub:
@@ -34,6 +38,10 @@ Images are published to dockerhub:
 ```bash
 docker run -p 8080:8080 docker.io/jeffscottbrown/gratefulweb:latest
 ```
+
+### On The Web
+
+An instance of the application is generally running at [gratefulweb.jeffandbetsy.net](https://gratefulweb.jeffandbetsy.net).
 
 ## The Technology
 
@@ -45,6 +53,6 @@ The project is built with the following technologies:
 - [HTMX](https://htmx.org/)
 - [Gin](https://gin-gonic.com/)
 
-The Golang source code is in server/*.go and db/*.go.
+The Golang source code is in `server/*.go` and `db/*.go`.
 
-The UI code is in server/html/*.html and server/assets/main.css.
+The UI code is in `server/html/*.html` and `server/assets/main.css`.
