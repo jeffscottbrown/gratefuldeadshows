@@ -31,6 +31,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"formatDate":   formatDate,
 		"dict":         dict,
 		"formatNumber": formatNumber,
+		"numbers":      numbers,
 	})
 	router.LoadHTMLGlob("server/html/*")
 
@@ -57,6 +58,15 @@ func configureApplicationHandlers(router *gin.Engine) {
 	}
 
 	router.Static("/static", "server/assets/")
+}
+
+func numbers(start, end int) []int {
+	n := end - start + 1
+	r := make([]int, n)
+	for i := 0; i < n; i++ {
+		r[i] = start + i
+	}
+	return r
 }
 
 func formatNumber(n int) string {
