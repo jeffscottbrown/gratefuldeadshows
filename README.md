@@ -21,7 +21,7 @@ The applications listens for browser requests at
 
 If you anticipate experimenting with the source code you may want to launch 
 using the [Air live reload tool](https://github.com/cosmtrek/air).  With live
-reloading enabled source code changes will be automatically reloading in 
+reloading enabled source code changes will be automatically reloaded in 
 the application without requiring the application to be explicitly restarted.
 Saving changes to the filesystem will trigger a reload of the system.
 
@@ -47,12 +47,12 @@ An instance of the application is generally running at [gratefulweb.jeffandbetsy
 
 The project is built with the following technologies:
 
-- [Golang](https://golang.org/)
+- [Go](https://golang.org/)
 - [SQLite](https://www.sqlite.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [HTMX](https://htmx.org/)
 - [Gin](https://gin-gonic.com/)
 
-The Golang source code is in `server/*.go` and `db/*.go`.
+The Go source code is in `server/*.go` and `db/*.go`.
 
 The UI code is in `server/html/*.html` and `server/assets/main.css`.
