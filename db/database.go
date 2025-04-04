@@ -161,7 +161,7 @@ func GetSongs(max int, offset int) struct {
 	}
 	db.Model(&Song{}).Select("title, id").Order("title").Limit(max).Offset(offset).Find(&songs)
 	var totalCount int64
-	db.Model(&Song{}).Select("COUNT(DISTINCT(title))").Scan(&totalCount)
+	db.Model(&Song{}).Count(&totalCount)
 	return struct {
 		Songs []struct {
 			Title string
