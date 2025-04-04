@@ -151,18 +151,21 @@ func SongSearch(query string) []Song {
 func GetSongs(max int, offset int) struct {
 	Songs []struct {
 		Title string
+		ID    uint
 	}
 	TotalCount int
 } {
 	var songs []struct {
 		Title string
+		ID    uint
 	}
-	db.Model(&Song{}).Distinct("title").Order("title").Limit(max).Offset(offset).Find(&songs)
+	db.Model(&Song{}).Select("title, id").Order("title").Limit(max).Offset(offset).Find(&songs)
 	var totalCount int64
 	db.Model(&Song{}).Select("COUNT(DISTINCT(title))").Scan(&totalCount)
 	return struct {
 		Songs []struct {
 			Title string
+			ID    uint
 		}
 		TotalCount int
 	}{
