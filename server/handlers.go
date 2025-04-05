@@ -1,6 +1,7 @@
 package server
 
 import (
+	"fmt"
 	"net/http"
 	"strconv"
 
@@ -144,7 +145,7 @@ func renderShowsWithSong(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      result.Shows,
-		"Message":    "Shows When The Band Played " + result.SongTitle,
+		"Message":    fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, "/song", data),
 	})
 }
