@@ -48,8 +48,6 @@ func configureApplicationHandlers(router *gin.Engine) {
 	router.POST("/numbers", renderNumbers)
 	router.POST("/search", renderSongSearchResults)
 
-	router.GET("/quote", renderQuote)
-
 	redir := func(c *gin.Context) {
 		c.Redirect(http.StatusMovedPermanently, "/")
 	}
