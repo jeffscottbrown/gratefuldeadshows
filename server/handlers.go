@@ -1,7 +1,6 @@
 package server
 
 import (
-	"math/rand"
 	"net/http"
 	"strconv"
 
