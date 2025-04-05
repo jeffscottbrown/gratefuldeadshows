@@ -210,18 +210,26 @@ func GetSongs(max int, offset int) struct {
 
 func GetVenues(max int, offset int) struct {
 	Venues []struct {
-		City  string
-		State string
-		Venue string
+		City          string
+		State         string
+		Venue         string
+		NumberOfShows int
 	}
 	TotalCount int
 } {
 	var venues []struct {
-		City  string
-		State string
-		Venue string
+		City          string
+		State         string
+		Venue         string
+		NumberOfShows int
 	}
-	db.Model(&Show{}).Select("city, state, venue").Distinct("city", "state", "venue").Order("venue").Limit(max).Offset(offset).Find(&venues)
+	db.Model(&Show{}).
+		Select("city, state, venue, COUNT(*) as number_of_shows").
+		Group("city, state, venue").
+		Order("venue").
+		Limit(max).
+		Offset(offset).
+		Scan(&venues)
 	var totalCount int64
 	db.Model(&Show{}).
 		Select("city, state, venue, COUNT(*)").
@@ -230,9 +238,10 @@ func GetVenues(max int, offset int) struct {
 
 	return struct {
 		Venues []struct {
-			City  string
-			State string
-			Venue string
+			City          string
+			State         string
+			Venue         string
+			NumberOfShows int
 		}
 		TotalCount int
 	}{

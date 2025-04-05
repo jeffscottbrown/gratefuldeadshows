@@ -9,6 +9,7 @@
             <th scope="col">Venue</th>
             <th scope="col">City</th>
             <th scope="col">State</th>
+            <th scope="col">Number Of Shows</th>
         </tr>
     </thead>
     <tbody>
@@ -31,6 +32,9 @@
                 <div>
                     {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $venue.State) }}
                 </div>
+            </td>
+            <td>
+                {{ $venue.NumberOfShows }}
             </td>
         </tr>
         {{ end }}

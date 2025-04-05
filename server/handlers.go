@@ -67,7 +67,7 @@ func renderVenue(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "Shows At " + venue + " In " + city,
+		"Message":    fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venue", data),
 	})
 }
