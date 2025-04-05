@@ -37,6 +37,7 @@
     <thead>
       <tr>
         <th scope="col">Song Title</th>
+        <th scope="col">Number Of Shows</th>
       </tr>
     </thead>
     <tbody>
@@ -49,6 +50,9 @@
                 hx-post="/song">{{
                 $song.Title }}</a>
             </div>
+          </td>
+          <td>
+            {{ $song.NumberOfShows }}
           </td>
         </tr>
       {{ end }}

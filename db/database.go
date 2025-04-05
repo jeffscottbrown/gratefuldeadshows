@@ -142,30 +142,64 @@ func GetShowsInYear(year string, max int, offset int) struct {
 	}
 }
 
-func SongSearch(query string) []Song {
-	var songs []Song
-	db.Where("LOWER(title) LIKE ?", "%"+strings.ToLower(query)+"%").Find(&songs)
+func SongSearch(query string) []struct {
+	Title         string
+	ID            uint
+	NumberOfShows int
+} {
+	var songs []struct {
+		Title         string
+		ID            uint
+		NumberOfShows int
+	}
+
+	db.Model(&Song{}).
+		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
+		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
+		Joins("JOIN sets ON sets.id = song_performances.set_id").
+		Joins("JOIN shows ON shows.id = sets.show_id").
+		Where("LOWER(songs.title) LIKE ?", "%"+strings.ToLower(query)+"%").
+		Group("songs.id").
+		Order("songs.title").
+		Scan(&songs)
+
 	return songs
 }
 
 func GetSongs(max int, offset int) struct {
 	Songs []struct {
-		Title string
-		ID    uint
+		Title         string
+		ID            uint
+		NumberOfShows int
 	}
 	TotalCount int
 } {
+
 	var songs []struct {
-		Title string
-		ID    uint
+		Title         string
+		ID            uint
+		NumberOfShows int
 	}
-	db.Model(&Song{}).Select("title, id").Order("title").Limit(max).Offset(offset).Find(&songs)
+
+	db.Model(&Song{}).
+		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
+		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
+		Joins("JOIN sets ON sets.id = song_performances.set_id").
+		Joins("JOIN shows ON shows.id = sets.show_id").
+		Group("songs.id").
+		Order("songs.title").
+		Limit(max).
+		Offset(offset).
+		Scan(&songs)
+
 	var totalCount int64
 	db.Model(&Song{}).Count(&totalCount)
+
 	return struct {
 		Songs []struct {
-			Title string
-			ID    uint
+			Title         string
+			ID            uint
+			NumberOfShows int
 		}
 		TotalCount int
 	}{
