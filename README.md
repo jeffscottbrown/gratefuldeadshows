@@ -53,4 +53,4 @@ The project is built with the following technologies:
 
 The Go source code is in `server/*.go` and `db/*.go`.
 
-The UI code is in `server/html/*.html` and `server/assets/main.css`.
+The UI code is in `server/html/*.html` and `server/assets/**`.
