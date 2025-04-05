@@ -76,7 +76,8 @@ func renderCity(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
 	city := c.PostForm("city")
-	results := db.GetShowsInCity(city, pagingInfo.Max, pagingInfo.Offset)
+	state := c.PostForm("state")
+	results := db.GetShowsInCity(city, state, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"city": city,

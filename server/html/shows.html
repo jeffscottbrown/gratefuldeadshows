@@ -43,7 +43,8 @@
       </td>
       <td>
         <div>
-          {{ template "itemlink" (dict "attributeName" "city" "attributeValue" $show.City) }}
+          {{ $hiddenFormFields := dict "state" $show.State }}
+          {{ template "itemlink" (dict "hiddenFormFields" $hiddenFormFields "attributeName" "city" "attributeValue" $show.City) }}
         </div>
       </td>
       <td>

@@ -108,14 +108,14 @@ func GetShowsInState(state string, max int, offset int) struct {
 	}
 }
 
-func GetShowsInCity(city string, max int, offset int) struct {
+func GetShowsInCity(city string, state string, max int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("city = ?", city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	db.Where("city = ? AND state = ?", city, state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
 	var totalCount int64
-	db.Model(&Show{}).Where("city = ?", city).Count(&totalCount)
+	db.Model(&Show{}).Where("city = ? AND state = ?", city, state).Count(&totalCount)
 	return struct {
 		Shows      []Show
 		TotalCount int
