@@ -1,6 +1,8 @@
-# Grateful Web
+# Grateful Dead Shows
 
-Grateful Web is a simple web application for browsing information about
+[www.gratefuldeadshows.com](https://www.gratefuldeadshows.com)
+
+Grateful Dead Shows is a simple web application for browsing information about
 the concert history of The Grateful Dead.
 
 The data provided in the application was sourced from 
@@ -38,10 +40,6 @@ Images are published to dockerhub:
 ```bash
 docker run -p 8080:8080 docker.io/jeffscottbrown/gratefulweb:latest
 ```
-
-### On The Web
-
-An instance of the application is generally running at [gratefulweb.jeffandbetsy.net](https://gratefulweb.jeffandbetsy.net).
 
 ## The Technology
 
