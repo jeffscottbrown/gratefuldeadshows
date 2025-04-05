@@ -11,7 +11,7 @@ COPY . .
 
 ENV CGO_ENABLED=1
 
-RUN go build -o gdapp .
+RUN go build -o gratefuldeadshows .
 
 FROM alpine:latest
 
@@ -19,9 +19,9 @@ ENV GIN_MODE=release
 
 WORKDIR /app
 
-COPY --from=appbuilder /build/gdapp ./
+COPY --from=appbuilder /build/gratefuldeadshows ./
 COPY --from=appbuilder /build/server/assets ./server/assets/
 COPY --from=appbuilder /build/server/html ./server/html/
 COPY --from=appbuilder /build/db/gratefuldata.db ./db/
 
-CMD ["./gdapp"]
+CMD ["./gratefuldeadshows"]
