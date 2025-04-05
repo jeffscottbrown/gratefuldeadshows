@@ -1,5 +1,9 @@
 <div class="display-6">
+    {{ if .Message }}
+    {{ .Message }}
+    {{ else }}
     Songs
+    {{ end }}
 </div>
 
 <div class="mb-3">

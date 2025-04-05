@@ -1,8 +1,11 @@
 <div class="display-6">
+    {{ if .Message }}
+    {{ .Message }}
+    {{ else }}
     Venues
+    {{ end }}
 </div>
-
-
+  
 <table class="table table-striped">
     <thead>
         <tr>
