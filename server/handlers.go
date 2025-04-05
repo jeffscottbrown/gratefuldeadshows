@@ -173,3 +173,7 @@ func renderSongSearchResults(ctx *gin.Context) {
 		"Songs": songs,
 	})
 }
+
+func renderAbout(ctx *gin.Context) {
+	ctx.HTML(http.StatusOK, "about.html", gin.H{})
+}
