@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jeffscottbrown/gratefulweb/server"
+	"github.com/jeffscottbrown/gratefuldeadshows/server"
 	_ "github.com/lib/pq"
 )
 

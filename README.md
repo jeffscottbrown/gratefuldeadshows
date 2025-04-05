@@ -38,7 +38,7 @@ The project provides a [Dockerfile](https://www.docker.com/) for containerizing 
 Images are published to dockerhub:
 
 ```bash
-docker run -p 8080:8080 docker.io/jeffscottbrown/gratefulweb:latest
+docker run -p 8080:8080 docker.io/jeffscottbrown/gratefuldeadshows:latest
 ```
 
 ## The Technology

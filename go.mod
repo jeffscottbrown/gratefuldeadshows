@@ -1,4 +1,4 @@
-module github.com/jeffscottbrown/gratefulweb
+module github.com/jeffscottbrown/gratefuldeadshows
 
 go 1.24.1
 

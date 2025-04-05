@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/jeffscottbrown/gratefulweb/db"
+	"github.com/jeffscottbrown/gratefuldeadshows/db"
 )
 
 func renderShow(c *gin.Context) {
