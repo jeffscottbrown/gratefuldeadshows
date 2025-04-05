@@ -163,7 +163,7 @@ func renderCountry(c *gin.Context) {
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
 		"Shows":      results.Shows,
-		"Message":    "Shows In " + country,
+		"Message":    fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/country", data),
 	})
 }
