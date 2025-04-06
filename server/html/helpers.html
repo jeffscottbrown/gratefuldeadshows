@@ -11,6 +11,7 @@
 {{ end }}
 
 {{ block "pagination" . }}
+{{ .Message }}
   <nav aria-label="Page Navigation">
     <ul class="pagination">
       <div>
@@ -21,10 +22,27 @@
         {{ end }}
         <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
           hx-post={{ .Uri }} hx-vals='{"offset": "0"}'>First</a></li>
-        <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
-          hx-post={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a></li>
-        <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
-          hx-post={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a></li>
+
+        <li enabled="false" hx-push-url="true" hx-include="closest div" class="page-item">
+          <a 
+          {{if gt .CurrentOffset 0}}
+            class="page-link" 
+          {{ else }}
+            class="page-link disabled"
+          {{end}}
+          hx-target="#main" hx-post={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
+        </li>
+
+        <li hx-push-url="true" hx-include="closest div" class="page-item">
+            <a 
+            {{if lt .CurrentOffset .NextOffset}}
+              class="page-link"
+            {{else}}
+              class="page-link disabled"
+            {{end}}
+            hx-target="#main" hx-post={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
+        </li>
+
         <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
           hx-post={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a></li>
       </div>
