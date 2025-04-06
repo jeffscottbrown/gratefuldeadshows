@@ -33,3 +33,8 @@ a[hx-delete]:hover {
  .card-body .row {
     background-color: #f8f9fa; 
 }
+
+a.page-link.disabled {
+    background-color: white;
+    color: grey;
+}
