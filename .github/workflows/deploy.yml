@@ -1,13 +1,16 @@
 name: ci
 
 on:
-  push:
-    branches: [ master ]
-    tags:
-      - 'v*'
+  workflow_run:
+    workflows: ["Test"]
+    types:
+      - completed
 
 jobs:
   build:
+    if: >
+      ${{ github.event.workflow_run.conclusion == 'success' &&
+      startsWith(github.event.workflow_run.head_commit.message, 'v') }}
     runs-on: ubuntu-latest
     steps:
       - name: Login to Docker Hub
