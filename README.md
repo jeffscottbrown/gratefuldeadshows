@@ -54,3 +54,9 @@ The project is built with the following technologies:
 The Go source code is in `server/*.go` and `db/*.go`.
 
 The UI code is in `server/html/*.html` and `server/assets/**`.
+
+### Database Schema
+
+The following diagram illustrates the schema of the database:
+
+![Database Schema](schema.png)
