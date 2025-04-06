@@ -39,7 +39,10 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 } {
 	if offset < 0 {
 		offset = 0
+	} else if offset > (totalCount - 10) {
+		offset = totalCount - 10
 	}
+
 	nextOffset := offset + 10
 
 	maxOffset := totalCount - 10
