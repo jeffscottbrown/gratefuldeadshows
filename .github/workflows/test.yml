@@ -28,12 +28,10 @@ jobs:
       - name: Run tests and create JUnit report
         run: |
           mkdir -p reports
-          go test -v 2>&1 ./... | go-junit-report > reports/junit-report.xml
-
-      - name: Convert XML to HTML
-        run: |
-          junit-viewer --results=reports/junit-report.xml --save=reports/report.html
-
+          set -o pipefail
+          go test -v ./... 2>&1 | tee reports/test-output.txt | go-junit-report > reports/junit-report.xml
+          TEST_EXIT_CODE=${PIPESTATUS[0]}
+          exit $TEST_EXIT_CODE
       - name: Upload test report
         uses: actions/upload-artifact@v4
         with:
