@@ -22,6 +22,5 @@ WORKDIR /app
 COPY --from=appbuilder /build/gratefuldeadshows ./
 COPY --from=appbuilder /build/server/assets ./server/assets/
 COPY --from=appbuilder /build/server/html ./server/html/
-COPY --from=appbuilder /build/db/gratefuldata.db ./db/
 
 CMD ["./gratefuldeadshows"]

@@ -1,7 +1,9 @@
 package db
 
 import (
+	_ "embed"
 	"fmt"
+	"os"
 	"strings"
 
 	"gorm.io/driver/sqlite"
@@ -12,15 +14,37 @@ var db *gorm.DB
 
 var History GratefulDeadHistory
 
-func init() {
+//go:embed gratefuldata.db
+var gratefuldataDb []byte
 
-	var err error
-	db, err = gorm.Open(sqlite.Open("./db/gratefuldata.db"), &gorm.Config{})
+func init() {
+	initializeDatabase()
+	preloadData()
+}
+
+func initializeDatabase() {
+	tempFile, err := os.CreateTemp("", "gratefuldata-*.db")
+	if err != nil {
+		fmt.Printf("Failed to create temp file: %v\n", err)
+		panic("failed to create temp file")
+	}
+
+	_, err = tempFile.Write(gratefuldataDb)
+	if err != nil {
+		fmt.Printf("Failed to write to temp file: %v\n", err)
+		panic("failed to write to temp file")
+	}
+
+	tempFilePath := tempFile.Name()
+
+	db, err = gorm.Open(sqlite.Open(tempFilePath), &gorm.Config{})
 	if err != nil {
 		fmt.Printf("Failed to connect database: %v\n", err)
 		panic("failed to connect database")
 	}
+}
 
+func preloadData() {
 	var count int64
 
 	db.Model(&Show{}).
