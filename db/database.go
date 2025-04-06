@@ -1,21 +1,21 @@
 package db
 
 import (
+	"database/sql"
 	"fmt"
+	_ "github.com/mattn/go-sqlite3"
+	"log"
 	"strings"
-
-	"gorm.io/driver/sqlite"
-	"gorm.io/gorm"
 )
 
-var db *gorm.DB
+var sqlDb *sql.DB
 
 var History GratefulDeadHistory
 
 func init() {
 
 	var err error
-	db, err = gorm.Open(sqlite.Open("./db/gratefuldata.db"), &gorm.Config{})
+	sqlDb, err = sql.Open("sqlite3", "./db/gratefuldata.db")
 	if err != nil {
 		fmt.Printf("Failed to connect database: %v\n", err)
 		panic("failed to connect database")
@@ -23,29 +23,39 @@ func init() {
 
 	var count int64
 
-	db.Model(&Show{}).
-		Select("city, state, mind, COUNT(*)").
-		Group("city, state, venue").
-		Count(&count)
-
+	sqlDb.QueryRow(`
+		SELECT COUNT(DISTINCT city || state || venue) 
+		FROM shows`).Scan(&count)
 	History.NumberOfVenues = int(count)
 
-	db.Model(&Show{}).Distinct("city").Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(DISTINCT city) 
+		FROM shows`).Scan(&count)
 	History.NumberOfCities = int(count)
 
-	db.Model(&Show{}).Distinct("country").Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(DISTINCT country) 
+		FROM shows`).Scan(&count)
 	History.NumberOfCountries = int(count)
 
-	db.Model(&Show{}).Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(*) 
+		FROM shows`).Scan(&count)
 	History.NumberOfShows = int(count)
 
-	db.Model(&Set{}).Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(*) 
+		FROM sets`).Scan(&count)
 	History.NumberOfSets = int(count)
 
-	db.Model(&Song{}).Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(*) 
+		FROM songs`).Scan(&count)
 	History.NumberOfDistinctSongs = int(count)
 
-	db.Model(&SongPerformance{}).Count(&count)
+	sqlDb.QueryRow(`
+		SELECT COUNT(*) 
+		FROM song_performances`).Scan(&count)
 	History.NumberOfSongPerformances = int(count)
 }
 
@@ -55,9 +65,34 @@ func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...s
 } {
 
 	var shows []Show
-	db.Where("venue = ? AND city = ?", venue, city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+
+	query := `
+		SELECT id, date, venue, city, state, country 
+		FROM shows 
+		WHERE venue = ? AND city = ? 
+		ORDER BY date ASC 
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, venue, city, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, show)
+	}
+
 	var totalCount int64
-	db.Model(&Show{}).Where("venue = ? AND city = ?", venue, city).Count(&totalCount)
+	query = `
+		SELECT COUNT(*) 
+		FROM shows 
+		WHERE venue = ? AND city = ?`
+	sqlDb.QueryRow(query, venue, city).Scan(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -72,10 +107,34 @@ func GetShowsInCountry(country string, max int, offset int) struct {
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("country = ?", country).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+
+	query := `
+		SELECT id, date, venue, city, state, country 
+		FROM shows 
+		WHERE country = ? 
+		ORDER BY date ASC 
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, country, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, show)
+	}
 
 	var totalCount int64
-	db.Model(&Show{}).Where("country = ?", country).Count(&totalCount)
+	query = `
+		SELECT COUNT(*) 
+		FROM shows 
+		WHERE country = ?`
+	sqlDb.QueryRow(query, country).Scan(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -85,9 +144,116 @@ func GetShowsInCountry(country string, max int, offset int) struct {
 	}
 }
 
-func GetShow(id int) Show {
+func GetShow(showID int) Show {
 	var show Show
-	db.Preload("Sets.SongPerformances.Song").First(&show, id)
+
+	// 1. Get the Show
+	err := sqlDb.QueryRow(`
+        SELECT id, date, venue, city, state, country 
+        FROM shows 
+        WHERE id = ?`, showID).
+		Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country)
+	if err != nil {
+		return Show{} // Return empty show if not found or error
+	}
+
+	// 2. Get the Sets
+	sets := make([]Set, 0)
+	setIDs := make([]interface{}, 0)
+
+	rows, err := sqlDb.Query(`
+        SELECT id, show_id, set_number 
+        FROM sets 
+        WHERE show_id = ?`, show.ID)
+	if err != nil {
+		return Show{}
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var set Set
+		if err := rows.Scan(&set.ID, &set.ShowID, &set.SetNumber); err != nil {
+			return Show{}
+		}
+		sets = append(sets, set)
+		setIDs = append(setIDs, set.ID)
+	}
+
+	if len(setIDs) == 0 {
+		show.Sets = sets
+		return show
+	}
+
+	// 3. Get SongPerformances
+	placeholders := make([]string, len(setIDs))
+	for i := range setIDs {
+		placeholders[i] = "?"
+	}
+	query := fmt.Sprintf(`
+        SELECT id, set_id, order_in_set, song_id 
+        FROM song_performances 
+        WHERE set_id IN (%s)`, strings.Join(placeholders, ","))
+
+	rows, err = sqlDb.Query(query, setIDs...)
+	if err != nil {
+		return Show{}
+	}
+	defer rows.Close()
+
+	performancesBySet := make(map[uint][]SongPerformance)
+	songIDs := make(map[uint]struct{})
+
+	for rows.Next() {
+		var sp SongPerformance
+		if err := rows.Scan(&sp.ID, &sp.SetID, &sp.OrderInSet, &sp.SongID); err != nil {
+			return Show{}
+		}
+		performancesBySet[sp.SetID] = append(performancesBySet[sp.SetID], sp)
+		songIDs[sp.SongID] = struct{}{}
+	}
+
+	// 4. Get Songs
+	songs := make(map[uint]Song)
+	if len(songIDs) > 0 {
+		songIDList := make([]interface{}, 0, len(songIDs))
+		songPlaceholders := make([]string, 0, len(songIDs))
+		for id := range songIDs {
+			songIDList = append(songIDList, id)
+			songPlaceholders = append(songPlaceholders, "?")
+		}
+
+		query = fmt.Sprintf(`
+            SELECT id, title 
+            FROM songs 
+            WHERE id IN (%s)`, strings.Join(songPlaceholders, ","))
+		rows, err = sqlDb.Query(query, songIDList...)
+		if err != nil {
+			return Show{}
+		}
+		defer rows.Close()
+
+		for rows.Next() {
+			var s Song
+			if err := rows.Scan(&s.ID, &s.Title); err != nil {
+				return Show{}
+			}
+			songs[s.ID] = s
+		}
+	}
+
+	// 5. Stitch it all together
+	for i := range sets {
+		set := &sets[i]
+		performances := performancesBySet[set.ID]
+		for j := range performances {
+			if song, ok := songs[performances[j].SongID]; ok {
+				performances[j].Song = song
+			}
+		}
+		set.SongPerformances = performances
+	}
+
+	show.Sets = sets
 	return show
 }
 
@@ -96,9 +262,35 @@ func GetShowsInState(state string, max int, offset int) struct {
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("state = ?", state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+
+	query := `
+		SELECT id, date, venue, city, state, country 
+		FROM shows 
+		WHERE state = ? 
+		ORDER BY date ASC 
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, state, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, show)
+	}
+
 	var totalCount int64
-	db.Model(&Show{}).Where("state = ?", state).Count(&totalCount)
+
+	query = `
+		SELECT COUNT(*) 
+		FROM shows 
+		WHERE state = ?`
+	sqlDb.QueryRow(query, state).Scan(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -113,9 +305,33 @@ func GetShowsInCity(city string, state string, max int, offset int) struct {
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("city = ? AND state = ?", city, state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	query := `
+		SELECT id, date, venue, city, state, country 
+		FROM shows 
+		WHERE city = ? AND state = ? 
+		ORDER BY date ASC 
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, city, state, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, show)
+	}
+
 	var totalCount int64
-	db.Model(&Show{}).Where("city = ? AND state = ?", city, state).Count(&totalCount)
+	query = `
+		SELECT COUNT(*) 
+		FROM shows 
+		WHERE city = ? AND state = ?`
+	sqlDb.QueryRow(query, city, state).Scan(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -130,9 +346,33 @@ func GetShowsInYear(year string, max int, offset int) struct {
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("strftime('%Y', date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	query := `
+		SELECT id, date, venue, city, state, country 
+		FROM shows 
+		WHERE strftime('%Y', date) = ? 
+		ORDER BY date ASC 
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, year, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, show)
+	}
+
 	var totalCount int64
-	db.Model(&Show{}).Where("strftime('%Y', date) = ?", year).Count(&totalCount)
+	query = `
+		SELECT COUNT(*) 
+		FROM shows 
+		WHERE strftime('%Y', date) = ?`
+	sqlDb.QueryRow(query, year).Scan(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -142,7 +382,7 @@ func GetShowsInYear(year string, max int, offset int) struct {
 	}
 }
 
-func SongSearch(query string) []struct {
+func SongSearch(songTitleParam string) []struct {
 	Title         string
 	ID            uint
 	NumberOfShows int
@@ -153,15 +393,32 @@ func SongSearch(query string) []struct {
 		NumberOfShows int
 	}
 
-	db.Model(&Song{}).
-		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
-		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
-		Joins("JOIN sets ON sets.id = song_performances.set_id").
-		Joins("JOIN shows ON shows.id = sets.show_id").
-		Where("LOWER(songs.title) LIKE ?", "%"+strings.ToLower(query)+"%").
-		Group("songs.id").
-		Order("songs.title").
-		Scan(&songs)
+	query := `
+		SELECT songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows
+		FROM songs
+		JOIN song_performances ON song_performances.song_id = songs.id
+		JOIN sets ON sets.id = song_performances.set_id
+		JOIN shows ON shows.id = sets.show_id
+		WHERE songs.title LIKE ?
+		GROUP BY songs.id
+		ORDER BY songs.title`
+	rows, err := sqlDb.Query(query, "%"+songTitleParam+"%")
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var song struct {
+			Title         string
+			ID            uint
+			NumberOfShows int
+		}
+		if err := rows.Scan(&song.Title, &song.ID, &song.NumberOfShows); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		songs = append(songs, song)
+	}
 
 	return songs
 }
@@ -180,20 +437,41 @@ func GetSongs(max int, offset int) struct {
 		ID            uint
 		NumberOfShows int
 	}
+	query := `
+		SELECT songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows
+		FROM songs
+		JOIN song_performances ON song_performances.song_id = songs.id
+		JOIN sets ON sets.id = song_performances.set_id
+		JOIN shows ON shows.id = sets.show_id
+		GROUP BY songs.id
+		ORDER BY songs.title
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
 
-	db.Model(&Song{}).
-		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
-		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
-		Joins("JOIN sets ON sets.id = song_performances.set_id").
-		Joins("JOIN shows ON shows.id = sets.show_id").
-		Group("songs.id").
-		Order("songs.title").
-		Limit(max).
-		Offset(offset).
-		Scan(&songs)
-
+	for rows.Next() {
+		var song struct {
+			Title         string
+			ID            uint
+			NumberOfShows int
+		}
+		if err := rows.Scan(&song.Title, &song.ID, &song.NumberOfShows); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		songs = append(songs, song)
+	}
 	var totalCount int64
-	db.Model(&Song{}).Count(&totalCount)
+
+	query = `
+		SELECT COUNT(DISTINCT songs.id)
+		FROM songs
+		JOIN song_performances ON song_performances.song_id = songs.id
+		JOIN sets ON sets.id = song_performances.set_id
+		JOIN shows ON shows.id = sets.show_id`
+	sqlDb.QueryRow(query).Scan(&totalCount)
 
 	return struct {
 		Songs []struct {
@@ -223,18 +501,37 @@ func GetVenues(max int, offset int) struct {
 		Venue         string
 		NumberOfShows int
 	}
-	db.Model(&Show{}).
-		Select("city, state, venue, COUNT(*) as number_of_shows").
-		Group("city, state, venue").
-		Order("venue").
-		Limit(max).
-		Offset(offset).
-		Scan(&venues)
+
+	query := `
+		SELECT city, state, venue, COUNT(*) as number_of_shows
+		FROM shows
+		GROUP BY city, state, venue
+		ORDER BY venue
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var venue struct {
+			City          string
+			State         string
+			Venue         string
+			NumberOfShows int
+		}
+		if err := rows.Scan(&venue.City, &venue.State, &venue.Venue, &venue.NumberOfShows); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		venues = append(venues, venue)
+	}
+
 	var totalCount int64
-	db.Model(&Show{}).
-		Select("city, state, venue, COUNT(*)").
-		Group("city, state, venue").
-		Count(&totalCount)
+	query = `
+		SELECT COUNT(DISTINCT city || state || venue)
+		FROM shows`
+	sqlDb.QueryRow(query).Scan(&totalCount)
 
 	return struct {
 		Venues []struct {
@@ -256,27 +553,49 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 	SongTitle  string
 } {
 	var shows []Show
+	var songTitle string
 
-	db.Joins("JOIN sets ON sets.show_id = shows.id").
-		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
-		Joins("JOIN songs ON songs.id = song_performances.song_id").
-		Where("songs.id = ?", songId).
-		Limit(max).
-		Offset(offset).
-		Order("date asc").
-		Preload("Sets.SongPerformances.Song").
-		Find(&shows)
+	// Get the song title
+	err := sqlDb.QueryRow(`
+		SELECT title 
+		FROM songs 
+		WHERE id = ?`, songId).Scan(&songTitle)
+	if err != nil {
+		log.Fatalf("Failed to get song title: %v", err)
+	}
 
+	// Query for shows containing the song
+	query := `
+		SELECT DISTINCT shows.id, shows.date, shows.venue, shows.city, shows.state, shows.country
+		FROM shows
+		JOIN sets ON sets.show_id = shows.id
+		JOIN song_performances ON song_performances.set_id = sets.id
+		WHERE song_performances.song_id = ?
+		ORDER BY shows.date ASC
+		LIMIT ? OFFSET ?`
+	rows, err := sqlDb.Query(query, songId, max, offset)
+	if err != nil {
+		log.Fatalf("Failed to execute query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var show Show
+		if err := rows.Scan(&show.ID, &show.Date, &show.Venue, &show.City, &show.State, &show.Country); err != nil {
+			log.Fatalf("Failed to scan row: %v", err)
+		}
+		shows = append(shows, GetShow(int(show.ID))) // Populate the full graph for each show
+	}
+
+	// Get the total count of shows containing the song
 	var totalCount int64
-
-	db.Model(&Show{}).
-		Joins("JOIN sets ON sets.show_id = shows.id").
-		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
-		Where("song_performances.song_id = ?", songId).
-		Distinct("shows.date").
-		Count(&totalCount)
-	var song Song
-	db.First(&song, songId)
+	query = `
+		SELECT COUNT(DISTINCT shows.id)
+		FROM shows
+		JOIN sets ON sets.show_id = shows.id
+		JOIN song_performances ON song_performances.set_id = sets.id
+		WHERE song_performances.song_id = ?`
+	sqlDb.QueryRow(query, songId).Scan(&totalCount)
 
 	return struct {
 		Shows      []Show
@@ -285,6 +604,7 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 	}{
 		Shows:      shows,
 		TotalCount: int(totalCount),
-		SongTitle:  song.Title,
+		SongTitle:  songTitle,
 	}
+
 }
