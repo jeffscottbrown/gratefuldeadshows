@@ -268,13 +268,13 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 		Find(&shows)
 
 	var totalCount int64
+
 	db.Model(&Show{}).
 		Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
-		Joins("JOIN songs ON songs.id = song_performances.song_id").
-		Where("songs.id = ?", songId).
+		Where("song_performances.song_id = ?", songId).
+		Distinct("shows.date").
 		Count(&totalCount)
-
 	var song Song
 	db.First(&song, songId)
 
