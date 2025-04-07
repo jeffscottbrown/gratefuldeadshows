@@ -1,6 +1,9 @@
 package server
 
 import (
+	"embed"
+	"io/fs"
+
 	"html/template"
 	"net/http"
 	"time"
@@ -8,6 +11,12 @@ import (
 	"github.com/dustin/go-humanize"
 	"github.com/gin-gonic/gin"
 )
+
+//go:embed assets/**
+var embeddedAssets embed.FS
+
+//go:embed html/*.html
+var embeddedHTMLFiles embed.FS
 
 func Run() {
 	router := createAndConfigureRouter()
@@ -33,7 +42,9 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"formatNumber": formatNumber,
 		"numbers":      numbers,
 	})
-	router.LoadHTMLGlob("server/html/*")
+
+	templ := template.Must(template.New("").Funcs(router.FuncMap).ParseFS(embeddedHTMLFiles, "html/*.html"))
+	router.SetHTMLTemplate(templ)
 
 	router.GET("/", renderRoot)
 	router.POST("/show", renderShow)
@@ -56,7 +67,8 @@ func configureApplicationHandlers(router *gin.Engine) {
 		router.GET(route, redir)
 	}
 
-	router.Static("/static", "server/assets/")
+	staticFiles, _ := fs.Sub(embeddedAssets, "assets")
+	router.StaticFS("/static", http.FS(staticFiles))
 }
 
 func numbers(start, end int) []int {

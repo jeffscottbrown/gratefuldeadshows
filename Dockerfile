@@ -20,7 +20,5 @@ ENV GIN_MODE=release
 WORKDIR /app
 
 COPY --from=appbuilder /build/gratefuldeadshows ./
-COPY --from=appbuilder /build/server/assets ./server/assets/
-COPY --from=appbuilder /build/server/html ./server/html/
 
 CMD ["./gratefuldeadshows"]
