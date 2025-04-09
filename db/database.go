@@ -149,21 +149,10 @@ func GetShowsInCity(city string, state string, max int, offset int) struct {
 	}
 }
 
-func GetShowsInYear(year string, max int, offset int) struct {
-	Shows      []Show
-	TotalCount int
-} {
+func GetShowsInYear(year string) []Show {
 	var shows []Show
-	db.Where("strftime('%Y', date) = ?", year).Limit(max).Offset(offset).Order("date asc").Find(&shows)
-	var totalCount int64
-	db.Model(&Show{}).Where("strftime('%Y', date) = ?", year).Count(&totalCount)
-	return struct {
-		Shows      []Show
-		TotalCount int
-	}{
-		Shows:      shows,
-		TotalCount: int(totalCount),
-	}
+	db.Where("strftime('%Y', date) = ?", year).Order("date asc").Find(&shows)
+	return shows
 }
 
 func SongSearch(query string) []struct {

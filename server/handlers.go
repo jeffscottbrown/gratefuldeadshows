@@ -99,20 +99,14 @@ func renderNumbers(c *gin.Context) {
 }
 
 func renderYear(c *gin.Context) {
-	pagingInfo := createOffsetAndMaxForPagination(c)
-
 	year := c.PostForm("year")
 
-	results := db.GetShowsInYear(year, pagingInfo.Max, pagingInfo.Offset)
-
-	data := map[string]string{
-		"year": year,
-	}
+	shows := db.GetShowsInYear(year)
+	numberOfShows := len(shows)
 
 	c.HTML(http.StatusOK, "shows.html", gin.H{
-		"Shows":      results.Shows,
-		"Message":    fmt.Sprintf("%d Shows From %s", results.TotalCount, year),
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/year", data),
+		"Shows":   shows,
+		"Message": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
 	})
 }
 

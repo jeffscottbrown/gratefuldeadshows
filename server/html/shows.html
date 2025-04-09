@@ -62,4 +62,6 @@
   </tbody>
 </table>
 
-{{ template "pagination" .Pagination }}
+{{ if .Pagination }}
+  {{ template "pagination" .Pagination }}
+{{ end }}
