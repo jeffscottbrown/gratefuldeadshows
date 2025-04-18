@@ -9,7 +9,7 @@
     {{ range $index, $song := $set.SongPerformances }}
       <li>
         <div>
-          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/song/{{ $song.Song.ID }}">{{
+          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/song/{{ $song.Song.Title }}">{{
             $song.Song.Title }}</a>
         </div>
       </li>

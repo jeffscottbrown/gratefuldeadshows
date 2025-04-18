@@ -263,7 +263,7 @@ func GetVenues(max int, offset int) struct {
 	}
 }
 
-func GetShowsWithSong(songId int, max int, offset int) struct {
+func GetShowsWithSong(songTitle string, max int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 	SongTitle  string
@@ -273,7 +273,7 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 	db.Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
 		Joins("JOIN songs ON songs.id = song_performances.song_id").
-		Where("songs.id = ?", songId).
+		Where("LOWER(songs.title) = ?", strings.ToLower(songTitle)).
 		Limit(max).
 		Offset(offset).
 		Order("date asc").
@@ -285,11 +285,10 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 	db.Model(&Show{}).
 		Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
-		Where("song_performances.song_id = ?", songId).
+		Joins("JOIN songs ON songs.id = song_performances.song_id").
+		Where("LOWER(songs.title) = ?", strings.ToLower(songTitle)).
 		Distinct("shows.date").
 		Count(&totalCount)
-	var song Song
-	db.First(&song, songId)
 
 	return struct {
 		Shows      []Show
@@ -298,6 +297,6 @@ func GetShowsWithSong(songId int, max int, offset int) struct {
 	}{
 		Shows:      shows,
 		TotalCount: int(totalCount),
-		SongTitle:  song.Title,
+		SongTitle:  songTitle,
 	}
 }

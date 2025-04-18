@@ -128,20 +128,18 @@ func renderState(c *gin.Context) {
 func renderShowsWithSong(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	songIdString := c.Param("song")
+	songName := c.Param("song")
 
-	songId, _ := strconv.Atoi(songIdString)
-
-	result := db.GetShowsWithSong(songId, pagingInfo.Max, pagingInfo.Offset)
+	result := db.GetShowsWithSong(songName, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
-		"song": songIdString,
+		"song": songName,
 	}
 
 	renderPage(c, "shows", gin.H{
 		"Shows":      result.Shows,
 		"Message":    fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
-		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, fmt.Sprintf("/song/%d", songId), data),
+		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, fmt.Sprintf("/song/%s", songName), data),
 	})
 }
 
