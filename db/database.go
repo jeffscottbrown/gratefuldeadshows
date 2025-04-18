@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
+	"time"
 
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
@@ -109,12 +110,29 @@ func GetShowsInCountry(country string, max int, offset int) struct {
 	}
 }
 
-func GetShow(id int) Show {
-	var show Show
-	db.Preload("Sets.SongPerformances.Song").First(&show, id)
-	return show
-}
+func GetShowByDate(year string, month string, day string) (*Show, error) {
+	month = fmt.Sprintf("%02s", month)
+	day = fmt.Sprintf("%02s", day)
+	dateStr := fmt.Sprintf("%s-%s-%s", year, month, day)
 
+	date, err := time.Parse("2006-01-02", dateStr)
+	if err != nil {
+		return nil, err
+	}
+
+	// Query by date
+	var show Show
+
+	result := db.Preload("Sets.SongPerformances.Song").Where("date = ?", date).First(&show)
+	if result.Error != nil {
+		if result.Error == gorm.ErrRecordNotFound {
+			return nil, result.Error
+		}
+		return nil, result.Error
+	}
+	return &show, nil
+
+}
 func GetShowsInState(state string, max int, offset int) struct {
 	Shows      []Show
 	TotalCount int

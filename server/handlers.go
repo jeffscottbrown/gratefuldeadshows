@@ -2,26 +2,28 @@ package server
 
 import (
 	"fmt"
-	"strconv"
 
 	"github.com/gin-gonic/gin"
 	"github.com/jeffscottbrown/gratefuldeadshows/db"
 )
 
 func renderShow(c *gin.Context) {
-	id := c.Param("id")
-	idInt, err := strconv.Atoi(id)
-	if err != nil || idInt < 0 {
+	year := c.Param("year")
+	month := c.Param("month")
+	day := c.Param("day")
+
+	show, err := db.GetShowByDate(year, month, day)
+	if err != nil {
 		renderPage(c, "error", gin.H{
-			"Message": "Invalid Show ID",
+			"Message": fmt.Sprintf("Show Not Found: %s-%s-%s [%s]", year, month, day, err),
 		})
-	} else {
-		show := db.GetShow(idInt)
-		renderPage(c, "show", gin.H{
-			"Show":    show,
-			"Message": "Show On " + show.Date.Format("January 11, 2006"),
-		})
+		return
 	}
+
+	renderPage(c, "show", gin.H{
+		"Show":    &show,
+		"Message": "Show On " + show.Date.Format("January 11, 2006"),
+	})
 }
 
 func renderRoot(c *gin.Context) {

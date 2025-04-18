@@ -39,7 +39,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseGlob("server/html/*.html"))
 
 	router.GET("/", renderRoot)
-	router.GET("/show/:id", renderShow)
+	router.GET("/show/:year/:month/:day", renderShow)
 	router.GET("/song/:song", renderShowsWithSong)
 	router.GET("/songs", renderSongs)
 	router.GET("/venue/:city/:venue", renderVenue)

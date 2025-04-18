@@ -23,7 +23,10 @@
     <tr>
       <td>
         <div>
-          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/show/{{ $show.ID }}">
+          {{ $year := formatDate $show.Date "2006" }}
+          {{ $month := formatDate $show.Date "01" }}
+          {{ $day := formatDate $show.Date "2" }}
+          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/show/{{ $year }}/{{ $month }}/{{ $day }}">
             {{ formatDate $show.Date "January 2" }}
           </a>
 

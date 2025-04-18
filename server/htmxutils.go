@@ -11,14 +11,11 @@ func renderPage(c *gin.Context, name string, data gin.H) {
 
 	if isHTMX {
 		_ = tmpl.ExecuteTemplate(c.Writer, name, data)
-		return
+	} else {
+		_ = tmpl.ExecuteTemplate(c.Writer, "index", gin.H{
+			"Body": template.HTML(renderTemplateToString(name, data)),
+		})
 	}
-
-	layoutData := gin.H{
-		"Body": template.HTML(renderTemplateToString(name, data)),
-	}
-
-	_ = tmpl.ExecuteTemplate(c.Writer, "index", layoutData)
 }
 
 func renderTemplateToString(name string, data any) string {
