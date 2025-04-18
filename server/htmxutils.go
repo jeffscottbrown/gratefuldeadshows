@@ -15,9 +15,9 @@ func renderPage(c *gin.Context, name string, data gin.H) {
 	}
 
 	layoutData := gin.H{
-		"Body": template.HTML(renderTemplateToString(name, data))
+		"Body": template.HTML(renderTemplateToString(name, data)),
 	}
-	
+
 	_ = tmpl.ExecuteTemplate(c.Writer, "index", layoutData)
 }
 
