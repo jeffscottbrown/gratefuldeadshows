@@ -2,7 +2,6 @@ package server
 
 import (
 	"fmt"
-	"net/http"
 	"strconv"
 
 	"github.com/gin-gonic/gin"
@@ -166,7 +165,7 @@ func renderCountry(c *gin.Context) {
 func renderSongSearchResults(ctx *gin.Context) {
 	query := ctx.PostForm("songTitle")
 	songs := db.SongSearch(query)
-	ctx.HTML(http.StatusOK, "songTable", gin.H{
+	renderPage(ctx, "songTable", gin.H{
 		"Songs": songs,
 	})
 }
