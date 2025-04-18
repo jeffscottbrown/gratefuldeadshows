@@ -14,30 +14,10 @@ func renderPage(c *gin.Context, name string, data gin.H) {
 		return
 	}
 
-	// Render layout and pass the inner content manually
 	layoutData := gin.H{
-		"Title": "Jeff Was Here In The Title",
+		"Body": template.HTML(renderTemplateToString(name, data))
 	}
-
-	switch name {
-	case "index":
-		layoutData["Body"] = template.HTML(renderTemplateToString("index", data))
-	case "shows":
-		layoutData["Body"] = template.HTML(renderTemplateToString("shows", data))
-	case "show":
-		layoutData["Body"] = template.HTML(renderTemplateToString("show", data))
-	case "songs":
-		layoutData["Body"] = template.HTML(renderTemplateToString("songs", data))
-	case "numbers":
-		layoutData["Body"] = template.HTML(renderTemplateToString("numbers", data))
-	case "error":
-		layoutData["Body"] = template.HTML(renderTemplateToString("error", data))
-	case "venues":
-		layoutData["Body"] = template.HTML(renderTemplateToString("venues", data))
-	case "about":
-		layoutData["Body"] = template.HTML(renderTemplateToString("about", data))
-	}
-
+	
 	_ = tmpl.ExecuteTemplate(c.Writer, "index", layoutData)
 }
 
