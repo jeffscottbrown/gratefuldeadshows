@@ -5,6 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/jeffscottbrown/gratefuldeadshows/db"
+	"gorm.io/gorm"
 )
 
 func renderShow(c *gin.Context) {
@@ -14,9 +15,15 @@ func renderShow(c *gin.Context) {
 
 	show, err := db.GetShowByDate(year, month, day)
 	if err != nil {
-		renderPage(c, "error", gin.H{
-			"Message": fmt.Sprintf("Show Not Found: %s-%s-%s [%s]", year, month, day, err),
-		})
+		if err == gorm.ErrRecordNotFound {
+			renderNotFound(c, gin.H{
+				"Message": fmt.Sprintf("Show Not Found: %s-%s-%s", year, month, day),
+			})
+		} else {
+			renderBadRequest(c, gin.H{
+				"Message": fmt.Sprintf("Show Not Found: %s-%s-%s [%s]", year, month, day, err),
+			})
+		}
 		return
 	}
 
@@ -136,6 +143,12 @@ func renderShowsWithSong(c *gin.Context) {
 
 	data := map[string]string{
 		"song": songName,
+	}
+	if result.TotalCount == 0 {
+		renderNotFound(c, gin.H{
+			"Message": fmt.Sprintf("No Shows Found With Song: %s", songName),
+		})
+		return
 	}
 
 	renderPage(c, "shows", gin.H{

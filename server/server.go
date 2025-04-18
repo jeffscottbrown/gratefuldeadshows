@@ -1,6 +1,7 @@
 package server
 
 import (
+	"embed"
 	"html/template"
 	"net/http"
 	"time"
@@ -8,6 +9,12 @@ import (
 	"github.com/dustin/go-humanize"
 	"github.com/gin-gonic/gin"
 )
+
+//go:embed assets/**
+var embeddedAssets embed.FS
+
+//go:embed html/*.html
+var embeddedHTMLFiles embed.FS
 
 func Run() {
 	router := createAndConfigureRouter()
@@ -36,7 +43,7 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"numbers":      numbers,
 	})
 
-	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseGlob("server/html/*.html"))
+	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseFS(embeddedHTMLFiles, "html/*.html"))
 
 	router.GET("/", renderRoot)
 	router.GET("/show/:year/:month/:day", renderShow)

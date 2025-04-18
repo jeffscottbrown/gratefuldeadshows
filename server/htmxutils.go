@@ -2,20 +2,34 @@ package server
 
 import (
 	"html/template"
+	"net/http"
 
 	"github.com/gin-gonic/gin"
 )
 
-func renderPage(c *gin.Context, name string, data gin.H) {
+func renderPageWithStatus(c *gin.Context, templateName string, data gin.H, status int) {
+	c.Status(status)
 	isHTMX := c.GetHeader("HX-Request") != ""
 
 	if isHTMX {
-		tmpl.ExecuteTemplate(c.Writer, name, data)
+		tmpl.ExecuteTemplate(c.Writer, templateName, data)
 	} else {
 		tmpl.ExecuteTemplate(c.Writer, "index", gin.H{
-			"Body": template.HTML(renderTemplateToString(name, data)),
+			"Body": template.HTML(renderTemplateToString(templateName, data)),
 		})
 	}
+}
+
+func renderBadRequest(c *gin.Context, data gin.H) {
+	renderPageWithStatus(c, "error", data, http.StatusBadRequest)
+}
+
+func renderNotFound(c *gin.Context, data gin.H) {
+	renderPageWithStatus(c, "error", data, http.StatusNotFound)
+}
+
+func renderPage(c *gin.Context, templateName string, data gin.H) {
+	renderPageWithStatus(c, templateName, data, http.StatusOK)
 }
 
 func renderTemplateToString(name string, data any) string {
