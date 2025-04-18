@@ -34,8 +34,6 @@ jobs:
         if: always()
         run: |
           junit-viewer --results=reports/junit-report.xml --save=reports/report.html
-      - name: Add link to summary
-        run: echo "[View Test Report](./reports/report.html)" >> $GITHUB_STEP_SUMMARY
       - name: Upload test report
         if: always()
         uses: actions/upload-artifact@v4
