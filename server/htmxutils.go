@@ -10,9 +10,9 @@ func renderPage(c *gin.Context, name string, data gin.H) {
 	isHTMX := c.GetHeader("HX-Request") != ""
 
 	if isHTMX {
-		_ = tmpl.ExecuteTemplate(c.Writer, name, data)
+		tmpl.ExecuteTemplate(c.Writer, name, data)
 	} else {
-		_ = tmpl.ExecuteTemplate(c.Writer, "index", gin.H{
+		tmpl.ExecuteTemplate(c.Writer, "index", gin.H{
 			"Body": template.HTML(renderTemplateToString(name, data)),
 		})
 	}
