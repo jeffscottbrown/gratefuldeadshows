@@ -6,7 +6,6 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -14,11 +13,7 @@ var router = createAndConfigureRouter()
 
 func TestShowsByDate(t *testing.T) {
 
-	tests := []struct {
-		path         string
-		expectedCode int
-		expectedBody string
-	}{
+	tests := []RequestExpectation{
 		{
 			path:         "/show/1977/05/08",
 			expectedCode: http.StatusOK,
@@ -39,11 +34,7 @@ func TestShowsByDate(t *testing.T) {
 	verifyResponses(t, tests)
 }
 func TestShowsBySong(t *testing.T) {
-	tests := []struct {
-		path         string
-		expectedCode int
-		expectedBody string
-	}{
+	tests := []RequestExpectation{
 		{
 			path:         "/song/Sugaree",
 			expectedCode: http.StatusOK,
@@ -59,25 +50,23 @@ func TestShowsBySong(t *testing.T) {
 	verifyResponses(t, tests)
 }
 
-func verifyResponses(t *testing.T, tests []struct {
-	path         string
-	expectedCode int
-	expectedBody string
-}) {
+func verifyResponses(t *testing.T, tests []RequestExpectation) {
 	for _, tt := range tests {
-		verifyResponse(t, router, tt)
+		verifyResponse(t, tt)
 	}
 }
 
-func verifyResponse(t *testing.T, router *gin.Engine, tt struct {
-	path         string
-	expectedCode int
-	expectedBody string
-}) {
+func verifyResponse(t *testing.T, tt RequestExpectation) {
 	w := httptest.NewRecorder()
 	req, _ := http.NewRequest("GET", tt.path, nil)
 	router.ServeHTTP(w, req)
 
 	assert.Equal(t, tt.expectedCode, w.Code)
 	assert.True(t, strings.Contains(w.Body.String(), tt.expectedBody), "Response should contain %s", tt.expectedBody)
+}
+
+type RequestExpectation struct {
+	path         string
+	expectedCode int
+	expectedBody string
 }
