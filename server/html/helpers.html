@@ -1,50 +1,33 @@
-{{ block "itemlink" . }}
-  {{ if .hiddenFormFields }}
-    {{ range $key, $value := .hiddenFormFields }}
-      <input type="hidden" name="{{ $key }}" value="{{ $value }}">
-    {{ end }}
-  {{ end }}
-  <input type="hidden" name={{ .attributeName }} value={{ .attributeValue }}>
-  <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-    hx-post="/{{ .attributeName  }}/">{{
-    .attributeValue }}</a>
-{{ end }}
-
 {{ block "pagination" . }}
 {{ .Message }}
   <nav aria-label="Page Navigation">
     <ul class="pagination">
       <div>
-        {{ if .Fields }}
-          {{ range $key, $value := .Fields }}
-            <input type="hidden" name="{{ $key }}" value="{{ $value }}">
-          {{ end }}
-        {{ end }}
-        <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
-          hx-post={{ .Uri }} hx-vals='{"offset": "0"}'>First</a></li>
+        <li hx-push-url="true" class="page-item"><a class="page-link" hx-target="#main"
+          hx-get={{ .Uri }} hx-vals='{"offset": "0"}'>First</a></li>
 
-        <li enabled="false" hx-push-url="true" hx-include="closest div" class="page-item">
+        <li enabled="false" hx-push-url="true" class="page-item">
           <a 
           {{if gt .CurrentOffset 0}}
             class="page-link" 
           {{ else }}
             class="page-link disabled"
           {{end}}
-          hx-target="#main" hx-post={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
+          hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
         </li>
 
-        <li hx-push-url="true" hx-include="closest div" class="page-item">
+        <li hx-push-url="true" class="page-item">
             <a 
             {{if lt .CurrentOffset .NextOffset}}
               class="page-link"
             {{else}}
               class="page-link disabled"
             {{end}}
-            hx-target="#main" hx-post={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
+            hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
         </li>
 
-        <li hx-push-url="true" hx-include="closest div" class="page-item"><a class="page-link" hx-target="#main"
-          hx-post={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a></li>
+        <li hx-push-url="true" class="page-item"><a class="page-link" hx-target="#main"
+          hx-get={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a></li>
       </div>
     </ul>
   </nav>
@@ -64,9 +47,8 @@
           <td>
             <div>
               <input type="hidden" name="song" value="{{ $song.ID }}">
-              <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div"
-                hx-post="/song">{{
-                $song.Title }}</a>
+              <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" 
+                hx-get="/song/{{ $song.ID }}">{{ $song.Title }}</a>
             </div>
           </td>
           <td>

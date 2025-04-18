@@ -1,0 +1,7 @@
+{{ define "error" }}
+{{ if .Message }}
+<div class="alert alert-danger" role="alert">
+    {{ .Message }}
+</div>
+{{ end }}
+{{ end }}

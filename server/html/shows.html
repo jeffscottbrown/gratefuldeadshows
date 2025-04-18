@@ -1,3 +1,4 @@
+{{define "shows" }}
 <div class="display-6">
   {{ if .Message }}
   {{ .Message }}
@@ -22,46 +23,62 @@
     <tr>
       <td>
         <div>
-          <input type="hidden" name="id" value="{{ $show.ID }}">
-          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-include="closest div" hx-post="/show/">
+          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/show/{{ $show.ID }}">
             {{ formatDate $show.Date "January 2" }}
           </a>
 
         </div>
-      <td>
-        <div>
-          {{ $year := formatDate $show.Date "2006" }}
-          {{ template "itemlink" (dict "attributeName" "year" "attributeValue" $year) }}
-        </div>
+        <td>
+          <div>
+            {{ $year := formatDate $show.Date "2006" }}
+            <a hx-push-url="true"
+            style="text-decoration: underline;"
+            hx-target="#main"
+            hx-get="/year/{{ $year }}">{{ $year }}</a>
+          </div>
+        </td>
+        <td>
+          <div>
+            <a hx-push-url="true"
+            style="text-decoration: underline;"
+            hx-target="#main"
+            hx-get="/venue/{{ $show.City }}/{{ $show.Venue }}">{{ $show.Venue }}</a>
 
-      </td>
-      <td>
-        <div>
-          {{ $hiddenFormFields := dict "city" $show.City }}
-          {{ template "itemlink" (dict "hiddenFormFields" $hiddenFormFields "attributeName" "venue" "attributeValue" $show.Venue) }}
-        </div>
-      </td>
-      <td>
-        <div>
-          {{ $hiddenFormFields := dict "state" $show.State }}
-          {{ template "itemlink" (dict "hiddenFormFields" $hiddenFormFields "attributeName" "city" "attributeValue" $show.City) }}
-        </div>
-      </td>
-      <td>
-        <div>
-          {{ template "itemlink" (dict "attributeName" "state" "attributeValue" $show.State) }}
-        </div>
-      </td>
-      <td>
-        <div>
-          {{ template "itemlink" (dict "attributeName" "country" "attributeValue" $show.Country) }}
-        </div>
-      </td>
-    </tr>
-    {{ end }}
-  </tbody>
-</table>
+          </div>
+        </td>
+        <td>
+          <div>
+            <a hx-push-url="true"
+            style="text-decoration: underline;"
+            hx-target="#main"
+            hx-get="/city/{{ $show.State }}/{{ $show.City }}">{{ $show.City }}</a>
+          </div>
+        </td>
+        <td>
+          <div>
+            <a hx-push-url="true"
+            style="text-decoration: underline;"
+            hx-target="#main"
+            hx-get="/state/{{ $show.State }}">{{ $show.State }}</a>
 
-{{ if .Pagination }}
+          </div>
+        </td>
+        <td>
+          <div>
+            <a hx-push-url="true"
+            style="text-decoration: underline;"
+            hx-target="#main"
+            hx-get="/country/{{ $show.Country }}">{{ $show.Country }}</a>
+
+          </div>
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  {{ if .Pagination }}
   {{ template "pagination" .Pagination }}
-{{ end }}
+  {{ end }}
+
+  {{ end }}

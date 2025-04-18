@@ -12,7 +12,7 @@ func createOffsetAndMaxForPagination(c *gin.Context) struct {
 	Max    int
 	Offset int
 } {
-	offset := c.PostForm("offset")
+	offset := c.Query("offset")
 
 	offsetInt, err := strconv.Atoi(offset)
 	if err != nil || offsetInt < 0 {

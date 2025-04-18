@@ -26,6 +26,8 @@ func createAndConfigureRouter() *gin.Engine {
 	return router
 }
 
+var tmpl *template.Template
+
 func configureApplicationHandlers(router *gin.Engine) {
 	router.SetFuncMap(template.FuncMap{
 		"formatDate":   formatDate,
@@ -33,28 +35,22 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"formatNumber": formatNumber,
 		"numbers":      numbers,
 	})
-	router.LoadHTMLGlob("server/html/*")
+
+	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseGlob("server/html/*.html"))
 
 	router.GET("/", renderRoot)
-	router.POST("/show", renderShow)
-	router.POST("/song", renderShowsWithSong)
-	router.POST("/songs", renderSongs)
-	router.POST("/venue", renderVenue)
-	router.POST("/venues", renderVenues)
-	router.POST("/city", renderCity)
-	router.POST("/state", renderState)
-	router.POST("/country", renderCountry)
-	router.POST("/year", renderYear)
-	router.POST("/numbers", renderNumbers)
+	router.GET("/show/:id", renderShow)
+	router.GET("/song/:song", renderShowsWithSong)
+	router.GET("/songs", renderSongs)
+	router.GET("/venue/:city/:venue", renderVenue)
+	router.GET("/venues", renderVenues)
+	router.GET("/city/:state/:city", renderCity)
+	router.GET("/state/:state", renderState)
+	router.GET("/country/:country", renderCountry)
+	router.GET("/year/:year", renderYear)
+	router.GET("/numbers", renderNumbers)
 	router.POST("/search", renderSongSearchResults)
-	router.POST("/about", renderAbout)
-
-	redir := func(c *gin.Context) {
-		c.Redirect(http.StatusMovedPermanently, "/")
-	}
-	for _, route := range []string{"/about", "/numbers", "/search", "/show", "/song", "/songs", "/venue", "/venues", "/city", "/state", "/country", "/year"} {
-		router.GET(route, redir)
-	}
+	router.GET("/about", renderAbout)
 
 	router.Static("/static", "server/assets/")
 }

@@ -1,3 +1,4 @@
+{{ define "songs" }}
 <div class="display-6">
     {{ if .Message }}
     {{ .Message }}
@@ -14,4 +15,4 @@
 {{ template "songTable" . }}
 {{ template "pagination" .Pagination }}
 </div>
-
+{{ end }}

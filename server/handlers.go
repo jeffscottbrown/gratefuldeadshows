@@ -10,15 +10,15 @@ import (
 )
 
 func renderShow(c *gin.Context) {
-	id := c.PostForm("id")
+	id := c.Param("id")
 	idInt, err := strconv.Atoi(id)
 	if err != nil || idInt < 0 {
-		c.HTML(http.StatusBadRequest, "error.html", gin.H{
+		renderPage(c, "error", gin.H{
 			"Message": "Invalid Show ID",
 		})
 	} else {
 		show := db.GetShow(idInt)
-		c.HTML(http.StatusOK, "show.html", gin.H{
+		renderPage(c, "show", gin.H{
 			"Show":    show,
 			"Message": "Show On " + show.Date.Format("January 11, 2006"),
 		})
@@ -26,7 +26,7 @@ func renderShow(c *gin.Context) {
 }
 
 func renderRoot(c *gin.Context) {
-	c.HTML(http.StatusOK, "index.html", gin.H{})
+	renderPage(c, "home", gin.H{})
 }
 
 func renderSongs(c *gin.Context) {
@@ -36,7 +36,7 @@ func renderSongs(c *gin.Context) {
 
 	pagination := getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil)
 
-	c.HTML(http.StatusOK, "songs.html", gin.H{
+	renderPage(c, "songs", gin.H{
 		"Songs":      results.Songs,
 		"Message":    fmt.Sprintf("%d Songs", results.TotalCount),
 		"Pagination": pagination,
@@ -48,7 +48,7 @@ func renderVenues(c *gin.Context) {
 
 	results := db.GetVenues(pagingInfo.Max, pagingInfo.Offset)
 
-	c.HTML(http.StatusOK, "venues.html", gin.H{
+	renderPage(c, "venues", gin.H{
 		"Venues":     results.Venues,
 		"Message":    fmt.Sprintf("%d Venues", results.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venues", nil),
@@ -58,8 +58,8 @@ func renderVenues(c *gin.Context) {
 func renderVenue(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	venue := c.PostForm("venue")
-	city := c.PostForm("city")
+	venue := c.Param("venue")
+	city := c.Param("city")
 	results := db.GetShowsAtVenue(venue, city, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
@@ -67,44 +67,43 @@ func renderVenue(c *gin.Context) {
 		"city":  city,
 	}
 
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Message":    fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venue", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/venue/%s/%s", city, venue), data),
 	})
 }
 
 func renderCity(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	city := c.PostForm("city")
-	state := c.PostForm("state")
+	city := c.Param("city")
+	state := c.Param("state")
 	results := db.GetShowsInCity(city, state, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"city": city,
 	}
-
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Message":    fmt.Sprintf("%d Shows In %s", results.TotalCount, city),
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/city", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/city/%s/%s", state, city), data),
 	})
 }
 
 func renderNumbers(c *gin.Context) {
-	c.HTML(http.StatusOK, "numbers.html", gin.H{
+	renderPage(c, "numbers", gin.H{
 		"GratefulDeadHistory": db.History,
 	})
 }
 
 func renderYear(c *gin.Context) {
-	year := c.PostForm("year")
+	year := c.Param("year")
 
 	shows := db.GetShowsInYear(year)
 	numberOfShows := len(shows)
 
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":   shows,
 		"Message": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
 	})
@@ -113,24 +112,24 @@ func renderYear(c *gin.Context) {
 func renderState(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	state := c.PostForm("state")
+	state := c.Param("state")
 	results := db.GetShowsInState(state, pagingInfo.Max, pagingInfo.Offset)
 
 	data := map[string]string{
 		"state": state,
 	}
 
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Message":    fmt.Sprintf("%d Shows In %s", results.TotalCount, state),
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/state", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/state/%s", state), data),
 	})
 }
 
 func renderShowsWithSong(c *gin.Context) {
 	pagingInfo := createOffsetAndMaxForPagination(c)
 
-	songIdString := c.PostForm("song")
+	songIdString := c.Param("song")
 
 	songId, _ := strconv.Atoi(songIdString)
 
@@ -140,16 +139,16 @@ func renderShowsWithSong(c *gin.Context) {
 		"song": songIdString,
 	}
 
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":      result.Shows,
 		"Message":    fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
-		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, "/song", data),
+		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, fmt.Sprintf("/song/%d", songId), data),
 	})
 }
 
 func renderCountry(c *gin.Context) {
 
-	country := c.PostForm("country")
+	country := c.Param("country")
 	pagingInfo := createOffsetAndMaxForPagination(c)
 	results := db.GetShowsInCountry(country, pagingInfo.Max, pagingInfo.Offset)
 
@@ -157,10 +156,10 @@ func renderCountry(c *gin.Context) {
 		"country": country,
 	}
 
-	c.HTML(http.StatusOK, "shows.html", gin.H{
+	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Message":    fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
-		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/country", data),
+		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/country/%s", country), data),
 	})
 }
 
@@ -173,5 +172,5 @@ func renderSongSearchResults(ctx *gin.Context) {
 }
 
 func renderAbout(ctx *gin.Context) {
-	ctx.HTML(http.StatusOK, "about.html", gin.H{})
+	renderPage(ctx, "about", gin.H{})
 }
