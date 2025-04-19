@@ -7,4 +7,4 @@ the concert history of The Grateful Dead.
 
 ## Developer Information
 
-Information or developers is available on [the wiki](https://github.com/jeffscottbrown/gratefuldeadshows/wiki).
+Information for developers is available on [the wiki](https://github.com/jeffscottbrown/gratefuldeadshows/wiki).
