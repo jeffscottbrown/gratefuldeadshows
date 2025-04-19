@@ -29,6 +29,12 @@
   </nav>
 {{ end }}
 
+{{ block "updateTitle" . }}
+  <script>
+    document.title = {{ .Title }};
+  </script>
+{{ end }}
+
 {{ block "songTable" . }}
   <table class="content-table">
     <thead>

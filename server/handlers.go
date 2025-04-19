@@ -28,8 +28,8 @@ func renderShow(c *gin.Context) {
 	}
 
 	renderPage(c, "show", gin.H{
-		"Show":    &show,
-		"Message": "Show On " + show.Date.Format("January 11, 2006"),
+		"Title": fmt.Sprintf("Show - %s", show.Date.Format("January 2, 2006")),
+		"Show":  &show,
 	})
 }
 
@@ -46,7 +46,7 @@ func renderSongs(c *gin.Context) {
 
 	renderPage(c, "songs", gin.H{
 		"Songs":      results.Songs,
-		"Message":    fmt.Sprintf("%d Songs", results.TotalCount),
+		"Title":      fmt.Sprintf("%d Songs", results.TotalCount),
 		"Pagination": pagination,
 	})
 }
@@ -58,7 +58,7 @@ func renderVenues(c *gin.Context) {
 
 	renderPage(c, "venues", gin.H{
 		"Venues":     results.Venues,
-		"Message":    fmt.Sprintf("%d Venues", results.TotalCount),
+		"Title":      fmt.Sprintf("%d Venues", results.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venues", nil),
 	})
 }
@@ -83,7 +83,7 @@ func renderVenue(c *gin.Context) {
 
 	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
-		"Message":    fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
+		"Title":      fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/venue/%s/%s", city, venue), data),
 	})
 }
@@ -107,7 +107,7 @@ func renderCity(c *gin.Context) {
 	}
 	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
-		"Message":    fmt.Sprintf("%d Shows In %s", results.TotalCount, city),
+		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/city/%s/%s", state, city), data),
 	})
 }
@@ -115,6 +115,7 @@ func renderCity(c *gin.Context) {
 func renderNumbers(c *gin.Context) {
 	renderPage(c, "numbers", gin.H{
 		"GratefulDeadHistory": db.History,
+		"Title":               "Numbers",
 	})
 }
 
@@ -125,8 +126,8 @@ func renderYear(c *gin.Context) {
 	numberOfShows := len(shows)
 
 	renderPage(c, "shows", gin.H{
-		"Shows":   shows,
-		"Message": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
+		"Shows": shows,
+		"Title": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
 	})
 }
 
@@ -142,7 +143,7 @@ func renderState(c *gin.Context) {
 
 	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
-		"Message":    fmt.Sprintf("%d Shows In %s", results.TotalCount, state),
+		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, state),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/state/%s", state), data),
 	})
 }
@@ -166,7 +167,7 @@ func renderShowsWithSong(c *gin.Context) {
 
 	renderPage(c, "shows", gin.H{
 		"Shows":      result.Shows,
-		"Message":    fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
+		"Title":      fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, fmt.Sprintf("/song/%s", songName), data),
 	})
 }
@@ -183,7 +184,7 @@ func renderCountry(c *gin.Context) {
 
 	renderPage(c, "shows", gin.H{
 		"Shows":      results.Shows,
-		"Message":    fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
+		"Title":      fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/country/%s", country), data),
 	})
 }
@@ -197,5 +198,7 @@ func renderSongSearchResults(ctx *gin.Context) {
 }
 
 func renderAbout(ctx *gin.Context) {
-	renderPage(ctx, "about", gin.H{})
+	renderPage(ctx, "about", gin.H{
+		"Title": "About",
+	})
 }

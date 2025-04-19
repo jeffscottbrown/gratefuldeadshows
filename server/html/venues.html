@@ -2,6 +2,8 @@
 <div class="gd-heading">
     {{ if .Message }}
     {{ .Message }}
+    {{ else if .Title }}
+    {{ .Title }}
     {{ else }}
     Venues
     {{ end }}
@@ -52,4 +54,7 @@
 </table>
 
 {{ template "pagination" .Pagination }}
+
+{{ template "updateTitle" . }}
+
 {{ end }}

@@ -2,10 +2,12 @@
 <div class="gd-heading">
     {{ if .Message }}
     {{ .Message }}
+    {{ else if .Title }}
+    {{ .Title }}
     {{ else }}
     Songs
     {{ end }}
-</div>
+  </div>
 
 <div class="mb-3">
     <input type="text" class="form-control" id="songTitle" name="songTitle" placeholder="Search for a song title" 
@@ -15,4 +17,7 @@
 {{ template "songTable" . }}
 {{ template "pagination" .Pagination }}
 </div>
+
+{{ template "updateTitle" . }}
+
 {{ end }}
