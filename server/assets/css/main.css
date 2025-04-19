@@ -91,9 +91,9 @@ table.show-table tbody tr td div a[hx-get]:hover {
 }
 
 .page-link:hover {
-    background-color: #e0e0e0;
+    background-color: maroon;
+    color: white;
     text-decoration: underline;
-    color: #000;
     cursor: pointer;
 }
 
