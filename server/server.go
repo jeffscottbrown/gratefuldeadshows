@@ -17,7 +17,7 @@ var embeddedAssets embed.FS
 //go:embed html/*.html
 var embeddedHTMLFiles embed.FS
 
-func Run() {
+func Run() { // coverage-ignore
 	router := createAndConfigureRouter()
 
 	server := http.Server{

@@ -33,6 +33,14 @@ func TestTitles(t *testing.T) {
 			path:         "/state/MO",
 			expectedCode: http.StatusOK,
 			expectedBody: "document.title = \"32 Shows In MO\"",
+		}, {
+			path:         "/songs",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"435 Songs\"",
+		}, {
+			path:         "/year/1977",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"There Were 60 Shows In 1977\"",
 		},
 	}
 	verifyResponses(t, tests)
