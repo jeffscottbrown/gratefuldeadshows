@@ -27,7 +27,7 @@ jobs:
         run: |
           mkdir -p reports
           set -o pipefail
-          go test -coverprofile=./cover.out  -v 2>&1 ./... | tee reports/test-output.txt | go-junit-report > reports/junit-report.xml
+          go test -coverprofile=./cover.out -coverpkg=./... -v 2>&1 ./... | tee reports/test-output.txt | go-junit-report > reports/junit-report.xml
           TEST_EXIT_CODE=${PIPESTATUS[0]}
           exit $TEST_EXIT_CODE
       - name: check test coverage

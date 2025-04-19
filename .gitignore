@@ -1,4 +1,5 @@
 .vscode
 tmp/
+coverage.html
 coverage.out
 gratefuldeadshows

@@ -11,6 +11,33 @@ import (
 
 var router = createAndConfigureRouter()
 
+func TestTitles(t *testing.T) {
+	tests := []RequestExpectation{
+		{
+			path:         "/venues",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"592 Venues\"",
+		}, {
+			path:         "/about",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"About\"",
+		}, {
+			path:         "/venue/Ithaca/Barton Hall",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"3 shows at Barton Hall in Ithaca\"",
+		}, {
+			path:         "/country/US",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"2,211 Shows In US\"",
+		}, {
+			path:         "/state/MO",
+			expectedCode: http.StatusOK,
+			expectedBody: "document.title = \"32 Shows In MO\"",
+		},
+	}
+	verifyResponses(t, tests)
+}
+
 func TestStaticResources(t *testing.T) {
 	verifyResponses(t, []RequestExpectation{{
 		path:         "/static/css/main.css",

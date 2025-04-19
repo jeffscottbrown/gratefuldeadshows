@@ -5,21 +5,21 @@
 # unit tests and integration tests separately, you can combine all those
 # profiles into one. In this case, the profile should have a comma-separated list 
 # of profile files, e.g., 'cover_unit.out,cover_integration.out'.
-profile: cover.out
+profile: coverage.out
 
 # Holds coverage thresholds percentages, values should be in range [0-100].
 threshold:
   # (optional; default 0) 
   # Minimum coverage percentage required for individual files.
-  file: 30
+  file: 75
 
   # (optional; default 0) 
   # Minimum coverage percentage required for each package.
-  # package: 80
+  package: 75
 
   # (optional; default 0) 
   # Minimum overall project coverage percentage required.
-  # total: 95
+  total: 80
 
 # Holds regexp rules which will override thresholds for matched files or packages 
 # using their paths.
