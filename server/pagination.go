@@ -66,14 +66,6 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 		currentPage++
 	}
 
-	// Clamp currentPage to within range
-	if currentPage > totalPages {
-		currentPage = totalPages
-	}
-	if currentPage < 1 && totalPages > 0 {
-		currentPage = 1
-	}
-
 	return struct {
 		NextOffset     int
 		PreviousOffset int
