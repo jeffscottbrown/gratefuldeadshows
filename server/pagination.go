@@ -43,6 +43,8 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 		offset = totalCount - 10
 	}
 
+	offset = int(math.Max(float64(offset), 0))
+
 	nextOffset := offset + 10
 
 	maxOffset := totalCount - 10

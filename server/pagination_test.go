@@ -28,6 +28,7 @@ func TestPagination(t *testing.T) {
 
 	assertPaging(t, -3, 0, 35, "Page 1 of 4")
 	assertPaging(t, 4000, 25, 35, "Page 4 of 4")
+	assertPaging(t, 0, 0, 4, "Page 1 of 1")
 }
 
 func assertPaging(t *testing.T, requestedOffset int, expectedOffset int, limit int, expectedPage string) {
