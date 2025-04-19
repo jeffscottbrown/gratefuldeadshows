@@ -46,6 +46,49 @@ func TestShowsByDate(t *testing.T) {
 
 	verifyResponses(t, tests)
 }
+
+func TestHomePage(t *testing.T) {
+	verifyResponse(t, RequestExpectation{
+		path:         "/",
+		expectedCode: http.StatusOK,
+		expectedBody: "The Music Never Stopped",
+	})
+}
+
+func TestSearchByCity(t *testing.T) {
+	tests := []RequestExpectation{
+		{
+			path:         "/city/GA/Atlanta",
+			expectedCode: http.StatusOK,
+			expectedBody: "Shows In Atlanta",
+		}, {
+			path:         "/city/GA/Norfolk",
+			expectedCode: http.StatusNotFound,
+			expectedBody: "No Shows Found In Norfolk GA",
+		},
+	}
+	verifyResponses(t, tests)
+}
+
+func TestSearchByVenue(t *testing.T) {
+	tests := []RequestExpectation{
+		{
+			path:         "/venue/Ithaca/Barton Hall",
+			expectedCode: http.StatusOK,
+			expectedBody: "Barton Hall",
+		}, {
+			path:         "/venue/NoWhere/Wilson",
+			expectedCode: http.StatusNotFound,
+			expectedBody: "No Shows Found At Wilson In NoWhere",
+		}, {
+			path:         "/venues",
+			expectedCode: http.StatusOK,
+			expectedBody: "Venues",
+		},
+	}
+	verifyResponses(t, tests)
+}
+
 func TestShowsBySong(t *testing.T) {
 	tests := []RequestExpectation{
 		{

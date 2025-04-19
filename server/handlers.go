@@ -70,6 +70,12 @@ func renderVenue(c *gin.Context) {
 	city := c.Param("city")
 	results := db.GetShowsAtVenue(venue, city, pagingInfo.Max, pagingInfo.Offset)
 
+	if results.TotalCount == 0 {
+		renderNotFound(c, gin.H{
+			"Message": fmt.Sprintf("No Shows Found At %s In %s", venue, city),
+		})
+		return
+	}
 	data := map[string]string{
 		"venue": venue,
 		"city":  city,
@@ -88,6 +94,13 @@ func renderCity(c *gin.Context) {
 	city := c.Param("city")
 	state := c.Param("state")
 	results := db.GetShowsInCity(city, state, pagingInfo.Max, pagingInfo.Offset)
+
+	if results.TotalCount == 0 {
+		renderNotFound(c, gin.H{
+			"Message": fmt.Sprintf("No Shows Found In %s %s", city, state),
+		})
+		return
+	}
 
 	data := map[string]string{
 		"city": city,
