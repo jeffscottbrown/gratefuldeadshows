@@ -1,13 +1,14 @@
 .PHONY: test check-coverage coverage-report open
 
-COVERAGE_OUT=coverage.out
-COVERAGE_HTML=coverage.html
+COVERAGE_OUT=./tmp/coverage.out
+COVERAGE_HTML=./tmp/coverage.html
 
 check-coverage: test
 	@go tool go-test-coverage --config=./.testcoverage.yml
 
 # Run tests with coverage, don't exit on failure
 test:
+	@mkdir -p $(dir $(COVERAGE_OUT))
 	@go test -coverpkg=./... -coverprofile=$(COVERAGE_OUT) ./... || true
 
 # Generate HTML report from coverage profile
@@ -26,3 +27,6 @@ open: coverage-report
 	else \
 		echo "Could not detect a command to open the browser."; \
 	fi
+
+clean:
+	@rm -f $(COVERAGE_OUT) $(COVERAGE_HTML)
