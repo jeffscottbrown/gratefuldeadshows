@@ -5,6 +5,6 @@ import (
 	_ "github.com/lib/pq"
 )
 
-func main() {
+func main() { // coverage-ignore
 	server.Run()
 }
