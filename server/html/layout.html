@@ -24,12 +24,11 @@
                     {{ template "renderStateSelect" . }}
                 </li>
                 <li class="nav-item active">
-                    {{ template "renderYearSelect" . }}
+                    {{ template "renderCountrySelect" . }}
                 </li>
                 <li class="nav-item active">
-                    {{ template "renderStateSelect" . }}
+                    {{ template "renderYearSelect" . }}
                 </li>
-
                 <li class="nav-item active">
                     <a hx-get="/songs" hx-target="#main" hx-push-url="true" class="nav-link active"
                         hx-swap="innerHTML" aria-current="page">Songs</a>
