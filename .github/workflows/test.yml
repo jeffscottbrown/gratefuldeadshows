@@ -34,6 +34,7 @@ jobs:
         uses: vladopajic/go-test-coverage@v2
         with:
           config: ./.testcoverage.yml
+          debug: true
       - name: Convert XML to HTML
         if: always()
         run: |
