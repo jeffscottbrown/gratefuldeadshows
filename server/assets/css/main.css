@@ -31,15 +31,15 @@ a.page-link.disabled {
     border-bottom: 1px solid #dddddd;
 }
 
-tbody.show-list tr {
+table.show-table tbody tr {
     border-bottom: 2px solid maroon;
 }
 
-tbody.show-list tr:nth-of-type(even) {
+table.show-table tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
 
-tbody.show-list a[hx-get]:hover {
+table.show-table tbody tr td div a[hx-get]:hover {
     text-decoration: underline;
     color: inherit;
 }
