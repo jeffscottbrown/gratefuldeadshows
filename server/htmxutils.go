@@ -14,7 +14,7 @@ func renderPageWithStatus(c *gin.Context, templateName string, data gin.H, statu
 	if isHTMX {
 		tmpl.ExecuteTemplate(c.Writer, templateName, data)
 	} else {
-		tmpl.ExecuteTemplate(c.Writer, "index", gin.H{
+		tmpl.ExecuteTemplate(c.Writer, "layout", gin.H{
 			"Body": template.HTML(renderTemplateToString(templateName, data)),
 		})
 	}
