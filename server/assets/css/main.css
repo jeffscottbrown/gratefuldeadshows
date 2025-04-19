@@ -116,6 +116,15 @@ li.nav-item a.page-link:hover {
     color: white;
 }
 
+div.pagination a.page-link {
+    color: maroon;
+    border: 1px solid maroon;
+}
+
+div.pagination a.page-link:hover {
+    color: white;
+}
+
 .show-summary {
     padding: 8px;
     padding-top: 12px
