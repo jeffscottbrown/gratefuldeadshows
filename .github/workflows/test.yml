@@ -29,7 +29,7 @@ jobs:
           set -o pipefail
           go test -coverprofile=./coverage.out -coverpkg=./... -v 2>&1 ./... | tee reports/test-output.txt | go-junit-report > reports/junit-report.xml
           TEST_EXIT_CODE=${PIPESTATUS[0]}
-          go tool cover -html=./coverage.out -o coverage.html
+          go tool cover -html=./coverage.out -o reports/test-coverage.html
           exit $TEST_EXIT_CODE
       - name: check test coverage
         uses: vladopajic/go-test-coverage@v2
@@ -39,12 +39,12 @@ jobs:
       - name: Convert XML to HTML
         if: always()
         run: |
-          junit-viewer --results=reports/junit-report.xml --save=reports/report.html
+          junit-viewer --results=reports/junit-report.xml --save=reports/test-results.html
       - name: Upload test report
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: go-test-report
+          name: test-reports
           path: |
-            reports/report.html
-            coverage.html
+            reports/test-results.html
+            reports/test-coverage.html
