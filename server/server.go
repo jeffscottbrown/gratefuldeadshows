@@ -39,7 +39,6 @@ var tmpl *template.Template
 func configureApplicationHandlers(router *gin.Engine) {
 	router.SetFuncMap(template.FuncMap{
 		"formatDate":   formatDate,
-		"dict":         dict,
 		"formatNumber": formatNumber,
 		"numbers":      numbers,
 	})
@@ -79,12 +78,4 @@ func formatNumber(n int) string {
 
 func formatDate(t time.Time, layout string) string {
 	return t.Format(layout)
-}
-
-func dict(values ...interface{}) map[string]interface{} {
-	m := make(map[string]interface{})
-	for i := 0; i < len(values); i += 2 {
-		m[values[i].(string)] = values[i+1]
-	}
-	return m
 }
