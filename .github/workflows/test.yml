@@ -29,6 +29,7 @@ jobs:
           set -o pipefail
           go test -coverprofile=./coverage.out -coverpkg=./... -v 2>&1 ./... | tee reports/test-output.txt | go-junit-report > reports/junit-report.xml
           TEST_EXIT_CODE=${PIPESTATUS[0]}
+          go tool cover -html=./coverage.out -o coverage.html
           exit $TEST_EXIT_CODE
       - name: check test coverage
         uses: vladopajic/go-test-coverage@v2
@@ -44,5 +45,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: go-test-report
-          path: reports/report.html
-
+          path: |
+            reports/report.html
+            coverage.html
