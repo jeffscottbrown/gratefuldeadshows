@@ -56,7 +56,6 @@ func configureApplicationHandlers(router *gin.Engine) {
 	router.GET("/state/:state", renderState)
 	router.GET("/country/:country", renderCountry)
 	router.GET("/year/:year", renderYear)
-	router.GET("/numbers", renderNumbers)
 	router.POST("/search", renderSongSearchResults)
 	router.GET("/about", renderAbout)
 

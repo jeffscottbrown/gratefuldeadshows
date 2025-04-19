@@ -112,13 +112,6 @@ func renderCity(c *gin.Context) {
 	})
 }
 
-func renderNumbers(c *gin.Context) {
-	renderTemplate(c, "numbers", gin.H{
-		"GratefulDeadHistory": db.History,
-		"Title":               "Numbers",
-	})
-}
-
 func renderYear(c *gin.Context) {
 	year := c.Param("year")
 
@@ -199,6 +192,7 @@ func renderSongSearchResults(ctx *gin.Context) {
 
 func renderAbout(ctx *gin.Context) {
 	renderTemplate(ctx, "about", gin.H{
-		"Title": "About",
+		"Title":               "About",
+		"GratefulDeadHistory": db.History,
 	})
 }
