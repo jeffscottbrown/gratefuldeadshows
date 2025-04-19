@@ -11,6 +11,19 @@ import (
 
 var router = createAndConfigureRouter()
 
+func TestStaticResources(t *testing.T) {
+	verifyResponses(t, []RequestExpectation{{
+		path:         "/static/css/main.css",
+		expectedCode: http.StatusOK,
+		expectedBody: "main",
+	}, {
+		path:         "/static/css/doesnotexist.css",
+		expectedCode: http.StatusNotFound,
+		expectedBody: "",
+	}})
+
+}
+
 func TestShowsByDate(t *testing.T) {
 
 	tests := []RequestExpectation{

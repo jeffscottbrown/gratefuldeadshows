@@ -3,6 +3,7 @@ package server
 import (
 	"embed"
 	"html/template"
+	"io/fs"
 	"net/http"
 	"time"
 
@@ -59,7 +60,9 @@ func configureApplicationHandlers(router *gin.Engine) {
 	router.POST("/search", renderSongSearchResults)
 	router.GET("/about", renderAbout)
 
-	router.Static("/static", "server/assets/")
+	staticFiles, _ := fs.Sub(embeddedAssets, "assets")
+	router.StaticFS("/static", http.FS(staticFiles))
+
 }
 
 func numbers(start, end int) []int {
