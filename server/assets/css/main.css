@@ -85,8 +85,6 @@ table.show-table tbody tr td div a[hx-get]:hover {
     padding: 0.5rem 1rem;
     border: 1px solid #ccc;
     border-radius: 8px;
-    color: #333;
-    background-color: #f9f9f9;
     transition: all 0.3s ease-in-out;
     margin-left: 1em;
 }
@@ -100,6 +98,22 @@ table.show-table tbody tr td div a[hx-get]:hover {
 
 .page-link:active {
     transform: scale(0.97);
+}
+
+li.nav-item select.page-link {
+    color: maroon;
+}
+
+li.nav-item select.page-link:hover {
+    color: white;
+}
+
+li.nav-item a.page-link {
+    color: maroon;
+}
+
+li.nav-item a.page-link:hover {
+    color: white;
 }
 
 .show-summary {
