@@ -64,7 +64,7 @@
 
 {{ block "renderCountrySelect" . }}
 <select id="country"
-    class="form-select"
+    class="form-select page-link"
     onchange="
       const val = this.value;
       htmx.ajax('GET', '/country/' + val, { target: '#main' });
@@ -88,7 +88,7 @@
 
 {{ block "renderYearSelect" . }}
 <select id="yearSelect" name="year"
-    class="form-select"
+    class="form-select page-link"
     onchange="
       const yearVal = this.value;
       htmx.ajax('GET', '/year/' + yearVal, { target: '#main' });
@@ -103,7 +103,7 @@
 
 {{ block "renderStateSelect" . }}
 <select id="stateSelect" name="state"
-    class="form-select"
+    class="form-select page-link"
     onchange="
       const stateVal = this.value;
       htmx.ajax('GET', '/state/' + stateVal, { target: '#main' });
