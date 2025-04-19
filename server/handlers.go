@@ -27,14 +27,14 @@ func renderShow(c *gin.Context) {
 		return
 	}
 
-	renderPage(c, "show", gin.H{
+	renderTemplate(c, "show", gin.H{
 		"Title": fmt.Sprintf("Show - %s", show.Date.Format("January 2, 2006")),
 		"Show":  &show,
 	})
 }
 
 func renderRoot(c *gin.Context) {
-	renderPage(c, "home", gin.H{})
+	renderTemplate(c, "home", gin.H{})
 }
 
 func renderSongs(c *gin.Context) {
@@ -44,7 +44,7 @@ func renderSongs(c *gin.Context) {
 
 	pagination := getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil)
 
-	renderPage(c, "songs", gin.H{
+	renderTemplate(c, "songs", gin.H{
 		"Songs":      results.Songs,
 		"Title":      fmt.Sprintf("%d Songs", results.TotalCount),
 		"Pagination": pagination,
@@ -56,7 +56,7 @@ func renderVenues(c *gin.Context) {
 
 	results := db.GetVenues(pagingInfo.Max, pagingInfo.Offset)
 
-	renderPage(c, "venues", gin.H{
+	renderTemplate(c, "venues", gin.H{
 		"Venues":     results.Venues,
 		"Title":      fmt.Sprintf("%d Venues", results.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venues", nil),
@@ -81,7 +81,7 @@ func renderVenue(c *gin.Context) {
 		"city":  city,
 	}
 
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/venue/%s/%s", city, venue), data),
@@ -105,7 +105,7 @@ func renderCity(c *gin.Context) {
 	data := map[string]string{
 		"city": city,
 	}
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/city/%s/%s", state, city), data),
@@ -113,7 +113,7 @@ func renderCity(c *gin.Context) {
 }
 
 func renderNumbers(c *gin.Context) {
-	renderPage(c, "numbers", gin.H{
+	renderTemplate(c, "numbers", gin.H{
 		"GratefulDeadHistory": db.History,
 		"Title":               "Numbers",
 	})
@@ -125,7 +125,7 @@ func renderYear(c *gin.Context) {
 	shows := db.GetShowsInYear(year)
 	numberOfShows := len(shows)
 
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows": shows,
 		"Title": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
 	})
@@ -141,7 +141,7 @@ func renderState(c *gin.Context) {
 		"state": state,
 	}
 
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, state),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/state/%s", state), data),
@@ -165,7 +165,7 @@ func renderShowsWithSong(c *gin.Context) {
 		return
 	}
 
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows":      result.Shows,
 		"Title":      fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, fmt.Sprintf("/song/%s", songName), data),
@@ -182,7 +182,7 @@ func renderCountry(c *gin.Context) {
 		"country": country,
 	}
 
-	renderPage(c, "shows", gin.H{
+	renderTemplate(c, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/country/%s", country), data),
@@ -192,13 +192,13 @@ func renderCountry(c *gin.Context) {
 func renderSongSearchResults(ctx *gin.Context) {
 	query := ctx.PostForm("songTitle")
 	songs := db.SongSearch(query)
-	renderPage(ctx, "songTable", gin.H{
+	renderTemplate(ctx, "songTable", gin.H{
 		"Songs": songs,
 	})
 }
 
 func renderAbout(ctx *gin.Context) {
-	renderPage(ctx, "about", gin.H{
+	renderTemplate(ctx, "about", gin.H{
 		"Title": "About",
 	})
 }

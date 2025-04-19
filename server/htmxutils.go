@@ -7,7 +7,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func renderPageWithStatus(c *gin.Context, templateName string, data gin.H, status int) {
+func renderTemplateWithStatus(c *gin.Context, templateName string, data gin.H, status int) {
 	c.Status(status)
 	isHTMX := c.GetHeader("HX-Request") != ""
 
@@ -21,15 +21,15 @@ func renderPageWithStatus(c *gin.Context, templateName string, data gin.H, statu
 }
 
 func renderBadRequest(c *gin.Context, data gin.H) {
-	renderPageWithStatus(c, "error", data, http.StatusBadRequest)
+	renderTemplateWithStatus(c, "error", data, http.StatusBadRequest)
 }
 
 func renderNotFound(c *gin.Context, data gin.H) {
-	renderPageWithStatus(c, "error", data, http.StatusNotFound)
+	renderTemplateWithStatus(c, "error", data, http.StatusNotFound)
 }
 
-func renderPage(c *gin.Context, templateName string, data gin.H) {
-	renderPageWithStatus(c, templateName, data, http.StatusOK)
+func renderTemplate(c *gin.Context, templateName string, data gin.H) {
+	renderTemplateWithStatus(c, templateName, data, http.StatusOK)
 }
 
 func renderTemplateToString(name string, data any) string {
