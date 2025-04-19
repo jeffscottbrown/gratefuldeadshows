@@ -8,45 +8,52 @@
   Shows
   {{ end }}
 </div>
-<table class="show-table">
+<table class="content-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Year</th>
+      <th>Venue</th>
+      <th>City</th>
+      <th>State</th>
+      <th>Country</th>
+    </tr>
+  </thead>
   <tbody>
     {{ range $index, $show := .Shows }}
     <tr>
       <td>
-        <div class="show-summary">
-          <div>
-            {{ $year := formatDate $show.Date "2006" }}
-            {{ $month := formatDate $show.Date "01" }}
-            {{ $day := formatDate $show.Date "2" }}
-            <a hx-push-url="true" hx-target="#main" hx-get="/show/{{ $year }}/{{ $month }}/{{ $day }}">
-              {{ formatDate $show.Date "January 2" }}
-            </a>
-
-            <a hx-push-url="true" hx-target="#main" hx-get="/year/{{ $year }}">
-              {{ formatDate $show.Date "2006" }}
-            </a>
-
-            at
-
-            <a hx-push-url="true"
-            hx-target="#main"
-            hx-get="/venue/{{ $show.City }}/{{ $show.Venue }}">{{ $show.Venue }}</a>
-          </div>
-          <div>
-            <a hx-push-url="true"
-            hx-target="#main"
-            hx-get="/city/{{ $show.State }}/{{ $show.City }}">{{ $show.City }}</a>
-
-            <a hx-push-url="true"
-            hx-target="#main"
-            hx-get="/state/{{ $show.State }}">{{ $show.State }}</a>
-
-            <a hx-push-url="true"
-            hx-target="#main"
-            hx-get="/country/{{ $show.Country }}">{{ $show.Country }}</a>
-
-          </div>
-        </div>
+        {{ $year := formatDate $show.Date "2006" }}
+        {{ $month := formatDate $show.Date "01" }}
+        {{ $day := formatDate $show.Date "2" }}
+        <a hx-push-url="true" hx-target="#main" hx-get="/show/{{ $year }}/{{ $month }}/{{ $day }}">
+          {{ formatDate $show.Date "January 2" }}
+        </a>
+      </td>
+      <td>
+        <a hx-push-url="true" hx-target="#main" hx-get="/year/{{ $year }}">
+          {{ formatDate $show.Date "2006" }}
+        </a>
+      </td>
+      <td>
+        <a hx-push-url="true"
+        hx-target="#main"
+        hx-get="/venue/{{ $show.City }}/{{ $show.Venue }}">{{ $show.Venue }}</a>
+      </td>
+      <td>
+        <a hx-push-url="true"
+        hx-target="#main"
+        hx-get="/city/{{ $show.State }}/{{ $show.City }}">{{ $show.City }}</a>
+      </td>
+      <td>
+        <a hx-push-url="true"
+        hx-target="#main"
+        hx-get="/state/{{ $show.State }}">{{ $show.State }}</a>
+      </td>
+      <td>
+        <a hx-push-url="true"
+        hx-target="#main"
+        hx-get="/country/{{ $show.Country }}">{{ $show.Country }}</a>
       </td>
     </tr>
     {{ end }}

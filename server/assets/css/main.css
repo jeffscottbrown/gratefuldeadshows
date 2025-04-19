@@ -31,17 +31,8 @@ a.page-link.disabled {
     border-bottom: 1px solid #dddddd;
 }
 
-table.show-table tbody tr {
-    border-bottom: 2px solid maroon;
-}
-
-table.show-table tr:nth-of-type(even) {
-    background-color: #f3f3f3;
-}
-
-table.show-table tbody tr td div a[hx-get]:hover {
-    text-decoration: underline;
-    color: inherit;
+table.content-table tbody tr td a[hx-get]:hover {
+    cursor: pointer;
 }
 
 .content-table tbody tr:nth-of-type(even) {
@@ -73,6 +64,7 @@ table.show-table tbody tr td div a[hx-get]:hover {
     font-weight: bold;
     color: maroon;
 }
+
 .pagination {
     display: flex;
     gap: 1rem;
@@ -80,6 +72,7 @@ table.show-table tbody tr td div a[hx-get]:hover {
     padding: 1rem;
     font-family: sans-serif;
 }
+
 .page-link {
     text-decoration: none;
     padding: 0.5rem 1rem;
@@ -123,9 +116,4 @@ div.pagination a.page-link {
 
 div.pagination a.page-link:hover {
     color: white;
-}
-
-.show-summary {
-    padding: 8px;
-    padding-top: 12px
 }
