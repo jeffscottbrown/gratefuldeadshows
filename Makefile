@@ -26,3 +26,5 @@ open: coverage-report
 	else \
 		echo "Could not detect a command to open the browser."; \
 	fi
+clean:
+	@rm -f $(COVERAGE_OUT) $(COVERAGE_HTML)
