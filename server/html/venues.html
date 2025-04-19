@@ -1,5 +1,5 @@
 {{ define "venues" }}
-<div class="display-6">
+<div class="gd-heading">
     {{ if .Message }}
     {{ .Message }}
     {{ else }}
@@ -7,7 +7,7 @@
     {{ end }}
 </div>
 
-<table class="table table-striped">
+<table class="content-table">
     <thead>
         <tr>
             <th scope="col">Venue</th>
@@ -21,8 +21,7 @@
         <tr>
             <td>
                 <div>
-                    <a hx-push-url="true"
-                    style="text-decoration: underline;"
+                    <a hx-push-url="true" 
                     hx-target="#main"
                     hx-get="/venue/{{ $venue.City }}/{{ $venue.Venue }}">{{ $venue.Venue }}</a>
                 </div>
@@ -30,7 +29,6 @@
             <td>
                 <div>
                     <a hx-push-url="true"
-                    style="text-decoration: underline;"
                     hx-target="#main"
                     hx-get="/city/{{ $venue.State }}/{{ $venue.City }}">{{ $venue.City }}</a>
 
@@ -41,7 +39,6 @@
             <td>
                 <div>
                     <a hx-push-url="true"
-                    style="text-decoration: underline;"
                     hx-target="#main"
                     hx-get="/state/{{ $venue.State }}">{{ $venue.State }}</a>
                 </div>

@@ -1,40 +1,36 @@
 {{ block "pagination" . }}
 {{ .Message }}
   <nav aria-label="Page Navigation">
-    <ul class="pagination">
-      <div>
-        <li hx-push-url="true" class="page-item"><a class="page-link" hx-target="#main"
-          hx-get={{ .Uri }} hx-vals='{"offset": "0"}'>First</a></li>
+    <div class="pagination">
+        <a hx-push-url="true" class="page-link" hx-target="#main"
+          hx-get={{ .Uri }} hx-vals='{"offset": "0"}'>First</a>
 
-        <li enabled="false" hx-push-url="true" class="page-item">
-          <a 
+          <a
+          hx-push-url="true"
           {{if gt .CurrentOffset 0}}
-            class="page-link" 
+            class="page-link"
           {{ else }}
             class="page-link disabled"
           {{end}}
           hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
-        </li>
 
-        <li hx-push-url="true" class="page-item">
-            <a 
+            <a
+            hx-push-url="true"
             {{if lt .CurrentOffset .NextOffset}}
               class="page-link"
             {{else}}
               class="page-link disabled"
             {{end}}
             hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
-        </li>
 
-        <li hx-push-url="true" class="page-item"><a class="page-link" hx-target="#main"
-          hx-get={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a></li>
-      </div>
-    </ul>
+        <a hx-push-url="true" class="page-link" hx-target="#main"
+          hx-get={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a>
+    </div>
   </nav>
 {{ end }}
 
 {{ block "songTable" . }}
-  <table class="table table-striped">
+  <table class="content-table">
     <thead>
       <tr>
         <th scope="col">Song Title</th>
@@ -47,7 +43,7 @@
           <td>
             <div>
               <input type="hidden" name="song" value="{{ $song.ID }}">
-              <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" 
+              <a hx-push-url="true" hx-target="#main"
                 hx-get="/song/{{ $song.Title }}">{{ $song.Title }}</a>
             </div>
           </td>

@@ -1,5 +1,5 @@
 {{define "shows" }}
-<div class="display-6">
+<div class="gd-heading">
   {{ if .Message }}
   {{ .Message }}
   {{ else }}
@@ -7,7 +7,7 @@
   {{ end }}
 </div>
 
-<table class="table table-striped">
+<table class="content-table">
   <thead>
     <tr>
       <th scope="col">Date</th>
@@ -26,7 +26,7 @@
           {{ $year := formatDate $show.Date "2006" }}
           {{ $month := formatDate $show.Date "01" }}
           {{ $day := formatDate $show.Date "2" }}
-          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/show/{{ $year }}/{{ $month }}/{{ $day }}">
+          <a hx-push-url="true" hx-target="#main" hx-get="/show/{{ $year }}/{{ $month }}/{{ $day }}">
             {{ formatDate $show.Date "January 2" }}
           </a>
 
@@ -35,7 +35,6 @@
           <div>
             {{ $year := formatDate $show.Date "2006" }}
             <a hx-push-url="true"
-            style="text-decoration: underline;"
             hx-target="#main"
             hx-get="/year/{{ $year }}">{{ $year }}</a>
           </div>
@@ -43,7 +42,6 @@
         <td>
           <div>
             <a hx-push-url="true"
-            style="text-decoration: underline;"
             hx-target="#main"
             hx-get="/venue/{{ $show.City }}/{{ $show.Venue }}">{{ $show.Venue }}</a>
 
@@ -52,7 +50,6 @@
         <td>
           <div>
             <a hx-push-url="true"
-            style="text-decoration: underline;"
             hx-target="#main"
             hx-get="/city/{{ $show.State }}/{{ $show.City }}">{{ $show.City }}</a>
           </div>
@@ -60,7 +57,6 @@
         <td>
           <div>
             <a hx-push-url="true"
-            style="text-decoration: underline;"
             hx-target="#main"
             hx-get="/state/{{ $show.State }}">{{ $show.State }}</a>
 
@@ -69,7 +65,6 @@
         <td>
           <div>
             <a hx-push-url="true"
-            style="text-decoration: underline;"
             hx-target="#main"
             hx-get="/country/{{ $show.Country }}">{{ $show.Country }}</a>
 

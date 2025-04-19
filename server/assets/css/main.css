@@ -1,8 +1,9 @@
 body {
+    padding: 30px;
 }
 
 main {
-    padding-bottom: 80px;
+    padding-bottom: 30px;
 }
 
 .footer {
@@ -10,31 +11,79 @@ main {
     bottom: 0;
     width: 100%;
 }
-
-a[hx-get], 
-a[hx-post], 
-a[hx-put], 
-a[hx-delete] {
-    text-decoration: none;
-}
-
-a[hx-get]:hover, 
-a[hx-post]:hover, 
-a[hx-put]:hover, 
-a[hx-delete]:hover {
-    /* text-decoration: underline; */
-    cursor: pointer;
-}
-
-.pagination .page-item {
-    display: inline-block;
-}
-
- .card-body .row {
-    background-color: #f8f9fa; 
-}
-
 a.page-link.disabled {
     background-color: white;
     color: grey;
 }
+
+.content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+}
+
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+.content-table tbody tr:last-of-type {
+    border-bottom: 2px solid maroon;
+}
+.content-table tbody tr:first-of-type {
+    border-top: 2px solid maroon;
+}
+
+.content-table tbody td.row-heading {
+    font-weight: bold;
+    text-align: right;;
+}
+
+.content-table a[hx-get] {
+    text-decoration: none;
+    color: inherit;
+}
+.content-table a[hx-get]:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.gd-heading {
+    font-size: 110%;
+    font-weight: bold;
+    color: maroon;
+}
+.pagination {
+    display: flex;
+    gap: 1rem;
+    justify-content: left;
+    padding: 1rem;
+    font-family: sans-serif;
+}
+.page-link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: #333;
+    background-color: #f9f9f9;
+    transition: all 0.2s ease-in-out;
+}
+
+.page-link:hover {
+    background-color: #e0e0e0;
+    text-decoration: underline;
+    color: #000;
+    cursor: pointer;
+}
+
+.page-link:active {
+    transform: scale(0.97);
+}
+
