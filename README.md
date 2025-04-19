@@ -60,3 +60,27 @@ The UI code is in `server/html/*.html` and `server/assets/**`.
 The following diagram illustrates the schema of the database:
 
 ![Database Schema](schema.png)
+
+## Automated Tests
+
+### Running The Tests
+
+When running the automated tests, optionally you may specify the output
+file to write code coverage results to.
+
+```bash
+go test -coverprofile=./coverage.out ./...
+```
+
+You may verify that the code coverage satisfies the requirements configured
+in this application.
+
+```bash
+go tool go-test-coverage --config=./.testcoverage.yml
+```
+
+You may view the generated test coverage report.
+
+```bash
+go tool cover -html=coverage.out
+```
