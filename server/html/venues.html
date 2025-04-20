@@ -1,5 +1,5 @@
 {{ define "venues" }}
-<div class="gd-heading">
+<h4>
     {{ if .Message }}
     {{ .Message }}
     {{ else if .Title }}
@@ -7,7 +7,7 @@
     {{ else }}
     Venues
     {{ end }}
-</div>
+</h4>
 
 <table class="content-table">
     <thead>

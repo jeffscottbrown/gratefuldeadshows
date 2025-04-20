@@ -1,5 +1,5 @@
 {{ define "songs" }}
-<div class="gd-heading">
+<h4>
     {{ if .Message }}
     {{ .Message }}
     {{ else if .Title }}
@@ -7,7 +7,7 @@
     {{ else }}
     Songs
     {{ end }}
-  </div>
+</h4>
 
 <div class="mb-3">
     <input type="text" class="form-control" id="songTitle" name="songTitle" placeholder="Search for a song title" 

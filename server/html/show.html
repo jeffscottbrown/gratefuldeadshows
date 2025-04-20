@@ -1,21 +1,22 @@
 {{ define "show" }}
-<div class="gd-heading">
+<h4>
     {{ formatDate .Show.Date "January 2, 2006" }} at {{ .Show.Venue }} in {{ .Show.City }}, {{ .Show.State }}
-</div>
+</h4>
 
 {{ range $index, $set := .Show.Sets }}
-  <h2>Set {{ $set.SetNumber }}</h2>
-  <ol>
+<h5>Set {{ $set.SetNumber }}</h5>
+<table class="content-table">
+  <tbody>
     {{ range $index, $song := $set.SongPerformances }}
-      <li>
-        <div>
-          <a hx-push-url="true" style="text-decoration: underline;" hx-target="#main" hx-get="/song/{{ $song.Song.Title }}">{{
-            $song.Song.Title }}</a>
-        </div>
-      </li>
+      <tr>
+       <td>
+          {{ $song.OrderInSet }}. <a hx-push-url="true" hx-target="#main" class="song-link" hx-get="/song/{{ $song.Song.Title }}">{{ $song.Song.Title }}</a>
+        </td>
+      </tr>
     {{ end }}
-  </ol>
-{{end}}
+  </tbody>
+</table>
+{{ end }}
 
 {{ template "updateTitle" . }}
 
