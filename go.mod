@@ -5,6 +5,7 @@ go 1.24.2
 require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/gin-gonic/gin v1.10.0
+	github.com/go-playground/assert/v2 v2.2.0
 	github.com/lib/pq v1.10.9
 	github.com/stretchr/testify v1.10.0
 	gorm.io/driver/sqlite v1.5.7

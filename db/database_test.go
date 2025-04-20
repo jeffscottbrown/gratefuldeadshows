@@ -4,6 +4,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/go-playground/assert/v2"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
@@ -32,9 +33,26 @@ func setupTestDB() *gorm.DB {
 	songPerformance := SongPerformance{SetID: set.ID, SongID: song.ID}
 	db.Create(&songPerformance)
 
+	songTitles := []string{"Sugar Magnolia", "Sugaree", "Sugar Shack", "Truckin'", "Friend of the Devil", "Ripple", "Casey Jones"}
+	for _, title := range songTitles {
+		song := Song{Title: title}
+		db.Create(&song)
+		songPerformance = SongPerformance{SetID: set.ID, SongID: song.ID}
+		db.Create(&songPerformance)
+	}
 	return db
 }
 
+func TestSongSearch(t *testing.T) {
+	testDB := setupTestDB()
+	db = testDB
+	songs := SongSearch("Sugar")
+	assert.Equal(t, 3, len(songs))
+
+	assert.Equal(t, "Sugar Magnolia", songs[0].Title)
+	assert.Equal(t, "Sugar Shack", songs[1].Title)
+	assert.Equal(t, "Sugaree", songs[2].Title)
+}
 func TestGetShowsWithSong(t *testing.T) {
 	// Setup test database
 	testDB := setupTestDB()
