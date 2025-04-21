@@ -10,7 +10,7 @@
 </h4>
 
 <div class="mb-3">
-    <input type="text" class="form-control" id="songTitle" name="songTitle" placeholder="Search for a song title" 
+    <input type="text" style="width: 450px" class="form-control" id="songTitle" name="songTitle" placeholder="Search for a song title"
            hx-post="/search" hx-swap="innerHTML" hx-target="#songTable" hx-trigger="keyup[this.value.length > 2] changed delay:500ms">
 </div>
 <div id="songTable">

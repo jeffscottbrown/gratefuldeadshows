@@ -1,38 +1,38 @@
 {{ define "numbers" }}
-<div class="c">
+<div>
     <h4>Concert History Numbers</h4>
-</div>
-<table class="content-table">
-    <tbody>
-        <tr>
-            <td class="row-heading">Shows:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfShows }}</td>
-        </tr>
+    <table class="content-table">
+        <tbody>
+            <tr>
+                <td class="row-heading">Shows:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfShows }}</td>
+            </tr>
 
-        <tr>
-            <td class="row-heading">Sets:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfSets }}</td>
-        </tr>
-        <tr>
-            <td class="row-heading">Distinct Songs:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfDistinctSongs }}</td>
-        </tr>
-        <tr>
-            <td class="row-heading">Song Performances:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfSongPerformances }}</td>
-        </tr>
-        <tr>
-            <td class="row-heading">Venues:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfVenues }}</td>
-        </tr>
-        <tr>
-            <td class="row-heading">Cities:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfCities }}</td>
-        </tr>
-        <tr>
-            <td class="row-heading">Countries:</td>
-            <td>{{ formatNumber .GratefulDeadHistory.NumberOfCountries }}</td>
-        </tr>
-    </tbody>
-</table>
+            <tr>
+                <td class="row-heading">Sets:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfSets }}</td>
+            </tr>
+            <tr>
+                <td class="row-heading">Distinct Songs:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfDistinctSongs }}</td>
+            </tr>
+            <tr>
+                <td class="row-heading">Song Performances:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfSongPerformances }}</td>
+            </tr>
+            <tr>
+                <td class="row-heading">Venues:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfVenues }}</td>
+            </tr>
+            <tr>
+                <td class="row-heading">Cities:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfCities }}</td>
+            </tr>
+            <tr>
+                <td class="row-heading">Countries:</td>
+                <td>{{ formatNumber .GratefulDeadHistory.NumberOfCountries }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 {{ end }}
