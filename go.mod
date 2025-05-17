@@ -3,6 +3,7 @@ module github.com/jeffscottbrown/gratefuldeadshows
 go 1.24.2
 
 require (
+	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/dustin/go-humanize v1.0.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-playground/assert/v2 v2.2.0
@@ -17,6 +18,7 @@ require (
 	github.com/air-verse/air v1.61.7 // indirect
 	github.com/alexflint/go-arg v1.4.3 // indirect
 	github.com/alexflint/go-scalar v1.1.0 // indirect
+	github.com/andybalholm/cascadia v1.3.3 // indirect
 	github.com/aws/aws-sdk-go v1.55.5 // indirect
 	github.com/bep/godartsass/v2 v2.4.0 // indirect
 	github.com/bep/golibsass v1.2.0 // indirect
