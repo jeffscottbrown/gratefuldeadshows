@@ -27,7 +27,7 @@ jobs:
 
       - name: Install Playwright CLI and browsers
         run: |
-          go install go get github.com/playwright-community/playwright-go@v0.5200.0
+          go install github.com/playwright-community/playwright-go/cmd/playwright@v0.5200.0
           playwright install --with-deps
 
       - name: Install go-junit-report
