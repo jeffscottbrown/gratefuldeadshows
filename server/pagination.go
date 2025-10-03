@@ -8,6 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+const pageSize = 10
+
 func createOffsetAndMaxForPagination(c *gin.Context) struct {
 	Max    int
 	Offset int
@@ -23,7 +25,7 @@ func createOffsetAndMaxForPagination(c *gin.Context) struct {
 		Max    int
 		Offset int
 	}{
-		Max:    10,
+		Max:    pageSize,
 		Offset: offsetInt,
 	}
 }
@@ -34,30 +36,30 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 	LastOffset     int
 	CurrentOffset  int
 	Message        string
-	Uri            string
+	URI            string
 	Fields         map[string]string
 } {
 	if offset < 0 {
 		offset = 0
-	} else if offset > (totalCount - 10) {
-		offset = totalCount - 10
+	} else if offset > (totalCount - pageSize) {
+		offset = totalCount - pageSize
 	}
 
 	offset = int(math.Max(float64(offset), 0))
 
-	nextOffset := offset + 10
+	nextOffset := offset + pageSize
 
-	maxOffset := totalCount - 10
+	maxOffset := totalCount - pageSize
 	if nextOffset > maxOffset {
 		nextOffset = maxOffset
 	}
 
-	previousOffset := offset - 10
+	previousOffset := offset - pageSize
 	if previousOffset < 0 {
 		previousOffset = 0
 	}
 
-	const pageSize = 10
+	const pageSize = pageSize
 
 	// Compute total number of pages (rounding up)
 	totalPages := int(math.Ceil(float64(totalCount) / float64(pageSize)))
@@ -74,7 +76,7 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 		LastOffset     int
 		CurrentOffset  int
 		Message        string
-		Uri            string
+		URI            string
 		Fields         map[string]string
 	}{
 		NextOffset:     nextOffset,
@@ -82,7 +84,7 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 		LastOffset:     maxOffset,
 		CurrentOffset:  offset,
 		Message:        fmt.Sprintf("Page %d of %d", currentPage, totalPages),
-		Uri:            uri,
+		URI:            uri,
 		Fields:         fields,
 	}
 }

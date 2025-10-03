@@ -7,6 +7,7 @@ import (
 )
 
 func TestPagination(t *testing.T) {
+	t.Parallel()
 
 	assertPaging(t, 0, 0, 35, "Page 1 of 4")
 
@@ -32,6 +33,8 @@ func TestPagination(t *testing.T) {
 }
 
 func assertPaging(t *testing.T, requestedOffset int, expectedOffset int, limit int, expectedPage string) {
+	t.Helper()
+
 	pageInfo := getPagination(requestedOffset, limit, "/", map[string]string{})
 	assert.Equal(t, expectedPage, pageInfo.Message, "Test failed for offset=%d", requestedOffset)
 	assert.Equal(t, expectedOffset, pageInfo.CurrentOffset, "Test failed for offset=%d", requestedOffset)

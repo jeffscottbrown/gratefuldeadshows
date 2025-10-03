@@ -7,14 +7,14 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func renderTemplateWithStatus(c *gin.Context, templateName string, data gin.H, status int) {
-	c.Status(status)
-	isHTMX := c.GetHeader("HX-Request") != ""
+func renderTemplateWithStatus(ginContext *gin.Context, templateName string, data gin.H, status int) {
+	ginContext.Status(status)
+	isHTMX := ginContext.GetHeader("HX-Request") != ""
 
 	if isHTMX {
-		tmpl.ExecuteTemplate(c.Writer, templateName, data)
+		_ = tmpl.ExecuteTemplate(ginContext.Writer, templateName, data)
 	} else {
-		tmpl.ExecuteTemplate(c.Writer, "layout", gin.H{
+		_ = tmpl.ExecuteTemplate(ginContext.Writer, "layout", gin.H{
 			"Body": template.HTML(renderTemplateToString(templateName, data)),
 		})
 	}
@@ -34,8 +34,10 @@ func renderTemplate(c *gin.Context, templateName string, data gin.H) {
 
 func renderTemplateToString(name string, data any) string {
 	var buf []byte
+
 	writer := &buffer{&buf}
 	_ = tmpl.ExecuteTemplate(writer, name, data)
+
 	return string(*writer.buf)
 }
 
@@ -45,5 +47,6 @@ type buffer struct {
 
 func (w *buffer) Write(p []byte) (int, error) {
 	*w.buf = append(*w.buf, p...)
+
 	return len(p), nil
 }

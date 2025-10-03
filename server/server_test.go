@@ -1,9 +1,9 @@
 package server
 
 import (
+	"context"
 	"net/http"
 	"net/http/httptest"
-	"strings"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -12,6 +12,8 @@ import (
 var router = createAndConfigureRouter()
 
 func TestTitles(t *testing.T) {
+	t.Parallel()
+
 	tests := []RequestExpectation{
 		{
 			path:         "/venues",
@@ -47,6 +49,8 @@ func TestTitles(t *testing.T) {
 }
 
 func TestStaticResources(t *testing.T) {
+	t.Parallel()
+
 	verifyResponses(t, []RequestExpectation{{
 		path:         "/static/css/main.css",
 		expectedCode: http.StatusOK,
@@ -56,10 +60,10 @@ func TestStaticResources(t *testing.T) {
 		expectedCode: http.StatusNotFound,
 		expectedBody: "",
 	}})
-
 }
 
 func TestShowsByDate(t *testing.T) {
+	t.Parallel()
 
 	tests := []RequestExpectation{
 		{
@@ -83,6 +87,7 @@ func TestShowsByDate(t *testing.T) {
 }
 
 func TestHomePage(t *testing.T) {
+	t.Parallel()
 	verifyResponse(t, RequestExpectation{
 		path:         "/",
 		expectedCode: http.StatusOK,
@@ -91,6 +96,8 @@ func TestHomePage(t *testing.T) {
 }
 
 func TestSearchByCity(t *testing.T) {
+	t.Parallel()
+
 	tests := []RequestExpectation{
 		{
 			path:         "/city/GA/Atlanta",
@@ -106,6 +113,8 @@ func TestSearchByCity(t *testing.T) {
 }
 
 func TestSearchByVenue(t *testing.T) {
+	t.Parallel()
+
 	tests := []RequestExpectation{
 		{
 			path:         "/venue/Ithaca/Barton Hall",
@@ -125,6 +134,8 @@ func TestSearchByVenue(t *testing.T) {
 }
 
 func TestShowsBySong(t *testing.T) {
+	t.Parallel()
+
 	tests := []RequestExpectation{
 		{
 			path:         "/song/Sugaree",
@@ -142,18 +153,24 @@ func TestShowsBySong(t *testing.T) {
 }
 
 func verifyResponses(t *testing.T, tests []RequestExpectation) {
+	t.Helper()
+
 	for _, tt := range tests {
 		verifyResponse(t, tt)
 	}
 }
 
-func verifyResponse(t *testing.T, tt RequestExpectation) {
-	w := httptest.NewRecorder()
-	req, _ := http.NewRequest("GET", tt.path, nil)
-	router.ServeHTTP(w, req)
+func verifyResponse(t *testing.T, expectation RequestExpectation) {
+	t.Helper()
 
-	assert.Equal(t, tt.expectedCode, w.Code)
-	assert.True(t, strings.Contains(w.Body.String(), tt.expectedBody), "Response should contain %s", tt.expectedBody)
+	recorder := httptest.NewRecorder()
+	req, _ := http.NewRequestWithContext(context.Background(), http.MethodGet, expectation.path, nil)
+	router.ServeHTTP(recorder, req)
+
+	assert.Equal(t, expectation.expectedCode, recorder.Code)
+	assert.Contains(t,
+		recorder.Body.String(), expectation.expectedBody,
+		"Response should contain %s", expectation.expectedBody)
 }
 
 type RequestExpectation struct {

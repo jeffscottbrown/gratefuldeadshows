@@ -10,43 +10,53 @@ import (
 )
 
 func setupTestDB() *gorm.DB {
-	// Create an in-memory SQLite database for testing
-	db, err := gorm.Open(sqlite.Open(":memory:"), &gorm.Config{})
+	// Create an in-memory SQLite gdd.sqlDb.for testing
+	sqlDB, err := gorm.Open(sqlite.Open(":memory:"), &gorm.Config{})
 	if err != nil {
 		panic("failed to connect to test database")
 	}
 
 	// Migrate the schema
-	db.AutoMigrate(&Show{}, &Set{}, &Song{}, &SongPerformance{})
+	_ = sqlDB.AutoMigrate(&Show{}, &Set{}, &Song{}, &SongPerformance{})
 
 	// Seed test data
 	song := Song{Title: "Scarlet Begonias"}
-	db.Create(&song)
+	sqlDB.Create(&song)
 
 	date, _ := time.Parse("2006-01-02", "1974-05-19")
 	show := Show{Date: date}
-	db.Create(&show)
+	sqlDB.Create(&show)
 
 	set := Set{ShowID: show.ID}
-	db.Create(&set)
+	sqlDB.Create(&set)
 
 	songPerformance := SongPerformance{SetID: set.ID, SongID: song.ID}
-	db.Create(&songPerformance)
+	sqlDB.Create(&songPerformance)
 
-	songTitles := []string{"Sugar Magnolia", "Sugaree", "Sugar Shack", "Truckin'", "Friend of the Devil", "Ripple", "Casey Jones"}
+	songTitles := []string{"Sugar Magnolia",
+		"Sugaree",
+		"Sugar Shack",
+		"Truckin'",
+		"Friend of the Devil",
+		"Ripple",
+		"Casey Jones"}
 	for _, title := range songTitles {
 		song := Song{Title: title}
-		db.Create(&song)
+		sqlDB.Create(&song)
 		songPerformance = SongPerformance{SetID: set.ID, SongID: song.ID}
-		db.Create(&songPerformance)
+		sqlDB.Create(&songPerformance)
 	}
-	return db
+
+	return sqlDB
 }
 
 func TestSongSearch(t *testing.T) {
-	testDB := setupTestDB()
-	db = testDB
-	songs := SongSearch("Sugar")
+	t.Parallel()
+
+	gdb := &GratefulDeadDatabase{
+		sqlDB: setupTestDB(),
+	}
+	songs := gdb.SongSearch("Sugar")
 	assert.Equal(t, 3, len(songs))
 
 	assert.Equal(t, "Sugar Magnolia", songs[0].Title)
@@ -54,33 +64,38 @@ func TestSongSearch(t *testing.T) {
 	assert.Equal(t, "Sugaree", songs[2].Title)
 }
 func TestGetShowsWithSong(t *testing.T) {
-	// Setup test database
-	testDB := setupTestDB()
-	db = testDB // Assign the test database to the global `db` variable
+	t.Parallel()
+
+	gdb := &GratefulDeadDatabase{
+		sqlDB: setupTestDB(),
+	}
 
 	// Test case: Valid song title
-	result := GetShowsWithSong("Scarlet Begonias", 10, 0)
+	result := gdb.GetShowsWithSong("Scarlet Begonias", 10, 0)
 	if len(result.Shows) != 1 {
 		t.Errorf("expected 1 show, got %d", len(result.Shows))
 	}
+
 	if result.TotalCount != 1 {
 		t.Errorf("expected total count to be 1, got %d", result.TotalCount)
 	}
+
 	if result.SongTitle != "Scarlet Begonias" {
 		t.Errorf("expected song title to be 'Scarlet Begonias', got '%s'", result.SongTitle)
 	}
 
 	// Test case: Song title with different casing
-	result = GetShowsWithSong("scarlet begonias", 10, 0)
+	result = gdb.GetShowsWithSong("scarlet begonias", 10, 0)
 	if len(result.Shows) != 1 {
 		t.Errorf("expected 1 show, got %d", len(result.Shows))
 	}
 
 	// Test case: Non-existent song title
-	result = GetShowsWithSong("Nonexistent Song", 10, 0)
+	result = gdb.GetShowsWithSong("Nonexistent Song", 10, 0)
 	if len(result.Shows) != 0 {
 		t.Errorf("expected 0 shows, got %d", len(result.Shows))
 	}
+
 	if result.TotalCount != 0 {
 		t.Errorf("expected total count to be 0, got %d", result.TotalCount)
 	}

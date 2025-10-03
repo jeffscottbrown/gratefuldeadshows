@@ -1,8 +1,11 @@
 package db
 
 import (
+	"context"
 	_ "embed"
+	"errors"
 	"fmt"
+	"log/slog"
 	"os"
 	"strings"
 	"time"
@@ -11,78 +14,36 @@ import (
 	"gorm.io/gorm"
 )
 
-var db *gorm.DB
-
-var History GratefulDeadHistory
-
 //go:embed gratefuldata.db
 var gratefuldataDb []byte
 
-func init() {
-	initializeDatabase()
-	preloadData()
+type GratefulDeadDatabase struct {
+	sqlDB   *gorm.DB
+	history GratefulDeadHistory
 }
 
-func initializeDatabase() {
-	tempFile, err := os.CreateTemp("", "gratefuldata-*.db")
-	if err != nil {
-		fmt.Printf("Failed to create temp file: %v\n", err)
-		panic("failed to create temp file")
-	}
+func NewGratefulDeadDatabase() *GratefulDeadDatabase {
+	gdd := &GratefulDeadDatabase{}
+	gdd.initializeDatabase()
+	gdd.preloadData()
 
-	_, err = tempFile.Write(gratefuldataDb)
-	if err != nil {
-		fmt.Printf("Failed to write to temp file: %v\n", err)
-		panic("failed to write to temp file")
-	}
-
-	tempFilePath := tempFile.Name()
-
-	db, err = gorm.Open(sqlite.Open(tempFilePath), &gorm.Config{})
-	if err != nil {
-		fmt.Printf("Failed to connect database: %v\n", err)
-		panic("failed to connect database")
-	}
+	return gdd
 }
 
-func preloadData() {
-	var count int64
-
-	db.Model(&Show{}).
-		Select("city, state, mind, COUNT(*)").
-		Group("city, state, venue").
-		Count(&count)
-
-	History.NumberOfVenues = int(count)
-
-	db.Model(&Show{}).Distinct("city").Count(&count)
-	History.NumberOfCities = int(count)
-
-	db.Model(&Show{}).Distinct("country").Count(&count)
-	History.NumberOfCountries = int(count)
-
-	db.Model(&Show{}).Count(&count)
-	History.NumberOfShows = int(count)
-
-	db.Model(&Set{}).Count(&count)
-	History.NumberOfSets = int(count)
-
-	db.Model(&Song{}).Count(&count)
-	History.NumberOfDistinctSongs = int(count)
-
-	db.Model(&SongPerformance{}).Count(&count)
-	History.NumberOfSongPerformances = int(count)
+func (gdd *GratefulDeadDatabase) GetHistory() GratefulDeadHistory {
+	return gdd.history
 }
 
-func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...string) struct {
+func (gdd *GratefulDeadDatabase) GetShowsAtVenue(venue string, city string, limit int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 } {
-
 	var shows []Show
-	db.Where("venue = ? AND city = ?", venue, city).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	gdd.sqlDB.Where("venue = ? AND city = ?", venue, city).Limit(limit).Offset(offset).Order("date asc").Find(&shows)
+
 	var totalCount int64
-	db.Model(&Show{}).Where("venue = ? AND city = ?", venue, city).Count(&totalCount)
+	gdd.sqlDB.Model(&Show{}).Where("venue = ? AND city = ?", venue, city).Count(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -92,15 +53,16 @@ func GetShowsAtVenue(venue string, city string, max int, offset int, fields ...s
 	}
 }
 
-func GetShowsInCountry(country string, max int, offset int) struct {
+func (gdd *GratefulDeadDatabase) GetShowsInCountry(country string, limit int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("country = ?", country).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	gdd.sqlDB.Where("country = ?", country).Limit(limit).Offset(offset).Order("date asc").Find(&shows)
 
 	var totalCount int64
-	db.Model(&Show{}).Where("country = ?", country).Count(&totalCount)
+	gdd.sqlDB.Model(&Show{}).Where("country = ?", country).Count(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -110,7 +72,7 @@ func GetShowsInCountry(country string, max int, offset int) struct {
 	}
 }
 
-func GetShowByDate(year string, month string, day string) (*Show, error) {
+func (gdd *GratefulDeadDatabase) GetShowByDate(year string, month string, day string) (*Show, error) {
 	month = fmt.Sprintf("%02s", month)
 	day = fmt.Sprintf("%02s", day)
 	dateStr := fmt.Sprintf("%s-%s-%s", year, month, day)
@@ -123,24 +85,28 @@ func GetShowByDate(year string, month string, day string) (*Show, error) {
 	// Query by date
 	var show Show
 
-	result := db.Preload("Sets.SongPerformances.Song").Where("date = ?", date).First(&show)
+	result := gdd.sqlDB.Preload("Sets.SongPerformances.Song").Where("date = ?", date).First(&show)
 	if result.Error != nil {
-		if result.Error == gorm.ErrRecordNotFound {
+		if errors.Is(result.Error, gorm.ErrRecordNotFound) {
 			return nil, result.Error
 		}
+
 		return nil, result.Error
 	}
+
 	return &show, nil
-
 }
-func GetShowsInState(state string, max int, offset int) struct {
+
+func (gdd *GratefulDeadDatabase) GetShowsInState(state string, limit int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("state = ?", state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	gdd.sqlDB.Where("state = ?", state).Limit(limit).Offset(offset).Order("date asc").Find(&shows)
+
 	var totalCount int64
-	db.Model(&Show{}).Where("state = ?", state).Count(&totalCount)
+	gdd.sqlDB.Model(&Show{}).Where("state = ?", state).Count(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -150,14 +116,16 @@ func GetShowsInState(state string, max int, offset int) struct {
 	}
 }
 
-func GetShowsInCity(city string, state string, max int, offset int) struct {
+func (gdd *GratefulDeadDatabase) GetShowsInCity(city string, state string, limit int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 } {
 	var shows []Show
-	db.Where("city = ? AND state = ?", city, state).Limit(max).Offset(offset).Order("date asc").Find(&shows)
+	gdd.sqlDB.Where("city = ? AND state = ?", city, state).Limit(limit).Offset(offset).Order("date asc").Find(&shows)
+
 	var totalCount int64
-	db.Model(&Show{}).Where("city = ? AND state = ?", city, state).Count(&totalCount)
+	gdd.sqlDB.Model(&Show{}).Where("city = ? AND state = ?", city, state).Count(&totalCount)
+
 	return struct {
 		Shows      []Show
 		TotalCount int
@@ -167,13 +135,14 @@ func GetShowsInCity(city string, state string, max int, offset int) struct {
 	}
 }
 
-func GetShowsInYear(year string) []Show {
+func (gdd *GratefulDeadDatabase) GetShowsInYear(year string) []Show {
 	var shows []Show
-	db.Where("strftime('%Y', date) = ?", year).Order("date asc").Find(&shows)
+	gdd.sqlDB.Where("strftime('%Y', date) = ?", year).Order("date asc").Find(&shows)
+
 	return shows
 }
 
-func SongSearch(query string) []struct {
+func (gdd *GratefulDeadDatabase) SongSearch(query string) []struct {
 	Title         string
 	ID            uint
 	NumberOfShows int
@@ -184,7 +153,7 @@ func SongSearch(query string) []struct {
 		NumberOfShows int
 	}
 
-	db.Model(&Song{}).
+	gdd.sqlDB.Model(&Song{}).
 		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
 		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
 		Joins("JOIN sets ON sets.id = song_performances.set_id").
@@ -197,7 +166,7 @@ func SongSearch(query string) []struct {
 	return songs
 }
 
-func GetSongs(max int, offset int) struct {
+func (gdd *GratefulDeadDatabase) GetSongs(limit int, offset int) struct {
 	Songs []struct {
 		Title         string
 		ID            uint
@@ -205,26 +174,25 @@ func GetSongs(max int, offset int) struct {
 	}
 	TotalCount int
 } {
-
 	var songs []struct {
 		Title         string
 		ID            uint
 		NumberOfShows int
 	}
 
-	db.Model(&Song{}).
+	gdd.sqlDB.Model(&Song{}).
 		Select("songs.title, songs.id, COUNT(DISTINCT shows.id) as number_of_shows").
 		Joins("JOIN song_performances ON song_performances.song_id = songs.id").
 		Joins("JOIN sets ON sets.id = song_performances.set_id").
 		Joins("JOIN shows ON shows.id = sets.show_id").
 		Group("songs.id").
 		Order("songs.title").
-		Limit(max).
+		Limit(limit).
 		Offset(offset).
 		Scan(&songs)
 
 	var totalCount int64
-	db.Model(&Song{}).Count(&totalCount)
+	gdd.sqlDB.Model(&Song{}).Count(&totalCount)
 
 	return struct {
 		Songs []struct {
@@ -239,7 +207,7 @@ func GetSongs(max int, offset int) struct {
 	}
 }
 
-func GetVenues(max int, offset int) struct {
+func (gdd *GratefulDeadDatabase) GetVenues(limit int, offset int) struct {
 	Venues []struct {
 		City          string
 		State         string
@@ -254,15 +222,16 @@ func GetVenues(max int, offset int) struct {
 		Venue         string
 		NumberOfShows int
 	}
-	db.Model(&Show{}).
+	gdd.sqlDB.Model(&Show{}).
 		Select("city, state, venue, COUNT(*) as number_of_shows").
 		Group("city, state, venue").
 		Order("venue").
-		Limit(max).
+		Limit(limit).
 		Offset(offset).
 		Scan(&venues)
+
 	var totalCount int64
-	db.Model(&Show{}).
+	gdd.sqlDB.Model(&Show{}).
 		Select("city, state, venue, COUNT(*)").
 		Group("city, state, venue").
 		Count(&totalCount)
@@ -281,18 +250,18 @@ func GetVenues(max int, offset int) struct {
 	}
 }
 
-func GetShowsWithSong(songTitle string, max int, offset int) struct {
+func (gdd *GratefulDeadDatabase) GetShowsWithSong(songTitle string, limit int, offset int) struct {
 	Shows      []Show
 	TotalCount int
 	SongTitle  string
 } {
 	var shows []Show
 
-	db.Joins("JOIN sets ON sets.show_id = shows.id").
+	gdd.sqlDB.Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
 		Joins("JOIN songs ON songs.id = song_performances.song_id").
 		Where("LOWER(songs.title) = ?", strings.ToLower(songTitle)).
-		Limit(max).
+		Limit(limit).
 		Offset(offset).
 		Order("date asc").
 		Preload("Sets.SongPerformances.Song").
@@ -300,7 +269,7 @@ func GetShowsWithSong(songTitle string, max int, offset int) struct {
 
 	var totalCount int64
 
-	db.Model(&Show{}).
+	gdd.sqlDB.Model(&Show{}).
 		Joins("JOIN sets ON sets.show_id = shows.id").
 		Joins("JOIN song_performances ON song_performances.set_id = sets.id").
 		Joins("JOIN songs ON songs.id = song_performances.song_id").
@@ -316,5 +285,56 @@ func GetShowsWithSong(songTitle string, max int, offset int) struct {
 		Shows:      shows,
 		TotalCount: int(totalCount),
 		SongTitle:  songTitle,
+	}
+}
+
+func (gdd *GratefulDeadDatabase) preloadData() {
+	var count int64
+
+	gdd.sqlDB.Model(&Show{}).
+		Select("city, state, mind, COUNT(*)").
+		Group("city, state, venue").
+		Count(&count)
+
+	gdd.history.NumberOfVenues = int(count)
+
+	gdd.sqlDB.Model(&Show{}).Distinct("city").Count(&count)
+	gdd.history.NumberOfCities = int(count)
+
+	gdd.sqlDB.Model(&Show{}).Distinct("country").Count(&count)
+	gdd.history.NumberOfCountries = int(count)
+
+	gdd.sqlDB.Model(&Show{}).Count(&count)
+	gdd.history.NumberOfShows = int(count)
+
+	gdd.sqlDB.Model(&Set{}).Count(&count)
+	gdd.history.NumberOfSets = int(count)
+
+	gdd.sqlDB.Model(&Song{}).Count(&count)
+	gdd.history.NumberOfDistinctSongs = int(count)
+
+	gdd.sqlDB.Model(&SongPerformance{}).Count(&count)
+	gdd.history.NumberOfSongPerformances = int(count)
+}
+
+func (gdd *GratefulDeadDatabase) initializeDatabase() {
+	tempFile, err := os.CreateTemp("", "gratefuldata-*.db")
+	if err != nil {
+		slog.ErrorContext(context.Background(), "Failed to create temp file", slog.Any("error", err))
+		panic("failed to create temp file")
+	}
+
+	_, err = tempFile.Write(gratefuldataDb)
+	if err != nil {
+		slog.ErrorContext(context.Background(), "Failed to write to temp file", slog.Any("error", err))
+		panic("failed to write to temp file")
+	}
+
+	tempFilePath := tempFile.Name()
+
+	gdd.sqlDB, err = gorm.Open(sqlite.Open(tempFilePath), &gorm.Config{})
+	if err != nil {
+		slog.ErrorContext(context.Background(), "Failed to connect database", slog.Any("error", err))
+		panic("failed to connect database")
 	}
 }

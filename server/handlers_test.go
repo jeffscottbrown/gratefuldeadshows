@@ -9,25 +9,30 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestRenderVenue(t *testing.T) {
-	w := httptest.NewRecorder()
-	c, _ := gin.CreateTestContext(w)
-	c.Params = gin.Params{
+	t.Parallel()
+
+	recorder := httptest.NewRecorder()
+	testContext, _ := gin.CreateTestContext(recorder)
+	testContext.Params = gin.Params{
 		{Key: "venue", Value: "Kiel Auditorium"},
 		{Key: "city", Value: "St. Louis"},
 	}
 
 	// The url in this request is not used
-	c.Request = httptest.NewRequest("GET", "/", nil)
+	testContext.Request = httptest.NewRequest(http.MethodGet, "/", nil)
 
-	renderVenue(c)
+	gdh := GetGratefulDeadHandlers()
 
-	assert.Equal(t, http.StatusOK, w.Code, "Expected status 200")
+	gdh.renderVenue(testContext)
 
-	doc, err := goquery.NewDocumentFromReader(w.Body)
-	assert.NoError(t, err, "Expected no error parsing HTML")
+	assert.Equal(t, http.StatusOK, recorder.Code, "Expected status 200")
+
+	doc, err := goquery.NewDocumentFromReader(recorder.Body)
+	require.NoError(t, err, "Expected no error parsing HTML")
 
 	heading := doc.Find("h4")
 	assert.Equal(t, 1, heading.Length(), "Expected one h4 element")

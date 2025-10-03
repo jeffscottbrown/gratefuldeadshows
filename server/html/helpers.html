@@ -3,7 +3,7 @@
 <nav aria-label="Page Navigation">
   <div class="pagination">
     <a hx-push-url="true" class="page-link" hx-target="#main"
-    hx-get={{ .Uri }}>First</a>
+    hx-get={{ .URI }}>First</a>
 
     <a
     hx-push-url="true"
@@ -12,7 +12,7 @@
     {{ else }}
     class="page-link disabled"
     {{end}}
-    hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
+    hx-target="#main" hx-get={{ .URI }} hx-vals='{"offset": "{{ .PreviousOffset }}"}'>Previous</a>
 
     <a
     hx-push-url="true"
@@ -21,10 +21,10 @@
     {{else}}
     class="page-link disabled"
     {{end}}
-    hx-target="#main" hx-get={{ .Uri }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
+    hx-target="#main" hx-get={{ .URI }} hx-vals='{"offset": "{{ .NextOffset}}"}'>Next</a>
 
     <a hx-push-url="true" class="page-link" hx-target="#main"
-    hx-get={{ .Uri }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a>
+    hx-get={{ .URI }} hx-vals='{"offset": "{{ .LastOffset}}"}'>Last</a>
   </div>
 </nav>
 {{ end }}

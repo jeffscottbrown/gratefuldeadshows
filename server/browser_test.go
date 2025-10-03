@@ -7,32 +7,42 @@ import (
 
 	"github.com/playwright-community/playwright-go"
 	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestSongSearch(t *testing.T) {
+	t.Parallel()
+
 	go Run()
+
 	time.Sleep(500 * time.Millisecond)
 
 	err := playwright.Install()
-	assert.NoError(t, err)
+	require.NoError(t, err)
 
-	pw, err := playwright.Run()
-	assert.NoError(t, err)
-	defer pw.Stop()
+	playwrightRun, err := playwright.Run()
+	require.NoError(t, err)
 
-	browser, err := pw.Chromium.Launch()
-	assert.NoError(t, err)
-	defer browser.Close()
+	defer func() {
+		_ = playwrightRun.Stop()
+	}()
+
+	browser, err := playwrightRun.Chromium.Launch()
+	require.NoError(t, err)
+
+	defer func() {
+		_ = browser.Close()
+	}()
 
 	page, err := browser.NewPage()
-	assert.NoError(t, err)
+	require.NoError(t, err)
 
 	_, err = page.Goto("http://localhost:8080/songs")
-	assert.NoError(t, err)
+	require.NoError(t, err)
 
 	input := page.Locator("input[type='text']")
 	err = input.PressSequentially("Sug")
-	assert.NoError(t, err)
+	require.NoError(t, err)
 	_, err = page.WaitForFunction(
 		`() => {
 		const rows = document.querySelectorAll("table tbody tr");
@@ -40,7 +50,7 @@ func TestSongSearch(t *testing.T) {
 	}`,
 		nil,
 	)
-	assert.NoError(t, err)
+	require.NoError(t, err)
 
 	rows := page.Locator("table tbody tr")
 
@@ -50,14 +60,14 @@ func TestSongSearch(t *testing.T) {
 		"Sugaree",
 	}
 
-	for i, expectedText := range expected {
-		row := rows.Nth(i)
+	for idx, expectedText := range expected {
+		row := rows.Nth(idx)
 		firstCell := row.Locator("td").First()
 
 		text, err := firstCell.TextContent()
-		assert.NoError(t, err, "Failed to get text from row %d", i+1)
+		require.NoError(t, err, "Failed to get text from row %d", idx+1)
 
 		text = strings.TrimSpace(text)
-		assert.Equal(t, expectedText, text, "Row %d text mismatch", i+1)
+		assert.Equal(t, expectedText, text, "Row %d text mismatch", idx+1)
 	}
 }

@@ -1,0 +1,17 @@
+version: "2"
+linters:
+  default: all
+  disable:
+    - depguard
+    - exhaustruct
+    - gochecknoglobals
+    - gosec
+    - testpackage
+    - wrapcheck
+    - wsl
+  exclusions:
+    presets:
+      - comments
+run:
+  timeout: 2m
+  tests: true

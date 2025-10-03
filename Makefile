@@ -8,7 +8,7 @@ check-coverage: test
 
 # Run tests with coverage, don't exit on failure
 test:
-	@go test -coverpkg=./... -coverprofile=$(COVERAGE_OUT) ./... || true
+	@go test -count=1 -coverpkg=./... -coverprofile=$(COVERAGE_OUT) ./... || true
 
 # Generate HTML report from coverage profile
 coverage-report: test
@@ -28,3 +28,9 @@ open: coverage-report
 	fi
 clean:
 	@rm -f $(COVERAGE_OUT) $(COVERAGE_HTML)
+
+lint:
+	@golangci-lint run ./...
+
+check: check-coverage lint
+	@echo "All checks passed!"

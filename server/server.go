@@ -24,7 +24,7 @@ func Run() { // coverage-ignore
 		Addr:    ":8080",
 		Handler: router,
 	}
-	server.ListenAndServe()
+	_ = server.ListenAndServe()
 }
 
 func createAndConfigureRouter() *gin.Engine {
@@ -45,30 +45,33 @@ func configureApplicationHandlers(router *gin.Engine) {
 
 	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseFS(embeddedHTMLFiles, "html/*.html"))
 
-	router.GET("/", renderRoot)
-	router.GET("/show/:year/:month/:day", renderShow)
-	router.GET("/song/:song", renderShowsWithSong)
-	router.GET("/songs", renderSongs)
-	router.GET("/venue/:city/:venue", renderVenue)
-	router.GET("/venues", renderVenues)
-	router.GET("/city/:state/:city", renderCity)
-	router.GET("/state/:state", renderState)
-	router.GET("/country/:country", renderCountry)
-	router.GET("/year/:year", renderYear)
-	router.POST("/search", renderSongSearchResults)
-	router.GET("/about", renderAbout)
+	gratefulDeadHandlers := GetGratefulDeadHandlers()
+
+	router.GET("/", gratefulDeadHandlers.renderRoot)
+	router.GET("/show/:year/:month/:day", gratefulDeadHandlers.renderShow)
+	router.GET("/song/:song", gratefulDeadHandlers.renderShowsWithSong)
+	router.GET("/songs", gratefulDeadHandlers.renderSongs)
+	router.GET("/venue/:city/:venue", gratefulDeadHandlers.renderVenue)
+	router.GET("/venues", gratefulDeadHandlers.renderVenues)
+	router.GET("/city/:state/:city", gratefulDeadHandlers.renderCity)
+	router.GET("/state/:state", gratefulDeadHandlers.renderState)
+	router.GET("/country/:country", gratefulDeadHandlers.renderCountry)
+	router.GET("/year/:year", gratefulDeadHandlers.renderYear)
+	router.POST("/search", gratefulDeadHandlers.renderSongSearchResults)
+	router.GET("/about", gratefulDeadHandlers.renderAbout)
 
 	staticFiles, _ := fs.Sub(embeddedAssets, "assets")
 	router.StaticFS("/static", http.FS(staticFiles))
-
 }
 
 func numbers(start, end int) []int {
 	n := end - start + 1
+
 	r := make([]int, n)
-	for i := 0; i < n; i++ {
+	for i := range n {
 		r[i] = start + i
 	}
+
 	return r
 }
 
