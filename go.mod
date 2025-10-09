@@ -1,6 +1,6 @@
 module github.com/jeffscottbrown/gratefuldeadshows
 
-go 1.25.1
+go 1.25.2
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.3
@@ -80,7 +80,7 @@ require (
 	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/sys v0.37.0 // indirect
 	golang.org/x/text v0.30.0 // indirect
-	golang.org/x/tools v0.37.0 // indirect
+	golang.org/x/tools v0.38.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

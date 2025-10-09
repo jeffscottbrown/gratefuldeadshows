@@ -1,4 +1,4 @@
-FROM golang:1.25.1-alpine AS appbuilder
+FROM golang:1.25.2-alpine AS appbuilder
 
 RUN apk update && apk add --no-cache build-base go
 WORKDIR /build
