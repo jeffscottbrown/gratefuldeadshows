@@ -3,19 +3,24 @@ package server
 import (
 	"errors"
 	"fmt"
+	"html/template"
+	"net/http"
 
 	"github.com/gin-gonic/gin"
+	"github.com/jeffscottbrown/ginhtmxtemplates/ginhtmx"
 	"github.com/jeffscottbrown/gratefuldeadshows/db"
 	"gorm.io/gorm"
 )
 
 type GratefulDeadHandlers struct {
 	database *db.GratefulDeadDatabase
+	htmx     *ginhtmx.Htmx
 }
 
-func GetGratefulDeadHandlers() *GratefulDeadHandlers {
+func GetGratefulDeadHandlers(tmpl *template.Template) *GratefulDeadHandlers {
 	return &GratefulDeadHandlers{
 		database: db.NewGratefulDeadDatabase(),
+		htmx:     ginhtmx.NewHtmx(tmpl),
 	}
 }
 
@@ -27,26 +32,26 @@ func (gdh *GratefulDeadHandlers) renderShow(ginContext *gin.Context) {
 	show, err := gdh.database.GetShowByDate(year, month, day)
 	if err != nil {
 		if errors.Is(err, gorm.ErrRecordNotFound) {
-			renderNotFound(ginContext, gin.H{
+			gdh.htmx.RenderTemplateWithStatus(ginContext, "error", gin.H{
 				"Message": fmt.Sprintf("Show Not Found: %s-%s-%s", year, month, day),
-			})
+			}, http.StatusNotFound)
 		} else {
-			renderBadRequest(ginContext, gin.H{
+			gdh.htmx.RenderTemplateWithStatus(ginContext, "error", gin.H{
 				"Message": fmt.Sprintf("Show Not Found: %s-%s-%s [%s]", year, month, day, err),
-			})
+			}, http.StatusBadRequest)
 		}
 
 		return
 	}
 
-	renderTemplate(ginContext, "show", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "show", gin.H{
 		"Title": "Show - " + show.Date.Format("January 2, 2006"),
 		"Show":  &show,
 	})
 }
 
 func (gdh *GratefulDeadHandlers) renderRoot(c *gin.Context) {
-	renderTemplate(c, "home", gin.H{})
+	gdh.htmx.RenderTemplate(c, "home", gin.H{})
 }
 
 func (gdh *GratefulDeadHandlers) renderSongs(ginContext *gin.Context) {
@@ -56,7 +61,7 @@ func (gdh *GratefulDeadHandlers) renderSongs(ginContext *gin.Context) {
 
 	pagination := getPagination(pagingInfo.Offset, results.TotalCount, "/songs", nil)
 
-	renderTemplate(ginContext, "songs", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "songs", gin.H{
 		"Songs":      results.Songs,
 		"Title":      fmt.Sprintf("%d Songs", results.TotalCount),
 		"Pagination": pagination,
@@ -68,7 +73,7 @@ func (gdh *GratefulDeadHandlers) renderVenues(c *gin.Context) {
 
 	results := gdh.database.GetVenues(pagingInfo.Max, pagingInfo.Offset)
 
-	renderTemplate(c, "venues", gin.H{
+	gdh.htmx.RenderTemplate(c, "venues", gin.H{
 		"Venues":     results.Venues,
 		"Title":      fmt.Sprintf("%d Venues", results.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/venues", nil),
@@ -83,9 +88,9 @@ func (gdh *GratefulDeadHandlers) renderVenue(ginContext *gin.Context) {
 	results := gdh.database.GetShowsAtVenue(venue, city, pagingInfo.Max, pagingInfo.Offset)
 
 	if results.TotalCount == 0 {
-		renderNotFound(ginContext, gin.H{
+		gdh.htmx.RenderTemplateWithStatus(ginContext, "error", gin.H{
 			"Message": fmt.Sprintf("No Shows Found At %s In %s", venue, city),
-		})
+		}, http.StatusNotFound)
 
 		return
 	}
@@ -95,7 +100,7 @@ func (gdh *GratefulDeadHandlers) renderVenue(ginContext *gin.Context) {
 		"city":  city,
 	}
 
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d shows at %s in %s", results.TotalCount, venue, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/venue/%s/%s", city, venue), data),
@@ -110,9 +115,9 @@ func (gdh *GratefulDeadHandlers) renderCity(ginContext *gin.Context) {
 	results := gdh.database.GetShowsInCity(city, state, pagingInfo.Max, pagingInfo.Offset)
 
 	if results.TotalCount == 0 {
-		renderNotFound(ginContext, gin.H{
+		gdh.htmx.RenderTemplateWithStatus(ginContext, "error", gin.H{
 			"Message": fmt.Sprintf("No Shows Found In %s %s", city, state),
-		})
+		}, http.StatusNotFound)
 
 		return
 	}
@@ -120,7 +125,7 @@ func (gdh *GratefulDeadHandlers) renderCity(ginContext *gin.Context) {
 	data := map[string]string{
 		"city": city,
 	}
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, city),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, fmt.Sprintf("/city/%s/%s", state, city), data),
@@ -133,7 +138,7 @@ func (gdh *GratefulDeadHandlers) renderYear(ginContext *gin.Context) {
 	shows := gdh.database.GetShowsInYear(year)
 	numberOfShows := len(shows)
 
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows": shows,
 		"Title": fmt.Sprintf("There Were %d Shows In %s", numberOfShows, year),
 	})
@@ -149,7 +154,7 @@ func (gdh *GratefulDeadHandlers) renderState(ginContext *gin.Context) {
 		"state": state,
 	}
 
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%d Shows In %s", results.TotalCount, state),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/state/"+state, data),
@@ -167,14 +172,14 @@ func (gdh *GratefulDeadHandlers) renderShowsWithSong(ginContext *gin.Context) {
 		"song": songName,
 	}
 	if result.TotalCount == 0 {
-		renderNotFound(ginContext, gin.H{
+		gdh.htmx.RenderTemplateWithStatus(ginContext, "error", gin.H{
 			"Message": "No Shows Found With Song: " + songName,
-		})
+		}, http.StatusNotFound)
 
 		return
 	}
 
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows":      result.Shows,
 		"Title":      fmt.Sprintf("%s Was Played At %d Shows", result.SongTitle, result.TotalCount),
 		"Pagination": getPagination(pagingInfo.Offset, result.TotalCount, "/song/%s"+songName, data),
@@ -190,7 +195,7 @@ func (gdh *GratefulDeadHandlers) renderCountry(ginContext *gin.Context) {
 		"country": country,
 	}
 
-	renderTemplate(ginContext, "shows", gin.H{
+	gdh.htmx.RenderTemplate(ginContext, "shows", gin.H{
 		"Shows":      results.Shows,
 		"Title":      fmt.Sprintf("%s Shows In %s", formatNumber(results.TotalCount), country),
 		"Pagination": getPagination(pagingInfo.Offset, results.TotalCount, "/country/"+country, data),
@@ -200,13 +205,13 @@ func (gdh *GratefulDeadHandlers) renderCountry(ginContext *gin.Context) {
 func (gdh *GratefulDeadHandlers) renderSongSearchResults(ctx *gin.Context) {
 	query := ctx.PostForm("songTitle")
 	songs := gdh.database.SongSearch(query)
-	renderTemplate(ctx, "songTable", gin.H{
+	gdh.htmx.RenderTemplate(ctx, "songTable", gin.H{
 		"Songs": songs,
 	})
 }
 
 func (gdh *GratefulDeadHandlers) renderAbout(ctx *gin.Context) {
-	renderTemplate(ctx, "about", gin.H{
+	gdh.htmx.RenderTemplate(ctx, "about", gin.H{
 		"Title":               "About",
 		"GratefulDeadHistory": gdh.database.GetHistory(),
 	})

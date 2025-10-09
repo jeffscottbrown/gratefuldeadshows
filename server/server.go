@@ -34,8 +34,6 @@ func createAndConfigureRouter() *gin.Engine {
 	return router
 }
 
-var tmpl *template.Template
-
 func configureApplicationHandlers(router *gin.Engine) {
 	router.SetFuncMap(template.FuncMap{
 		"formatDate":   formatDate,
@@ -43,9 +41,9 @@ func configureApplicationHandlers(router *gin.Engine) {
 		"numbers":      numbers,
 	})
 
-	tmpl = template.Must(template.New("").Funcs(router.FuncMap).ParseFS(embeddedHTMLFiles, "html/*.html"))
+	tmpl := template.Must(template.New("").Funcs(router.FuncMap).ParseFS(embeddedHTMLFiles, "html/*.html"))
 
-	gratefulDeadHandlers := GetGratefulDeadHandlers()
+	gratefulDeadHandlers := GetGratefulDeadHandlers(tmpl)
 
 	router.GET("/", gratefulDeadHandlers.renderRoot)
 	router.GET("/show/:year/:month/:day", gratefulDeadHandlers.renderShow)
