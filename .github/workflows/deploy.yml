@@ -56,7 +56,7 @@ jobs:
           platforms: linux/amd64,linux/arm64
           tags: ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest,${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:${{env.DOCKER_IMAGE_VERSION}}
       - name: 'auth'
-        uses: 'google-github-actions/auth@v2'
+        uses: 'google-github-actions/auth@v3'
         with:
           credentials_json: '${{ secrets.GCP_SA_KEY }}'
       - name: 'Set up Cloud SDK'
