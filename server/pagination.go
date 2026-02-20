@@ -54,10 +54,7 @@ func getPagination(offset int, totalCount int, uri string, fields map[string]str
 		nextOffset = maxOffset
 	}
 
-	previousOffset := offset - pageSize
-	if previousOffset < 0 {
-		previousOffset = 0
-	}
+	previousOffset := max(offset-pageSize, 0)
 
 	const pageSize = pageSize
 
