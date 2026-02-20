@@ -8,7 +8,7 @@ require (
 	github.com/gin-gonic/gin v1.11.0
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/jeffscottbrown/ginhtmxtemplates v1.0.8
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.11.2
 	github.com/playwright-community/playwright-go v0.5200.1
 	github.com/stretchr/testify v1.11.1
 	gorm.io/driver/sqlite v1.6.0
