@@ -6,14 +6,11 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/gin-gonic/gin"
+	"github.com/stretchr/testify/suite"
 )
 
-var router = createAndConfigureRouter()
-
-func TestTitles(t *testing.T) {
-	t.Parallel()
-
+func (s *ServerTestSuite) TestTitles() {
 	tests := []RequestExpectation{
 		{
 			path:         "/venues",
@@ -45,13 +42,11 @@ func TestTitles(t *testing.T) {
 			expectedBody: "document.title = \"There Were 60 Shows In 1977\"",
 		},
 	}
-	verifyResponses(t, tests)
+	s.verifyResponses(tests)
 }
 
-func TestStaticResources(t *testing.T) {
-	t.Parallel()
-
-	verifyResponses(t, []RequestExpectation{{
+func (s *ServerTestSuite) TestStaticResources() {
+	s.verifyResponses([]RequestExpectation{{
 		path:         "/static/css/main.css",
 		expectedCode: http.StatusOK,
 		expectedBody: "main",
@@ -62,9 +57,7 @@ func TestStaticResources(t *testing.T) {
 	}})
 }
 
-func TestShowsByDate(t *testing.T) {
-	t.Parallel()
-
+func (s *ServerTestSuite) TestShowsByDate() {
 	tests := []RequestExpectation{
 		{
 			path:         "/show/1977/05/08",
@@ -83,21 +76,18 @@ func TestShowsByDate(t *testing.T) {
 		},
 	}
 
-	verifyResponses(t, tests)
+	s.verifyResponses(tests)
 }
 
-func TestHomePage(t *testing.T) {
-	t.Parallel()
-	verifyResponse(t, RequestExpectation{
+func (s *ServerTestSuite) TestHomePage() {
+	s.verifyResponse(RequestExpectation{
 		path:         "/",
 		expectedCode: http.StatusOK,
 		expectedBody: "The Music Never Stopped",
 	})
 }
 
-func TestSearchByCity(t *testing.T) {
-	t.Parallel()
-
+func (s *ServerTestSuite) TestSearchByCity() {
 	tests := []RequestExpectation{
 		{
 			path:         "/city/GA/Atlanta",
@@ -109,12 +99,10 @@ func TestSearchByCity(t *testing.T) {
 			expectedBody: "No Shows Found In Norfolk GA",
 		},
 	}
-	verifyResponses(t, tests)
+	s.verifyResponses(tests)
 }
 
-func TestSearchByVenue(t *testing.T) {
-	t.Parallel()
-
+func (s *ServerTestSuite) TestSearchByVenue() {
 	tests := []RequestExpectation{
 		{
 			path:         "/venue/Ithaca/Barton Hall",
@@ -130,12 +118,10 @@ func TestSearchByVenue(t *testing.T) {
 			expectedBody: "Venues",
 		},
 	}
-	verifyResponses(t, tests)
+	s.verifyResponses(tests)
 }
 
-func TestShowsBySong(t *testing.T) {
-	t.Parallel()
-
+func (s *ServerTestSuite) TestShowsBySong() {
 	tests := []RequestExpectation{
 		{
 			path:         "/song/Sugaree",
@@ -149,32 +135,45 @@ func TestShowsBySong(t *testing.T) {
 		},
 	}
 
-	verifyResponses(t, tests)
-}
-
-func verifyResponses(t *testing.T, tests []RequestExpectation) {
-	t.Helper()
-
-	for _, tt := range tests {
-		verifyResponse(t, tt)
-	}
-}
-
-func verifyResponse(t *testing.T, expectation RequestExpectation) {
-	t.Helper()
-
-	recorder := httptest.NewRecorder()
-	req, _ := http.NewRequestWithContext(context.Background(), http.MethodGet, expectation.path, nil)
-	router.ServeHTTP(recorder, req)
-
-	assert.Equal(t, expectation.expectedCode, recorder.Code)
-	assert.Contains(t,
-		recorder.Body.String(), expectation.expectedBody,
-		"Response should contain %s", expectation.expectedBody)
+	s.verifyResponses(tests)
 }
 
 type RequestExpectation struct {
 	path         string
 	expectedCode int
 	expectedBody string
+}
+
+type ServerTestSuite struct {
+	suite.Suite
+
+	router *gin.Engine
+}
+
+func (s *ServerTestSuite) SetupSuite() {
+	s.router = createAndConfigureRouter()
+}
+
+func TestServer(t *testing.T) { //nolint:paralleltest
+	suite.Run(t, new(ServerTestSuite))
+}
+
+func (s *ServerTestSuite) verifyResponse(expectation RequestExpectation) {
+	s.T().Helper()
+
+	recorder := httptest.NewRecorder()
+	req, _ := http.NewRequestWithContext(context.Background(), http.MethodGet, expectation.path, nil)
+	s.router.ServeHTTP(recorder, req)
+
+	s.Equal(expectation.expectedCode, recorder.Code)
+	s.Contains(recorder.Body.String(), expectation.expectedBody,
+		"Response should contain %s", expectation.expectedBody)
+}
+
+func (s *ServerTestSuite) verifyResponses(tests []RequestExpectation) {
+	s.T().Helper()
+
+	for _, tt := range tests {
+		s.verifyResponse(tt)
+	}
 }

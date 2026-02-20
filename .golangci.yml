@@ -4,7 +4,6 @@ linters:
   disable:
     - depguard
     - exhaustruct
-    - gochecknoglobals
     - gosec
     - testpackage
     - wrapcheck
