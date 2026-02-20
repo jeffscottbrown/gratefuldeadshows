@@ -32,7 +32,7 @@ jobs:
           junit-viewer --results=reports/junit-report.xml --save=reports/report.html
       - name: Upload test report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: go-test-report
           path: reports/report.html
