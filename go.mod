@@ -3,11 +3,11 @@ module github.com/jeffscottbrown/gratefuldeadshows
 go 1.25.4
 
 require (
-	github.com/PuerkitoBio/goquery v1.10.3
+	github.com/PuerkitoBio/goquery v1.11.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/gin-gonic/gin v1.11.0
 	github.com/go-playground/assert/v2 v2.2.0
-	github.com/jeffscottbrown/ginhtmxtemplates v1.0.7
+	github.com/jeffscottbrown/ginhtmxtemplates v1.0.8
 	github.com/lib/pq v1.10.9
 	github.com/playwright-community/playwright-go v0.5200.1
 	github.com/stretchr/testify v1.11.1
