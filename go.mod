@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/PuerkitoBio/goquery v1.11.0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/gin-gonic/gin v1.11.0
+	github.com/gin-gonic/gin v1.12.0
 	github.com/go-playground/assert/v2 v2.2.0
 	github.com/jeffscottbrown/ginhtmxtemplates v1.0.9
 	github.com/lib/pq v1.11.2
@@ -71,10 +71,11 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.3.1 // indirect
 	github.com/vladopajic/go-test-coverage/v2 v2.17.0 // indirect
+	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
 	golang.org/x/arch v0.24.0 // indirect
 	golang.org/x/crypto v0.48.0 // indirect
 	golang.org/x/image v0.30.0 // indirect
-	golang.org/x/net v0.50.0 // indirect
+	golang.org/x/net v0.51.0 // indirect
 	golang.org/x/sys v0.41.0 // indirect
 	golang.org/x/text v0.34.0 // indirect
 	golang.org/x/tools v0.41.0 // indirect
