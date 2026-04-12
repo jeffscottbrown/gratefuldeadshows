@@ -42,6 +42,14 @@ const navCards = [
     color: "from-indigo-900/60 to-indigo-800/30 border-indigo-700/40",
     accent: "text-indigo-300",
   },
+  {
+    href: "/about",
+    label: "About",
+    icon: "🌈",
+    desc: "Read a little about the site, why it is here, and how you could participate.",
+    color: "from-indigo-900/60 to-indigo-800/30 border-indigo-700/40",
+    accent: "text-indigo-300",
+  },
 ];
 
 function StatBadge({ value, label }: { value: string; label: string }) {

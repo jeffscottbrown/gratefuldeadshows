@@ -1,12 +1,13 @@
-import Link from 'next/link';
-import TodayLink from './TodayLink';
+import Link from "next/link";
+import TodayLink from "./TodayLink";
 
 const navLinks = [
-  { href: '/years', label: 'By Year' },
-  { href: '/cities', label: 'By City' },
-  { href: '/countries', label: 'By Country' },
-  { href: '/songs', label: 'By Song' },
-  { href: '/birthday', label: 'Birthday Shows' },
+  { href: "/about", label: "About" },
+  { href: "/years", label: "By Year" },
+  { href: "/cities", label: "By City" },
+  { href: "/countries", label: "By Country" },
+  { href: "/songs", label: "By Song" },
+  { href: "/birthday", label: "Birthday Shows" },
 ];
 
 export default function Header() {
@@ -40,7 +41,7 @@ export default function Header() {
               href={link.href}
               className="px-2 py-1 rounded text-xs text-gray-400 hover:text-dead-gold transition-colors"
             >
-              {link.label.split(' ')[1] ?? link.label}
+              {link.label.split(" ")[1] ?? link.label}
             </Link>
           ))}
           <TodayLink />
