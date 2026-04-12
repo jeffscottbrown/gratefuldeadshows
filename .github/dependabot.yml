@@ -1,22 +1,22 @@
 version: 2
 
 updates:
-  - package-ecosystem: "gomod"
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     open-pull-requests-limit: 10
     commit-message:
-      prefix: "deps(go)"
+      prefix: "deps(npm)"
       include: "scope"
     labels:
       - "dependencies"
-      - "go"
+      - "javascript"
 
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     commit-message:
       prefix: "deps(ci)"
     labels:
