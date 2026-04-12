@@ -4,6 +4,10 @@ import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
+// Prevent Next.js from prerendering DB-backed pages at build time.
+// All pages are server-rendered on demand.
+export const dynamic = 'force-dynamic';
+
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
