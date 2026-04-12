@@ -1,24 +1,48 @@
-FROM golang:1.26.0-alpine AS appbuilder
+FROM node:22-alpine AS base
+RUN apk add --no-cache python3 make g++ libc6-compat
 
-RUN apk update && apk add --no-cache build-base go
-WORKDIR /build
+# ── Install dependencies ──────────────────────────────────────────────────────
+FROM base AS deps
+WORKDIR /app
+COPY package*.json ./
+RUN npm ci
 
-COPY go.mod go.sum ./
-
-RUN go mod download
-
+# ── Build ─────────────────────────────────────────────────────────────────────
+FROM base AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
 COPY . .
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN npm run build
 
-ENV CGO_ENABLED=1
-
-RUN go build -o gratefuldeadshows .
-
-FROM alpine:latest
-
-ENV GIN_MODE=release
+# ── Runtime ───────────────────────────────────────────────────────────────────
+FROM node:22-alpine AS runner
+RUN apk add --no-cache libc6-compat
 
 WORKDIR /app
+ENV NODE_ENV=production
+ENV NEXT_TELEMETRY_DISABLED=1
 
-COPY --from=appbuilder /build/gratefuldeadshows ./
+RUN addgroup --system --gid 1001 nodejs \
+ && adduser  --system --uid 1001 nextjs
 
-CMD ["./gratefuldeadshows"]
+# Standalone output bundle
+COPY --from=builder /app/.next/standalone ./
+COPY --from=builder /app/.next/static     ./.next/static
+COPY --from=builder /app/public           ./public
+
+# SQLite database
+COPY --from=builder /app/db/gratefuldata.db ./db/gratefuldata.db
+
+# better-sqlite3 native module (needed by standalone runtime)
+COPY --from=deps /app/node_modules/better-sqlite3   ./node_modules/better-sqlite3
+COPY --from=deps /app/node_modules/bindings          ./node_modules/bindings
+COPY --from=deps /app/node_modules/file-uri-to-path  ./node_modules/file-uri-to-path
+
+USER nextjs
+
+EXPOSE 3000
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
+
+CMD ["node", "server.js"]
