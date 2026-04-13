@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getShow } from '@/lib/db';
+import { getReleasesForShow } from '@/lib/releases';
 import { notFound } from 'next/navigation';
 
 interface Props {
@@ -40,6 +41,9 @@ export default async function ShowPage({ params }: Props) {
   const { id } = await params;
   const show = getShow(Number(id));
   if (!show) notFound();
+
+  const releases = getReleasesForShow(show.date.slice(0, 10));
+  const relistenUrl = `https://relisten.net/grateful-dead/${show.date.slice(0, 10).replace(/-/g, '/')}`;
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-10">
@@ -104,6 +108,18 @@ export default async function ShowPage({ params }: Props) {
         </dl>
       </div>
 
+      {/* External links */}
+      <div className="flex flex-wrap gap-3 mb-8">
+        <Link
+          href={relistenUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-dead-border bg-dead-card text-sm text-dead-teal-light hover:text-white hover:border-dead-teal-light transition-colors"
+        >
+          Listen on Relisten ↗
+        </Link>
+      </div>
+
       {/* Setlist */}
       {show.sets.length > 0 ? (
         <div>
@@ -135,6 +151,27 @@ export default async function ShowPage({ params }: Props) {
         </div>
       ) : (
         <p className="text-gray-500 italic">No setlist data available for this show.</p>
+      )}
+
+      {/* Official releases */}
+      {releases.length > 0 && (
+        <div className="mt-10">
+          <h2 className="text-xl font-semibold text-dead-teal-light mb-4">Official Releases</h2>
+          <ul className="space-y-2">
+            {releases.map((release) => (
+              <li key={release.discUrl}>
+                <Link
+                  href={release.discUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-dead-gold hover:text-white hover:underline transition-colors"
+                >
+                  {release.title} ↗
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
       )}
     </div>
   );
