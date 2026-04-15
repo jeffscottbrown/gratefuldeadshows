@@ -1,7 +1,8 @@
-import type { Metadata } from 'next';
-import Link from 'next/link';
-import { getShowsByYear } from '@/lib/db';
-import ShowList from '@/components/ShowList';
+import type { Metadata } from "next";
+import Link from "next/link";
+import { getShowsByYear } from "@/lib/db";
+import { getReleasesMapForShows } from "@/lib/releases";
+import ShowList from "@/components/ShowList";
 
 interface Props {
   params: Promise<{ year: string }>;
@@ -15,6 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function YearPage({ params }: Props) {
   const { year } = await params;
   const shows = getShowsByYear(year);
+  const released = getReleasesMapForShows();
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
@@ -27,9 +29,9 @@ export default async function YearPage({ params }: Props) {
       </div>
       <h1 className="text-3xl font-bold text-dead-gold mb-1">{year}</h1>
       <p className="text-gray-400 mb-8">
-        {shows.length} show{shows.length !== 1 ? 's' : ''}
+        {shows.length} show{shows.length !== 1 ? "s" : ""}
       </p>
-      <ShowList shows={shows} />
+      <ShowList shows={shows} releasesByDate={released} />
     </div>
   );
 }

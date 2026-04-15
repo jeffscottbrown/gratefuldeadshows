@@ -1,0 +1,28 @@
+import type { Collection } from "@/lib/releases";
+
+export const BADGE: Record<Collection, { abbr: string; cls: string }> = {
+  "Dick's Picks":             { abbr: "DiP", cls: "bg-rose-800 text-rose-100" },
+  "Dave's Picks":             { abbr: "DaP", cls: "bg-blue-800 text-blue-100" },
+  "Road Trips":               { abbr: "RT",  cls: "bg-green-800 text-green-100" },
+  "Download Series":          { abbr: "DL",  cls: "bg-purple-800 text-purple-100" },
+  "Hunter's Trix":            { abbr: "HT",  cls: "bg-orange-700 text-orange-100" },
+  "30 Trips Around The Sun":  { abbr: "30T", cls: "bg-amber-700 text-amber-100" },
+  "Europe '72":               { abbr: "E72", cls: "bg-teal-700 text-teal-100" },
+  "From The Vault":           { abbr: "FtV", cls: "bg-slate-600 text-slate-100" },
+  "View From The Vault":      { abbr: "VtV", cls: "bg-slate-500 text-slate-100" },
+  "May 1977":                 { abbr: "M77", cls: "bg-pink-800 text-pink-100" },
+  "Pacific Northwest":        { abbr: "PNW", cls: "bg-emerald-800 text-emerald-100" },
+  "July 1978":                { abbr: "J78", cls: "bg-yellow-700 text-yellow-100" },
+  "Spring 1990":              { abbr: "S90", cls: "bg-lime-700 text-lime-100" },
+  "Friend Of The Devils":     { abbr: "FoD", cls: "bg-red-800 text-red-100" },
+  "Listen To The River":      { abbr: "LtR", cls: "bg-cyan-800 text-cyan-100" },
+  "In And Out Of The Garden": { abbr: "IOG", cls: "bg-violet-800 text-violet-100" },
+  "Giants Stadium":           { abbr: "GS",  cls: "bg-sky-800 text-sky-100" },
+  "Believe It If You Need It":{ abbr: "BIY", cls: "bg-indigo-800 text-indigo-100" },
+  "Saint Of Circumstance":    { abbr: "SoC", cls: "bg-fuchsia-800 text-fuchsia-100" },
+  "Ready Or Not":             { abbr: "RoN", cls: "bg-rose-700 text-rose-100" },
+  "Lyceum 1972":              { abbr: "Lyc", cls: "bg-teal-800 text-teal-100" },
+  "Winterland":               { abbr: "Wtr", cls: "bg-gray-600 text-gray-100" },
+  "Here Comes Sunshine":      { abbr: "HCS", cls: "bg-yellow-800 text-yellow-100" },
+  "Rocking The Cradle":       { abbr: "RtC", cls: "bg-orange-800 text-orange-100" },
+};

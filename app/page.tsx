@@ -19,6 +19,14 @@ const navCards = [
     accent: "text-teal-300",
   },
   {
+    href: "/states",
+    label: "Browse by State",
+    icon: "🇺🇸",
+    desc: "Explore shows by US state and region.",
+    color: "from-emerald-900/60 to-emerald-800/30 border-emerald-700/40",
+    accent: "text-emerald-300",
+  },
+  {
     href: "/countries",
     label: "Browse by Country",
     icon: "🌍",
@@ -33,6 +41,22 @@ const navCards = [
     desc: "Track every song ever played and when it appeared in the setlist.",
     color: "from-rose-900/60 to-rose-800/30 border-rose-700/40",
     accent: "text-rose-300",
+  },
+  {
+    href: "/collections",
+    label: "Browse by Collection",
+    icon: "💿",
+    desc: "Explore official release collections like Dick's Picks, Dave's Picks, and Boxed Sets.",
+    color: "from-blue-900/60 to-blue-800/30 border-blue-700/40",
+    accent: "text-blue-300",
+  },
+  {
+    href: "/search",
+    label: "Search Shows",
+    icon: "🔍",
+    desc: "Filter shows by year, country, and city.",
+    color: "from-gray-900/60 to-gray-800/30 border-gray-700/40",
+    accent: "text-gray-300",
   },
   {
     href: "/birthday",
