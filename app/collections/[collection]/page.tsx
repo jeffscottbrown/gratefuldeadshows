@@ -139,7 +139,15 @@ export default async function CollectionPage({ params, searchParams }: Props) {
                 )}
               </div>
             )}
-            <div className="mt-auto">
+            <div className="mt-auto flex flex-col gap-1">
+              {release.dateInfo[0]?.date && (
+                <Link
+                  href={`https://relisten.net/grateful-dead/${release.dateInfo[0].date.replace(/-/g, "/")}`}
+                  className="inline-flex items-center text-[10px] text-dead-teal-light hover:text-white transition-colors"
+                >
+                  Relisten ↗
+                </Link>
+              )}
               <Link
                 href={release.discUrl}
                 target="_blank"
@@ -147,7 +155,7 @@ export default async function CollectionPage({ params, searchParams }: Props) {
                 className="inline-flex items-center text-[10px] text-dead-teal-light hover:text-white transition-colors"
               >
                 {collectionName === "Hunter's Trix"
-                  ? "Listen on Archive.org ↗"
+                  ? "Archive.org ↗"
                   : "Details on DeadDisc ↗"}
               </Link>
             </div>

@@ -158,8 +158,6 @@ export default async function ShowPage({ params }: Props) {
           <div className="flex flex-col gap-2">
             <Link
               href={relistenUrl}
-              target="_blank"
-              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-dead-teal text-white text-sm font-medium hover:opacity-90 transition-opacity whitespace-nowrap"
             >
               Relisten ↗
