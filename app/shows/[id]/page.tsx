@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getShow } from "@/lib/db";
 import { getReleasesForShow, getCollectionSlug } from "@/lib/releases";
 import { BADGE } from "@/lib/collectionBadges";
+import CoverImage from "@/components/CoverImage";
 import { notFound } from "next/navigation";
 
 interface Props {
@@ -187,6 +188,15 @@ export default async function ShowPage({ params }: Props) {
                   : null;
                 return (
                   <div key={release.discUrl} className="flex gap-3 items-start">
+                    {release.imageUrl && (
+                      <div className="w-16 h-16 shrink-0 rounded-md overflow-hidden border border-dead-border bg-dead-bg">
+                        <CoverImage
+                          src={release.imageUrl}
+                          alt={release.title}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                    )}
                     <div className="flex flex-col gap-1 min-w-0">
                       <Link
                         href={release.discUrl}
