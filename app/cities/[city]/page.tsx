@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getShowsByCity } from "@/lib/db";
+import { getShowsByCity, getCities } from "@/lib/db";
 import { getReleasesMapForShows } from "@/lib/releases";
 import ShowList from "@/components/ShowList";
+
+export function generateStaticParams() {
+  return getCities().map(({ city }) => ({ city: encodeURIComponent(city) }));
+}
 
 interface Props {
   params: Promise<{ city: string }>;

@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getShowsByYear } from "@/lib/db";
+import { getShowsByYear, getYears } from "@/lib/db";
 import { getReleasesMapForShows } from "@/lib/releases";
 import ShowList from "@/components/ShowList";
+
+export function generateStaticParams() {
+  return getYears().map(({ year }) => ({ year }));
+}
 
 interface Props {
   params: Promise<{ year: string }>;

@@ -1,8 +1,12 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getSongById, getShowsBySong } from '@/lib/db';
+import { getSongById, getShowsBySong, getSongs } from '@/lib/db';
 import ShowList from '@/components/ShowList';
 import { notFound } from 'next/navigation';
+
+export function generateStaticParams() {
+  return getSongs().map(({ id }) => ({ id: String(id) }));
+}
 
 interface Props {
   params: Promise<{ id: string }>;

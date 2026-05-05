@@ -1,7 +1,11 @@
 import type { Metadata } from 'next';
-import { getShowsByVenue } from '@/lib/db';
+import { getShowsByVenue, getVenues } from '@/lib/db';
 import ShowList from '@/components/ShowList';
 import { notFound } from 'next/navigation';
+
+export function generateStaticParams() {
+  return getVenues().map((venue) => ({ venue: encodeURIComponent(venue) }));
+}
 
 interface Props {
   params: Promise<{ venue: string }>;

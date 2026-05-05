@@ -313,6 +313,37 @@ export function searchShows(filters: {
     .all(...params) as Show[];
 }
 
+// ---------- All shows (for client-side filtering) ----------
+
+export function getAllShows(): Show[] {
+  return getDb()
+    .prepare(
+      `SELECT id, date, venue, city, state, country,
+              strftime('%Y', date) AS year
+       FROM shows
+       ORDER BY date`,
+    )
+    .all() as Show[];
+}
+
+// ---------- IDs / names for generateStaticParams ----------
+
+export function getAllShowIds(): number[] {
+  return (
+    getDb().prepare(`SELECT id FROM shows ORDER BY id`).all() as { id: number }[]
+  ).map((r) => r.id);
+}
+
+export function getVenues(): string[] {
+  return (
+    getDb()
+      .prepare(
+        `SELECT DISTINCT venue FROM shows ORDER BY venue COLLATE NOCASE`,
+      )
+      .all() as { venue: string }[]
+  ).map((r) => r.venue);
+}
+
 // ---------- Stats ----------
 
 export function getStats(): Stats {

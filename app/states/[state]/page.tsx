@@ -1,9 +1,13 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getShowsByState } from '@/lib/db';
+import { getShowsByState, getStates } from '@/lib/db';
 import { getReleasesMapForShows } from '@/lib/releases';
 import ShowList from '@/components/ShowList';
 import { notFound } from 'next/navigation';
+
+export function generateStaticParams() {
+  return getStates().map(({ state }) => ({ state: encodeURIComponent(state) }));
+}
 
 interface Props {
   params: Promise<{ state: string }>;

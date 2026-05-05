@@ -1,7 +1,13 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getShowsByCountry } from '@/lib/db';
+import { getShowsByCountry, getCountries } from '@/lib/db';
 import ShowList from '@/components/ShowList';
+
+export function generateStaticParams() {
+  return getCountries().map(({ country }) => ({
+    country: encodeURIComponent(country),
+  }));
+}
 
 interface Props {
   params: Promise<{ country: string }>;

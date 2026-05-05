@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getShow } from "@/lib/db";
-import { getReleasesForShow, getCollectionSlug } from "@/lib/releases";
+import { getShow, getAllShowIds } from "@/lib/db";
+import { getReleasesForShow, getCollectionSlug, type Collection } from "@/lib/releases";
 import { BADGE } from "@/lib/collectionBadges";
 import CoverImage from "@/components/CoverImage";
 import { notFound } from "next/navigation";
+
+export function generateStaticParams() {
+  return getAllShowIds().map((id) => ({ id: String(id) }));
+}
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -51,7 +55,7 @@ export default async function ShowPage({ params }: Props) {
 
   // Unique collections for the header badges
   const uniqueCollections = Array.from(
-    new Set(releases.map((r) => r.collection).filter((c): c is any => !!c)),
+    new Set(releases.map((r) => r.collection).filter((c): c is Collection => !!c)),
   );
 
   return (
@@ -82,8 +86,8 @@ export default async function ShowPage({ params }: Props) {
             {show.venue}
           </h1>
           <div className="flex flex-wrap gap-2">
-            {uniqueCollections.map((col: any) => {
-              const badge = BADGE[col as keyof typeof BADGE];
+            {uniqueCollections.map((col) => {
+              const badge = BADGE[col];
               return (
                 <Link
                   key={col}
