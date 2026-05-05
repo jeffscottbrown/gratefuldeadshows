@@ -6,7 +6,7 @@ import ShowList from '@/components/ShowList';
 import { notFound } from 'next/navigation';
 
 export function generateStaticParams() {
-  return getStates().map(({ state }) => ({ state: encodeURIComponent(state) }));
+  return getStates().map(({ state }) => ({ state }));
 }
 
 interface Props {

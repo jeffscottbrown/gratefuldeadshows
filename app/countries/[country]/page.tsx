@@ -4,9 +4,7 @@ import { getShowsByCountry, getCountries } from '@/lib/db';
 import ShowList from '@/components/ShowList';
 
 export function generateStaticParams() {
-  return getCountries().map(({ country }) => ({
-    country: encodeURIComponent(country),
-  }));
+  return getCountries().map(({ country }) => ({ country }));
 }
 
 interface Props {

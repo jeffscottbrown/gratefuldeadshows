@@ -4,7 +4,7 @@ import ShowList from '@/components/ShowList';
 import { notFound } from 'next/navigation';
 
 export function generateStaticParams() {
-  return getVenues().map((venue) => ({ venue: encodeURIComponent(venue) }));
+  return getVenues().map((venue) => ({ venue }));
 }
 
 interface Props {

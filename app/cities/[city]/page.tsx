@@ -5,7 +5,7 @@ import { getReleasesMapForShows } from "@/lib/releases";
 import ShowList from "@/components/ShowList";
 
 export function generateStaticParams() {
-  return getCities().map(({ city }) => ({ city: encodeURIComponent(city) }));
+  return getCities().map(({ city }) => ({ city }));
 }
 
 interface Props {
