@@ -46,6 +46,7 @@ jobs:
         run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: 1
+          BASE_PATH: /gratefuldeadshows
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
