@@ -63,8 +63,8 @@ async function loadAll(): Promise<Show[]> {
     getCollection('dac-shows').catch(() => []),
   ]);
 
-  const gd = gdEntries.map((e) => entryToShow(e as any, 'gd'));
-  const dac = dacEntries.map((e) => entryToShow(e as any, 'dac'));
+  const gd = gdEntries.map((e: any) => entryToShow(e, 'gd'));
+  const dac = dacEntries.map((e: any) => entryToShow(e, 'dac'));
 
   _cached = [...gd, ...dac].sort((a, b) => a.date.localeCompare(b.date));
   return _cached;

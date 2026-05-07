@@ -42,7 +42,7 @@ let _cached: Release[] | null = null;
 async function loadAll(): Promise<Release[]> {
   if (_cached) return _cached;
   const entries = await getCollection('gd-releases');
-  _cached = entries.map((entry) => {
+  _cached = entries.map((entry: any) => {
     const data = entry.data as Record<string, unknown>;
     const id = entry.id as string;
     const collectionSlug = id.split('/')[0];
@@ -60,7 +60,7 @@ async function loadAll(): Promise<Release[]> {
       endDate: data.endDate as string | undefined,
     } satisfies Release;
   });
-  return _cached;
+  return _cached!;
 }
 
 // ── Public API ─────────────────────────────────────────────────────────────
