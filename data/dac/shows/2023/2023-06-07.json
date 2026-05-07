@@ -1,0 +1,31 @@
+{
+  "venue": "Hollywood Casino Amphitheater",
+  "city": "Maryland Heights",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Big River",
+        "Friend Of The Devil",
+        "They Love Each Other",
+        "Black Throated Wind",
+        "Big Railroad Blues",
+        "Dark Star",
+        "Johnny B. Goode",
+        "Eyes Of The World",
+        "Dark Star",
+        "Fire On The Mountain",
+        "Shakedown Street",
+        "Drums",
+        "Space",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Goin' Down The Road Feeling Bad",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

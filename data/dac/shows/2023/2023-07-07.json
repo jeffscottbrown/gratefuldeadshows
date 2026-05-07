@@ -1,0 +1,34 @@
+{
+  "venue": "The Gorge",
+  "city": "George",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Alabama Getaway",
+        "When I Paint My Masterpiece",
+        "Mr. Charlie",
+        "Tennessee Jed",
+        "Dire Wolf",
+        "Bird Song",
+        "Big Railroad Blues",
+        "Casey Jones",
+        "Black Muddy River",
+        "Sugaree",
+        "Estimated Prophet",
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Cumberland Blues",
+        "Black Peter",
+        "Casey Jones",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

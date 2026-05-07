@@ -1,0 +1,32 @@
+{
+  "venue": "Citi Field",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Alabama Getaway",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Truckin'",
+        "Deal",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "All Blues",
+        "Cumberland Blues",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

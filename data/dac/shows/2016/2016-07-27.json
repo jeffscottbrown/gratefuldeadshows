@@ -1,0 +1,29 @@
+{
+  "venue": "Sleep Train Amphitheater",
+  "city": "Chula Vista",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Candyman",
+        "Big River",
+        "Friend Of The Devil",
+        "Even So",
+        "Sugaree",
+        "The Music Never Stopped",
+        "Bob's Banter to Vote",
+        "Althea",
+        "Estimated Prophet",
+        "Playing In The Band",
+        "Playing In The Band (Reprise)",
+        "Goin' Down The Road Feeling Bad",
+        "A Hard Rain's Gonna Fall (B. Dylan)",
+        "Throwing Stones",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "Saratoga Perfroming Arts Center a.k.a. SPAC",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Next Time You See Me",
+        "Loose Lucy",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Looks Like Rain",
+        "Dire Wolf",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "China Cat Sunflower",
+        "Deal",
+        "China Doll",
+        "Terrapin Station",
+        "Space",
+        "All Along The Watchtower",
+        "Black Peter",
+        "I Know You Rider",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

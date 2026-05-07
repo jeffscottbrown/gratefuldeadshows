@@ -1,0 +1,26 @@
+{
+  "venue": "PNC Music Pavilion",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Cold Rain And Snow",
+        "Friend Of The Devil",
+        "They Love Each Other",
+        "Liberty",
+        "Cassidy",
+        "The Promised Land",
+        "Eyes Of The World",
+        "Deal",
+        "Estimated Prophet",
+        "Feel Like A Stranger",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

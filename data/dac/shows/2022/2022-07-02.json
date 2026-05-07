@@ -1,0 +1,30 @@
+{
+  "venue": "Gillette Stadium",
+  "city": "Foxborough",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cumberland Blues",
+        "Bertha",
+        "Good Lovin'",
+        "Crazy Fingers",
+        "Mr. Charlie",
+        "Saint Stephen",
+        "The Eleven",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Morning Dew",
+        "Knockin' On Heaven's Door",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

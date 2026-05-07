@@ -1,0 +1,33 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Liberty",
+        "Franklin's Tower",
+        "Jack Straw",
+        "Big River",
+        "Friend Of The Devil",
+        "Feel Like A Stranger",
+        "Althea",
+        "Scarlet Begonias",
+        "Saint Stephen",
+        "Help On The Way",
+        "Slipknot!",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Goin' Down The Road Feeling Bad",
+        "U.S. Blues",
+        "Knockin' On Heaven's Door",
+        "Come Down",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

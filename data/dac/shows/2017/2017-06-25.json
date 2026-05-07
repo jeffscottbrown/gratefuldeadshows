@@ -1,0 +1,32 @@
+{
+  "venue": "BB&T Pavilion",
+  "city": "Camden",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Brown Eyed Women",
+        "Ramble On Rose",
+        "They Love Each Other",
+        "Little Red Rooster",
+        "Big Boss Man",
+        "Cumberland Blues",
+        "Casey Jones",
+        "Iko Iko",
+        "Deal",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Stella Blue",
+        "Sugar Magnolia",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

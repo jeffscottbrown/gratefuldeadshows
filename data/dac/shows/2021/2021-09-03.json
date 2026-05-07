@@ -1,0 +1,31 @@
+{
+  "venue": "Great Woods a/k/a Xfinity Center",
+  "city": "Mansfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "When I Paint My Masterpiece",
+        "Dire Wolf",
+        "Jack Straw",
+        "Sugaree",
+        "New Speedway Boogie",
+        "Bertha",
+        "Truckin'",
+        "Dark Star",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "When I Paint My Masterpiece",
+        "Playing In The Band",
+        "Althea",
+        "The Music Never Stopped",
+        "They Love Each Other",
+        "New Speedway Boogie",
+        "Deal",
+        "I Fought The Law",
+        "Dark Star",
+        "Saint Stephen",
+        "Sugaree",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Cold Rain And Snow",
+        "Morning Dew",
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "venue": "SPHERE",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "I Need A Miracle",
+        "Eyes Of The World",
+        "Dancing In The Street",
+        "It Hurts Me Too",
+        "Cassidy",
+        "Sugaree",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Estimated Prophet",
+        "Days Between",
+        "Viola Lee Blues",
+        "U.S. Blues",
+        "Dark Star",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

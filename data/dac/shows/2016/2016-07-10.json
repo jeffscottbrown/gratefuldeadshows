@@ -1,0 +1,30 @@
+{
+  "venue": "Alpine Valley",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Loose Lucy",
+        "Standing On The Moon",
+        "Crazy Fingers",
+        "Althea",
+        "Goin' Down The Road Feeling Bad",
+        "Sugar Magnolia",
+        "Viola Lee Blues",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Same Story, Different Day",
+        "Ripple",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

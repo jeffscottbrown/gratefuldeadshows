@@ -1,0 +1,31 @@
+{
+  "venue": "The Kia Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Cold Rain And Snow",
+        "Mississippi Half Step Uptown Toodeloo",
+        "They Love Each Other",
+        "Saint Stephen",
+        "The Eleven",
+        "Deal",
+        "Sugaree",
+        "New Speedway Boogie",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Sunshine Daydream",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

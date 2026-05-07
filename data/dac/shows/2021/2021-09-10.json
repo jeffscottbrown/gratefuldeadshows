@@ -1,0 +1,31 @@
+{
+  "venue": "DTE Energy Music Center",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Alabama Getaway",
+        "Friend Of The Devil",
+        "Row Jimmy",
+        "New Speedway Boogie",
+        "Dear Prudence",
+        "Don't Ease Me In",
+        "Deal",
+        "Comes A Time",
+        "Estimated Prophet",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Black Peter",
+        "Casey Jones",
+        "The Weight"
+      ]
+    }
+  ]
+}

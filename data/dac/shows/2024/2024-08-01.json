@@ -1,0 +1,32 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Mississippi Half Step Uptown Toodeloo",
+        "How Sweet It Is (To Be Loved By You)",
+        "Jack Straw",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Althea",
+        "Franklin's Tower",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Lazy River Road",
+        "All Along The Watchtower",
+        "He's Gone",
+        "Truckin'",
+        "Knockin' On Heaven's Door",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

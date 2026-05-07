@@ -1,0 +1,31 @@
+{
+  "venue": "Dos Equis Pavilion",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Deep Elem Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "Sugaree",
+        "Jack Straw",
+        "Shakedown Street",
+        "Uncle John's Band",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Good Lovin'",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

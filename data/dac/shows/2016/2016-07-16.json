@@ -1,0 +1,30 @@
+{
+  "venue": "Fenway Park",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Big River",
+        "They Love Each Other",
+        "Deal",
+        "Bird Song",
+        "Passenger",
+        "Goin' Down The Road Feeling Bad",
+        "Playing In The Band",
+        "Estimated Prophet",
+        "He's Gone",
+        "Sugaree",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Days Between",
+        "Not Fade Away",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

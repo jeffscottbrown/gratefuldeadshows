@@ -1,0 +1,31 @@
+{
+  "venue": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Bertha",
+        "Next Time You See Me",
+        "Dark Star",
+        "Althea",
+        "Throwing Stones",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Dark Star",
+        "Sing Me Back Home",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "All Blues",
+        "Cumberland Blues",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

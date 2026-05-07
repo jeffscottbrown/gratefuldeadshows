@@ -1,0 +1,29 @@
+{
+  "venue": "MGM Grand Arena",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Uncle John's Band",
+        "Althea",
+        "Jack Straw",
+        "Row Jimmy",
+        "Black Throated Wind",
+        "Casey Jones",
+        "Dark Star",
+        "Playing In The Band",
+        "Let It Grow",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Ripple"
+      ]
+    }
+  ]
+}

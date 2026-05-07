@@ -1,0 +1,33 @@
+{
+  "venue": "The Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Viola Lee Blues",
+        "Bertha",
+        "Jack Straw",
+        "Big Boss Man",
+        "Friend Of The Devil",
+        "West L.A. Fadeaway",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Viola Lee Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Dark Star",
+        "He's Gone",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Althea",
+        "Morning Dew",
+        "One More Saturday Night",
+        "The Weight"
+      ]
+    }
+  ]
+}

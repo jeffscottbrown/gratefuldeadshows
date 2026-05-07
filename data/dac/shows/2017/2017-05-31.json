@@ -1,0 +1,31 @@
+{
+  "venue": "Hollywood Bowl",
+  "city": "Hollywood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Cold Rain And Snow",
+        "Black Throated Wind",
+        "Ramble On Rose",
+        "Cumberland Blues",
+        "Althea",
+        "The Promised Land",
+        "Truckin'",
+        "He's Gone",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Sugar Magnolia",
+        "Same Story, Different Day",
+        "Ripple"
+      ]
+    }
+  ]
+}

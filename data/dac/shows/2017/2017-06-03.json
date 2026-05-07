@@ -1,0 +1,32 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Viola Lee Blues",
+        "Tennessee Jed",
+        "Here Comes Sunshine",
+        "Candyman",
+        "Me And My Uncle",
+        "Friend Of The Devil",
+        "One More Saturday Night",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "China Doll",
+        "Eyes Of The World",
+        "Deal",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Looks Like Rain",
+        "Good Lovin'",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

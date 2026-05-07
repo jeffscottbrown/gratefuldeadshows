@@ -1,0 +1,32 @@
+{
+  "venue": "Bethel Woods",
+  "city": "Bethel",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Easy Wind",
+        "Loser",
+        "Brown Eyed Women",
+        "Throwing Stones",
+        "Row Jimmy",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Saint Stephen",
+        "Mama Tried",
+        "Dark Star",
+        "High Time",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Space",
+        "Deal",
+        "Standing On The Moon",
+        "Turn On Your Lovelight",
+        "Ripple"
+      ]
+    }
+  ]
+}

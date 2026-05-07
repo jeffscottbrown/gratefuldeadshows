@@ -1,22 +1,33 @@
 /**
- * React island: A-Z song browser with live search.
+ * React island: A-Z song browser with live search and band filter.
  */
 import { useState } from 'react';
+import BandFilter, { type BandSelection } from './BandFilter';
 
 interface SongEntry {
   title: string;
   slug: string;
-  count: number;
+  gdCount: number;
+  dacCount: number;
 }
 
 export default function SongSearch({ songs }: { songs: SongEntry[] }) {
   const [query, setQuery] = useState('');
+  const [band, setBand] = useState<BandSelection>('both');
+
+  const visibleSongs = songs
+    .map((s) => ({
+      ...s,
+      count: band === 'gd' ? s.gdCount : band === 'dac' ? s.dacCount : s.gdCount + s.dacCount,
+    }))
+    .filter((s) => s.count > 0);
+
   const q = query.trim().toLowerCase();
-  const filtered = q ? songs.filter((s) => s.title.toLowerCase().includes(q)) : null;
+  const searched = q ? visibleSongs.filter((s) => s.title.toLowerCase().includes(q)) : null;
 
   // A-Z grouping (ignore leading "The ")
-  const byLetter = new Map<string, SongEntry[]>();
-  for (const s of songs) {
+  const byLetter = new Map<string, typeof visibleSongs>();
+  for (const s of visibleSongs) {
     const sortKey = s.title.replace(/^the\s+/i, '');
     const letter = sortKey[0]?.toUpperCase() ?? '#';
     if (!byLetter.has(letter)) byLetter.set(letter, []);
@@ -26,27 +37,31 @@ export default function SongSearch({ songs }: { songs: SongEntry[] }) {
 
   return (
     <>
-      <div className="relative mb-8">
-        <input
-          type="search"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search songs…"
-          className="w-full sm:w-80 rounded-lg bg-dead-card border border-dead-border text-white placeholder-gray-500 px-4 py-2.5 pl-10 text-sm focus:outline-none focus:border-dead-gold transition-colors"
-        />
-        <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none">🔍</span>
+      <div className="flex flex-wrap items-center gap-4 mb-8">
+        <div className="relative">
+          <input
+            type="search"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search songs…"
+            className="w-full sm:w-80 rounded-lg bg-dead-card border border-dead-border text-white placeholder-gray-500 px-4 py-2.5 pl-10 text-sm focus:outline-none focus:border-dead-gold transition-colors"
+          />
+          <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 pointer-events-none">🔍</span>
+        </div>
+        <BandFilter value={band} onChange={setBand} />
+        <span className="text-sm text-gray-500">{visibleSongs.length} songs</span>
       </div>
 
-      {filtered !== null ? (
+      {searched !== null ? (
         <div>
           <p className="text-sm text-gray-400 mb-4">
-            {filtered.length} result{filtered.length !== 1 ? 's' : ''} for &ldquo;{query}&rdquo;
+            {searched.length} result{searched.length !== 1 ? 's' : ''} for &ldquo;{query}&rdquo;
           </p>
-          {filtered.length === 0
+          {searched.length === 0
             ? <p className="text-gray-500 italic">No songs match your search.</p>
             : (
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2">
-                {filtered.map((s) => <SongLink key={s.slug} {...s} />)}
+                {searched.map((s) => <SongLink key={s.slug} {...s} />)}
               </div>
             )
           }
@@ -80,7 +95,7 @@ export default function SongSearch({ songs }: { songs: SongEntry[] }) {
   );
 }
 
-function SongLink({ title, slug, count }: SongEntry) {
+function SongLink({ title, slug, count }: { title: string; slug: string; count: number }) {
   return (
     <a
       href={`/songs/${slug}`}

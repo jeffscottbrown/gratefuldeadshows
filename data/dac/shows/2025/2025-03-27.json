@@ -1,0 +1,30 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Truckin'",
+        "The Music Never Stopped",
+        "Cumberland Blues",
+        "Loose Lucy",
+        "Sugaree",
+        "Mr. Charlie",
+        "Scarlet Begonias",
+        "Franklin's Tower",
+        "Saint Stephen",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "Days Between",
+        "All Along The Watchtower",
+        "Broken Arrow",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

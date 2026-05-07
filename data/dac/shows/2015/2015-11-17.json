@@ -1,0 +1,30 @@
+{
+  "venue": "Phillips Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cold Rain And Snow",
+        "The Promised Land",
+        "Loser",
+        "Bertha",
+        "Cassidy",
+        "Don't Ease Me In",
+        "Saint Stephen",
+        "Uncle John's Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Space",
+        "I Need A Miracle",
+        "Morning Dew",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

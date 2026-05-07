@@ -1,0 +1,30 @@
+{
+  "venue": "Riverbend Amphitheatre",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Brown Eyed Women",
+        "Me And My Uncle",
+        "Big River",
+        "Sugaree",
+        "jack starw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "box of rian",
+        "Viola Lee Blues",
+        "Uncle John's Band",
+        "China Cat Sunflower",
+        "i know you ryder",
+        "Space",
+        "Viola Lee Blues",
+        "Stella Blue",
+        "Dead&Co2016-06-16.Krall.T17",
+        "Dead&Co2016-06-16.Krall.T18"
+      ]
+    }
+  ]
+}

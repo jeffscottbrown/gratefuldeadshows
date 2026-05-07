@@ -1,0 +1,32 @@
+{
+  "venue": "1st Bank Center",
+  "city": "Broomfield",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Speedway Boogie",
+        "Smokestack Lightnin'",
+        "New Speedway Boogie",
+        "Me And My Uncle",
+        "Candyman",
+        "Bertha",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Good Lovin'",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

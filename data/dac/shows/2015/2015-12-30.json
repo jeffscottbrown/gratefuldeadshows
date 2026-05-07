@@ -1,0 +1,30 @@
+{
+  "venue": "The Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Here Comes Sunshine",
+        "West L.A. Fadeaway",
+        "Althea",
+        "Loser",
+        "Bertha",
+        "Bird Song",
+        "Playing In The Band",
+        "Viola Lee Blues",
+        "Shakedown Street",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight",
+        "Friend Of The Devil"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Jack Straw",
+        "Bird Song",
+        "Me And My Uncle",
+        "Brown Eyed Women",
+        "Cold Rain And Snow",
+        "Uncle John's Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Saint Stephen",
+        "Hell In A Bucket",
+        "Knockin' On Heaven's Door",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Citifield",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Shakedown Street",
+        "Sugaree",
+        "Tennessee Jed",
+        "Bird Song",
+        "Don't Ease Me In",
+        "Althea",
+        "Viola Lee Blues",
+        "Terrapin Station",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Standing On The Moon",
+        "Not Fade Away",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

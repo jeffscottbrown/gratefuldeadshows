@@ -1,0 +1,31 @@
+{
+  "venue": "American Airlines Center",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Brown Eyed Women",
+        "Deep Ellum Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "They Love Each Other",
+        "The Music Never Stopped",
+        "Easy Answers",
+        "Here Comes Sunshine",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "The Wheel",
+        "Casey Jones",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

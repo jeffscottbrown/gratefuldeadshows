@@ -1,0 +1,32 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Shakedown Street",
+        "Cold Rain And Snow",
+        "Loser",
+        "Sugaree",
+        "One More Saturday Night",
+        "Help On The Way",
+        "Slipknot!",
+        "Althea",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "It's All Over Now, Baby Blue",
+        "Bertha",
+        "Sugar Magnolia",
+        "Brokedown Palace",
+        "Come Down",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

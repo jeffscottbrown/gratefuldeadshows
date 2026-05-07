@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere, Las Vegas, NV",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Row Jimmy",
+        "Big River",
+        "Tennessee Jed",
+        "Althea",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Help On The Way",
+        "Slipknot!",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Standing On The Moon",
+        "Bertha",
+        "U.S. Blues",
+        "Brokedown Palace",
+        "One More Saturday Night",
+        "Ripple"
+      ]
+    }
+  ]
+}

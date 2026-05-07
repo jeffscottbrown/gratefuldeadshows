@@ -1,0 +1,32 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Playing In The Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Cumberland Blues",
+        "Jack Straw",
+        "Deal",
+        "Sugaree",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "They Love Each Other",
+        "In The Midnight Hour",
+        "Morning Dew",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Althea",
+        "Uncle John's Band",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "North Island Credit Union Amphitheater",
+  "city": "Chula Vista",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Easy Answers",
+        "The Music Never Stopped",
+        "Row Jimmy",
+        "Friend Of The Devil",
+        "Cumberland Blues",
+        "Cassidy",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "He's Gone",
+        "New Speedway Boogie",
+        "I Need A Miracle",
+        "Death Don't Have No Mercy",
+        "Good Lovin'",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

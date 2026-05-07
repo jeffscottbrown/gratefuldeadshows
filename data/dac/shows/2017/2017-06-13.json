@@ -1,0 +1,31 @@
+{
+  "venue": "Lakewood Amphitheatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "Shakedown Street",
+        "Dire Wolf",
+        "Tennessee Jed",
+        "They Love Each Other",
+        "Black Throated Wind",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Here Comes Sunshine",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band (Reprise)",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Milestones",
+        "The Days Between",
+        "Sugar Magnolia",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

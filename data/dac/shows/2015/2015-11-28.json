@@ -1,0 +1,33 @@
+{
+  "venue": "MGM Grand Garden Arena",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cassidy",
+        "Loose Lucy",
+        "West L.A. Fadeaway",
+        "Ramble On Rose",
+        "Tennessee Jed",
+        "Sugaree",
+        "Deal",
+        "One More Saturday Night",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Morning Dew",
+        "Turn On Your Lovelight",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

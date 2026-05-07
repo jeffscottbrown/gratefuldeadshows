@@ -1,0 +1,32 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ripple",
+        "Shakedown Street",
+        "Bertha",
+        "Loser",
+        "They Love Each Other",
+        "Tennessee Jed",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Truckin'",
+        "Uncle John's Band",
+        "China Doll",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Standing On The Moon",
+        "Sugar Magnolia",
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

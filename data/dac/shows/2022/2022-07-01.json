@@ -1,0 +1,33 @@
+{
+  "venue": "Bethel Woods Center for the Arts",
+  "city": "Bethel",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Deal",
+        "Shakedown Street",
+        "Big Boss Man",
+        "It Must Have Been The Roses",
+        "Me And My Uncle",
+        "Mama Tried",
+        "If I Had The World To Give",
+        "Let It Grow",
+        "Let The Good Times Roll",
+        "Dark Star",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Althea",
+        "Death Don't Have No Mercy",
+        "Not Fade Away",
+        "Sing Me Back Home"
+      ]
+    }
+  ]
+}

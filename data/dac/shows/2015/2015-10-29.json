@@ -1,0 +1,30 @@
+{
+  "venue": "Times Union Center",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Cold Rain And Snow",
+        "Tennessee Jed",
+        "Feel Like A Stranger",
+        "He's Gone",
+        "Bird Song",
+        "The Music Never Stopped",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Not Fade Away",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

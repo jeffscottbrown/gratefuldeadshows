@@ -1,0 +1,33 @@
+{
+  "venue": "Folsom Field",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Spoonful",
+        "Bertha",
+        "Ramble On Rose",
+        "Friend Of The Devil",
+        "Loser",
+        "Brown Eyed Women",
+        "Turn On Your Lovelight",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "China Doll",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

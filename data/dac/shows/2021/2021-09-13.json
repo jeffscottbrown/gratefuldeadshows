@@ -1,0 +1,32 @@
+{
+  "venue": "Hollywood Casino Ampitheatre",
+  "city": "Maryland Heights",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Cold Rain And Snow",
+        "Ship Of Fools",
+        "Big River",
+        "It Hurts Me Too",
+        "Black Throated Wind",
+        "Jack Straw",
+        "U.S. Blues",
+        "Bertha",
+        "Good Lovin'",
+        "China Doll",
+        "Shakedown Street",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "venue": "Wrigley ",
+  "city": "Unknown Location",
+  "state": "",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Althea",
+        "Mississippi Half Step Uptown Toodeloo",
+        "High Time",
+        "All Along The Watchtower",
+        "Bertha",
+        "Good Lovin'",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Cumberland Blues",
+        "The Other One",
+        "Morning Dew",
+        "Brokedown Palace",
+        "Playing In The Band (Reprise)",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Darien Lake Performing Arts Center",
+  "city": "Darien Center",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Tennessee Jed",
+        "Dire Wolf",
+        "Queen Jane Approximately",
+        "If I Had The World To Give",
+        "Here Comes Sunshine",
+        "Little Red Rooster",
+        "Let It Grow",
+        "Iko Iko",
+        "Dark Star",
+        "Truckin'",
+        "SmokeStack Lightining",
+        "Dark Star",
+        "Deal",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Casey Jones",
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "venue": "Bridgestone Arena",
+  "city": "Unknown Location",
+  "state": "",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Loose Lucy",
+        "Althea",
+        "El Paso",
+        "West L.A. Fadeaway",
+        "Tennessee Jed",
+        "Deal",
+        "Playing In The Band",
+        "New Speedway Boogie",
+        "Estimated Prophet",
+        "Viola Lee Blues",
+        "Space",
+        "Stella Blue",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

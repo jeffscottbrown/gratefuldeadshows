@@ -1,0 +1,34 @@
+{
+  "venue": "Gillette Stadium",
+  "city": "Foxborough",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Eyes Of The World",
+        "Deal",
+        "Black Throated Wind",
+        "Big Boss Man",
+        "Easy Wind",
+        "The Loser",
+        "Big Railroad Blues",
+        "Bird Song",
+        "Box Of Rain",
+        "Box Of Rain",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "He's Gone",
+        "Dark Star",
+        "Space",
+        "Stella Blue",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "The Weight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Shakedown Street",
+        "Big Railroad Blues",
+        "Friend Of The Devil",
+        "Crazy Fingers",
+        "Don't Ease Me In",
+        "Deal",
+        "Dark Star",
+        "El Paso",
+        "Sing Me Back Home",
+        "Dark Star (Reprise)",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Cumberland Blues",
+        "Death Don't Have No Mercy",
+        "Sugar Magnolia",
+        "Ripple"
+      ]
+    }
+  ]
+}

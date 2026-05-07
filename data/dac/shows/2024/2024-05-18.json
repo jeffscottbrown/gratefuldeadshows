@@ -1,0 +1,33 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Sugaree",
+        "Loose Lucy",
+        "Ship Of Fools",
+        "Tennessee Jed",
+        "Casey Jones",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Eyes Of The World",
+        "Lady With A Fan",
+        "Ship Of Fools",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "The Wheel",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

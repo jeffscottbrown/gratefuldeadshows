@@ -1,0 +1,29 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cassidy",
+        "Truckin'",
+        "They Love Each Other",
+        "Jack Straw",
+        "Cold Rain And Snow",
+        "Dark Star",
+        "El Paso",
+        "Dark Star",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Sugaree",
+        "Morning Dew",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

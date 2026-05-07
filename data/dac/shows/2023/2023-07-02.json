@@ -1,0 +1,31 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Brown Eyed Women",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "It Hurts Me Too",
+        "Ramble On Rose",
+        "High Time",
+        "Let It Grow",
+        "They Love Each Other",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Fire On The Mountain",
+        "The Other One",
+        "Space",
+        "The Eleven",
+        "U.S. Blues",
+        "Morning Dew",
+        "Ripple"
+      ]
+    }
+  ]
+}

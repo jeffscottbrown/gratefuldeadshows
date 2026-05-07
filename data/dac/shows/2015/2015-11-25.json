@@ -1,0 +1,30 @@
+{
+  "venue": "1st Bank Center",
+  "city": "Broomfield",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Brown Eyed Women",
+        "Feel Like A Stranger",
+        "Peggy O",
+        "Little Red Rooster",
+        "Bird Song",
+        "The Music Never Stopped",
+        "Truckin'",
+        "He's Gone",
+        "Eyes Of The World",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

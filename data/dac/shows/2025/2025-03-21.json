@@ -1,0 +1,29 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Shakedown Street",
+        "Cumberland Blues",
+        "Lay Down Sally",
+        "Tennessee Jed",
+        "Sugaree",
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "U.S. Blues",
+        "Throwing Stones",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

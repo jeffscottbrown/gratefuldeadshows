@@ -1,0 +1,32 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Jack Straw",
+        "New Speedway Boogie",
+        "Row Jimmy",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Don't Ease Me In",
+        "Uncle John's Band",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Terrapin Station",
+        "Hell In A Bucket",
+        "Black Muddy River",
+        "Come Down",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

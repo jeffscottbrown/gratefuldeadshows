@@ -1,0 +1,32 @@
+{
+  "venue": "Citi-Field",
+  "city": "Flushing",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Jack Straw",
+        "Althea",
+        "Loose Lucy",
+        "Ramble On Rose",
+        "Sugaree",
+        "Passenger",
+        "Casey Jones",
+        "Dark Star",
+        "Friend Of The Devil",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Ripple",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

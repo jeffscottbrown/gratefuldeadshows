@@ -1,0 +1,30 @@
+{
+  "venue": "Blossom Music Center",
+  "city": "Cuyahoga Falls",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "It's All Over Now",
+        "Row Jimmy",
+        "West L.A. Fadeaway",
+        "Loose Lucy",
+        "Ship Of Fools",
+        "Passenger",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "I Need A Miracle",
+        "Dear Prudence",
+        "Throwing Stones",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

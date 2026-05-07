@@ -1,0 +1,30 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "I Need A Miracle",
+        "Cold Rain And Snow",
+        "Tennessee Jed",
+        "They Love Each Other",
+        "Jack Straw",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "He's Gone",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

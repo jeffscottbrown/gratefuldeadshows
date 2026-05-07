@@ -1,0 +1,30 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Easy Wind",
+        "Ramble On Rose",
+        "The Weight",
+        "Ship Of Fools",
+        "Saint Of Circumstance",
+        "Casey Jones",
+        "Help On The Way",
+        "Slipknot!",
+        "Deal",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Standing On The Moon",
+        "Brown Eyed Women",
+        "Eyes Of The World",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

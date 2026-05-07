@@ -1,0 +1,30 @@
+{
+  "venue": "Greensboro Colliseum",
+  "city": "Greensboro",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Crazy Fingers",
+        "He's Gone",
+        "Me And My Uncle",
+        "Ship Of Fools",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Jack Straw",
+        "Shakedown Street",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "One More Saturday Night",
+        "Friend Of The Devil"
+      ]
+    }
+  ]
+}

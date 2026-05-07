@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Shakedown Street",
+        "Uncle John's Band",
+        "Friend Of The Devil",
+        "Lay Down Sally",
+        "Terrapin Station",
+        "Bertha",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Brown Eyed Women",
+        "Hell In A Bucket",
+        "Brokedown Palace",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

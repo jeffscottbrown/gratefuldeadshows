@@ -1,0 +1,32 @@
+{
+  "venue": "Wrigley ",
+  "city": "Unknown Location",
+  "state": "",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Deal",
+        "Tennessee Jed",
+        "It Hurts Me Too",
+        "Ramble On Rose",
+        "Brown Eyed Women",
+        "Crazy Fingers",
+        "Dancing In The Street",
+        "Sugaree",
+        "Estimated Prophet",
+        "The Other One",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Sunshine Daydream",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

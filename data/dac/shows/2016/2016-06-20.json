@@ -1,0 +1,32 @@
+{
+  "venue": "BB&T Pavilion",
+  "city": "Camden",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Shakedown Street",
+        "West L.A. Fadeaway",
+        "Row Jimmy",
+        "Crazy Fingers",
+        "Need a Miracle",
+        "Big RR Blues",
+        "Playing In The Band",
+        "The Wheel",
+        "stay",
+        "Eyes Of The World",
+        "Standing On The Moon",
+        "Let It Grow",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Not Fade Away",
+        "Ripple"
+      ]
+    }
+  ]
+}

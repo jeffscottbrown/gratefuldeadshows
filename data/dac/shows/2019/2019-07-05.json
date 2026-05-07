@@ -1,0 +1,33 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Not Fade Away",
+        "Cold Rain And Snow",
+        "Cold Rain And Snow",
+        "Bertha",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Cassidy",
+        "Deal",
+        "Box Of Rain",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Casey Jones",
+        "The Other One",
+        "Morning Dew",
+        "The Weight",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

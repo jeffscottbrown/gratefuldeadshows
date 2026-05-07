@@ -1,0 +1,28 @@
+{
+  "venue": "Walnut Creek Amphitheater",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Speedway Boogie",
+        "They Love Each Other",
+        "Mama Tried",
+        "Easy Wind",
+        "Ramble On Rose",
+        "Dear Mr. Fantasy",
+        "Bird Song",
+        "Sugaree",
+        "Saint Stephen",
+        "The Eleven",
+        "Iko Iko",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Casey Jones",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

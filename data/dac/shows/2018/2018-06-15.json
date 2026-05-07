@@ -1,0 +1,30 @@
+{
+  "venue": "Citi Field",
+  "city": "Flushing",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Alabama Getaway",
+        "Loser",
+        "Hurts Me Too",
+        "Me And My Uncle",
+        "Sugaree",
+        "The Music Never Stopped",
+        "Easy Answers",
+        "The Other One",
+        "Estimated Prophet",
+        "Althea",
+        "Terrapin Station",
+        "Space",
+        "The Other One",
+        "The Days Between",
+        "U.S. Blues",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

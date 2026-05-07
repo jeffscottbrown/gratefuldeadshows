@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere at The Venetian Resort, Las Vegas, NV",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Franklin's Tower",
+        "Tennessee Jed",
+        "Crazy Fingers",
+        "Brown Eyed Women",
+        "Ship Of Fools",
+        "Deal",
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "A Hard Rain's A-Gonna Fall",
+        "Fire On The Mountain",
+        "U.S. Blues",
+        "Black Muddy River",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

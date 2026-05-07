@@ -1,0 +1,30 @@
+{
+  "venue": "Fenway Park",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "July 2016",
+        "Jack Straw",
+        "The Music Never Stopped",
+        "Next Time You See Me",
+        "Loser",
+        "Peggy O",
+        "Help On The Way",
+        "Slipknot!",
+        "Saint Stephen",
+        "Saint Stephen",
+        "Dark Star",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Morning Dew",
+        "Casey Jones",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

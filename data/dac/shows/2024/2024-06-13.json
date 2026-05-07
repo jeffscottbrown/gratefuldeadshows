@@ -1,0 +1,43 @@
+{
+  "venue": "SPHERE Las Vegas",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Saint Stephen",
+        "Scarlet Begonias",
+        "Franklin's Tower",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Space",
+        "I Remember You",
+        "Fire On The Mountain",
+        "Brown Eyed Women",
+        "Black Muddy River",
+        "Not Fade Away",
+        "Good Lovin'",
+        "The Music Never Stopped",
+        "Row Jimmy",
+        "Black Throated Wind",
+        "New Speedway Boogie",
+        "Deal",
+        "Shakedown Street",
+        "Help On The Way",
+        "Slipknot!",
+        "Cold Rain And Snow",
+        "China Doll",
+        "Terrapin Station",
+        "Space",
+        "Dear Prudence",
+        "Bertha",
+        "Hell In A Bucket",
+        "Morning Dew",
+        "Ripple"
+      ]
+    }
+  ]
+}

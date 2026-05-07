@@ -1,0 +1,33 @@
+{
+  "venue": "Fenway Park, Boston, MA",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Cold Rain And Snow",
+        "Jack Straw",
+        "Althea",
+        "Comes A Time",
+        "Mr. Charlie",
+        "He's Gone",
+        "Goin' Down The Road Feeling Bad",
+        "They Love Each Other",
+        "Playing In The Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Fire On The Mountain",
+        "Space",
+        "Playing In The Band (Reprise)",
+        "The Other One",
+        "Standing On The Moon",
+        "Not Fade Away",
+        "The Weight",
+        "Ripple"
+      ]
+    }
+  ]
+}

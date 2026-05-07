@@ -1,0 +1,32 @@
+{
+  "venue": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "The Wheel",
+        "New Speedway Boogie",
+        "Big Railroad Blues",
+        "Dancing In The Street",
+        "Tennessee Jed",
+        "Sugaree",
+        "Casey Jones",
+        "Ramble On Rose",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Fire On The Mountain",
+        "One More Saturday Night",
+        "Brokedown Palace",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

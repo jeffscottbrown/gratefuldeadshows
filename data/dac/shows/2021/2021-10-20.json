@@ -1,0 +1,31 @@
+{
+  "venue": "Red Rocks Ampitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "The Wheel",
+        "Black Throated Wind",
+        "Mr. Charlie",
+        "Hell In A Bucket",
+        "Bird Song",
+        "Playing In The Band",
+        "He's Gone",
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Playing In The Band (Reprise)",
+        "Standing On The Moon",
+        "Not Fade Away",
+        "Ripple"
+      ]
+    }
+  ]
+}

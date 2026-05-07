@@ -1,0 +1,32 @@
+{
+  "venue": "Shoreline Amphitheater",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Dancing",
+        "Hurts Me Too",
+        "World To Give",
+        "Corinna",
+        "They Love Each Other",
+        "Throwing Stones",
+        "Lost Sailor",
+        "Saint Stephen",
+        "He's Gone",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away",
+        "Touch"
+      ]
+    }
+  ]
+}

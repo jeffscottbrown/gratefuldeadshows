@@ -1,0 +1,30 @@
+{
+  "venue": "The Hollywood Bowl",
+  "city": "Hollywood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Next Time You See Me",
+        "West L.A. Fadeaway",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Red Rooster",
+        "Uncle John's Band",
+        "New Speedway Boogie",
+        "U.S. Blues",
+        "Estimated Prophet",
+        "Saint Stephen",
+        "Terrapin Station",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Morning Dew",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

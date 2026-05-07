@@ -1,0 +1,33 @@
+{
+  "venue": "BB&T",
+  "city": "Camden",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Dancing In The Street",
+        "Row Jimmy",
+        "Tennessee Jed",
+        "If I Had The World To Give",
+        "Brown Eyed Women",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "A Love Supreme",
+        "Truckin'",
+        "Estimated Prophet",
+        "Ship Of Fools",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "Throwing Stones",
+        "Black Peter",
+        "Good Lovin'",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

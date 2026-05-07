@@ -1,0 +1,29 @@
+{
+  "venue": "Xfinity Theater ",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Next Time You See Me",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Cumberland Blues",
+        "Black Muddy River",
+        "Don't Ease Me In",
+        "Feel Like A Stranger",
+        "Viola Lee Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Viola Lee Blues",
+        "Looks Like Rain",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

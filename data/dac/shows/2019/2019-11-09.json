@@ -1,0 +1,32 @@
+{
+  "venue": "Hampton Coliseum Hampton, VA",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Big Railroad Blues",
+        "He's Gone",
+        "Tennessee Jed",
+        "Friend Of The Devil",
+        "Bird Song",
+        "One More Saturday Night",
+        "Playing In The Band",
+        "Franklin's Tower",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Milestones",
+        "Uncle John's Band",
+        "Playing In The Band (Reprise)",
+        "Black Peter",
+        "Sugar Magnolia",
+        "Ripple"
+      ]
+    }
+  ]
+}

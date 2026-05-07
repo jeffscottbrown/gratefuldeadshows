@@ -1,0 +1,25 @@
+{
+  "venue": "Gorge Amphitheater",
+  "city": "George",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "1/2 Step",
+        "Bertha",
+        "Tennessee Jed",
+        "Mr. Charlie",
+        "Loser",
+        "Crazy Fingers",
+        "Cumberland",
+        "Space",
+        "New Speedway",
+        "Black Peter",
+        "Playing In The Band (Reprise)",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

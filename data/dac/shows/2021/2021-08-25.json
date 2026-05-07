@@ -1,0 +1,32 @@
+{
+  "venue": "Performing Arts Center, Darien Lake, NY",
+  "city": "Darien Lake",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Viola Lee Blues",
+        "Cold Rain And Snow",
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Friend Of The Devil",
+        "Loose Lucy",
+        "New Speedway Boogie",
+        "Truckin'",
+        "Playing In The Band",
+        "Viola Lee Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "This Could Be The Last Time",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Wharf Rat",
+        "Playing In The Band (Reprise)",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

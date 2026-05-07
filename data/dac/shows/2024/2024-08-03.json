@@ -1,0 +1,30 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Shakedown Street",
+        "Uncle John's Band",
+        "Mr. Charlie",
+        "Samson And Delilah",
+        "Sugaree",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Brown Eyed Women",
+        "U.S. Blues",
+        "Morning Dew",
+        "Come Down",
+        "Ripple"
+      ]
+    }
+  ]
+}

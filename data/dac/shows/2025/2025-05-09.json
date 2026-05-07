@@ -1,0 +1,32 @@
+{
+  "venue": "the sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Good Lovin'",
+        "Don't Ease Me In",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Deal",
+        "Liberty",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Cumberland Blues",
+        "They Love Each Other",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Death Don't Have No Mercy",
+        "Brown Eyed Women",
+        "Throwing Stones",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

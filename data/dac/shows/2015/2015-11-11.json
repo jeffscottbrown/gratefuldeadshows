@@ -1,0 +1,32 @@
+{
+  "venue": "First Niagara Center",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "New Minglewood Blues",
+        "Bertha",
+        "Here Comes Sunshine",
+        "El Paso",
+        "Althea",
+        "U.S. Blues",
+        "Viola Lee Blues",
+        "Wang Dang Doodle",
+        "Viola Lee Blues",
+        "New Speedway Boogie",
+        "Truckin'",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "China Doll",
+        "Sugar Magnolia",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

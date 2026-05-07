@@ -1,0 +1,33 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "New Speedway Boogie",
+        "Cold Rain And Snow",
+        "Jack Straw",
+        "Althea",
+        "Playing In The Band",
+        "Playing In The Band (Reprise)",
+        "Uncle John's Band",
+        "Playing In The Band (Reprise)",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Standing On The Moon",
+        "All Along The Watchtower",
+        "Not Fade Away",
+        "Knockin' On Heaven's Door",
+        "The Weight"
+      ]
+    }
+  ]
+}

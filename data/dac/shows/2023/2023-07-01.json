@@ -1,0 +1,33 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Deal",
+        "Me And My Uncle",
+        "Dear Mr. Fantasy",
+        "Terrapin Station",
+        "Don't Ease Me In",
+        "Eyes Of The World",
+        "Shakedown Street",
+        "Saint Stephen",
+        "Cumberland Blues",
+        "Drums",
+        "Space",
+        "Milestones",
+        "Days Between",
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Sunshine Daydream",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

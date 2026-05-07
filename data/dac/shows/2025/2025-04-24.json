@@ -1,0 +1,30 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "I Need A Miracle",
+        "Franklin's Tower",
+        "Mississippi Half Step Uptown Toodeloo",
+        "I Know You Rider",
+        "Feel Like A Stranger",
+        "Bertha",
+        "China Cat Sunflower",
+        "Loser",
+        "Truckin'",
+        "The Other One",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Death Don't Have No Mercy",
+        "Brown Eyed Women",
+        "Black Muddy River",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

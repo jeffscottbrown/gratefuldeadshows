@@ -1,0 +1,28 @@
+{
+  "venue": "Capital One Arena",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "Ship Of Fools",
+        "Cassidy",
+        "Deal",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Days Between",
+        "Throwing Stones",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

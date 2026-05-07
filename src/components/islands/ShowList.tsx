@@ -7,6 +7,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import { BADGES } from '@/lib/badges';
 import { formatDate } from '@/lib/format';
+import BandFilter, { type BandSelection } from './BandFilter';
 
 export interface ShowRow {
   slug: string;
@@ -23,20 +24,28 @@ export interface ShowRow {
 
 interface Props {
   shows: ShowRow[];
-  /** Whether to render the "only official releases" filter toggle. */
+  /** Whether to render the filter bar. */
   showFilter?: boolean;
 }
 
 const PAGE_SIZE = 50;
 
 export default function ShowList({ shows, showFilter = false }: Props) {
+  const hasBothBands = useMemo(
+    () => shows.some((s) => s.band === 'gd') && shows.some((s) => s.band === 'dac'),
+    [shows],
+  );
+
+  const [band, setBand] = useState<BandSelection>('both');
   const [onlyReleased, setOnlyReleased] = useState(false);
   const [page, setPage] = useState(1);
 
-  const filtered = useMemo(
-    () => (onlyReleased ? shows.filter((s) => s.collections.length > 0) : shows),
-    [shows, onlyReleased],
-  );
+  const filtered = useMemo(() => {
+    let result = shows;
+    if (band !== 'both') result = result.filter((s) => s.band === band);
+    if (onlyReleased) result = result.filter((s) => s.collections.length > 0);
+    return result;
+  }, [shows, band, onlyReleased]);
 
   useEffect(() => setPage(1), [filtered]);
 
@@ -50,7 +59,8 @@ export default function ShowList({ shows, showFilter = false }: Props) {
   return (
     <div className="space-y-4">
       {showFilter && (
-        <div className="flex items-center gap-3 mb-4">
+        <div className="flex flex-wrap items-center gap-4 mb-4">
+          {hasBothBands && <BandFilter value={band} onChange={setBand} />}
           <label className="inline-flex items-center cursor-pointer group">
             <div className="relative">
               <input
@@ -155,8 +165,8 @@ export default function ShowList({ shows, showFilter = false }: Props) {
         </table>
       </div>
 
-      {filtered.length === 0 && onlyReleased && (
-        <p className="text-gray-500 italic text-center py-8">No shows in this list have an official release.</p>
+      {filtered.length === 0 && (
+        <p className="text-gray-500 italic text-center py-8">No shows match the current filter.</p>
       )}
 
       {totalPages > 1 && (

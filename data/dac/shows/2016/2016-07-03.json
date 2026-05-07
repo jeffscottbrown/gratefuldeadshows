@@ -1,0 +1,31 @@
+{
+  "venue": "Folsom Field, University of Colorado",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Next Time You See Me",
+        "Samson And Delilah",
+        "West L.A. Fadeaway",
+        "Bird Song",
+        "New Speedway Boogie",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "He's Gone",
+        "Let It Grow",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Morning Dew",
+        "Brokedown Palace",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

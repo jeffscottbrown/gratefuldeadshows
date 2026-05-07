@@ -1,0 +1,32 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Shakedown Street",
+        "The Music Never Stopped",
+        "Big Railroad Blues",
+        "Row Jimmy",
+        "Sugaree",
+        "One More Saturday Night",
+        "Greatest Story Ever Told",
+        "Mr. Charlie",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Cumberland Blues",
+        "Hell In A Bucket",
+        "Morning Dew",
+        "Come Down",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

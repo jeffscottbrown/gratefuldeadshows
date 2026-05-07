@@ -1,0 +1,30 @@
+{
+  "venue": "Little Caesar's Arena",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Jack Straw",
+        "Brown Eyed Women",
+        "Ramble On Rose",
+        "Deep Ellum Blues",
+        "Beat It On Down The Line",
+        "Sugaree",
+        "New Speedway Boogie",
+        "Dark Star",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "A Hard Rain's A-Gonna Fall",
+        "The Wheel",
+        "Not Fade Away",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

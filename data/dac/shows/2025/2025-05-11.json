@@ -1,0 +1,29 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Truckin'",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Mama Tried",
+        "Cassidy",
+        "Saint Stephen",
+        "Shakedown Street",
+        "West L.A. Fadeaway",
+        "Sugaree",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Dear Prudence",
+        "Cold Rain And Snow",
+        "Brokedown Palace",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

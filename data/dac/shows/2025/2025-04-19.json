@@ -1,0 +1,30 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Truckin'",
+        "Lay Down Sally",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Casey Jones",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "He's Gone",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Brown Eyed Women",
+        "Hell In A Bucket",
+        "Brokedown Palace",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

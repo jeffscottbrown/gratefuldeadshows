@@ -1,0 +1,31 @@
+{
+  "venue": "Walnut Creek Amphitheater",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Bird Song",
+        "Bertha",
+        "Bird Song",
+        "Throwing Stones",
+        "Deal",
+        "Estimated Prophet",
+        "Playing In The Band",
+        "The Wheel",
+        "Diamonds on the Soles of Her Shoes",
+        "The Wheel",
+        "Dear Prudence",
+        "One More Saturday Night",
+        "Ripple"
+      ]
+    }
+  ]
+}

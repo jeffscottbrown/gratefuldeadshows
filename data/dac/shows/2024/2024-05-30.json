@@ -1,0 +1,33 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Eyes Of The World",
+        "Bertha",
+        "Loser",
+        "El Paso",
+        "Cold Rain And Snow",
+        "Ripple",
+        "Estimated Prophet",
+        "Mr. Charlie",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Althea",
+        "Goin' Down The Road Feeling Bad",
+        "Knockin' On Heaven's Door",
+        "Come Down",
+        "Fire On The Mountain"
+      ]
+    }
+  ]
+}

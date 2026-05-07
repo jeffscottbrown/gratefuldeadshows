@@ -1,0 +1,32 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "I Need A Miracle",
+        "Eyes Of The World",
+        "Ramble On Rose",
+        "They Love Each Other",
+        "Bird Song",
+        "Casey Jones",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Uncle John's Band",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Truckin'",
+        "Knockin' On Heaven's Door",
+        "Come Down",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

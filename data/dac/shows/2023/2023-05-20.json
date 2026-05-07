@@ -1,0 +1,33 @@
+{
+  "venue": "The Kia Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "High Time",
+        "Mr. Charlie",
+        "Bird Song",
+        "Don't Ease Me In",
+        "Althea",
+        "The Other One",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "Saratoga Performing Arts Center ",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Scarlet Begonias",
+        "Deal",
+        "Black Throated Wind",
+        "Dire Wolf",
+        "Bird Song",
+        "Goin' Down The Road Feeling Bad",
+        "They Love Each Other",
+        "Terrapin Station",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Days Between",
+        "Turn On Your Lovelight",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

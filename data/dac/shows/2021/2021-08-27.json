@@ -1,0 +1,31 @@
+{
+  "venue": "SPAC, Saratoga Springs, NY",
+  "city": "Saratoga",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Bertha",
+        "Peggy O",
+        "Me And My Uncle",
+        "They Love Each Other",
+        "West L.A. Fadeaway",
+        "Bird Song",
+        "Let The Good Times Roll",
+        "Scarlet Begonias",
+        "Help On The Way",
+        "Slipknot!",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Cumberland Blues",
+        "Days Between",
+        "Not Fade Away",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Wells Fargo Center",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Ramble On Rose",
+        "Row Jimmy",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "West L.A. Fadeaway",
+        "Let It Grow",
+        "Dark Star",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Deal",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Uncle John's Band",
+        "Goin' Down The Road Feeling Bad",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

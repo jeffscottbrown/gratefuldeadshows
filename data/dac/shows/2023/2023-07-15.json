@@ -1,0 +1,32 @@
+{
+  "venue": "Oracle Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Hell In A Bucket",
+        "It Hurts Me Too",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Cassidy",
+        "They Love Each Other",
+        "Turn On Your Lovelight",
+        "Deal",
+        "Playing In The Band",
+        "The Other One",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Playing In The Band (Reprise)",
+        "The Other One",
+        "Morning Dew",
+        "Ripple"
+      ]
+    }
+  ]
+}

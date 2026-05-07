@@ -1,0 +1,37 @@
+{
+  "venue": "Chase Center San Francisco, CA",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Big Railroad Blues",
+        "Iko Iko",
+        "Mr. Charlie",
+        "Loser",
+        "Tennessee Jed",
+        "Sugaree",
+        "New Speedway Boogie",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Milestones",
+        "Standing On The Moon",
+        "Not Fade Away",
+        "Sugar Magnolia",
+        "Uncle John's Band",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Sunshine Daydream",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

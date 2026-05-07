@@ -1,0 +1,32 @@
+{
+  "venue": "The Pavilion at Star Lake",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Alabama Getaway",
+        "Jack Straw",
+        "Big Boss Man",
+        "Peggy O",
+        "Bertha",
+        "Cassidy",
+        "Don't Ease Me In",
+        "Viola Lee Blues",
+        "Truckin'",
+        "China Doll",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "Althea",
+        "Standing On The Moon",
+        "Not Fade Away",
+        "The Weight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Xfinity Theatre",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "He's Gone",
+        "Big Railroad Blues",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Franklin's Tower",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Wharf Rat",
+        "Playing In The Band (Reprise)",
+        "Werewolves In London"
+      ]
+    }
+  ]
+}

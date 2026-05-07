@@ -1,0 +1,34 @@
+{
+  "venue": "Folsom Field, Univ of Colorado",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Brown Eyed Women",
+        "Loser",
+        "They Love Each Other",
+        "Bird Song",
+        "New Speedway Boogie",
+        "Don't Ease Me In",
+        "Playing In The Band",
+        "Estimated Prophet",
+        "Franklin's Tower",
+        "Eyes Of The World",
+        "Standing On The Moon",
+        "Drums",
+        "Space",
+        "Althea",
+        "Days Between",
+        "Not Fade Away",
+        "Ripple",
+        "Brokedown Palace",
+        "Playing In The Band (Reprise)"
+      ]
+    }
+  ]
+}

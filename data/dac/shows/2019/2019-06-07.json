@@ -1,0 +1,31 @@
+{
+  "venue": "The Gorge Amphitheater",
+  "city": "George",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cumberland Blues",
+        "Dire Wolf",
+        "Loser",
+        "Loose Lucy",
+        "It Must Have Been The Roses",
+        "The Music Never Stopped",
+        "Here Comes Sunshine",
+        "Dark Star",
+        "Scarlet Begonias",
+        "China Doll",
+        "Dark Star",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Casey Jones",
+        "Ripple"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Playing In The Band",
+        "They Love Each Other",
+        "Tennessee Jed",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Sugaree",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Franklin's Tower",
+        "U.S. Blues",
+        "Throwing Stones",
+        "Turn On Your Lovelight",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    }
+  ]
+}

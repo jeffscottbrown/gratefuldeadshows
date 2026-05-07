@@ -1,0 +1,32 @@
+{
+  "venue": "The Sphere at the Venetian, Las Vegas, Nevada",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Playing In The Band",
+        "Feel Like A Stranger",
+        "Tennessee Jed",
+        "The Weight",
+        "Peggy O",
+        "Sugaree",
+        "Here Comes Sunshine",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Death Don't Have No Mercy",
+        "Brown Eyed Women",
+        "U.S. Blues",
+        "Morning Dew",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

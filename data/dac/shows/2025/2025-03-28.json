@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Playing In The Band",
+        "Cold Rain And Snow",
+        "Dancing In The Street",
+        "They Love Each Other",
+        "Casey Jones",
+        "Althea",
+        "Dark Star",
+        "Passenger",
+        "Dark Star",
+        "Jack Straw",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

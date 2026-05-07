@@ -1,0 +1,29 @@
+{
+  "venue": "Blossom Music Center",
+  "city": "Cuyahoga",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Next Time You See Me",
+        "Loser",
+        "They Love Each Other",
+        "Cassidy",
+        "Bird Song",
+        "Althea",
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Fire On The Mountain",
+        "Eyes Of The World",
+        "Standing On The Moon",
+        "Viola Lee Blues",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

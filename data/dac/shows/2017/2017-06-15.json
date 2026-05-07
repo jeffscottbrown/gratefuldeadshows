@@ -1,0 +1,31 @@
+{
+  "venue": "KeyBank Amphitheater",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Easy Wind",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Row Jimmy",
+        "Cumberland Blues",
+        "Throwing Stones",
+        "Jack Straw",
+        "Viola Lee Blues",
+        "He's Gone",
+        "The Wheel",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Casey Jones",
+        "Liberty"
+      ]
+    }
+  ]
+}

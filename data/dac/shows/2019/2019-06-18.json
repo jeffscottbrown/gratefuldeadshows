@@ -1,0 +1,33 @@
+{
+  "venue": "SPAC",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Hell In A Bucket",
+        "Alabama Getaway",
+        "When I Paint My Masterpiece",
+        "It Must Have Been The Roses",
+        "Cumberland Blues",
+        "Cassidy",
+        "U.S. Blues",
+        "Here Comes Sunshine",
+        "Shakedown Street",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Viola Lee Blues",
+        "Dear Prudence",
+        "Casey Jones",
+        "In The Midnight Hour",
+        "Playing In The Band"
+      ]
+    }
+  ]
+}

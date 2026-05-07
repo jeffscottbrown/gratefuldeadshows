@@ -1,0 +1,30 @@
+{
+  "venue": "Polo Field - Golden Gate Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Times",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "They Love Each Other",
+        "Shakedown Street",
+        "Deal",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Broken Arrow",
+        "Hell In A Bucket",
+        "Cumberland Blues",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Sugaree",
+        "Sugar Magnolia",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

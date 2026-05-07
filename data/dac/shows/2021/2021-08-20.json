@@ -1,0 +1,32 @@
+{
+  "venue": "Citi Field Queens, NYC",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Bertha",
+        "Good Lovin'",
+        "Big Railroad Blues",
+        "Ramble On Rose",
+        "They Love Each Other",
+        "Cassidy",
+        "Casey Jones",
+        "Eyes Of The World",
+        "Uncle John's Band",
+        "China Doll",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "Althea",
+        "Stella Blue",
+        "U.S. Blues",
+        "The Weight"
+      ]
+    }
+  ]
+}

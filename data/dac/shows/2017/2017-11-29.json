@@ -1,0 +1,32 @@
+{
+  "venue": "Philips Arena",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Feel Like A Stranger",
+        "Dire Wolf",
+        "Loser",
+        "Cassidy",
+        "Bird Song",
+        "Deal",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Comes A Time",
+        "Viola Lee Blues",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Throwing Stones",
+        "U.S. Blues",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

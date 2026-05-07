@@ -1,0 +1,33 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "New Speedway Boogie",
+        "Brown Eyed Women",
+        "Ramble On Rose",
+        "Althea",
+        "Cassidy",
+        "Deal",
+        "Truckin'",
+        "Wang Dang Doodle",
+        "Truckin'",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Morning Dew",
+        "One More Saturday Night",
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

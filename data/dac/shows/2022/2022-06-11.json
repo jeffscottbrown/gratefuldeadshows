@@ -1,0 +1,26 @@
+{
+  "venue": "Dodgers Stadium",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Casey Jones",
+        "Althea",
+        "Scarlet Begonias",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Dear Mr. Fantasy",
+        "Stella Blue",
+        "One More Saturday Night",
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Polo Field - Golden Gate Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Bertha",
+        "Jack Straw",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Passenger",
+        "Brown Eyed Women",
+        "Morning Dew",
+        "Uncle John's Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Truckin'",
+        "Cold Rain And Snow",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

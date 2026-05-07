@@ -1,0 +1,33 @@
+{
+  "venue": "The Gorge",
+  "city": "George",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Here Comes Sunshine",
+        "Next Time You See Me",
+        "Loose Lucy",
+        "Friend Of The Devil",
+        "They Love Each Other",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Playing In The Band",
+        "The Wheel",
+        "Playing In The Band (Reprise)",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Althea",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

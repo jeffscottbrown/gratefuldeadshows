@@ -1,0 +1,29 @@
+{
+  "venue": "Target Center",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Big Boss Man",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Ramble On Rose",
+        "Hell In A Bucket",
+        "Casey Jones",
+        "Cumberland Blues",
+        "Cryptical Envelopment",
+        "Uncle John's Band",
+        "Scarlet Begonias",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Goin' Down The Road Feeling Bad",
+        "Friend Of The Devil"
+      ]
+    }
+  ]
+}

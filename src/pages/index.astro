@@ -44,23 +44,30 @@ const navCards = [
 
   <!-- Stats bar -->
   <section class="border-y border-dead-border bg-dead-card/60">
-    <div class="mx-auto max-w-7xl px-4 py-4">
-      <div class="flex flex-wrap justify-center divide-x divide-dead-border">
-        {[
-          { value: fmt(stats.gdShows),     label: 'GD Shows' },
-          { value: fmt(stats.dacShows),    label: 'D&C Shows' },
-          { value: fmt(stats.songs),       label: 'Distinct Songs' },
-          { value: fmt(stats.performances),label: 'Performances' },
-          { value: fmt(stats.venues),      label: 'Venues' },
-          { value: fmt(stats.cities),      label: 'Cities' },
-          { value: fmt(stats.countries),   label: 'Countries' },
-        ].map(({ value, label }) => (
-          <div class="text-center px-4 py-2">
-            <div class="text-2xl font-bold text-dead-gold">{value}</div>
-            <div class="text-xs text-gray-400 uppercase tracking-widest mt-0.5">{label}</div>
+    <div class="mx-auto max-w-7xl px-4 py-4 space-y-3">
+      {[
+        { band: 'Grateful Dead', s: stats.gd },
+        { band: 'Dead & Company', s: stats.dac },
+      ].map(({ band, s }) => (
+        <div>
+          <div class="text-center text-xs text-gray-500 uppercase tracking-widest mb-1">{band}</div>
+          <div class="flex flex-wrap justify-center divide-x divide-dead-border">
+            {[
+              { value: fmt(s.shows),        label: 'Shows' },
+              { value: fmt(s.songs),        label: 'Distinct Songs' },
+              { value: fmt(s.performances), label: 'Performances' },
+              { value: fmt(s.venues),       label: 'Venues' },
+              { value: fmt(s.cities),       label: 'Cities' },
+              { value: fmt(s.countries),    label: 'Countries' },
+            ].map(({ value, label }) => (
+              <div class="text-center px-4 py-1">
+                <div class="text-xl font-bold text-dead-gold">{value}</div>
+                <div class="text-xs text-gray-400 uppercase tracking-widest mt-0.5">{label}</div>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
   </section>
 

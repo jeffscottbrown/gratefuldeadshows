@@ -1,0 +1,32 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Deal",
+        "Me And My Uncle",
+        "Here Comes Sunshine",
+        "Black Throated Wind",
+        "Cold Rain And Snow",
+        "Peggy O",
+        "Sugaree",
+        "One More Saturday Night",
+        "Dark Star",
+        "El Paso",
+        "Dark Star",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "Morning Dew",
+        "Turn On Your Lovelight",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

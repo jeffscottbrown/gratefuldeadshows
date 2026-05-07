@@ -1,0 +1,30 @@
+{
+  "venue": "Nassau Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "New Speedway Boogie",
+        "Dire Wolf",
+        "When I Paint My Masterpiece",
+        "Sugaree",
+        "Cassidy",
+        "The Music Never Stopped",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

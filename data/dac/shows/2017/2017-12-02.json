@@ -1,0 +1,30 @@
+{
+  "venue": "Frank Erwin Center",
+  "city": "Austin",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Next Time You See Me",
+        "Ramble On Rose",
+        "If I Had A World To Give",
+        "Sugaree",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Dark Star",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Saint Stephen",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

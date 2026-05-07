@@ -1,0 +1,31 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Greatest Story Ever Told",
+        "Bertha",
+        "Cassidy",
+        "Beat It On Down The Line",
+        "They Love Each Other",
+        "Cumberland Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Ship Of Fools",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "The Other One",
+        "Casey Jones",
+        "Samson And Delilah",
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

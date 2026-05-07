@@ -1,0 +1,33 @@
+{
+  "venue": "Talking Stick Resort Amphitheatre",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Alabama Getaway",
+        "Ramble On Rose",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Dark Star",
+        "Cumberland Blues",
+        "Casey Jones",
+        "Here Comes Sunshine",
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Dark Star",
+        "Dark Star",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Death Don't Have No Mercy",
+        "U.S. Blues",
+        "Ripple"
+      ]
+    }
+  ]
+}

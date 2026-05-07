@@ -1,0 +1,30 @@
+{
+  "venue": "Lakewood Amphitheater",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cassidy",
+        "Deal",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "It Hurts Me Too",
+        "Tennessee Jed",
+        "If I Had The World To Give",
+        "Goin' Down The Road Feeling Bad",
+        "Althea",
+        "Estimated Prophet",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Terrapin Station",
+        "Morning Dew"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Citi Field",
+  "city": "Flushing",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugar Magnolia",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Peggy O",
+        "Bertha",
+        "Comes A Time",
+        "Jackero",
+        "Bird Song",
+        "New Speedway Boogie",
+        "Bird Song",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Space",
+        "Eyes Of The World",
+        "Stella Blue",
+        "Sunshine Daydream"
+      ]
+    }
+  ]
+}

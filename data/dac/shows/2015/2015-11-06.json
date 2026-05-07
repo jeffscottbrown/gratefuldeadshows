@@ -1,0 +1,28 @@
+{
+  "venue": "Verizon Center",
+  "city": "Washington",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Big Boss Man",
+        "Brown Eyed Women",
+        "West L.A. Fadeaway",
+        "Loser",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Bertha",
+        "Eyes Of The World",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "The Wheel",
+        "Looks Like Rain",
+        "In The Midnight Hour",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

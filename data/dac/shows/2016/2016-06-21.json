@@ -1,0 +1,30 @@
+{
+  "venue": "Saratoga Performing Arts Center, SPAC",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Here Comes Sunshine",
+        "Brown Eyed Women",
+        "Loser",
+        "Little Red Rooster",
+        "Cassidy",
+        "Deal",
+        "Iko Iko",
+        "Estimated Prophet",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Space",
+        "Uncle John's Band",
+        "The Days Between",
+        "Good Lovin'",
+        "Brokedown Palace",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

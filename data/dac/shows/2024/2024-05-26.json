@@ -1,0 +1,30 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Franklin's Tower",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Ramble On Rose",
+        "Feel Like A Stranger",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "All Along The Watchtower",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Cold Rain And Snow",
+        "U.S. Blues",
+        "Morning Dew",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Terrapin Station",
+        "Sugar Magnolia",
+        "Mr. Charlie",
+        "High Time",
+        "Friend Of The Devil",
+        "Bertha",
+        "Mama Tried",
+        "Turn On Your Lovelight",
+        "Scarlet Begonias",
+        "New Speedway Boogie",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Other One",
+        "Standing On The Moon",
+        "Sunshine Daydream",
+        "Ripple",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

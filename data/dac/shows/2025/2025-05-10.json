@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Let It Grow",
+        "The Weight",
+        "Sugar Magnolia",
+        "Sunshine Daydream",
+        "Greatest Story Ever Told",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Althea",
+        "Morning Dew",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Xfinity Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Queen Jane Approximately",
+        "Big River",
+        "Row Jimmy",
+        "Miss",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Cumberland Blues",
+        "Estimated",
+        "Eyes Of The World",
+        "Deal",
+        "Viola Lee Blues",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Black Peter",
+        "U.S. Blues",
+        "Touch Of Grey",
+        "CBS Sunday Morning Interview"
+      ]
+    }
+  ]
+}

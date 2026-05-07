@@ -1,0 +1,24 @@
+{
+  "venue": "BB & T",
+  "city": "Camden",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Hurts Me Too",
+        "Cumberland Blues",
+        "Ship Of Fools",
+        "Ramble On Rose",
+        "The Weight",
+        "The Music Never Stopped",
+        "Easy Answers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "The Other One"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Univ. of Colorado, Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Shakedown Street",
+        "Brown Eyed Women",
+        "Althea",
+        "Cassidy",
+        "One More Saturday Night",
+        "Scarlet Begonias",
+        "Franklin's Tower",
+        "Fire On The Mountain",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Days Between",
+        "Sugar Magnolia",
+        "Uncle John's Band",
+        "Ripple"
+      ]
+    }
+  ]
+}

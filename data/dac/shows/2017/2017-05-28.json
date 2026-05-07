@@ -1,0 +1,31 @@
+{
+  "venue": "Ak-Chin Pavilion",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "New Minglewood Blues",
+        "Cassidy",
+        "Peggy O",
+        "Loose Lucy",
+        "Sugaree",
+        "Samson And Delilah",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Casey Jones",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

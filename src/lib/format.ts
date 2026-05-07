@@ -55,6 +55,7 @@ export function setLabel(n: number): string {
 
 const COUNTRY_NAMES: Record<string, string> = {
   US: 'United States',
+  UK: 'United Kingdom',
   GB: 'United Kingdom',
   DE: 'Germany',
   FR: 'France',
@@ -70,10 +71,16 @@ const COUNTRY_NAMES: Record<string, string> = {
   NO: 'Norway',
   FI: 'Finland',
   IT: 'Italy',
+  ES: 'Spain',
+  PT: 'Portugal',
   AT: 'Austria',
+  PL: 'Poland',
+  CZ: 'Czech Republic',
+  LU: 'Luxembourg',
   NZ: 'New Zealand',
   MX: 'Mexico',
   EG: 'Egypt',
+  JM: 'Jamaica',
 };
 
 export function countryLabel(code: string): string {

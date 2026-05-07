@@ -1,0 +1,32 @@
+{
+  "venue": "DTE Energy Music Theatre F/K/A Pine Knob",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Big Boss Man",
+        "When I Paint My Masterpiece",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Sugaree",
+        "Don't Ease Me In",
+        "Playing In The Band",
+        "Estimated Prophet",
+        "Cumberland Blues",
+        "Truckin'",
+        "Playing In The Band (Reprise)",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Dear Prudence",
+        "Casey Jones",
+        "Liberty fake",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

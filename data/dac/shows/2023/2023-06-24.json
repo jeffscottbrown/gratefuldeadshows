@@ -1,0 +1,30 @@
+{
+  "venue": "Fenway Park",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cassidy",
+        "Brown Eyed Women",
+        "I Need A Miracle",
+        "Here Comes Sunshine",
+        "Tennessee Jed",
+        "China Doll",
+        "Viola Lee Blues",
+        "The Music Never Stopped",
+        "New Speedway Boogie",
+        "Dark Star",
+        "The Other One",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

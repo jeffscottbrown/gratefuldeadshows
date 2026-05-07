@@ -1,0 +1,31 @@
+{
+  "venue": "Jiffy Lube Live",
+  "city": "Bristow",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Uncle John's Band",
+        "New Minglewood Blues",
+        "Althea",
+        "Peggy O",
+        "Bertha",
+        "Man Smart (Woman Smarter)",
+        "Playing In The Band",
+        "New Speedway Boogie",
+        "He's Gone",
+        "Fire On The Mountain",
+        "A Love Supreme",
+        "A Hard Rain's A-Gonna Fall",
+        "Playing In The Band (Reprise)",
+        "Throwing Stones",
+        "U.S. Blues",
+        "U.S. Blues",
+        "Liberty"
+      ]
+    }
+  ]
+}

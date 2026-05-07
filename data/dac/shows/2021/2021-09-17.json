@@ -1,0 +1,29 @@
+{
+  "venue": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Bertha",
+        "Ramble On Rose",
+        "Dancing In The Street",
+        "Playing In The Band",
+        "Scarlet Begonias",
+        "Deal",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Playing In The Band (Reprise)",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Not Fade Away",
+        "Ripple"
+      ]
+    }
+  ]
+}

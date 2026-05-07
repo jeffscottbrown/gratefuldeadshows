@@ -1,0 +1,30 @@
+{
+  "venue": "Spectrum Center",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Peggy O",
+        "When I Paint My Masterpiece",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Let It Grow",
+        "The Weight",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Standing On The Moon",
+        "I Need A Miracle",
+        "Goin' Down The Road Feeling Bad",
+        "Black Muddy River",
+        "Playing In The Band (Reprise)"
+      ]
+    }
+  ]
+}

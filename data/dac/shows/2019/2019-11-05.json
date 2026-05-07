@@ -1,0 +1,33 @@
+{
+  "venue": "Nassau Veterans Memorial",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Deal",
+        "Peggy O",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Easy Wind",
+        "Cumberland Blues",
+        "Casey Jones",
+        "Here Comes Sunshine",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Comes A Time",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Not Fade Away",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

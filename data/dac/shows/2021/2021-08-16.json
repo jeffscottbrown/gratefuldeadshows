@@ -1,0 +1,31 @@
+{
+  "venue": "Coastal Credit Union Park",
+  "city": "Raleigh",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Shakedown Street",
+        "Deal",
+        "Tennessee Jed",
+        "Brown Eyed Women",
+        "New Speedway Boogie",
+        "Playing In The Band",
+        "Truckin'",
+        "Spoonful",
+        "Playing In The Band (Reprise)",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Death Don't Have No Mercy",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

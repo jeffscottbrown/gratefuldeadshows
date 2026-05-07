@@ -1,0 +1,31 @@
+{
+  "venue": "PNC Pavilion",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Mississippi Half Step Uptown Toodeloo",
+        "They Love Each Other",
+        "Brown Eyed Women",
+        "To Lay Me Down",
+        "Mr. Charlie",
+        "Cassidy",
+        "Casey Jones",
+        "Deal",
+        "Dark Star",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Sunshine Daydream",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Alpine Valley Music Center",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cassidy",
+        "Brown Eyed Women",
+        "I Need A Miracle",
+        "Dire Wolf",
+        "Ramble On Rose",
+        "Box Of Rain",
+        "The Music Never Stopped",
+        "Deal",
+        "Eyes Of The World",
+        "Saint Stephen",
+        "The Other One",
+        "Drums",
+        "Space",
+        "A Hard Rain's A-Gonna Fall",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "One More Saturday Night",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

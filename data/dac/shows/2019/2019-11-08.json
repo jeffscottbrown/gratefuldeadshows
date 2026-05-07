@@ -1,0 +1,33 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Unknown Location",
+  "state": "",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Shakedown Street",
+        "They Love Each Other",
+        "Black Throated Wind",
+        "Mr. Charlie",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Throwing Stones",
+        "Althea",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "My Favorite Things",
+        "The Days Between",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

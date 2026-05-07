@@ -1,0 +1,32 @@
+{
+  "venue": "Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "Ramble On Rose",
+        "Loose Lucy",
+        "Sugaree",
+        "Hell In A Bucket",
+        "Dark Star",
+        "Uncle John's Band",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Dear Prudence",
+        "In The Midnight Hour",
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Touch Of Grey",
+        "Fire On The Mountain",
+        "Saint Stephen",
+        "Sunshine Daydream",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

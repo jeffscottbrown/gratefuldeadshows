@@ -1,0 +1,30 @@
+{
+  "venue": "SPAC",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Easy Wind",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Ship Of Fools",
+        "Corrina",
+        "Cassidy",
+        "The Weight",
+        "Truckin'",
+        "He's Gone",
+        "New Speedway Boogie",
+        "Uncle John's Band",
+        "Space",
+        "Uncle John's Band",
+        "Black Peter",
+        "Good Lovin'",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

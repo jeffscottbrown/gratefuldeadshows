@@ -1,0 +1,23 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "The Music Never Stopped",
+        "Bertha",
+        "Tennessee Jed",
+        "They Love Each Other",
+        "New Speedway Boogie",
+        "Deal",
+        "Stella Blue",
+        "Brokedown Palace",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

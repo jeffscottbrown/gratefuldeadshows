@@ -1,0 +1,32 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Me And My Uncle",
+        "Brown Eyed Women",
+        "Tennessee Jed",
+        "Bird Song",
+        "Man Smart (Woman Smarter)",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "China Doll",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "A Love Supreme",
+        "Stella Blue",
+        "Saint Stephen",
+        "Not Fade Away",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

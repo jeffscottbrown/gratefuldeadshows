@@ -1,0 +1,33 @@
+{
+  "venue": "Playing in the Sand",
+  "city": "Cancun",
+  "state": "",
+  "country": "MX",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Dark Star",
+        "Playing In The Band",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "He's Gone",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "Althea",
+        "The Days Between",
+        "U.S. Blues",
+        "Ripple",
+        "Not Fade Away (Reprise)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Xfinity Theatre",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Liberty",
+        "They Love Each Other",
+        "Loser",
+        "Alabama Getaway",
+        "Iko Iko",
+        "High Time",
+        "Cassidy",
+        "Jack Straw",
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Fire On The Mountain",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

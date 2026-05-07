@@ -1,0 +1,33 @@
+{
+  "venue": "The Pavilion at Star Lake",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Dire Wolf",
+        "Friend Of The Devil",
+        "Foolish Heart",
+        "They Love Each Other",
+        "West L.A. Fadeaway",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Big Railroad Blues",
+        "Dark Star",
+        "El Paso",
+        "He's Gone",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Hell In A Bucket",
+        "Dear Prudence",
+        "U.S. Blues",
+        "Ripple"
+      ]
+    }
+  ]
+}

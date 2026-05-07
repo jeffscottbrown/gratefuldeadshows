@@ -1,0 +1,31 @@
+{
+  "venue": "The Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Alabama Getaway",
+        "Ramble On Rose",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Don't Ease Me In",
+        "Playing In The Band",
+        "Terrapin Station",
+        "China Doll",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "U.S. Blues",
+        "Ripple"
+      ]
+    }
+  ]
+}

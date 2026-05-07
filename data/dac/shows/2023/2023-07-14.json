@@ -1,0 +1,32 @@
+{
+  "venue": "Oracle Park",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Not Fade Away",
+        "Shakedown Street",
+        "Cold Rain And Snow",
+        "Ramble On Rose",
+        "Brown Eyed Women",
+        "New Speedway Boogie",
+        "Wharf Rat",
+        "Don't Ease Me In",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "He's Gone",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Casey Jones",
+        "U.S. Blues",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

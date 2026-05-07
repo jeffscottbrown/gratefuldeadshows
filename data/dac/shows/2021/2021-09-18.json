@@ -1,0 +1,33 @@
+{
+  "venue": "Wrigley Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Althea",
+        "Uncle John's Band",
+        "He's Gone",
+        "Brown Eyed Women",
+        "Little Red Rooster",
+        "Jack Straw",
+        "One More Saturday Night",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Milestones",
+        "The Days Between",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Brokedown Palace",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Deal",
+        "The Weight",
+        "Terrapin Station",
+        "Bertha",
+        "Hell In A Bucket",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Help On The Way",
+        "Slipknot!",
+        "Row Jimmy",
+        "Drums",
+        "Space",
+        "A Hard Rain's A-Gonna Fall",
+        "Shakedown Street",
+        "Brokedown Palace",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

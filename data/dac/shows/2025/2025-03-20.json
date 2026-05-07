@@ -1,0 +1,31 @@
+{
+  "venue": "Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Bertha",
+        "New Speedway Boogie",
+        "Brown Eyed Women",
+        "Good Lovin'",
+        "Don't Ease Me In",
+        "Feel Like A Stranger",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Althea",
+        "Goin' Down The Road Feeling Bad",
+        "Knockin' On Heaven's Door",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

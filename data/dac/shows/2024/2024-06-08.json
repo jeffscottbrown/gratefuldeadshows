@@ -1,0 +1,31 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Bertha",
+        "West L.A. Fadeaway",
+        "They Love Each Other",
+        "Jack Straw",
+        "One More Saturday Night",
+        "Let The Good Times Roll",
+        "Sugar Magnolia",
+        "Althea",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Good Lovin'",
+        "Deal",
+        "Knockin' On Heaven's Door",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

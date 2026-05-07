@@ -1,0 +1,31 @@
+{
+  "venue": "Saratoga Performing Arts Center ",
+  "city": "Saratoga Springs",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mr. Charlie",
+        "Friend Of The Devil",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Big Railroad Blues",
+        "Samson And Delilah",
+        "Playing In The Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Death Don't Have No Mercy",
+        "Throwing Stones",
+        "Sugar Magnolia",
+        "Werewolves Of London",
+        "Playing In The Band (Reprise)"
+      ]
+    }
+  ]
+}

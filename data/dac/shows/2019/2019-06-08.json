@@ -1,0 +1,31 @@
+{
+  "venue": "The Gorge Amphitheater",
+  "city": "George",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "They Love Each Other",
+        "I Need A Miracle",
+        "Comes A Time",
+        "Throwing Stones",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Deal",
+        "Viola Lee Blues",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "A Hard Rain's A-Gonna Fall",
+        "One More Saturday Night",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "The Sphere",
+  "city": "Unknown Location",
+  "state": "",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Uncle John's Band",
+        "Franklin's Tower",
+        "Loose Lucy",
+        "Ship Of Fools",
+        "Help On The Way",
+        "Slipknot!",
+        "Eyes Of The World",
+        "Saint Stephen",
+        "Scarlet Begonias",
+        "He's Gone",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Looks Like Rain",
+        "Truckin'",
+        "Throwing Stones",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

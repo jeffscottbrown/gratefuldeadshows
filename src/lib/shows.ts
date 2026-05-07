@@ -136,13 +136,14 @@ export async function getYears(): Promise<{ year: string; gdCount: number; dacCo
     .sort((a, b) => a.year.localeCompare(b.year));
 }
 
-export async function getCities(): Promise<{ city: string; country: string; count: number }[]> {
+export async function getCities(): Promise<{ city: string; country: string; gdCount: number; dacCount: number }[]> {
   const all = await loadAll();
-  const map = new Map<string, { country: string; count: number }>();
+  const map = new Map<string, { country: string; gdCount: number; dacCount: number }>();
   for (const s of all) {
     const key = `${s.city}||${s.country}`;
-    if (!map.has(key)) map.set(key, { country: s.country, count: 0 });
-    map.get(key)!.count++;
+    if (!map.has(key)) map.set(key, { country: s.country, gdCount: 0, dacCount: 0 });
+    const entry = map.get(key)!;
+    if (s.band === 'gd') entry.gdCount++; else entry.dacCount++;
   }
   return Array.from(map.entries())
     .map(([key, v]) => ({ city: key.split('||')[0], ...v }))
@@ -184,10 +185,12 @@ export async function getVenues(): Promise<{ venue: string; city: string; state:
     .sort((a, b) => a.venue.localeCompare(b.venue, undefined, { sensitivity: 'base' }));
 }
 
-export async function getSongs(): Promise<{ title: string; slug: string; count: number }[]> {
+export async function getSongs(): Promise<{ title: string; slug: string; gdCount: number; dacCount: number }[]> {
   const all = await loadAll();
-  const map = new Map<string, number>();
+  const gdMap = new Map<string, number>();
+  const dacMap = new Map<string, number>();
   for (const show of all) {
+    const map = show.band === 'gd' ? gdMap : dacMap;
     for (const set of show.setlist) {
       for (const song of set.songs) {
         map.set(song, (map.get(song) ?? 0) + 1);
@@ -195,9 +198,12 @@ export async function getSongs(): Promise<{ title: string; slug: string; count: 
     }
   }
 
+  // Union of all songs
+  const allTitles = new Set([...gdMap.keys(), ...dacMap.keys()]);
+
   // Build slugs, detect collisions, and resolve them
   const slugCount = new Map<string, number>();
-  const entries = Array.from(map.entries()).map(([title]) => {
+  const entries = Array.from(allTitles).map((title) => {
     const base = songSlug(title);
     slugCount.set(base, (slugCount.get(base) ?? 0) + 1);
     return { title, base };
@@ -212,7 +218,7 @@ export async function getSongs(): Promise<{ title: string; slug: string; count: 
         slugSuffix.set(base, n);
         slug = n === 1 ? base : `${base}-${n}`;
       }
-      return { title, slug, count: map.get(title)! };
+      return { title, slug, gdCount: gdMap.get(title) ?? 0, dacCount: dacMap.get(title) ?? 0 };
     })
     .sort((a, b) => {
       const ka = a.title.replace(/^the\s+/i, '');
@@ -221,16 +227,13 @@ export async function getSongs(): Promise<{ title: string; slug: string; count: 
     });
 }
 
-export async function getStats() {
-  const all = await loadAll();
-  const gdShows = all.filter((s) => s.band === 'gd');
-  const dacShows = all.filter((s) => s.band === 'dac');
+function bandStats(shows: Show[]) {
   const songs = new Set<string>();
   let performances = 0;
   const venues = new Set<string>();
   const cities = new Set<string>();
   const countries = new Set<string>();
-  for (const s of all) {
+  for (const s of shows) {
     venues.add(s.venue);
     cities.add(s.city);
     countries.add(s.country);
@@ -241,14 +244,13 @@ export async function getStats() {
       }
     }
   }
+  return { shows: shows.length, songs: songs.size, performances, venues: venues.size, cities: cities.size, countries: countries.size };
+}
+
+export async function getStats() {
+  const all = await loadAll();
   return {
-    gdShows: gdShows.length,
-    dacShows: dacShows.length,
-    totalShows: all.length,
-    songs: songs.size,
-    performances,
-    venues: venues.size,
-    cities: cities.size,
-    countries: countries.size,
+    gd: bandStats(all.filter((s) => s.band === 'gd')),
+    dac: bandStats(all.filter((s) => s.band === 'dac')),
   };
 }

@@ -1,0 +1,34 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Uncle John's Band",
+        "Supplication",
+        "Uncle John's Band",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Sugar Magnolia",
+        "Greatest Story Ever Told",
+        "Bertha",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Lady With A Fan",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Morning Dew",
+        "Sunshine Daydream"
+      ]
+    }
+  ]
+}

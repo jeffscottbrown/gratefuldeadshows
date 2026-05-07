@@ -1,0 +1,31 @@
+{
+  "venue": "Oak Ridge Estate-Lock'n",
+  "city": "Arrington",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Loser",
+        "Playing In The Band (Reprise)",
+        "Mr. Charlie",
+        "Tennessee Jed",
+        "Althea",
+        "Sugar Magnolia",
+        "Shakedown Street",
+        "Bird Song",
+        "Eyes Of The World",
+        "Terrapin Station",
+        "drumspace",
+        "Morning Dew",
+        "Not Fade Away",
+        "Brokedown Palace",
+        "U.S. Blues",
+        "Ripple"
+      ]
+    }
+  ]
+}

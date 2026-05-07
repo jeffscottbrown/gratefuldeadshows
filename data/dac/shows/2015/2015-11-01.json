@@ -1,0 +1,28 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "New Minglewood Blues",
+        "Bertha",
+        "Sugaree",
+        "Friend Of The Devil",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Shakedown Street",
+        "Dark Star",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Goin' Down The Road Feeling Bad",
+        "Ripple"
+      ]
+    }
+  ]
+}

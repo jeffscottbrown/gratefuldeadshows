@@ -1,0 +1,31 @@
+{
+  "venue": "Great Woods (a/k/a Xfinity Center) ",
+  "city": "Mansfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Alabama Getaway",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Tennessee Jed",
+        "Bird Song",
+        "Loose Lucy",
+        "Bird Song",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Althea",
+        "Estimated Prophet",
+        "The Other One",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

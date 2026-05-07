@@ -1,0 +1,28 @@
+{
+  "venue": "The Sphere",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Shakedown Street",
+        "Bertha",
+        "When I Paint My Masterpiece",
+        "Jack Straw",
+        "Sugar Magnolia",
+        "Uncle John's Band",
+        "Saint Stephen",
+        "Morning Dew",
+        "Terrapin Station",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Althea",
+        "Brokedown Palace",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

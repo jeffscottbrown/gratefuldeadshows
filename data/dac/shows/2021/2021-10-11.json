@@ -1,0 +1,30 @@
+{
+  "venue": "PNC Music Pavillion",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Cassidy",
+        "Tennessee Jed",
+        "It Must Have Been The Roses",
+        "Mr. Charlie",
+        "Looks Like Rain",
+        "Bird Song",
+        "Scarlet Begonias",
+        "Uncle John's Band",
+        "Fire On The Mountain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "New Speedway Boogie",
+        "Black Peter",
+        "Casey Jones",
+        "Ripple"
+      ]
+    }
+  ]
+}

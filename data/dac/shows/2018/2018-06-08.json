@@ -1,0 +1,29 @@
+{
+  "venue": "Cellairis Amphitheater at Lakewood",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "I Need A Miracle",
+        "Alabama Getaway",
+        "Black Throated Wind",
+        "West L.A. Fadeaway",
+        "Brown Eyed Women",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Here Comes Sunshine",
+        "Eyes Of The World",
+        "Althea",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}
