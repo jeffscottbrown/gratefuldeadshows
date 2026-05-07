@@ -1,0 +1,43 @@
+{
+  "venue": "Los Angeles Sports Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Stagger Lee",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Broken Arrow",
+        "When I Paint My Masterpiece",
+        "So Many Roads",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "New Speedway Boogie",
+        "Nobody's Fault But Mine",
+        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Days Between",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

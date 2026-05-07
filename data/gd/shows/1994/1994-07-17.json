@@ -1,0 +1,30 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Wang Dang Doodle",
+        "So Many Roads",
+        "Just Like Tom Thumb's Blues",
+        "Black Throated Wind",
+        "Don't Ease Me In",
+        "Victim Or The Crime",
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Way To Go Home",
+        "Standing On The Moon",
+        "Turn On Your Lovelight",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

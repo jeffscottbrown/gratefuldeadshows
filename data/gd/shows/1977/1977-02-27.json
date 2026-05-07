@@ -1,0 +1,41 @@
+{
+  "venue": "Robertson Gym",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Loser",
+        "El Paso",
+        "Ramble On Rose",
+        "Estimated Prophet",
+        "Peggy O",
+        "Good Lovin'",
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Music Never Stopped",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Drums",
+        "Terrapin Station",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

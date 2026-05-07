@@ -1,0 +1,39 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mexicali Blues",
+        "Big River",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Stir It Up",
+        "Drums",
+        "Space",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

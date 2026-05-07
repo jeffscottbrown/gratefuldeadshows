@@ -1,0 +1,42 @@
+{
+  "venue": "Cleveland Music Hall",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song",
+        "Looks Like Rain",
+        "Big Railroad Blues",
+        "Little Red Rooster",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

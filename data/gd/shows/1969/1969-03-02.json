@@ -1,0 +1,39 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Doin' That Rag",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Space",
+        "Death Don't Have No Mercy",
+        "Morning Dew",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "And We Bid You Good Night",
+        "Jam",
+        "Caution (Do Not Stop On Tracks)",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

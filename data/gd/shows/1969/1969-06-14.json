@@ -1,0 +1,24 @@
+{
+  "venue": "Monterey Peninsula College",
+  "city": "Monterey",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Me And My Uncle",
+        "Doin' That Rag",
+        "He Was A Friend Of Mine",
+        "Dire Wolf",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

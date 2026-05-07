@@ -1,0 +1,43 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Big Railroad Blues",
+        "My Brother Esau",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Hell In A Bucket",
+        "Ship Of Fools",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

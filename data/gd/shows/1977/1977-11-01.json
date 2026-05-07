@@ -1,0 +1,41 @@
+{
+  "venue": "Cobo Arena",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Might As Well",
+        "Jack Straw",
+        "Tennessee Jed",
+        "El Paso",
+        "Friend Of The Devil",
+        "Looks Like Rain",
+        "Dire Wolf",
+        "Passenger",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Estimated Prophet",
+        "The Other One",
+        "Drums",
+        "Wharf Rat",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

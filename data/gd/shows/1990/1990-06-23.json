@@ -1,0 +1,43 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "Far From Me",
+        "They Love Each Other",
+        "Cassidy",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Looks Like Rain",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

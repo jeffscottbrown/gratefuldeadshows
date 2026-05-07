@@ -1,0 +1,39 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "C.C. Rider",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

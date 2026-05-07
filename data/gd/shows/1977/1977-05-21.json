@@ -1,0 +1,47 @@
+{
+  "venue": "Lakeland Civic Center Arena",
+  "city": "Lakeland",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "They Love Each Other",
+        "Cassidy",
+        "Jack A Roe",
+        "Jack Straw",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Passenger",
+        "Scarlet Begonias",
+        "Fire On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Comes A Time",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

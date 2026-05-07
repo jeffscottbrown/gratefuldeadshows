@@ -1,0 +1,43 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Walkin' Blues",
+        "Candyman",
+        "Mama Tried",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Weight",
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Drums",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

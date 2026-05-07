@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Cassidy",
+        "Jack A Roe",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "El Paso",
+        "Stagger Lee",
+        "Passenger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Shakedown Street",
+        "From The Heart Of Me",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

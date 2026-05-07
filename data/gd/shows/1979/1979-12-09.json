@@ -1,0 +1,46 @@
+{
+  "venue": "Kiel Auditorium",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Candyman",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "High Time",
+        "Easy To Love You",
+        "Terrapin Station",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Black Peter",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

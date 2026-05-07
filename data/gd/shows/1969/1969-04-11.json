@@ -1,0 +1,28 @@
+{
+  "venue": "University Auditorium",
+  "city": "Tucson",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Sittin' On Top Of The World",
+        "The Other One",
+        "Cryptical Envelopment",
+        "It's A Sin",
+        "Hard To Handle"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

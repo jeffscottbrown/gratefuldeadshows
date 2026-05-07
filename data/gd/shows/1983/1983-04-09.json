@@ -1,0 +1,44 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "Candyman",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Truckin'",
+        "Smokestack Lightnin' Jam",
+        "Drums",
+        "Throwing Stones",
+        "Black Peter",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

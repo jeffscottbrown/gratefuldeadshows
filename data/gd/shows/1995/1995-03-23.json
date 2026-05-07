@@ -1,0 +1,36 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Wang Dang Doodle",
+        "Cold Rain And Snow",
+        "El Paso",
+        "Loser",
+        "Easy Answers",
+        "So Many Roads"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Unbroken Chain",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Corrina",
+        "Matilda, Matilda",
+        "Jam",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Good Lovin'",
+        "The Weight"
+      ]
+    }
+  ]
+}

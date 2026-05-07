@@ -1,0 +1,56 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And Bobby Mcgee",
+        "Bye Bye Love",
+        "Lucifer's Eyes",
+        "Children Of The Eighties",
+        "Banks Of The Ohio"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "It Must Have Been The Roses",
+        "Beat It On Down The Line",
+        "Big Boss Man",
+        "New Minglewood Blues",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Iko Iko",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Dark Star",
+        "Bertha",
+        "Good Lovin'",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

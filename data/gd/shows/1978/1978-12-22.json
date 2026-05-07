@@ -1,0 +1,37 @@
+{
+  "venue": "Dallas Convention Center Arena",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Me And My Uncle",
+        "Big River",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "Beat It On Down The Line",
+        "Candyman",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "From The Heart Of Me",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    }
+  ]
+}

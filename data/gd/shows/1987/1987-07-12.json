@@ -1,0 +1,61 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Tons Of Steel",
+        "Take A Step Back Tuning",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "When Push Comes To Shove",
+        "The Promised Land",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Slow Train",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Tomorrow Is A Long Time",
+        "Highway 61 Revisited",
+        "John Brown",
+        "It's All Over Now, Baby Blue",
+        "Ballad Of A Thin Man",
+        "The Wicked Messenger",
+        "Queen Jane Approximately",
+        "Chimes Of Freedom",
+        "Joey",
+        "All Along The Watchtower",
+        "The Times They Are A Changin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Touch Of Grey",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

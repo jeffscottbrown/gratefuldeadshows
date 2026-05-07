@@ -1,0 +1,40 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "It Takes A Lot To Laugh It Takes A Train To Cry",
+        "Black Throated Wind",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Corrina",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

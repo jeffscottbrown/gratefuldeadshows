@@ -1,0 +1,40 @@
+{
+  "venue": "Cape Cod Coliseum",
+  "city": "South Yarmouth",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Passenger",
+        "Ramble On Rose",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

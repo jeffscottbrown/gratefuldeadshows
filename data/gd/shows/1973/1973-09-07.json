@@ -1,0 +1,44 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Jack Straw",
+        "Looks Like Rain",
+        "Deal",
+        "El Paso",
+        "Bird Song",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Me And My Uncle",
+        "Loser",
+        "Let It Grow",
+        "Stella Blue",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Eyes Of The World",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Around And Around"
+      ]
+    }
+  ]
+}

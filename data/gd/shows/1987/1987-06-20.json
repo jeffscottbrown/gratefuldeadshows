@@ -1,0 +1,40 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Loser",
+        "My Brother Esau",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Deal",
+        "Drums",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

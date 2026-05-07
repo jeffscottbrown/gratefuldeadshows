@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Big River",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Looks Like Rain",
+        "Alabama Getaway",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Not Fade Away",
+        "Brokedown Palace",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

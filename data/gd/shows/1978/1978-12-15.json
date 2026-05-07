@@ -1,0 +1,43 @@
+{
+  "venue": "Boutwell Auditorium",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "From The Heart Of Me",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "It Must Have Been The Roses",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Truckin'",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

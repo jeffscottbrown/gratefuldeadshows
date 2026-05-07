@@ -1,0 +1,43 @@
+{
+  "venue": "Rainbow Theater",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "C.C. Rider",
+        "Cumberland Blues",
+        "Cassidy",
+        "Dire Wolf",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Shakedown Street",
+        "Bertha",
+        "Drums",
+        "Spanish Jam",
+        "Truckin'",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

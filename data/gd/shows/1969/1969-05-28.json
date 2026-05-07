@@ -1,0 +1,16 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Smokestack Lightnin'",
+        "The Other One",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

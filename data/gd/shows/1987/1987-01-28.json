@@ -1,0 +1,44 @@
+{
+  "venue": "San Francisco Civic Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Get Back",
+        "Peggy O",
+        "Walkin' Blues",
+        "It Must Have Been The Roses",
+        "It's All Over Now",
+        "Row Jimmy",
+        "My Brother Esau",
+        "Bird Song",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "When Push Comes To Shove",
+        "Samson And Delilah",
+        "Black Muddy River",
+        "He's Gone",
+        "Spoonful",
+        "Drums",
+        "Eyes Of The World",
+        "Black Peter",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

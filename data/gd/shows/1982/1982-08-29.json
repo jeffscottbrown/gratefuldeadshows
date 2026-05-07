@@ -1,0 +1,41 @@
+{
+  "venue": "Seattle Center Memorial Coliseum",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Mama Tried",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Loser",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Keep Your Day Job",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

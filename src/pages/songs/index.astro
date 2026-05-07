@@ -1,0 +1,19 @@
+---
+import Layout from '@/components/Layout.astro';
+import SongSearch from '@/components/islands/SongSearch';
+import { getSongs } from '@/lib/shows';
+
+const songs = await getSongs();
+---
+
+<Layout title="Songs" description="Browse every Grateful Dead song and track when it appeared in setlists.">
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-2">Songs</h1>
+    <p class="text-gray-400 mb-6">{songs.length} distinct songs in the repertoire</p>
+    <!--
+      SongSearch is a React island: it handles the live search input
+      and A-Z grouping. client:load means it hydrates immediately.
+    -->
+    <SongSearch songs={songs} client:load />
+  </div>
+</Layout>

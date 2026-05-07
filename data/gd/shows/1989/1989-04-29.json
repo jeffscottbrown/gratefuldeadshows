@@ -1,0 +1,43 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "Brown Eyed Women",
+        "Blow Away",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Built To Last",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "He's Gone",
+        "Spoonful",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

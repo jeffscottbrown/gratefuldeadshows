@@ -1,0 +1,42 @@
+{
+  "venue": "Laguna Seca Recreation Area",
+  "city": "Monterey",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugar Magnolia",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "When Push Comes To Shove",
+        "Tons Of Steel",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Iko Iko"
+      ]
+    }
+  ]
+}

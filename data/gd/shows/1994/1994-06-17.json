@@ -1,0 +1,32 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Lazy River Road",
+        "Wang Dang Doodle",
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Just Like Tom Thumb's Blues",
+        "Deal",
+        "Rain",
+        "Eyes Of The World",
+        "Samba In The Rain",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Attics Of My Life",
+        "Throwing Stones",
+        "Not Fade Away",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

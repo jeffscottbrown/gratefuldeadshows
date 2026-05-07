@@ -1,0 +1,40 @@
+{
+  "venue": "Copps Coliseum",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Althea",
+        "The Same Thing",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Man Smart (Woman Smarter)",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Standing On The Moon",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Loser",
+        "Little Red Rooster",
+        "So Many Roads",
+        "Just Like Tom Thumb's Blues",
+        "Black Throated Wind",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "The Last Time",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

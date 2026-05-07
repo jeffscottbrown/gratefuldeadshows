@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Same Thing",
+        "Althea",
+        "Cassidy",
+        "Childhood's End",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Samba In The Rain",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

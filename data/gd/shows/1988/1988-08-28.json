@@ -1,0 +1,40 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Friend Of The Devil",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Foolish Heart",
+        "Victim Or The Crime",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Truckin'",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

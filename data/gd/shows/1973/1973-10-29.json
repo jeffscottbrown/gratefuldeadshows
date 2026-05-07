@@ -1,0 +1,47 @@
+{
+  "venue": "Kiel Auditorium",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Don't Ease Me In",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "The Race Is On",
+        "Row Jimmy",
+        "El Paso",
+        "Eyes Of The World",
+        "China Doll",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Big River",
+        "Brokedown Palace",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

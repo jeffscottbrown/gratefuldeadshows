@@ -1,0 +1,44 @@
+{
+  "venue": "Soldiers & Sailors Memorial Hall",
+  "city": "Kansas City",
+  "state": "KS",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Dancing In The Street",
+        "Franklin's Tower",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Easy To Love You",
+        "Let It Grow",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

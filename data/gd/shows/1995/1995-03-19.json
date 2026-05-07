@@ -1,0 +1,36 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Walkin' Blues",
+        "So Many Roads",
+        "Easy Answers",
+        "Don't Ease Me In",
+        "Unbroken Chain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Corrina",
+        "Matilda, Matilda",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Not Fade Away",
+        "Brokedown Palace",
+        "Unbroken Chain"
+      ]
+    }
+  ]
+}

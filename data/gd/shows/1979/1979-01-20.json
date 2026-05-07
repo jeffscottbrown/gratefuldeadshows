@@ -1,0 +1,44 @@
+{
+  "venue": "Shea's Buffalo Theatre",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "El Paso",
+        "Peggy O",
+        "It's All Over Now",
+        "Jack A Roe",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "Loser",
+        "Estimated Prophet",
+        "The Other One",
+        "Drums",
+        "The Other One",
+        "Dark Star",
+        "Not Fade Away",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "Row Jimmy",
+        "My Brother Esau",
+        "When Push Comes To Shove",
+        "Desolation Row",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

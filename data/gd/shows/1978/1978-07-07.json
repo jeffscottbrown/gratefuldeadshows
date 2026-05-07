@@ -1,0 +1,45 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Tennessee Jed",
+        "Passenger",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Dancing In The Street",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

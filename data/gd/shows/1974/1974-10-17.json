@@ -1,0 +1,50 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Black Throated Wind",
+        "Friend Of The Devil",
+        "Jack Straw",
+        "Loser",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "It Must Have Been The Roses",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Big River",
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "He's Gone",
+        "The Other One",
+        "Spanish Jam",
+        "Mind Left Body Jam",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

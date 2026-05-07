@@ -1,0 +1,47 @@
+{
+  "venue": "Baltimore Civic Center",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Black Throated Wind",
+        "Friend Of The Devil",
+        "El Paso",
+        "Bird Song",
+        "Big River",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Loser",
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "He's Gone",
+        "The Other One",
+        "Sing Me Back Home",
+        "Sugar Magnolia",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

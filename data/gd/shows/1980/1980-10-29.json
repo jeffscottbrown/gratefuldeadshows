@@ -1,0 +1,56 @@
+{
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "On The Road Again",
+        "It Must Have Been The Roses",
+        "The Race Is On",
+        "Bird Song",
+        "Heaven Help The Fool",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Althea",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "Saint Of Circumstance",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

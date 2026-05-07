@@ -1,0 +1,40 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Railroad Blues",
+        "Playing In The Band",
+        "Mr. Charlie",
+        "Sugaree",
+        "El Paso",
+        "Next Time You See Me",
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Big Boss Man",
+        "Loser",
+        "Bird Song",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Wharf Rat",
+        "Deal",
+        "Brokedown Palace",
+        "Empty Pages"
+      ]
+    }
+  ]
+}

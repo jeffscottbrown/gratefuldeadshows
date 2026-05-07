@@ -1,0 +1,37 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "U.S. Blues",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "It Must Have Been The Roses",
+        "Jack Straw",
+        "Me And My Uncle",
+        "To Lay Me Down",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Big River",
+        "Ship Of Fools",
+        "Truckin'",
+        "Eyes Of The World",
+        "China Doll",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Eternity",
+        "Liberty"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

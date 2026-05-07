@@ -1,0 +1,41 @@
+{
+  "venue": "Ice Stadium",
+  "city": "Stockholm",
+  "state": "",
+  "country": "SE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Feel Like A Stranger",
+        "Candyman",
+        "Walkin' Blues",
+        "Loser",
+        "Queen Jane Approximately",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Estimated Prophet",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Drums",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

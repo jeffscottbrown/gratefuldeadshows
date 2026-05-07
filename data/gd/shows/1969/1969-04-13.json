@@ -1,0 +1,30 @@
+{
+  "venue": "Glenn Miller Ballroom",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Doin' That Rag",
+        "Good Morning Little Schoolgirl",
+        "Morning Dew",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alligator",
+        "Drums",
+        "Caution (Do Not Stop On Tracks)",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

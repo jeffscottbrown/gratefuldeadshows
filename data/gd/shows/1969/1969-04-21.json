@@ -1,0 +1,45 @@
+{
+  "venue": "The Ark",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Morning Dew",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Sittin' On Top Of The World",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "Doin' That Rag"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foxy Lady",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Viola Lee Blues",
+        "Feedback"
+      ]
+    }
+  ]
+}

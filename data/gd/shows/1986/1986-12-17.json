@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "West L.A. Fadeaway",
+        "Tons Of Steel",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Desolation Row",
+        "When Push Comes To Shove",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "Cumberland Blues",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

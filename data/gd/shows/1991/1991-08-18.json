@@ -1,0 +1,43 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Jack A Roe",
+        "C.C. Rider",
+        "It Takes A Lot To Laugh It Takes A Train To Cry",
+        "Beat It On Down The Line",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Stagger Lee",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Deal",
+        "Samson And Delilah",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

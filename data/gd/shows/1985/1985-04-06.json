@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Dupree's Diamond Blues",
+        "Mama Tried",
+        "Big River",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "The Other One",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

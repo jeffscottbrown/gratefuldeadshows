@@ -1,0 +1,45 @@
+{
+  "venue": "46th Street Rock Palace",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Cold Rain And Snow",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big Railroad Blues",
+        "Mama Tried",
+        "It Hurts Me Too",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Sugar Magnolia",
+        "Hard To Handle",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Cumberland Blues",
+        "Goin' Down The Road Feeling Bad",
+        "John's Other",
+        "Uncle Sam Blues",
+        "Around And Around",
+        "Ode For Billie Dean",
+        "Not Fade Away",
+        "Who Do You Love?",
+        "Drums",
+        "Jam",
+        "Come Back Baby"
+      ]
+    }
+  ]
+}

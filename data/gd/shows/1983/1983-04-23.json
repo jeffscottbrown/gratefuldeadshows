@@ -1,0 +1,45 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Peggy O",
+        "Far From Me",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

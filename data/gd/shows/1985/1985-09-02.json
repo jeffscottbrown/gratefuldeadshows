@@ -1,0 +1,44 @@
+{
+  "venue": "Zoo Amphitheatre",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Stagger Lee",
+        "Iko Iko",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Hell In A Bucket"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "I Need A Miracle",
+        "China Doll",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

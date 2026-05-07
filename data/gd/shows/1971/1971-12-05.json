@@ -1,0 +1,55 @@
+{
+  "venue": "Felt Forum",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "Big Boss Man",
+        "Brown Eyed Women",
+        "I Washed My Hands In Muddy Water",
+        "Jack Straw",
+        "Mr. Charlie",
+        "Tennessee Jed",
+        "El Paso",
+        "Deal",
+        "Playing In The Band",
+        "Next Time You See Me",
+        "Comes A Time",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Ramble On Rose",
+        "It Hurts Me Too",
+        "Sugaree",
+        "Sugar Magnolia",
+        "Dark Star",
+        "Me And My Uncle",
+        "Dark Star",
+        "Sittin' On Top Of The World",
+        "Me And Bobby Mcgee",
+        "Big Railroad Blues",
+        "Mexicali Blues",
+        "You Win Again",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

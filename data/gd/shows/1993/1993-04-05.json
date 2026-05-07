@@ -1,0 +1,40 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Lazy River Road",
+        "Just Like Tom Thumb's Blues",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "The Music Never Stopped",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Fought The Law",
+        "Way To Go Home",
+        "Corrina",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Gloria"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

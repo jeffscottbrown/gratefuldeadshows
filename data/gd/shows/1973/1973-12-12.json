@@ -1,0 +1,48 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "El Paso",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Big River",
+        "Deal",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And Bobby Mcgee",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Greatest Story Ever Told",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Wharf Rat",
+        "Me And My Uncle",
+        "Eyes Of The World",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

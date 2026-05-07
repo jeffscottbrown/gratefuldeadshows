@@ -1,0 +1,40 @@
+{
+  "venue": "Birmingham Jefferson Convention Complex Coliseum",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Wang Dang Doodle",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Row Jimmy",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Way To Go Home",
+        "Truckin'",
+        "That Would Be Something",
+        "Uncle John's Band",
+        "Matilda, Matilda",
+        "Drums",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

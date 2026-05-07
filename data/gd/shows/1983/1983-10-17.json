@@ -1,0 +1,41 @@
+{
+  "venue": "Olympic Center",
+  "city": "Lake Placid",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Little Red Rooster",
+        "Friend Of The Devil",
+        "My Brother Esau",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "To Lay Me Down",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

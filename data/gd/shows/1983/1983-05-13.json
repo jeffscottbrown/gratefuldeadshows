@@ -1,0 +1,37 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Hell In A Bucket",
+        "Loser",
+        "Little Red Rooster",
+        "Bird Song",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Spanish Jam",
+        "Throwing Stones",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

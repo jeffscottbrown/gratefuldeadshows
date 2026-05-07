@@ -1,0 +1,46 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "El Paso",
+        "Loser",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Beat It On Down The Line",
+        "Never Trust A Woman",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

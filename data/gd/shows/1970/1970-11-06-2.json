@@ -1,0 +1,35 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "I'm A King Bee",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Truckin'",
+        "Candyman",
+        "Sugar Magnolia",
+        "Drums",
+        "Good Lovin'",
+        "Drums",
+        "Playing In The Band",
+        "Drums",
+        "Good Lovin'",
+        "Alligator",
+        "Jam",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Mountain Jam",
+        "Not Fade Away",
+        "Caution (Do Not Stop On Tracks)",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

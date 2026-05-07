@@ -1,0 +1,33 @@
+{
+  "venue": "San Francisco Civic Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Friend Of The Devil",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Cassidy",
+        "Althea",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Wang Dang Doodle",
+        "Jack A Roe",
+        "We Can Run",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Blow Away",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Death Don't Have No Mercy",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

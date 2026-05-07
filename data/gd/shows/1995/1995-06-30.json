@@ -1,0 +1,40 @@
+{
+  "venue": "Three Rivers Stadium",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "Take Me To The River",
+        "Candyman",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Rain",
+        "Box Of Rain",
+        "Samba In The Rain",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

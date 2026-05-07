@@ -1,0 +1,39 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Ramble On Rose",
+        "C.C. Rider",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "Touch Of Grey",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "China Doll",
+        "Goin' Down The Road Feeling Bad",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

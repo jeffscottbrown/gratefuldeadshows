@@ -1,0 +1,44 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "It Must Have Been The Roses",
+        "Beat It On Down The Line",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Rain",
+        "Victim Or The Crime",
+        "Box Of Rain",
+        "He's Gone",
+        "That Would Be Something",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Days Between",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

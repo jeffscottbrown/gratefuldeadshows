@@ -1,0 +1,42 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Just Like Tom Thumb's Blues",
+        "Far From Me",
+        "Cassidy",
+        "Friend Of The Devil",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

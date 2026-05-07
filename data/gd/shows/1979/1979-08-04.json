@@ -1,0 +1,43 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "El Paso",
+        "Althea",
+        "Lost Sailor",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Passenger",
+        "Friend Of The Devil",
+        "Samson And Delilah",
+        "Shakedown Street",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

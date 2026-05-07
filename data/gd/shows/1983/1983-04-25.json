@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Loser",
+        "My Brother Esau",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Goin' Down The Road Feeling Bad",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

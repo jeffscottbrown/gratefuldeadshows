@@ -1,0 +1,51 @@
+{
+  "venue": "Orpheum Theatre",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Cassidy",
+        "Row Jimmy",
+        "Mama Tried",
+        "Scarlet Begonias",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Candyman",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Let It Grow",
+        "Drums",
+        "Let It Grow",
+        "Wharf Rat",
+        "The Other One",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "The Wheel",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

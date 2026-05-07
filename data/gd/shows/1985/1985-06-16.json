@@ -1,0 +1,44 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Bertha",
+        "Walkin' Blues",
+        "Tennessee Jed",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

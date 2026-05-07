@@ -1,0 +1,47 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mama Tried",
+        "Loser",
+        "Big River",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Samson And Delilah",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Franklin's Tower",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

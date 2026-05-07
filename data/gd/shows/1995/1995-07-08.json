@@ -1,0 +1,42 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "Althea",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "Eternity",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "It's All Too Much",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Visions Of Johanna",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

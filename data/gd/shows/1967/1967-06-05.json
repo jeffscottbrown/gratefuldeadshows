@@ -1,0 +1,26 @@
+{
+  "venue": "Caf' au Go",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "I'm A King Bee",
+        "It Hurts Me Too",
+        "The Same Thing",
+        "Big Boss Man",
+        "Alligator",
+        "In The Midnight Hour",
+        "Beat It On Down The Line",
+        "Me And My Uncle",
+        "New Minglewood Blues",
+        "Don't Ease Me In",
+        "Cold Rain And Snow",
+        "Viola Lee Blues",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

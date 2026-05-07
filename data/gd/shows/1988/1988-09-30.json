@@ -1,0 +1,39 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Walkin' Blues",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Big River",
+        "When Push Comes To Shove",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

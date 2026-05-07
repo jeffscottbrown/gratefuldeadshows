@@ -1,0 +1,38 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Black Throated Wind",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "Seattle Center Memorial Stadium",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Queen Jane Approximately",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Corrina",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

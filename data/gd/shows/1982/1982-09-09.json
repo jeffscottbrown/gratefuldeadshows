@@ -1,0 +1,42 @@
+{
+  "venue": "Saenger Performing Arts Center",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Samson And Delilah",
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

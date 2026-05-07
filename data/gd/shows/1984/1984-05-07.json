@@ -1,0 +1,40 @@
+{
+  "venue": "Silva Hall",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "C.C. Rider",
+        "Loser",
+        "Mama Tried",
+        "Big River",
+        "Bird Song",
+        "My Brother Esau",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

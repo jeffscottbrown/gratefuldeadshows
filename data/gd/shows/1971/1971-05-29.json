@@ -1,0 +1,31 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And Bobby Mcgee",
+        "It Hurts Me Too",
+        "The Promised Land",
+        "Loser",
+        "Playing In The Band",
+        "Hard To Handle",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sing Me Back Home",
+        "Cumberland Blues",
+        "Sugar Magnolia",
+        "Deal",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

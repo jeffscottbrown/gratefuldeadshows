@@ -1,0 +1,40 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Stagger Lee",
+        "The Same Thing",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Way To Go Home",
+        "Lazy River Road",
+        "Corrina",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

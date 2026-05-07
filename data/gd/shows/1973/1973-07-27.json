@@ -1,0 +1,29 @@
+{
+  "venue": "Grand Prix Racecourse",
+  "city": "Watkins Glen",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Bird Song",
+        "Big River",
+        "Tennessee Jed"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "Jam",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    }
+  ]
+}

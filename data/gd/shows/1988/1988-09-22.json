@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Candyman",
+        "Beat It On Down The Line",
+        "Greatest Story Ever Told",
+        "To Lay Me Down",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Just Like Tom Thumb's Blues",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

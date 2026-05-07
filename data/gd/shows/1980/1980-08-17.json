@@ -1,0 +1,44 @@
+{
+  "venue": "Kansas City Municipal Auditorium Arena",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Far From Me",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Don't Ease Me In",
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Truckin'",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

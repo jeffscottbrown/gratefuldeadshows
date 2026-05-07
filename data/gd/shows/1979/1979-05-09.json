@@ -1,0 +1,39 @@
+{
+  "venue": "Broome County Arena",
+  "city": "Binghamton",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Me And My Uncle",
+        "Loser",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

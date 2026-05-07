@@ -1,0 +1,43 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Loser",
+        "C.C. Rider",
+        "Cumberland Blues",
+        "Cassidy",
+        "Ramble On Rose",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wharf Rat",
+        "I Need A Miracle",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

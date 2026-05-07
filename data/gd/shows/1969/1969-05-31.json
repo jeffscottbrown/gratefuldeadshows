@@ -1,0 +1,40 @@
+{
+  "venue": "McArthur Court",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Cold Rain And Snow",
+        "Green Green Grass Of Home",
+        "Me And My Uncle",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Sittin' On Top Of The World",
+        "It Hurts Me Too",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He Was A Friend Of Mine",
+        "Dark Star",
+        "Doin' That Rag",
+        "Cosmic Charlie"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

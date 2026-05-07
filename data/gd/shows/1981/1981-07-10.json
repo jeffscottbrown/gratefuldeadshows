@@ -1,0 +1,47 @@
+{
+  "venue": "St. Paul Civic Center Arena",
+  "city": "St. Paul",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Cassidy",
+        "Brown Eyed Women",
+        "C.C. Rider",
+        "Ramble On Rose",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Althea",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "China Doll",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

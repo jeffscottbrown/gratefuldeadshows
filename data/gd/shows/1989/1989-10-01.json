@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Ramble On Rose",
+        "Walkin' Blues",
+        "Built To Last",
+        "When I Paint My Masterpiece",
+        "Just A Little Light",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Scarlet Begonias",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

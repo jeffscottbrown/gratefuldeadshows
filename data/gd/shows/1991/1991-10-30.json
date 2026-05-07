@@ -1,0 +1,40 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Brown Eyed Women",
+        "It's All Over Now, Baby Blue",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

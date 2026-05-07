@@ -1,0 +1,41 @@
+{
+  "venue": "Easttown Theatre",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Loser",
+        "Mexicali Blues",
+        "Sugaree",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "El Paso",
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Cumberland Blues",
+        "Brokedown Palace",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Sugar Magnolia",
+        "Comes A Time",
+        "Truckin'",
+        "Brown Eyed Women",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

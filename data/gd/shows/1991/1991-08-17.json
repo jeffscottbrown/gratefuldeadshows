@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Wang Dang Doodle",
+        "Brown Eyed Women",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Smokestack Lightnin'",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now"
+      ]
+    }
+  ]
+}

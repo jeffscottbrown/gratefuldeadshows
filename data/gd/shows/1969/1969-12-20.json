@@ -1,0 +1,26 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mason's Children",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "High Time"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Eleven",
+        "New Speedway Boogie",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

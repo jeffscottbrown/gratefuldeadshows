@@ -1,0 +1,40 @@
+{
+  "venue": "Compton Terrace Amphitheatre",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "Ramble On Rose",
+        "My Brother Esau",
+        "Peggy O",
+        "Greatest Story Ever Told",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

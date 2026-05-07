@@ -1,0 +1,43 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "Cassidy",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Playing In The Band",
+        "Drums",
+        "Black Peter",
+        "Playing In The Band",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

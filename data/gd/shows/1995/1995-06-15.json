@@ -1,0 +1,43 @@
+{
+  "venue": "Franklin County Field",
+  "city": "Highgate",
+  "state": "VT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "El Paso",
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Loose Lucy",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Samba In The Rain",
+        "Truckin'",
+        "Rollin' And Tumblin'",
+        "That Would Be Something",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Box Of Rain",
+        "Standing On The Moon",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

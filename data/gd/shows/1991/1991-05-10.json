@@ -1,0 +1,44 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Walkin' Blues",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Cold Rain And Snow",
+        "Desolation Row",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Truckin'",
+        "New Speedway Boogie",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Althea",
+        "Greatest Story Ever Told",
+        "Devil With The Blue Dress On",
+        "Good Golly Miss Molly",
+        "Devil With The Blue Dress On"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

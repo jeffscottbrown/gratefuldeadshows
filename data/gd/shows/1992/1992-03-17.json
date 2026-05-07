@@ -1,0 +1,39 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Box Of Rain",
+        "New Minglewood Blues",
+        "Loser",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Tennessee Jed",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Way To Go Home",
+        "Truckin'",
+        "Spoonful",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "So Many Roads",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

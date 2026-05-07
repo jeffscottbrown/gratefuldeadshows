@@ -1,0 +1,44 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Jack Straw",
+        "Dire Wolf",
+        "El Paso",
+        "She Belongs To Me",
+        "My Brother Esau",
+        "Friend Of The Devil",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Crazy Fingers",
+        "Samson And Delilah",
+        "He's Gone",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "The Wheel",
+        "Black Peter",
+        "Around And Around",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

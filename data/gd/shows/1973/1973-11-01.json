@@ -1,0 +1,21 @@
+{
+  "venue": "McGaw Memorial Hall",
+  "city": "Evanston",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Here Comes Sunshine",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Morning Dew",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

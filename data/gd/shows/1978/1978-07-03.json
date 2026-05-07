@@ -1,0 +1,41 @@
+{
+  "venue": "St. Paul Civic Center Arena",
+  "city": "St. Paul",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Loser",
+        "Looks Like Rain",
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Mama Tried",
+        "Peggy O",
+        "Cassidy",
+        "Deal",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Dancing In The Street",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

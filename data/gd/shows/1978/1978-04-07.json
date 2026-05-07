@@ -1,0 +1,43 @@
+{
+  "venue": "Sportatorium",
+  "city": "Pembroke Pines",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Cassidy",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Ship Of Fools",
+        "Good Lovin'",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

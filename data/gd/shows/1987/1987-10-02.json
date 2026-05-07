@@ -1,0 +1,42 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Far From Me",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

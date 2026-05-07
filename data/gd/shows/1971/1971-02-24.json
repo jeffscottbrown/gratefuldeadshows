@@ -1,0 +1,43 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "Next Time You See Me",
+        "Bird Song",
+        "Me And Bobby Mcgee",
+        "Bertha",
+        "Hard To Handle",
+        "Loser",
+        "Playing In The Band",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "I'm A King Bee",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Deal",
+        "New Minglewood Blues",
+        "Truckin'",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Melk Weg",
+  "city": "Amsterdam",
+  "state": "",
+  "country": "NL",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "El Paso",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Althea",
+        "Beat It On Down The Line",
+        "Far From Me",
+        "Alabama Getaway",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Spoonful",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

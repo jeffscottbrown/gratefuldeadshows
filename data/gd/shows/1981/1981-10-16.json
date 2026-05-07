@@ -1,0 +1,36 @@
+{
+  "venue": "Melk Weg",
+  "city": "Amsterdam",
+  "state": "",
+  "country": "NL",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "On The Road Again",
+        "Dire Wolf",
+        "Monkey And The Engineer",
+        "Bird Song",
+        "Cassidy",
+        "Oh Babe It Ain't No Lie",
+        "The Race Is On",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "(Baby) Hully Gully",
+        "The Wheel",
+        "Samson And Delilah",
+        "Gloria",
+        "Turn On Your Lovelight",
+        "Goin' Down The Road Feeling Bad",
+        "Playing In The Band",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "venue": "Tower Theatre",
+  "city": "Upper Darby",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Big River",
+        "Friend Of The Devil",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Scarlet Begonias",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Wharf Rat",
+        "Dancing In The Street",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

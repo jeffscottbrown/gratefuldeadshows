@@ -1,0 +1,36 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Dire Wolf",
+        "Smokestack Lightnin'",
+        "Monkey And The Engineer",
+        "Little Sadie",
+        "Wake Up Little Susie",
+        "Black Peter",
+        "Uncle John's Band",
+        "Katie Mae",
+        "Dark Star",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

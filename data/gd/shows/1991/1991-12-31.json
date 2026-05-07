@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Candyman",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "Black Throated Wind",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Not Fade Away",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

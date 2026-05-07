@@ -1,0 +1,44 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

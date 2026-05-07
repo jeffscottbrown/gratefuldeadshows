@@ -1,0 +1,37 @@
+{
+  "venue": "Bangor Municipal Auditorium",
+  "city": "Bangor",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Next Time You See Me",
+        "Loser",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Hard To Handle",
+        "Deal",
+        "Me And Bobby Mcgee",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Greatest Story Ever Told",
+        "Beat It On Down The Line",
+        "Sing Me Back Home",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

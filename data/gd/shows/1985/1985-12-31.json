@@ -1,0 +1,50 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Not Fade Away",
+        "Touch Of Grey",
+        "Tons Of Steel",
+        "C.C. Rider",
+        "Dupree's Diamond Blues",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "In The Midnight Hour",
+        "Sugaree",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

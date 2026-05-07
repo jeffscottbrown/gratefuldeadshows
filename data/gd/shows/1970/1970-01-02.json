@@ -1,0 +1,24 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mason's Children",
+        "Casey Jones",
+        "Black Peter",
+        "Mama Tried",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie"
+      ]
+    }
+  ]
+}

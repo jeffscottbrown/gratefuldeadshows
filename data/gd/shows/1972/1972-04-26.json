@@ -1,0 +1,48 @@
+{
+  "venue": "Jahrhundert Halle",
+  "city": "Frankfurt",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Mr. Charlie",
+        "He's Gone",
+        "Black Throated Wind",
+        "Next Time You See Me",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Playing In The Band",
+        "Chinatown Shuffle",
+        "Loser",
+        "Beat It On Down The Line",
+        "You Win Again",
+        "Good Lovin'",
+        "Dire Wolf"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Comes A Time",
+        "Sugar Magnolia",
+        "El Paso",
+        "Tennessee Jed",
+        "Greatest Story Ever Told",
+        "Two Souls In Communion",
+        "Casey Jones",
+        "Turn On Your Lovelight",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

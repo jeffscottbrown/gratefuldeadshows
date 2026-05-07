@@ -1,0 +1,42 @@
+{
+  "venue": "Deer Creek Music Center",
+  "city": "Noblesville",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "Walkin' Blues",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "We Can Run",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "China Doll",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

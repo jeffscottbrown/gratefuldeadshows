@@ -1,0 +1,41 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "To Lay Me Down",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Big Railroad Blues",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "River Front Coliseum",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "El Paso",
+        "Tennessee Jed",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Let It Grow",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Music Never Stopped",
+        "Candyman",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Big River",
+        "Friend Of The Devil",
+        "Dancing In The Street",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "The Other One",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

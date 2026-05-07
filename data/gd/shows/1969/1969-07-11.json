@@ -1,0 +1,32 @@
+{
+  "venue": "NY State Pavilion",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Story Of A Brick",
+        "Dupree's Diamond Blues",
+        "Dire Wolf",
+        "Hard To Handle",
+        "Silver Threads And Golden Needle",
+        "Casey Jones",
+        "Sittin' On Top Of The World",
+        "Big Boss Man",
+        "Mama Tried",
+        "High Time",
+        "Drums",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "And We Bid You Good Night",
+        "Jam",
+        "The Other One",
+        "Death Don't Have No Mercy",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

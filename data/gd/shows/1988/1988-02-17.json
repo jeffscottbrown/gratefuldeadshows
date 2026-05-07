@@ -1,0 +1,40 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "Desolation Row",
+        "Tennessee Jed",
+        "Little Red Rooster",
+        "Cumberland Blues",
+        "It's All Over Now",
+        "Box Of Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

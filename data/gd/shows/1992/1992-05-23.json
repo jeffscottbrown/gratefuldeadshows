@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Candyman",
+        "Cassidy",
+        "Loose Lucy",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

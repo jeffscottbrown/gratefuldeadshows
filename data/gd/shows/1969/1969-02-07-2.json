@@ -1,0 +1,26 @@
+{
+  "venue": "Stanley Theatre",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Death Don't Have No Mercy",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "China Cat Sunflower",
+        "Jam",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

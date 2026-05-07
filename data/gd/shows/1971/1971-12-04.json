@@ -1,0 +1,45 @@
+{
+  "venue": "Felt Forum",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Run Rudolph Run",
+        "You Win Again",
+        "Me And Bobby Mcgee",
+        "Comes A Time",
+        "El Paso",
+        "Smokestack Lightnin'",
+        "Cumberland Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "The Other One",
+        "Mexicali Blues",
+        "The Other One",
+        "Wharf Rat",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

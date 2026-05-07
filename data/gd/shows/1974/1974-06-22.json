@@ -1,0 +1,45 @@
+{
+  "venue": "Jai",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Deal",
+        "Me And Bobby Mcgee",
+        "Scarlet Begonias",
+        "Jack Straw",
+        "Loose Lucy",
+        "Mexicali Blues",
+        "Sugaree",
+        "The Race Is On",
+        "It Must Have Been The Roses",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Ship Of Fools",
+        "El Paso",
+        "Eyes Of The World",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Touch Of Grey",
+        "Wang Dang Doodle",
+        "Never Trust A Woman",
+        "Jack A Roe",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Truckin'",
+        "Spoonful",
+        "Drums",
+        "I Will Take You Home",
+        "Goin' Down The Road Feeling Bad",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

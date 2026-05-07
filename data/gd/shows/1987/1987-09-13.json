@@ -1,0 +1,43 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Fever",
+        "Stagger Lee",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Good Lovin'",
+        "La Bamba",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

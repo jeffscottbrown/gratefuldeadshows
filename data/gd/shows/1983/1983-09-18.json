@@ -1,0 +1,39 @@
+{
+  "venue": "Nevada County Fairgrounds",
+  "city": "Grass Valley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Hell In A Bucket",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

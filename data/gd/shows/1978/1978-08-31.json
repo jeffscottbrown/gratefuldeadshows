@@ -1,0 +1,43 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "El Paso",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Candyman",
+        "From The Heart Of Me",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Nobody's Fault But Mine",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

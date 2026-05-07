@@ -1,0 +1,42 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "High Time",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "It's All Over Now",
+        "Easy To Love You",
+        "Shakedown Street",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Drums",
+        "Uncle John's Band",
+        "Truckin'",
+        "The Other One",
+        "Drums",
+        "The Wheel",
+        "Uncle John's Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

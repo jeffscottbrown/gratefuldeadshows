@@ -1,0 +1,41 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "It's All Over Now",
+        "To Lay Me Down",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

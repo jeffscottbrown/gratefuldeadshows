@@ -1,0 +1,41 @@
+---
+/**
+ * Site footer with rotating lyric quotes.
+ * Pure vanilla JS — no React island needed for this simple interactivity.
+ */
+import { quotes } from '@/lib/quotes';
+---
+
+<footer class="border-t border-dead-border bg-dead-card mt-auto">
+  <div class="mx-auto max-w-7xl px-4 py-6 text-center">
+    <p id="footer-quote" class="text-dead-gold italic text-sm min-h-[1.25rem]"></p>
+    <p class="mt-3 text-gray-600 text-xs">
+      Grateful Dead Shows &mdash; {new Date().getFullYear()}
+    </p>
+  </div>
+</footer>
+
+<script define:vars={{ quotes }}>
+  /**
+   * Re-query the element on every page load, including View Transition
+   * navigations. astro:page-load fires on both initial load and client-side
+   * navigation (unlike astro:after-swap, which skips the initial load, and
+   * unlike bare inline scripts, which View Transitions deduplicates).
+   */
+  function initQuote() {
+    const el = document.getElementById('footer-quote');
+    if (!el) return;
+    function showQuote() {
+      el.classList.remove('quote-fade');
+      void el.offsetWidth; // force reflow so the animation restarts
+      el.textContent = `"${quotes[Math.floor(Math.random() * quotes.length)]}"`;
+      el.classList.add('quote-fade');
+    }
+    showQuote();
+    // Clear any interval left over from a previous page to avoid stacking
+    clearInterval(window._quoteInterval);
+    window._quoteInterval = setInterval(showQuote, 8000);
+  }
+
+  document.addEventListener('astro:page-load', initQuote);
+</script>

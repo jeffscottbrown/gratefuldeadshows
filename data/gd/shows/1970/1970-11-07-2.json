@@ -1,0 +1,22 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Attics Of My Life",
+        "Sugar Magnolia",
+        "Big Boss Man",
+        "Mama Tried",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "I'm A King Bee",
+        "Drums",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

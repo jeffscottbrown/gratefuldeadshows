@@ -1,0 +1,43 @@
+{
+  "venue": "Cameron Indoor Stadium",
+  "city": "Durham",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Little Red Rooster",
+        "Candyman",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

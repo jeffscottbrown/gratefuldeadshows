@@ -1,0 +1,41 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Cassidy",
+        "They Love Each Other",
+        "The Music Never Stopped",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Row Jimmy",
+        "Big River",
+        "Mission In The Rain",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Let It Grow",
+        "Drums",
+        "Friend Of The Devil",
+        "Playing In The Band",
+        "Dancing In The Street",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "venue": "P.N.E. Coliseum",
+  "city": "Vancouver",
+  "state": "BC",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "Deal",
+        "Mexicali Blues",
+        "Box Of Rain",
+        "Bird Song",
+        "The Race Is On",
+        "Sugaree",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big River",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "The Promised Land",
+        "Brown Eyed Women",
+        "El Paso",
+        "Black Peter",
+        "Greatest Story Ever Told",
+        "Big Railroad Blues",
+        "He's Gone",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

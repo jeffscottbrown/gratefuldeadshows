@@ -1,0 +1,43 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "High Time",
+        "Maggie's Farm",
+        "Cumberland Blues",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Way To Go Home",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

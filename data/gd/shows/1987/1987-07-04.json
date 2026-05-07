@@ -1,0 +1,55 @@
+{
+  "venue": "Sullivan Stadium",
+  "city": "Foxboro",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "Tons Of Steel",
+        "Little Red Rooster",
+        "Box Of Rain",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Times They Are A Changin'",
+        "Man Of Peace",
+        "I'll Be Your Baby Tonight",
+        "John Brown",
+        "I Want You",
+        "Ballad Of A Thin Man",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Queen Jane Approximately",
+        "Chimes Of Freedom",
+        "Slow Train",
+        "Joey",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

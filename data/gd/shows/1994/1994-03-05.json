@@ -1,0 +1,41 @@
+{
+  "venue": "Desert Sky Pavilion",
+  "city": "Phoenix",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Stagger Lee",
+        "El Paso",
+        "Loose Lucy",
+        "Broken Arrow",
+        "Eternity",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

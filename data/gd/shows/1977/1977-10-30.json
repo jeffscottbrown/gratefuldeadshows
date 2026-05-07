@@ -1,0 +1,42 @@
+{
+  "venue": "Assembly Hall",
+  "city": "Bloomington",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Passenger",
+        "Candyman",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Peggy O",
+        "Playing In The Band",
+        "The Other One",
+        "Drums",
+        "The Wheel",
+        "Wharf Rat",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

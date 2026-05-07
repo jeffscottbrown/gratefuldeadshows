@@ -1,0 +1,43 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Stagger Lee",
+        "Wang Dang Doodle",
+        "So Many Roads",
+        "Queen Jane Approximately",
+        "Loose Lucy",
+        "Wave To The Wind",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "One More Saturday Night",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

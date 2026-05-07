@@ -1,0 +1,46 @@
+{
+  "venue": "Electric Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dupree's Diamond Blues",
+        "Mountains Of The Moon",
+        "Dark Star",
+        "China Cat Sunflower",
+        "Doin' That Rag",
+        "It Hurts Me Too",
+        "Hard To Handle",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "The Eleven",
+        "The Other One",
+        "It's A Sin",
+        "Morning Dew",
+        "Sittin' On Top Of The World",
+        "New Minglewood Blues",
+        "Silver Threads And Golden Needle",
+        "It's All Over Now, Baby Blue",
+        "Saint Stephen",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Drums",
+        "Viola Lee Blues",
+        "Caution (Do Not Stop On Tracks)",
+        "Viola Lee Blues",
+        "Feedback",
+        "What's Become Of The Baby",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

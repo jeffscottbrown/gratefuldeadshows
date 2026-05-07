@@ -1,0 +1,25 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Walking The Dog",
+        "Me And My Uncle",
+        "Death Don't Have No Mercy",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Dire Wolf",
+        "Big Boss Man",
+        "He Was A Friend Of Mine",
+        "Viola Lee Blues",
+        "The Seven",
+        "Cumberland Blues"
+      ]
+    }
+  ]
+}

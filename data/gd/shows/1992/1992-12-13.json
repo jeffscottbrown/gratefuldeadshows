@@ -1,0 +1,33 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "It's All Over Now, Baby Blue",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Way To Go Home",
+        "Victim Or The Crime",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew"
+      ]
+    }
+  ]
+}

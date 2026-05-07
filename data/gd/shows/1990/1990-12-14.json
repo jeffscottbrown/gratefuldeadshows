@@ -1,0 +1,41 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Picasso Moon",
+        "Peggy O",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "When I Paint My Masterpiece",
+        "To Lay Me Down",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Dark Star",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

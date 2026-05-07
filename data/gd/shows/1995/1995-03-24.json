@@ -1,0 +1,36 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Stagger Lee",
+        "New Minglewood Blues",
+        "High Time",
+        "If The Shoe Fits",
+        "Black Throated Wind",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Samba In The Rain",
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "Around And Around",
+        "Liberty"
+      ]
+    }
+  ]
+}

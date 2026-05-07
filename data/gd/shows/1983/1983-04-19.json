@@ -1,0 +1,44 @@
+{
+  "venue": "Alfond Arena",
+  "city": "Orono",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Dire Wolf",
+        "Big River",
+        "Dupree's Diamond Blues",
+        "On The Road Again",
+        "West L.A. Fadeaway",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Spanish Jam",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

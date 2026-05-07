@@ -1,0 +1,45 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Candyman",
+        "El Paso",
+        "Dupree's Diamond Blues",
+        "It's All Over Now",
+        "Never Trust A Woman",
+        "Row Jimmy",
+        "Throwing Stones",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "Truckin'",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

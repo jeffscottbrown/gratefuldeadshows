@@ -1,0 +1,39 @@
+{
+  "venue": "The Pyramid",
+  "city": "Memphis",
+  "state": "TN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Candyman",
+        "Take Me To The River",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Childhood's End",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

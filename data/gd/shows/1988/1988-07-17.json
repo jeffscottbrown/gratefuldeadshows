@@ -1,0 +1,43 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Foolish Heart",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "All Along The Watchtower",
+        "Believe It Or Not",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Blackbird",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

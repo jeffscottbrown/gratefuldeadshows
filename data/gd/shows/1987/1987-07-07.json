@@ -1,0 +1,43 @@
+{
+  "venue": "Roanoke Civic Center",
+  "city": "Roanoke",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Funiculi Funicula",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "Candyman",
+        "My Brother Esau",
+        "When Push Comes To Shove",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "West L.A. Fadeaway",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Morning Dew",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

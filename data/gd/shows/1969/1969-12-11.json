@@ -1,0 +1,49 @@
+{
+  "venue": "Thelma Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Cold Rain And Snow",
+        "Mama Tried",
+        "Dire Wolf",
+        "It Hurts Me Too",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Black Peter",
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Next Time You See Me",
+        "Sittin' On Top Of The World",
+        "Beat It On Down The Line",
+        "Big Boss Man",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "High Time",
+        "Dancing In The Street",
+        "Easy Wind",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie"
+      ]
+    }
+  ]
+}

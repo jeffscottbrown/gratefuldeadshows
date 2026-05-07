@@ -1,0 +1,42 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Loser",
+        "The Race Is On",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "New Speedway Boogie",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

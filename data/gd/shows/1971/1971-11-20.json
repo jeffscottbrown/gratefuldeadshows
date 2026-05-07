@@ -1,0 +1,36 @@
+{
+  "venue": "Pauley Pavilion",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "El Paso",
+        "Big Railroad Blues",
+        "Jack Straw",
+        "Cumberland Blues",
+        "Playing In The Band",
+        "Casey Jones",
+        "One More Saturday Night",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "You Win Again",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

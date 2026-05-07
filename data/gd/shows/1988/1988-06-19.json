@@ -1,0 +1,40 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Never Trust A Woman",
+        "Ramble On Rose",
+        "Little Red Rooster",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

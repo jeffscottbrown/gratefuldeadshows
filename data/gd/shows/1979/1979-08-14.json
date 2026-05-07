@@ -1,0 +1,43 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Jack A Roe",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Easy To Love You",
+        "Passenger",
+        "Stagger Lee",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Ship Of Fools",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

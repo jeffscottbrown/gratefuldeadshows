@@ -1,0 +1,43 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Beat It On Down The Line",
+        "Loser",
+        "El Paso",
+        "The Rub",
+        "Bird Song",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Ripple",
+        "Me And Bobby Mcgee",
+        "I'm A King Bee",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Me And My Uncle",
+        "Deal",
+        "Hard To Handle",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Sugar Magnolia",
+        "Dark Star",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

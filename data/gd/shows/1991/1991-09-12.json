@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Walkin' Blues",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Big Railroad Blues",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Foolish Heart",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Black Peter",
+        "Around And Around",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

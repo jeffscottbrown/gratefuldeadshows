@@ -1,0 +1,31 @@
+{
+  "venue": "The Music Box",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Morning Dew",
+        "It Hurts Me Too",
+        "China Cat Sunflower",
+        "Jam",
+        "Doin' That Rag",
+        "It's A Sin",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sittin' On Top Of The World",
+        "The Other One",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven"
+      ]
+    }
+  ]
+}

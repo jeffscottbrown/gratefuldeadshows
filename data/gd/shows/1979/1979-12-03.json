@@ -1,0 +1,46 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Brown Eyed Women",
+        "El Paso",
+        "Ramble On Rose",
+        "It's All Over Now",
+        "Jack A Roe",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Althea",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Wharf Rat",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

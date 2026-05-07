@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Wang Dang Doodle",
+        "Jack A Roe",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Picasso Moon",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Corrina",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Wave To The Wind",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

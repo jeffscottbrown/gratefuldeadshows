@@ -1,0 +1,43 @@
+{
+  "venue": "Portland Memorial Coliseum",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "West L.A. Fadeaway",
+        "New Minglewood Blues",
+        "Loser",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wang Dang Doodle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Railroad Blues",
+        "Deep Elem Blues",
+        "Monkey And The Engineer",
+        "The Rub",
+        "Silver Threads And Golden Needle",
+        "Friend Of The Devil",
+        "Candyman",
+        "Cumberland Blues",
+        "Cold Jordan"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Not Fade Away",
+        "Easy Wind",
+        "Me And My Uncle",
+        "Dark Star",
+        "Attics Of My Life",
+        "Dark Star",
+        "Sugar Magnolia",
+        "Dark Star",
+        "Saint Stephen",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band",
+        "Swing Low, Sweet Chariot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "venue": "Olympia Theater",
+  "city": "Paris",
+  "state": "",
+  "country": "FR",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Deal",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Chinatown Shuffle",
+        "Playing In The Band",
+        "You Win Again",
+        "It Hurts Me Too",
+        "He's Gone",
+        "El Paso",
+        "Big Railroad Blues",
+        "Two Souls In Communion",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Next Time You See Me",
+        "Ramble On Rose",
+        "Jack Straw",
+        "Dark Star",
+        "Drums",
+        "Dark Star",
+        "Sugar Magnolia",
+        "Sing Me Back Home",
+        "Mexicali Blues",
+        "Big Boss Man",
+        "Uncle John's Band",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Stagger Lee",
+        "Walkin' Blues",
+        "It Must Have Been The Roses",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "Gimme Some Lovin'",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Mr. Charlie",
+        "Sugaree",
+        "El Paso",
+        "Big Railroad Blues",
+        "Big Boss Man",
+        "Brokedown Palace",
+        "Playing In The Band",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Loser",
+        "Loser",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Me And Bobby Mcgee",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

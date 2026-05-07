@@ -1,0 +1,40 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "The Same Thing",
+        "Dire Wolf",
+        "When I Paint My Masterpiece",
+        "Loser",
+        "It's All Over Now, Baby Blue",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "So Many Roads",
+        "Way To Go Home",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

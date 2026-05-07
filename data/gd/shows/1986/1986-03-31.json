@@ -1,0 +1,33 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "(I'm A) Road Runner",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "Brown Eyed Women",
+        "Desolation Row",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Willie & The Hand Jive",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "Comes A Time",
+        "Truckin'",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

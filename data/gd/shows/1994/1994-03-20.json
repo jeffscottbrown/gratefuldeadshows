@@ -1,0 +1,32 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "It's All Over Now",
+        "Candyman",
+        "Mama Tried",
+        "Big River",
+        "Lazy River Road",
+        "Let It Grow",
+        "Don't Ease Me In",
+        "Samson And Delilah",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away",
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

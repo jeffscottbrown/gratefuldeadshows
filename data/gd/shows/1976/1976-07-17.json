@@ -1,0 +1,47 @@
+{
+  "venue": "Orpheum Theatre",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mama Tried",
+        "Deal",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Big River",
+        "Sugaree",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Comes A Time",
+        "Drums",
+        "The Other One",
+        "Eyes Of The World",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Eyes Of The World",
+        "Walkin' Blues",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Loose Lucy",
+        "Cassidy",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Truckin'",
+        "New Speedway Boogie",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

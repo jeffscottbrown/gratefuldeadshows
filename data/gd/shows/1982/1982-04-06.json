@@ -1,0 +1,45 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "The Promised Land",
+        "Candyman",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Jack A Roe",
+        "It's All Over Now",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Truckin'",
+        "The Other One",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

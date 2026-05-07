@@ -1,0 +1,42 @@
+{
+  "venue": "Onondaga County War Memorial",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Funiculi Funicula",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Playing In The Band",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

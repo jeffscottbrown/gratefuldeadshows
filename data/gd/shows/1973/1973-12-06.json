@@ -1,0 +1,32 @@
+{
+  "venue": "Cleveland Convention Center",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "El Paso",
+        "Deal",
+        "They Love Each Other",
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Big River",
+        "Dark Star",
+        "Eyes Of The World",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

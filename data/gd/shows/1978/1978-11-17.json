@@ -1,0 +1,23 @@
+{
+  "venue": "Loyola College",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Winin' Boy Blues",
+        "Tom Dooley",
+        "This Time Forever",
+        "Deep Elem Blues",
+        "KC Moan",
+        "Knockin' On Heaven's Door",
+        "Big Boy Pete",
+        "Jack A Roe",
+        "Dark Hollow",
+        "Oh Boy"
+      ]
+    }
+  ]
+}

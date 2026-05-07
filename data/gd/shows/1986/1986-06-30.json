@@ -1,0 +1,41 @@
+{
+  "venue": "River Bend Music Center",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Big River",
+        "Loser",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Smokestack Lightnin'",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

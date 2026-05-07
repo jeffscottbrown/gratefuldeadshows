@@ -1,0 +1,30 @@
+{
+  "venue": "Electric Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Mama Tried",
+        "Ol' Slewfoot",
+        "Silver Threads And Golden Needle",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "High Time",
+        "Casey Jones",
+        "I'm A King Bee",
+        "Sittin' On Top Of The World",
+        "Me And My Uncle",
+        "Doin' That Rag",
+        "Let Me In",
+        "Dire Wolf",
+        "Saint Stephen",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

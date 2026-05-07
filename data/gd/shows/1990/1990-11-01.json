@@ -1,0 +1,42 @@
+{
+  "venue": "Wembley Arena",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Friend Of The Devil",
+        "Walkin' Blues",
+        "Cold Rain And Snow",
+        "Mama Tried",
+        "Maggie's Farm",
+        "Cassidy",
+        "Stander On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Dark Star",
+        "Drums",
+        "Dark Star",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

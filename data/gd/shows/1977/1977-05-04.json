@@ -1,0 +1,35 @@
+{
+  "venue": "The Palladium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Deal",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Comes A Time",
+        "Playing In The Band"
+      ]
+    }
+  ]
+}

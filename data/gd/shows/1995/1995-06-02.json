@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "Good Morning Little Schoolgirl",
+        "Ramble On Rose",
+        "El Paso",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "New Speedway Boogie",
+        "That Would Be Something",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Easy Answers",
+        "Standing On The Moon",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

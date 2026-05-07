@@ -1,0 +1,31 @@
+{
+  "venue": "Alfred College",
+  "city": "Alfred",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Race Is On",
+        "Wake Up Little Susie",
+        "New Speedway Boogie",
+        "Cold Jordan",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Not Fade Away",
+        "Hard To Handle",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "High Time",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

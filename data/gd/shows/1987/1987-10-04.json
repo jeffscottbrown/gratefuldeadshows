@@ -1,0 +1,42 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "When Push Comes To Shove",
+        "Walkin' Blues",
+        "High Time",
+        "Desolation Row",
+        "Iko Iko"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Devil With The Blue Dress On",
+        "Good Golly Miss Molly",
+        "Devil With The Blue Dress On",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

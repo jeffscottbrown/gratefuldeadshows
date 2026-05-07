@@ -1,0 +1,42 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Dancing In The Street",
+        "Never Trust A Woman",
+        "Iko Iko",
+        "My Brother Esau",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Other One",
+        "Comes A Time",
+        "Around And Around",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Need A Miracle",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

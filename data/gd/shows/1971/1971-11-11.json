@@ -1,0 +1,35 @@
+{
+  "venue": "Atlanta Municipal Auditorium",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Playing In The Band",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Casey Jones",
+        "Me And Bobby Mcgee",
+        "Big Railroad Blues",
+        "Mexicali Blues",
+        "One More Saturday Night",
+        "Truckin'",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

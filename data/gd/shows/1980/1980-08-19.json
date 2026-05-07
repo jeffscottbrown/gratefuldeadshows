@@ -1,0 +1,46 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Cassidy",
+        "Row Jimmy",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Easy To Love You",
+        "Feel Like A Stranger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Little Red Rooster",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Playing In The Band",
+        "Comes A Time",
+        "Playing In The Band",
+        "Around And Around",
+        "Alabama Getaway"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Stagger Lee",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

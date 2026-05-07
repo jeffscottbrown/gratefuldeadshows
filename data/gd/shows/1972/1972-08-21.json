@@ -1,0 +1,43 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "He's Gone",
+        "Black Throated Wind",
+        "Friend Of The Devil",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Stella Blue",
+        "Playing In The Band",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "Dark Star",
+        "El Paso",
+        "Space",
+        "Deal",
+        "Sugar Magnolia",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Uncle John's Band",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

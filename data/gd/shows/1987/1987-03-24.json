@@ -1,0 +1,40 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Candyman",
+        "New Minglewood Blues",
+        "Loser",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Black Muddy River",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

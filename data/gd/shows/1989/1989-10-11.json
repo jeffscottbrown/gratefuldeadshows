@@ -1,0 +1,42 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Loser",
+        "When I Paint My Masterpiece",
+        "Althea",
+        "Cassidy",
+        "Just A Little Light",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

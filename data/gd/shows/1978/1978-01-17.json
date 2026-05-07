@@ -1,0 +1,43 @@
+{
+  "venue": "Sacramento Memorial Auditorium",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Dire Wolf",
+        "Cassidy",
+        "Loser",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Candyman",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

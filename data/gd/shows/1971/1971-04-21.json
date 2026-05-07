@@ -1,0 +1,43 @@
+{
+  "venue": "Rhode Island Auditorium",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Mama Tried",
+        "Big Boss Man",
+        "Loser",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Bird Song",
+        "Me And Bobby Mcgee"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Sugar Magnolia",
+        "Good Lovin'",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

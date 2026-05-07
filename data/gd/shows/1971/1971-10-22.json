@@ -1,0 +1,23 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ramble On Rose",
+        "Cumberland Blues",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Deal",
+        "Sugar Magnolia",
+        "Casey Jones",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Black Peter",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Mama Tried",
+        "Easy Wind",
+        "Dancing In The Street",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

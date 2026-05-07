@@ -1,0 +1,35 @@
+---
+import Layout from '@/components/Layout.astro';
+import ShowList, { type ShowRow } from '@/components/islands/ShowList';
+import { getSongs, getShowsBySong } from '@/lib/shows';
+import { buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
+
+export async function getStaticPaths() {
+  const songs = await getSongs();
+  return songs.map(({ title, slug }) => ({ params: { slug }, props: { title } }));
+}
+
+const { title } = Astro.props;
+const [shows, releaseIndex] = await Promise.all([getShowsBySong(title), buildReleasesDateIndex()]);
+
+const showRows: ShowRow[] = shows.map((s) => ({
+  slug: s.slug, band: s.band, date: s.date, year: s.year,
+  venue: s.venue, city: s.city, state: s.state, country: s.country,
+  collections: getCollectionsForDate(s.date, releaseIndex),
+}));
+---
+
+<Layout title={title}>
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <div class="flex items-center gap-2 text-sm text-gray-500 mb-6">
+      <a href="/songs" class="hover:text-dead-gold transition-colors">Songs</a>
+      <span>/</span>
+      <span class="text-gray-300">{title}</span>
+    </div>
+    <h1 class="text-3xl font-bold text-dead-gold mb-1">{title}</h1>
+    <p class="text-gray-400 mb-8">
+      Played at {shows.length} show{shows.length !== 1 ? 's' : ''}
+    </p>
+    <ShowList shows={showRows} showFilter client:load />
+  </div>
+</Layout>

@@ -1,0 +1,30 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Lucy In The Sky With Diamonds",
+        "Samba In The Rain",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Jam",
+        "The Other One",
+        "Wharf Rat",
+        "One More Saturday Night",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Shakedown Street",
+        "Wang Dang Doodle",
+        "Friend Of The Devil",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Looks Like Rain",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Dark Star",
+        "Playing In The Band",
+        "Black Peter",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

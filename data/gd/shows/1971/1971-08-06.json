@@ -1,0 +1,36 @@
+{
+  "venue": "Hollywood Palladium",
+  "city": "Hollywood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Loser",
+        "Mr. Charlie",
+        "Cumberland Blues",
+        "Brokedown Palace",
+        "Me And Bobby Mcgee",
+        "Hard To Handle",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Stephen",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Sugar Magnolia",
+        "Morning Dew",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

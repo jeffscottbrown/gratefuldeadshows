@@ -1,0 +1,34 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Cassidy",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Scarlet Begonias",
+        "Lazy Lightnin'",
+        "Supplication",
+        "High Time",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Drums",
+        "Wharf Rat",
+        "Dancing In The Street",
+        "The Wheel",
+        "Around And Around"
+      ]
+    }
+  ]
+}

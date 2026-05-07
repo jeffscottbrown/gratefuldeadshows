@@ -1,0 +1,40 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Loose Lucy",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "If The Shoe Fits",
+        "Way To Go Home",
+        "Easy Answers",
+        "Uncle John's Band",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

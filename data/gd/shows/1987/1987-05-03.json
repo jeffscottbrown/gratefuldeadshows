@@ -1,0 +1,41 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "The Promised Land",
+        "Row Jimmy",
+        "Peggy O",
+        "Never Trust A Woman",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

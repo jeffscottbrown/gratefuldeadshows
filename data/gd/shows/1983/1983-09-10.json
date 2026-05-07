@@ -1,0 +1,41 @@
+{
+  "venue": "Downs of Santa Fe",
+  "city": "Santa Fe,",
+  "state": "NM",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "They Love Each Other",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Cumberland Blues",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Cold Rain And Snow"
+      ]
+    }
+  ]
+}

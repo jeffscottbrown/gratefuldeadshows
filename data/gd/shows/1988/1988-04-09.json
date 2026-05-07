@@ -1,0 +1,44 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Boss Man",
+        "Walkin' Blues",
+        "Far From Me",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "When I Paint My Masterpiece",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Iko Iko",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "The Mecca",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "They Love Each Other",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Saint Of Circumstance",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

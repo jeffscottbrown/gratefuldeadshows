@@ -1,0 +1,38 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "Little Red Rooster",
+        "Althea",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

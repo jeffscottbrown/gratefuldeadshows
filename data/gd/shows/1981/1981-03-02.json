@@ -1,0 +1,43 @@
+{
+  "venue": "Cleveland Music Hall",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Cassidy",
+        "Althea",
+        "El Paso",
+        "Jack A Roe",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Don't Ease Me In",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Playing In The Band",
+        "The Wheel",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

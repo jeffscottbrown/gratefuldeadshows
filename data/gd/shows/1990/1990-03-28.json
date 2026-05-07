@@ -1,0 +1,41 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Easy To Love You",
+        "High Time",
+        "Queen Jane Approximately",
+        "Loose Lucy",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Looks Like Rain",
+        "Cumberland Blues",
+        "The Weight",
+        "Hey Pocky Way",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

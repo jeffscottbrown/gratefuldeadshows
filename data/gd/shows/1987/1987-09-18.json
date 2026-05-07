@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "Candyman",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Good Lovin'",
+        "La Bamba",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "Deep Elem Blues",
+        "Dark Hollow",
+        "Friend Of The Devil",
+        "The Rub",
+        "Black Peter",
+        "El Paso",
+        "Brokedown Palace",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

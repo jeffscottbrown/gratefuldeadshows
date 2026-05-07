@@ -1,0 +1,45 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "Althea",
+        "Me And My Uncle",
+        "Big River",
+        "Just Like Tom Thumb's Blues",
+        "So Many Roads",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Jam",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

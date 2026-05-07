@@ -1,0 +1,19 @@
+{
+  "venue": "Hilton Hotel",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Good Morning Little Schoolgirl",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Deal",
+        "El Paso",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Ramble On Rose",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

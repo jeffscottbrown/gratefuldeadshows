@@ -1,0 +1,44 @@
+{
+  "venue": "Field House",
+  "city": "Troy",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Dire Wolf",
+        "Funiculi Funicula",
+        "Mexicali Blues",
+        "Mama Tried",
+        "Tennessee Jed",
+        "It's All Over Now",
+        "Friend Of The Devil",
+        "Passenger",
+        "Brown Eyed Women",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Iko Iko",
+        "The Other One",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

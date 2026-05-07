@@ -1,0 +1,36 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Peggy O",
+        "Wang Dang Doodle",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Let It Grow",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

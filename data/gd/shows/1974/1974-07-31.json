@@ -1,0 +1,60 @@
+{
+  "venue": "Dillon Stadium",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "Me And My Uncle",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Big River",
+        "Eyes Of The World",
+        "China Doll",
+        "The Promised Land",
+        "Ship Of Fools",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "El Paso",
+        "Ramble On Rose",
+        "Greatest Story Ever Told",
+        "To Lay Me Down",
+        "Truckin'",
+        "Mind Left Body Jam",
+        "Spanish Jam",
+        "Wharf Rat",
+        "U.S. Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

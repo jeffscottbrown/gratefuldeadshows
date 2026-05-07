@@ -1,0 +1,42 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "Walkin' Blues",
+        "Ramble On Rose",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "High Time",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

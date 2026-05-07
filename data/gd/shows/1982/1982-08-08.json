@@ -1,0 +1,46 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Peggy O",
+        "Samson And Delilah"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Far From Me",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

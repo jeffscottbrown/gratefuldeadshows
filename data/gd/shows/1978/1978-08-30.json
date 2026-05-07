@@ -1,0 +1,40 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Mama Tried",
+        "Stagger Lee",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "The Other One",
+        "Eyes Of The World",
+        "Drums",
+        "If I Had The World To Give",
+        "Iko Iko",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

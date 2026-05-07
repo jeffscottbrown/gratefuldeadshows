@@ -1,0 +1,47 @@
+{
+  "venue": "Dane County Coliseum",
+  "city": "Madison",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Loser",
+        "C.C. Rider",
+        "Althea",
+        "Beat It On Down The Line",
+        "Cassidy",
+        "Deep Elem Blues",
+        "I Need A Miracle",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

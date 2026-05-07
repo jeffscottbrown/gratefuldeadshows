@@ -1,0 +1,31 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Monkey And The Engineer",
+        "Little Sadie",
+        "Long Black Limousine",
+        "I've Been All Around This World",
+        "Mason's Children",
+        "Black Peter",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Casey Jones",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Uncle John's Band",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

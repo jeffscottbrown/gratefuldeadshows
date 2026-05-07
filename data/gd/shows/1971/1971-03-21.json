@@ -1,0 +1,21 @@
+{
+  "venue": "Exposition Center",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Loser",
+        "Beat It On Down The Line",
+        "Me And Bobby Mcgee",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Truckin'"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Broken Arrow",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "The Last Time",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Silva Hall",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Hell In A Bucket",
+        "Bird Song",
+        "It's All Over Now",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

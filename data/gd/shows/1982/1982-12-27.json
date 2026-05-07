@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Bird Song",
+        "Beat It On Down The Line",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Brown Eyed Women",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "The Other One",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

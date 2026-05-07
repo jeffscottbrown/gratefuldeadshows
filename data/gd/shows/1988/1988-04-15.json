@@ -1,0 +1,43 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Walkin' Blues",
+        "Candyman",
+        "Louie Louie",
+        "Cumberland Blues",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Crazy Fingers",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

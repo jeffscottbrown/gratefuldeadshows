@@ -1,0 +1,39 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Race Is On",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "Eternity"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samba In The Rain",
+        "Man Smart (Woman Smarter)",
+        "Truckin'",
+        "Drums",
+        "The Last Time",
+        "That Would Be Something",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

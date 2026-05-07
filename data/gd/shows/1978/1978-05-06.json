@@ -1,0 +1,41 @@
+{
+  "venue": "Patrick Gym",
+  "city": "Burlington",
+  "state": "VT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Loser",
+        "Looks Like Rain",
+        "It Must Have Been The Roses",
+        "Me And My Uncle",
+        "Big River",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Sunrise",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

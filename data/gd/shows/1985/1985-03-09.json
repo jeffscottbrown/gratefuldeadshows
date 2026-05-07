@@ -1,0 +1,39 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "One More Saturday Night",
+        "Sugaree",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "Cumberland Blues",
+        "I Need A Miracle",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Other One",
+        "The Wheel",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

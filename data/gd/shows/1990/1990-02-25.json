@@ -1,0 +1,33 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Jack A Roe",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Queen Jane Approximately",
+        "The Last Time",
+        "Cassidy",
+        "Deal",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Just A Little Light",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

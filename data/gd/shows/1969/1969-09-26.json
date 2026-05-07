@@ -1,0 +1,18 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "I'm A King Bee",
+        "Death Don't Have No Mercy"
+      ]
+    }
+  ]
+}

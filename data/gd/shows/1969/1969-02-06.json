@@ -1,0 +1,26 @@
+{
+  "venue": "Kiel Auditorium",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Turn On Your Lovelight",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

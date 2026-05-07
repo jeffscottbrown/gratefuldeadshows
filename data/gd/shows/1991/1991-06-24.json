@@ -1,0 +1,41 @@
+{
+  "venue": "Sandstone Amphitheatre",
+  "city": "Bonner Springs",
+  "state": "KS",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "C.C. Rider",
+        "It Takes A Lot To Laugh It Takes A Train To Cry",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Around And Around"
+      ]
+    }
+  ]
+}

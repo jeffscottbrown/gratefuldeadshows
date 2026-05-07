@@ -1,0 +1,42 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Far From Me",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Uncle John's Band",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Comes A Time",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "I Need A Miracle",
+        "Good Lovin'",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

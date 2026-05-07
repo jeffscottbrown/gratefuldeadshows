@@ -1,0 +1,40 @@
+{
+  "venue": "Palais des Sports",
+  "city": "Paris",
+  "state": "",
+  "country": "FR",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Sugaree",
+        "The Promised Land",
+        "Peggy O",
+        "Me And My Uncle",
+        "Eyes Of The World",
+        "China Doll"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Row Jimmy",
+        "Big River",
+        "Ship Of Fools",
+        "Uncle John's Band",
+        "Around And Around",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

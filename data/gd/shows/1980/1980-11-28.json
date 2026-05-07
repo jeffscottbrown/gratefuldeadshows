@@ -1,0 +1,40 @@
+{
+  "venue": "Lakeland Civic Center Arena",
+  "city": "Lakeland",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Passenger",
+        "Deep Elem Blues",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "To Lay Me Down",
+        "Let It Grow",
+        "Terrapin Station",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

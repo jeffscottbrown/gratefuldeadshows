@@ -1,0 +1,47 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Walkin' Blues",
+        "They Love Each Other",
+        "The Race Is On",
+        "West L.A. Fadeaway",
+        "Just A Little Light",
+        "Queen Jane Approximately",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Let The Good Times Roll",
+        "Hey Pocky Way",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Drums",
+        "I Will Take You Home",
+        "The Wheel",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Around And Around",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

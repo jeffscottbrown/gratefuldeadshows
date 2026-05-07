@@ -1,0 +1,40 @@
+{
+  "venue": "Hofheinz Pavilion",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Loser",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Railroad Blues",
+        "Box Of Rain",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Around And Around",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "He's Gone",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Sugar Magnolia",
+        "One More Saturday Night",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

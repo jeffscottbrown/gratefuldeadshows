@@ -1,0 +1,44 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "Althea",
+        "Little Red Rooster",
+        "When Push Comes To Shove",
+        "When I Paint My Masterpiece",
+        "Ramble On Rose",
+        "Addams Family Tuning",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Gimme Some Lovin'",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "Playing In The Band",
+        "The Wheel",
+        "Truckin'",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

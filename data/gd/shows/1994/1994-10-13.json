@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Wang Dang Doodle",
+        "Loser",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Dupree's Diamond Blues",
+        "When I Paint My Masterpiece",
+        "Loose Lucy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

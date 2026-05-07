@@ -1,0 +1,41 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Tennessee Jed",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Black Peter",
+        "Not Fade Away",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

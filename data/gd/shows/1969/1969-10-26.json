@@ -1,0 +1,21 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jam",
+        "Hard To Handle",
+        "Cold Rain And Snow",
+        "Me And My Uncle",
+        "Next Time You See Me",
+        "Dire Wolf",
+        "Casey Jones",
+        "Easy Wind"
+      ]
+    }
+  ]
+}

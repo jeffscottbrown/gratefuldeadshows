@@ -1,0 +1,17 @@
+{
+  "venue": "Fox Theatre",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Next Time You See Me",
+        "Me And Bobby Mcgee",
+        "Hard To Handle",
+        "The Other One"
+      ]
+    }
+  ]
+}

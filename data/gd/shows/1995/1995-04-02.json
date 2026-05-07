@@ -1,0 +1,38 @@
+{
+  "venue": "The Pyramid",
+  "city": "Memphis",
+  "state": "TN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "The Same Thing",
+        "Althea",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Eternity",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Drums",
+        "The Last Time",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Unbroken Chain"
+      ]
+    }
+  ]
+}

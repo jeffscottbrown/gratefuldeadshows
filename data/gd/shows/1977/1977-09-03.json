@@ -1,0 +1,42 @@
+{
+  "venue": "Raceway Park",
+  "city": "Englishtown",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Looks Like Rain",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Loser",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "He's Gone",
+        "Not Fade Away",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

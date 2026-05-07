@@ -1,0 +1,43 @@
+{
+  "venue": "Rich Stadium",
+  "city": "Orchard Park",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Althea",
+        "It's All Over Now",
+        "Friend Of The Devil",
+        "When I Paint My Masterpiece",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Estimated Prophet",
+        "The Same Thing",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "The Wheel",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

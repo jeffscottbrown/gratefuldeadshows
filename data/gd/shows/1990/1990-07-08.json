@@ -1,0 +1,43 @@
+{
+  "venue": "Three Rivers Stadium",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Jack A Roe",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Wang Dang Doodle",
+        "Black Peter",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

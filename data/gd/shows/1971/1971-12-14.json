@@ -1,0 +1,45 @@
+{
+  "venue": "Hill Auditorium",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Loser",
+        "Jack Straw",
+        "Next Time You See Me",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Railroad Blues",
+        "Me And My Uncle",
+        "Run Rudolph Run",
+        "Black Peter",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Big Boss Man",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "You Win Again",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

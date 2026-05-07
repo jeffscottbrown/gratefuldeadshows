@@ -1,0 +1,41 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Boss Man",
+        "Feel Like A Stranger",
+        "It Must Have Been The Roses",
+        "New Minglewood Blues",
+        "When Push Comes To Shove",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Hell In A Bucket",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Morning Dew",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

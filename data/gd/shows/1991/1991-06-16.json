@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Bertha",
+        "Little Red Rooster",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Stagger Lee",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Crazy Fingers",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

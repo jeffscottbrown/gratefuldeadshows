@@ -1,0 +1,40 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

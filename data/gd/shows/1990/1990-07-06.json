@@ -1,0 +1,43 @@
+{
+  "venue": "Cardinal Stadium",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Easy To Love You",
+        "Peggy O",
+        "Desolation Row",
+        "West L.A. Fadeaway",
+        "Picasso Moon",
+        "Ramble On Rose",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Standing On The Moon",
+        "He's Gone",
+        "Drums",
+        "Truckin'",
+        "Wharf Rat",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

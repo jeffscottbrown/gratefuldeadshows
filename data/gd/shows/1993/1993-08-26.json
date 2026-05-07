@@ -1,0 +1,39 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Wang Dang Doodle",
+        "Candyman",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Saint Of Circumstance",
+        "Way To Go Home",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rain"
+      ]
+    }
+  ]
+}

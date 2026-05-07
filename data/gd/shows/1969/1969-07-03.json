@@ -1,0 +1,24 @@
+{
+  "venue": "Reed's Ranch",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Green Green Grass Of Home",
+        "Ol' Slewfoot",
+        "Sittin' On Top Of The World",
+        "Morning Dew",
+        "High Time",
+        "Me And My Uncle",
+        "Casey Jones",
+        "Mama Tried",
+        "Hard To Handle",
+        "He Was A Friend Of Mine",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

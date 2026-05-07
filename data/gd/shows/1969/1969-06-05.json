@@ -1,0 +1,35 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Me And My Uncle",
+        "Doin' That Rag",
+        "He Was A Friend Of Mine",
+        "Hard To Handle",
+        "Cosmic Charlie",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "Jam",
+        "Sittin' On Top Of The World",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

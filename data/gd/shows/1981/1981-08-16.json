@@ -1,0 +1,43 @@
+{
+  "venue": "McArthur Court",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "El Paso",
+        "Loser",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Little Red Rooster",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

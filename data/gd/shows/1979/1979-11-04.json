@@ -1,0 +1,43 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Easy To Love You",
+        "Brown Eyed Women",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

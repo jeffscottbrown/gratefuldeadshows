@@ -1,0 +1,38 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Queen Jane Approximately",
+        "Loser",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

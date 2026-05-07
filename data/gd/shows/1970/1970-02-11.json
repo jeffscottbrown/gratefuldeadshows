@@ -1,0 +1,20 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Black Peter",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Dire Wolf",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "Dire Wolf",
+        "It's All Over Now",
+        "Bird Song",
+        "When I Paint My Masterpiece",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Louie Louie",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Smokestack Lightnin'",
+        "Drums",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

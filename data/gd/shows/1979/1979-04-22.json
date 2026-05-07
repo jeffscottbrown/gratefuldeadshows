@@ -1,0 +1,47 @@
+{
+  "venue": "Spartan Stadium",
+  "city": "San Jose",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "Passenger",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "Shakedown Street"
+      ]
+    }
+  ]
+}

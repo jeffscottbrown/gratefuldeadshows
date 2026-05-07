@@ -1,0 +1,44 @@
+{
+  "venue": "West High Auditorium",
+  "city": "Anchorage",
+  "state": "AK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Loser",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Far From Me",
+        "Ramble On Rose",
+        "Feel Like A Stranger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Big Railroad Blues",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

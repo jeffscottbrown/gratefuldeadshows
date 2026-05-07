@@ -1,0 +1,40 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "The Same Thing",
+        "Loose Lucy",
+        "Black Throated Wind",
+        "Dire Wolf",
+        "Eternity",
+        "Tennessee Jed"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Looks Like Rain",
+        "Way To Go Home",
+        "Terrapin Station",
+        "Drums",
+        "Playing In The Band",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

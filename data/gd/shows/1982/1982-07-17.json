@@ -1,0 +1,42 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

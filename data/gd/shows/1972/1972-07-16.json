@@ -1,0 +1,49 @@
+{
+  "venue": "Dillon Stadium",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Cold Rain And Snow",
+        "Black Throated Wind",
+        "Sugaree",
+        "Playing In The Band",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Deal",
+        "Mexicali Blues",
+        "Stella Blue",
+        "Cumberland Blues",
+        "Me And My Uncle",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Sing Me Back Home"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "He's Gone",
+        "The Other One",
+        "Looks Like Rain",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Hey Bo Diddley"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

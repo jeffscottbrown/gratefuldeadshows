@@ -1,0 +1,42 @@
+{
+  "venue": "Cumberland County Civic Center",
+  "city": "Portland",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Beat It On Down The Line",
+        "Loser",
+        "Never Trust A Woman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Franklin's Tower",
+        "I Need A Miracle",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Dear Mr. Fantasy",
+        "Playing In The Band",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

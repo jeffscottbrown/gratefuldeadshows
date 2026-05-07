@@ -1,0 +1,42 @@
+{
+  "venue": "California State U. Dominguez Hills",
+  "city": "Carson",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Easy To Love You",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Candyman",
+        "Victim Or The Crime",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Samson And Delilah",
+        "The Weight",
+        "Blow Away",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Last Time"
+      ]
+    }
+  ]
+}

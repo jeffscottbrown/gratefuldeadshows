@@ -1,0 +1,43 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "Candyman",
+        "It's All Over Now",
+        "Althea",
+        "Cassidy",
+        "Brown Eyed Women",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Keep On Growing",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

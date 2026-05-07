@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Row Jimmy",
+        "The Race Is On",
+        "Dire Wolf",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Lazy River Road",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "So Many Roads",
+        "Truckin'",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

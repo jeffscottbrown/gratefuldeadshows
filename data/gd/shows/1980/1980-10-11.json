@@ -1,0 +1,58 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Dark Hollow",
+        "Rosalie Mcfall",
+        "Cassidy",
+        "Deep Elem Blues",
+        "Monkey And The Engineer",
+        "China Doll",
+        "Heaven Help The Fool",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Passenger",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Let It Grow",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

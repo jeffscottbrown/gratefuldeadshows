@@ -1,0 +1,40 @@
+{
+  "venue": "Stockton Civic Auditorium",
+  "city": "Stockton",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Peggy O",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Playing In The Band",
+        "Passenger",
+        "Estimated Prophet",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Around And Around"
+      ]
+    }
+  ]
+}

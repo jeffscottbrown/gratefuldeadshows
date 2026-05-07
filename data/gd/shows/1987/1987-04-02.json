@@ -1,0 +1,45 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Dupree's Diamond Blues",
+        "Far From Me",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "When Push Comes To Shove",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Gimme Some Lovin'",
+        "The Wheel",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

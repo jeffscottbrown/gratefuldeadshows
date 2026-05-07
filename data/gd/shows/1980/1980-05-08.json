@@ -1,0 +1,43 @@
+{
+  "venue": "Glens Falls Civic Center",
+  "city": "Glens Falls",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "High Time",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Ramble On Rose",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "It's All Over Now",
+        "West L.A. Fadeaway",
+        "El Paso",
+        "When Push Comes To Shove",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Black Peter",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

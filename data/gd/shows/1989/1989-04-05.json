@@ -1,0 +1,41 @@
+{
+  "venue": "Crisler Arena",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Far From Me",
+        "Dupree's Diamond Blues",
+        "Let It Grow",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Cumberland Blues",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "China Doll",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

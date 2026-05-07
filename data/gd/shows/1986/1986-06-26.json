@@ -1,0 +1,40 @@
+{
+  "venue": "Hubert H. Humphrey Metrodome",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Sugaree",
+        "Little Red Rooster",
+        "Iko Iko",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Mexicali Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Estimated Prophet",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Delta Center",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Salt Lake City",
+        "Friend Of The Devil",
+        "Wang Dang Doodle",
+        "Tennessee Jed",
+        "Broken Arrow",
+        "Black Throated Wind",
+        "So Many Roads",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Samba In The Rain",
+        "Truckin'",
+        "I Just Want To Make Love To You",
+        "That Would Be Something",
+        "Drums",
+        "Space",
+        "Visions Of Johanna",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

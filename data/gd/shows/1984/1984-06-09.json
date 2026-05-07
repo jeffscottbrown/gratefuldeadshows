@@ -1,0 +1,40 @@
+{
+  "venue": "California Exposition Amphitheater",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Hell In A Bucket",
+        "Loser",
+        "Cassidy",
+        "Dupree's Diamond Blues",
+        "C.C. Rider",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Playing In The Band",
+        "Black Peter",
+        "Sugar Magnolia",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Bertha",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Little Red Rooster",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)",
+        "Dancing In The Street",
+        "Black Muddy River",
+        "Playing In The Band",
+        "I Need A Miracle",
+        "Drums",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Comes A Time",
+        "Around And Around",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "When Push Comes To Shove"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Bertha",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Ramble On Rose",
+        "Just Like Tom Thumb's Blues",
+        "Cold Rain And Snow",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Eyes Of The World",
+        "Goin' Down The Road Feeling Bad",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Truckin'",
+        "The Other One",
+        "Black Peter",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

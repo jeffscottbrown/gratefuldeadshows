@@ -1,0 +1,43 @@
+{
+  "venue": "Sporthalle",
+  "city": "Hamburg",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Queen Jane Approximately",
+        "Iko Iko"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Truckin'",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "The Wheel",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

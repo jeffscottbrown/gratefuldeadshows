@@ -1,0 +1,41 @@
+{
+  "venue": "The Syndrome",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Hard To Handle",
+        "Playing In The Band",
+        "Loser",
+        "Me And Bobby Mcgee",
+        "Next Time You See Me",
+        "Beat It On Down The Line",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "I'm A King Bee",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

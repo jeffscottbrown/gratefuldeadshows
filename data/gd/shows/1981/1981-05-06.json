@@ -1,0 +1,47 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "They Love Each Other",
+        "Cassidy",
+        "Jack A Roe",
+        "Little Red Rooster",
+        "Dire Wolf",
+        "Looks Like Rain",
+        "Big Railroad Blues",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "New Minglewood Blues",
+        "High Time",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Caution (Do Not Stop On Tracks)",
+        "Spanish Jam",
+        "Drums",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

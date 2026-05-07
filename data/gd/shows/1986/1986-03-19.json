@@ -1,0 +1,43 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Stagger Lee",
+        "C.C. Rider",
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Visions Of Johanna",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

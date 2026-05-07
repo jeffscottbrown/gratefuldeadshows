@@ -1,0 +1,44 @@
+{
+  "venue": "Seattle Center Arena",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Candyman",
+        "Passenger",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Don't Ease Me In",
+        "Let It Grow",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "C.C. Rider",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

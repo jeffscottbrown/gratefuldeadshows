@@ -1,0 +1,34 @@
+{
+  "venue": "SIU Arena",
+  "city": "Carbondale",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Jack A Roe",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "I Need A Miracle",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Dancing In The Street",
+        "Drums",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

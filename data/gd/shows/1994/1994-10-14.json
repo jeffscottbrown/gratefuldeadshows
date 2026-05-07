@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Queen Jane Approximately",
+        "Lazy River Road",
+        "El Paso",
+        "Ramble On Rose",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Looks Like Rain",
+        "Samba In The Rain",
+        "Corrina",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Attics Of My Life",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

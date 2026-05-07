@@ -1,0 +1,40 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Althea",
+        "El Paso",
+        "Tennessee Jed",
+        "Cassidy",
+        "Never Trust A Woman",
+        "Box Of Rain",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Playing In The Band",
+        "Comes A Time",
+        "Willie & The Hand Jive",
+        "Drums",
+        "Truckin'",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "venue": "Albuquerque Civic Auditorium",
+  "city": "Albuquerque",
+  "state": "NM",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Railroad Blues",
+        "Jack Straw",
+        "Deal",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Me And Bobby Mcgee",
+        "You Win Again",
+        "Mexicali Blues",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Ramble On Rose"
+      ]
+    }
+  ]
+}

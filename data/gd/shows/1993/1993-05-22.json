@@ -1,0 +1,39 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Broken Arrow",
+        "Supplication",
+        "Stagger Lee",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Corrina",
+        "Drums",
+        "The Last Time",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

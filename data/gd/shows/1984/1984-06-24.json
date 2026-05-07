@@ -1,0 +1,43 @@
+{
+  "venue": "Saratoga Performing Arts Center",
+  "city": "Saratoga",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Dire Wolf",
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Playing In The Band",
+        "China Doll",
+        "Samson And Delilah",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

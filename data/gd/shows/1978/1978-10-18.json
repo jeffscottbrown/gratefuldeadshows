@@ -1,0 +1,43 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Me And My Uncle",
+        "Big River",
+        "Peggy O",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "New Minglewood Blues",
+        "Candyman",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "From The Heart Of Me",
+        "Ship Of Fools",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Wharf Rat",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Need A Miracle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Same Thing",
+        "Jack A Roe",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Way To Go Home",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "So Many Roads",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

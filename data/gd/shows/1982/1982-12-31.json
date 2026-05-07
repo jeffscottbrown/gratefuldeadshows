@@ -1,0 +1,51 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "Cumberland Blues",
+        "Far From Me",
+        "Cassidy",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Sugaree",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Deal",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Tell Mama",
+        "Baby What You Want Me To Do",
+        "Hard To Handle",
+        "In The Midnight Hour"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

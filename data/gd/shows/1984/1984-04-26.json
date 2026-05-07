@@ -1,0 +1,42 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "C.C. Rider",
+        "Loser",
+        "Hell In A Bucket",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Never Trust A Woman",
+        "Drums",
+        "Space",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Loser",
+        "C.C. Rider",
+        "It Must Have Been The Roses",
+        "New Minglewood Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Oregon Country Fair Site",
+  "city": "Veneta",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "It's All Over Now",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Keep Your Day Job",
+        "Man Smart (Woman Smarter)",
+        "West L.A. Fadeaway",
+        "Far From Me",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Truckin'",
+        "Black Peter",
+        "Playing In The Band",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Dupree's Diamond Blues"
+      ]
+    }
+  ]
+}

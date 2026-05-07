@@ -1,0 +1,34 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Box Of Rain",
+        "Jack Straw",
+        "Jack A Roe",
+        "Walkin' Blues",
+        "So Many Roads",
+        "Eternity",
+        "Childhood's End",
+        "Deal",
+        "Picasso Moon",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Days Between",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

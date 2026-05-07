@@ -1,0 +1,45 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Mama Tried",
+        "Bertha",
+        "Next Time You See Me",
+        "Cumberland Blues",
+        "Me And Bobby Mcgee",
+        "Loser",
+        "Hard To Handle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Deal",
+        "Me And My Uncle",
+        "Bird Song",
+        "Playing In The Band",
+        "Dire Wolf",
+        "Searchin'",
+        "Riot In Cell Block",
+        "Good Vibrations",
+        "I Get Around",
+        "Help Me Ronda",
+        "Okie From Muskogee",
+        "Johnny B. Goode",
+        "Sing Me Back Home",
+        "Uncle John's Band",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "When I Paint My Masterpiece",
+        "Loser",
+        "Cassidy",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

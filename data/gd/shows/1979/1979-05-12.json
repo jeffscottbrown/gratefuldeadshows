@@ -1,0 +1,43 @@
+{
+  "venue": "Alumni Stadium",
+  "city": "Amherst",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Don't Ease Me In",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

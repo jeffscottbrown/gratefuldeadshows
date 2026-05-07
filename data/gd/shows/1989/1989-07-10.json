@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "Jack A Roe",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Just A Little Light",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Iko Iko",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

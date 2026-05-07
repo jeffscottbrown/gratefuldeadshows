@@ -1,0 +1,43 @@
+{
+  "venue": "Seattle Center Arena",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "El Paso",
+        "Brown Eyed Women",
+        "Passenger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Don't Ease Me In",
+        "Samson And Delilah",
+        "Sugaree",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street"
+      ]
+    }
+  ]
+}

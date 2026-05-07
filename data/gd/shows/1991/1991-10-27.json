@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugar Magnolia",
+        "Sugaree",
+        "Walkin' Blues",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Candyman",
+        "Cassidy",
+        "Touch Of Grey",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Iko Iko",
+        "Hey Bo Diddley"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mona",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

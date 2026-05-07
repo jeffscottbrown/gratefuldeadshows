@@ -1,0 +1,50 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Bird Song",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Black Throated Wind",
+        "Big Railroad Blues",
+        "Jack Straw",
+        "Loser",
+        "Big River",
+        "Ramble On Rose",
+        "Cumberland Blues",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Truckin'",
+        "Black Peter",
+        "Mexicali Blues",
+        "Dark Star",
+        "Morning Dew",
+        "Beat It On Down The Line",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Sugar Magnolia",
+        "Friend Of The Devil",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

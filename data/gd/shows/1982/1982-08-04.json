@@ -1,0 +1,42 @@
+{
+  "venue": "Kiel Auditorium",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Never Trust A Woman",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

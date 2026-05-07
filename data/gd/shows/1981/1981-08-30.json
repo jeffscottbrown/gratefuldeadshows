@@ -1,0 +1,44 @@
+{
+  "venue": "Compton Terrace Amphitheatre",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "It Must Have Been The Roses",
+        "Beat It On Down The Line",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

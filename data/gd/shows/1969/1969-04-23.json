@@ -1,0 +1,46 @@
+{
+  "venue": "The Ark",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "He Was A Friend Of Mine",
+        "Dark Star",
+        "Saint Stephen",
+        "It's A Sin",
+        "Saint Stephen",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Sittin' On Top Of The World",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Hard To Handle",
+        "Doin' That Rag",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "The Eleven",
+        "Jam",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

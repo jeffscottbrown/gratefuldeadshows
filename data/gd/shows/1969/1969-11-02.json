@@ -1,0 +1,26 @@
+{
+  "venue": "Family Dog at the Great Highway",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "In The Midnight Hour",
+        "Seasons Of My Heart",
+        "Mama Tried",
+        "Next Time You See Me",
+        "Good Lovin'",
+        "Big Boss Man",
+        "Casey Jones",
+        "Dancing In The Street",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy"
+      ]
+    }
+  ]
+}

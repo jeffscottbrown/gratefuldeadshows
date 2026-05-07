@@ -1,0 +1,39 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "When Push Comes To Shove",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Little Red Rooster",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Stagger Lee",
+        "It's All Over Now",
+        "Bertha",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

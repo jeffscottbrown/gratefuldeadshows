@@ -1,0 +1,35 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Just Like Tom Thumb's Blues",
+        "Althea",
+        "Cassidy",
+        "Cumberland Blues",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Saint Of Circumstance",
+        "Uncle John's Band",
+        "Corrina",
+        "Drums",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "The Weight"
+      ]
+    }
+  ]
+}

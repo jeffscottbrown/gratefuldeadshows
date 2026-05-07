@@ -1,0 +1,39 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Loser",
+        "Take Me To The River",
+        "Row Jimmy",
+        "Broken Arrow",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "It's All Too Much",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Easy Answers",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

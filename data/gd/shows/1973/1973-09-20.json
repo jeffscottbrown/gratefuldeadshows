@@ -1,0 +1,35 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Loser",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "El Paso",
+        "Row Jimmy",
+        "Greatest Story Ever Told",
+        "Deal",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Eyes Of The World",
+        "Stella Blue"
+      ]
+    }
+  ]
+}

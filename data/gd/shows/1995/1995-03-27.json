@@ -1,0 +1,36 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Sugaree",
+        "It's All Over Now",
+        "So Many Roads",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Way To Go Home",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Days Between",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

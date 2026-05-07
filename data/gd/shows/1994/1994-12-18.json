@@ -1,0 +1,42 @@
+{
+  "venue": "Los Angeles Sports Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Walkin' Blues",
+        "Just Like Tom Thumb's Blues",
+        "El Paso",
+        "Loose Lucy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Attics Of My Life",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

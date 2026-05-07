@@ -1,0 +1,39 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Little Red Rooster",
+        "Friend Of The Devil",
+        "Desolation Row",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Picasso Moon",
+        "Crazy Fingers",
+        "Man Smart (Woman Smarter)",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rain"
+      ]
+    }
+  ]
+}

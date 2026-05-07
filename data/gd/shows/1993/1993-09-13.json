@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Jack A Roe",
+        "The Same Thing",
+        "Stagger Lee",
+        "Black Throated Wind",
+        "Dire Wolf",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Dark Star",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Easy Answers",
+        "Days Between",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

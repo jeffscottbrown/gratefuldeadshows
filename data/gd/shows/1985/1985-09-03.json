@@ -1,0 +1,42 @@
+{
+  "venue": "Starlight Theatre",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "Little Red Rooster",
+        "Dire Wolf",
+        "Cassidy",
+        "Big Railroad Blues",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cryptical Envelopment",
+        "The Other One",
+        "Eyes Of The World",
+        "Don't Need Love",
+        "Drums",
+        "Nobody's Fault But Mine",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Comes A Time",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

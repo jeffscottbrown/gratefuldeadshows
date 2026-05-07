@@ -1,0 +1,44 @@
+{
+  "venue": "Cape Cod Coliseum",
+  "city": "South Yarmouth",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Brown Eyed Women",
+        "Easy To Love You",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dancing In The Street",
+        "Franklin's Tower",
+        "He's Gone",
+        "Caution (Do Not Stop On Tracks)",
+        "The Other One",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

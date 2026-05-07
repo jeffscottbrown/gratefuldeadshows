@@ -1,0 +1,43 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Tons Of Steel",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Feel Like A Stranger",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Wembley Arena",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Loose Lucy",
+        "Me And My Uncle",
+        "Big River",
+        "It Must Have Been The Roses",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

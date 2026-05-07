@@ -1,0 +1,48 @@
+{
+  "venue": "Rheinhalle",
+  "city": "Duesseldorf",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Tennessee Jed",
+        "Chinatown Shuffle",
+        "Black Throated Wind",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Loser",
+        "Playing In The Band",
+        "Next Time You See Me",
+        "Me And Bobby Mcgee",
+        "Good Lovin'",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "It Hurts Me Too",
+        "El Paso",
+        "Dark Star",
+        "Me And My Uncle",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

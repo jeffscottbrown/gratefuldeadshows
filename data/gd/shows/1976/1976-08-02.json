@@ -1,0 +1,53 @@
+{
+  "venue": "Colt Park",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mama Tried",
+        "Deal",
+        "Cassidy",
+        "Tennessee Jed",
+        "Big River",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Loser",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Candyman",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "Playing In The Band",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

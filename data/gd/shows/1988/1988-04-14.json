@@ -1,0 +1,42 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Iko Iko",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

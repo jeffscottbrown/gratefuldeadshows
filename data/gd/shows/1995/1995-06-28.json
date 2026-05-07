@@ -1,0 +1,41 @@
+{
+  "venue": "The Palace",
+  "city": "Auburn Hills",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Good Morning Little Schoolgirl",
+        "Loser",
+        "Black Throated Wind",
+        "Just Like Tom Thumb's Blues",
+        "Big Railroad Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "Drums",
+        "Easy Answers",
+        "Easy Answers",
+        "Attics Of My Life",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

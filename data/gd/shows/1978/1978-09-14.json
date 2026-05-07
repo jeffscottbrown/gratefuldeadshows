@@ -1,0 +1,36 @@
+{
+  "venue": "Gizah Sound and Light Theater",
+  "city": "Cairo",
+  "state": "",
+  "country": "EG",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ollin Arrageed",
+        "Not Fade Away",
+        "Me And My Uncle",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Around And Around"
+      ]
+    }
+  ]
+}

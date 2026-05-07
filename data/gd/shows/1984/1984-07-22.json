@@ -1,0 +1,37 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Bertha",
+        "My Brother Esau",
+        "Loser",
+        "Cassidy",
+        "Ramble On Rose",
+        "Hell In A Bucket",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "I Just Want To Make Love To You",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away",
+        "In The Midnight Hour",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

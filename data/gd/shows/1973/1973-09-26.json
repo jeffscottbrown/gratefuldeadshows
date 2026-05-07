@@ -1,0 +1,49 @@
+{
+  "venue": "War Memorial Auditorium",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Beat It On Down The Line",
+        "Deal",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "Loser",
+        "Big River",
+        "Brown Eyed Women",
+        "The Race Is On",
+        "Row Jimmy",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Sing Me Back Home",
+        "Me And My Uncle",
+        "He's Gone",
+        "Truckin'",
+        "Eyes Of The World",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

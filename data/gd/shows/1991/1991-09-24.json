@@ -1,0 +1,44 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Althea",
+        "It's All Over Now, Baby Blue",
+        "High Time",
+        "Beat It On Down The Line",
+        "Big Railroad Blues",
+        "Desolation Row",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Foolish Heart",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

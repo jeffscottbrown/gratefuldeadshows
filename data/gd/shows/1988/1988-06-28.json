@@ -1,0 +1,43 @@
+{
+  "venue": "Saratoga Performing Arts Center",
+  "city": "Saratoga",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Walkin' Blues",
+        "Candyman",
+        "When I Paint My Masterpiece",
+        "Row Jimmy",
+        "Victim Or The Crime",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Crazy Fingers",
+        "Drums",
+        "Space",
+        "I Will Take You Home",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "Eternity",
+        "Candyman",
+        "The Music Never Stopped",
+        "Easy Answers",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

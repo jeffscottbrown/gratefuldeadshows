@@ -1,0 +1,25 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Smokestack Lightnin'",
+        "New Speedway Boogie",
+        "Dire Wolf",
+        "Mason's Children",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Black Peter",
+        "Not Fade Away",
+        "Good Lovin'",
+        "Drums",
+        "The Other One",
+        "Cumberland Blues"
+      ]
+    }
+  ]
+}

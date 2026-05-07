@@ -1,0 +1,44 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Beat It On Down The Line",
+        "Greatest Story Ever Told",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Althea",
+        "Let It Grow",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Spanish Jam",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

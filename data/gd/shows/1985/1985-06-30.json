@@ -1,0 +1,43 @@
+{
+  "venue": "Merriweather Post Pavilion",
+  "city": "Columbia",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Keep On Growing",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "Gimme Some Lovin'",
+        "He's Gone",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

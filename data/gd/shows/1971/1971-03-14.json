@@ -1,0 +1,32 @@
+{
+  "venue": "Camp Randall Field House",
+  "city": "Madison",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Me And My Uncle",
+        "It Hurts Me Too",
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Hard To Handle",
+        "Loser",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Sugar Magnolia",
+        "Wharf Rat",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

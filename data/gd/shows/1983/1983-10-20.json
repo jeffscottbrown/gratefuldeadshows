@@ -1,0 +1,44 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Hell In A Bucket",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Drums",
+        "Spanish Jam",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

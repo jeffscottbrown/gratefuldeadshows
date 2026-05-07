@@ -1,0 +1,44 @@
+{
+  "venue": "Des Moines Civic Center",
+  "city": "Des Moines",
+  "state": "IA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Big River",
+        "Deep Elem Blues",
+        "Cassidy",
+        "Althea",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

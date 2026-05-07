@@ -1,0 +1,46 @@
+{
+  "venue": "Long Beach Arena",
+  "city": "Long Beach",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Little Red Rooster",
+        "Loser",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song",
+        "Passenger",
+        "Candyman",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "The Wheel",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

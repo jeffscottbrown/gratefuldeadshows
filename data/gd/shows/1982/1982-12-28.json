@@ -1,0 +1,49 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "El Paso",
+        "Friend Of The Devil",
+        "On The Road Again",
+        "Touch Of Grey",
+        "Man Smart (Woman Smarter)",
+        "Dire Wolf",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "Never Trust A Woman",
+        "Terrapin Station",
+        "Drums",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

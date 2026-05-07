@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "To Lay Me Down",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

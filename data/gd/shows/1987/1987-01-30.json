@@ -1,0 +1,45 @@
+{
+  "venue": "San Francisco Civic Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "When Push Comes To Shove",
+        "Beat It On Down The Line",
+        "The Promised Land",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

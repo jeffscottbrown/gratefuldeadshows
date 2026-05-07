@@ -1,0 +1,44 @@
+{
+  "venue": "Swing Auditorium",
+  "city": "San Bernardino",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Terrapin Station",
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Estimated Prophet",
+        "Sugaree",
+        "Mama Tried",
+        "Deal",
+        "Playing In The Band",
+        "The Wheel",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Tennessee Jed",
+        "The Music Never Stopped",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Promised Land",
+        "Eyes Of The World",
+        "Dancing In The Street",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

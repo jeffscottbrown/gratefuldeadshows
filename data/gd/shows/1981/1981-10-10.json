@@ -1,0 +1,45 @@
+{
+  "venue": "Stadthalle IV",
+  "city": "Bremen",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Bertha",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Sugaree",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

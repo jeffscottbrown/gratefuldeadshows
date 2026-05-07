@@ -1,0 +1,45 @@
+{
+  "venue": "Hofheinz Pavilion",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Black Throated Wind",
+        "Don't Ease Me In",
+        "Mexicali Blues",
+        "Box Of Rain",
+        "Tomorrow Is Forever",
+        "Big River",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Ramble On Rose",
+        "El Paso",
+        "Stella Blue",
+        "Jack Straw",
+        "Dark Star",
+        "Weather Report Suite Prelude",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Around And Around",
+        "Big Railroad Blues",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

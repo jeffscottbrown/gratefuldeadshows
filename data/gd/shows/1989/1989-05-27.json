@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Coliseum Stadium",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Walkin' Blues",
+        "Iko Iko",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Fire On The Mountain",
+        "Blow Away",
+        "Truckin'",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

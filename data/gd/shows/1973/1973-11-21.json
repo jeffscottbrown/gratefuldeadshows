@@ -1,0 +1,48 @@
+{
+  "venue": "Denver Coliseum",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And My Uncle",
+        "Sugaree",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Here Comes Sunshine",
+        "Big River",
+        "Brokedown Palace",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Playing In The Band",
+        "El Paso",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Morning Dew",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

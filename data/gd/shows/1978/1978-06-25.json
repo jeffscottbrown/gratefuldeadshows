@@ -1,0 +1,40 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "Passenger",
+        "Peggy O",
+        "New Minglewood Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

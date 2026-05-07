@@ -1,0 +1,43 @@
+{
+  "venue": "The Palladium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Might As Well",
+        "El Paso",
+        "Ramble On Rose",
+        "Cassidy",
+        "They Love Each Other",
+        "Lazy Lightnin'",
+        "Supplication",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "Tennessee Jed",
+        "Sunrise",
+        "Samson And Delilah"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dancing In The Street",
+        "Brown Eyed Women",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Comes A Time",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

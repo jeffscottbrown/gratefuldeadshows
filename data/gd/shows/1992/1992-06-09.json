@@ -1,0 +1,41 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Ship Of Fools",
+        "Way To Go Home",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

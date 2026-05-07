@@ -1,0 +1,45 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Alabama Getaway",
+        "The Promised Land",
+        "Candyman",
+        "Little Red Rooster",
+        "Althea",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "It Must Have Been The Roses",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Spanish Jam",
+        "Wharf Rat",
+        "I Need A Miracle",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

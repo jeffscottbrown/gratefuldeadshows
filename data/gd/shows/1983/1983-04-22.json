@@ -1,0 +1,46 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Funiculi Funicula",
+        "Feel Like A Stranger",
+        "Bird Song",
+        "C.C. Rider",
+        "Row Jimmy",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Cold Rain And Snow",
+        "My Brother Esau",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Truckin'",
+        "Spoonful",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

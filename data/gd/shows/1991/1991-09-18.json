@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Ramble On Rose",
+        "Wang Dang Doodle",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

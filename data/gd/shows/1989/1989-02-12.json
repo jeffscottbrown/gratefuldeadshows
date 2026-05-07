@@ -1,0 +1,43 @@
+{
+  "venue": "Great Western Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Hell In A Bucket",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "The Promised Land",
+        "West L.A. Fadeaway",
+        "How Long Blues",
+        "Gimme Some Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Monkey And The Engineer",
+        "Alabama Getaway",
+        "Dire Wolf",
+        "Cassidy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

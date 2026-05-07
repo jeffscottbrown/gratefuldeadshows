@@ -1,0 +1,41 @@
+{
+  "venue": "Long Beach Arena",
+  "city": "Long Beach",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Sugaree",
+        "C.C. Rider",
+        "To Lay Me Down",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

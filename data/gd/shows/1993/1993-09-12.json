@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Walkin' Blues",
+        "Loser",
+        "Desolation Row",
+        "Cumberland Blues",
+        "Eternity",
+        "Loose Lucy",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Lazy River Road",
+        "Truckin'",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Roosevelt Stadium",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "The Race Is On",
+        "You Ain't Woman Enough",
+        "Bird Song",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Jack Straw",
+        "Stella Blue",
+        "Big River",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Around And Around",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "Row Jimmy",
+        "Dark Star",
+        "El Paso",
+        "Eyes Of The World",
+        "Morning Dew",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

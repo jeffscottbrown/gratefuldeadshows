@@ -1,0 +1,55 @@
+{
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "On The Road Again",
+        "I've Been All Around This World",
+        "Monkey And The Engineer",
+        "To Lay Me Down",
+        "Heaven Help The Fool",
+        "Bird Song",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "Peggy O",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

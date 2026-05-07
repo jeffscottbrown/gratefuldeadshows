@@ -1,0 +1,44 @@
+{
+  "venue": "War Memorial Auditorium",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Big River",
+        "Peggy O",
+        "Sunrise",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "The Other One",
+        "Drums",
+        "Not Fade Away",
+        "Comes A Time",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

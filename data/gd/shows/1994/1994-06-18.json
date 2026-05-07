@@ -1,0 +1,38 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "It's All Over Now",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Candyman",
+        "Easy Answers",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Days Between",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

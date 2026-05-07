@@ -1,0 +1,41 @@
+{
+  "venue": "Joe Louis Arena",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "To Lay Me Down",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

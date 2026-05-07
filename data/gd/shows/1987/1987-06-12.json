@@ -1,0 +1,44 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Candyman",
+        "My Brother Esau",
+        "Bird Song",
+        "Desolation Row",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Far From Me",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

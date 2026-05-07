@@ -1,0 +1,44 @@
+{
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Cassidy",
+        "Candyman",
+        "The Music Never Stopped",
+        "It Must Have Been The Roses",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Let It Grow",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Stephen",
+        "Not Fade Away",
+        "Stella Blue",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Dancing In The Street",
+        "The Wheel",
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

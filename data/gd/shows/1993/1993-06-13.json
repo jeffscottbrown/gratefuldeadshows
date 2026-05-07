@@ -1,0 +1,42 @@
+{
+  "venue": "Rich Stadium",
+  "city": "Orchard Park",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "Loser",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Broken Arrow",
+        "Tennessee Jed",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Lazy River Road",
+        "Looks Like Rain",
+        "Way To Go Home",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Days Between",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

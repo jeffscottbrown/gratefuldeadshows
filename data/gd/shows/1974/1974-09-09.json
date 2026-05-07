@@ -1,0 +1,41 @@
+{
+  "venue": "Alexandra Palace",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "It Must Have Been The Roses",
+        "Jack Straw",
+        "Scarlet Begonias",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Playing In The Band",
+        "Deal",
+        "El Paso",
+        "Ship Of Fools",
+        "Tennessee Jed",
+        "Truckin'",
+        "Wharf Rat",
+        "Uncle John's Band",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

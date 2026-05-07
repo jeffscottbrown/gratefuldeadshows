@@ -1,0 +1,41 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "Loser",
+        "If The Shoe Fits",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Saint Of Circumstance",
+        "Way To Go Home",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Days Between",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

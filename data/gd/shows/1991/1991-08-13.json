@@ -1,0 +1,39 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Sugaree",
+        "Walkin' Blues",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "High Time",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

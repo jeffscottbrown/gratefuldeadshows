@@ -1,0 +1,24 @@
+{
+  "venue": "Fresno Convention Center",
+  "city": "Fresno",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Me And My Uncle",
+        "Sittin' On Top Of The World",
+        "Beat It On Down The Line",
+        "Good Morning Little Schoolgirl",
+        "China Cat Sunflower",
+        "Jam",
+        "Morning Dew",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Loser",
+        "Just Like Tom Thumb's Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Spoonful",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "The Last Time",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

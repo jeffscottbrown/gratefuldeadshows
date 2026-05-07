@@ -1,0 +1,29 @@
+{
+  "venue": "Student Union Ballroom",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "He Was A Friend Of Mine",
+        "Cryptical Envelopment",
+        "The Other One"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Feedback"
+      ]
+    }
+  ]
+}

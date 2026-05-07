@@ -1,0 +1,40 @@
+{
+  "venue": "Dean Smith Center",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Stagger Lee",
+        "Wang Dang Doodle",
+        "It Must Have Been The Roses",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Playing In The Band",
+        "Box Of Rain",
+        "Crazy Fingers",
+        "Drums",
+        "Spanish Jam",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

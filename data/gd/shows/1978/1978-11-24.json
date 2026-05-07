@@ -1,0 +1,44 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Passenger",
+        "Candyman",
+        "New Minglewood Blues",
+        "From The Heart Of Me",
+        "Loser",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Good Lovin'",
+        "Friend Of The Devil",
+        "Estimated Prophet",
+        "Shakedown Street",
+        "Ollin Arrageed",
+        "Drums",
+        "Fire On The Mountain",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

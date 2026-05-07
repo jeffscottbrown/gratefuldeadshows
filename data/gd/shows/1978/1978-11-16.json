@@ -1,0 +1,43 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Big River",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Stagger Lee",
+        "Dancing In The Street",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

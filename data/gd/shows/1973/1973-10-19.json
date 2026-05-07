@@ -1,0 +1,49 @@
+{
+  "venue": "Oklahoma City Fairgrounds Arena",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Don't Ease Me In",
+        "Jack Straw",
+        "They Love Each Other",
+        "El Paso",
+        "Row Jimmy",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Dark Star",
+        "Mind Left Body Jam",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Eyes Of The World",
+        "Stella Blue"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Don't Ease Me In",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

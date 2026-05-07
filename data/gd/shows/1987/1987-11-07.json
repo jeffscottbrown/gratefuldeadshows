@@ -1,0 +1,41 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "Jack Straw",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "Dupree's Diamond Blues",
+        "Box Of Rain",
+        "Cassidy",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

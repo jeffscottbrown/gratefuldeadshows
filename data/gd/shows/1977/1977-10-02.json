@@ -1,0 +1,43 @@
+{
+  "venue": "Paramount Theater",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Jack Straw",
+        "Sunrise",
+        "Brown Eyed Women",
+        "El Paso",
+        "Dupree's Diamond Blues",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Funiculi Funicula",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

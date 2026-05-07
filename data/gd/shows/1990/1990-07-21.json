@@ -1,0 +1,43 @@
+{
+  "venue": "World Music Theatre",
+  "city": "Tinley Park",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Jack A Roe",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "Just A Little Light",
+        "Queen Jane Approximately",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Crazy Fingers",
+        "Dear Mr. Fantasy",
+        "Playing In The Band",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

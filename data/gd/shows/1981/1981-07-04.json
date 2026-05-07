@@ -1,0 +1,41 @@
+{
+  "venue": "Manor Downs",
+  "city": "Austin",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Loser",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bird Song",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Boss Man",
+        "Jack Straw",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Loser",
+        "Cassidy",
+        "Far From Me",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Touch Of Grey",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

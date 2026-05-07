@@ -1,0 +1,43 @@
+{
+  "venue": "Town Park",
+  "city": "Telluride",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Tennessee Jed",
+        "Desolation Row",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Bertha",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

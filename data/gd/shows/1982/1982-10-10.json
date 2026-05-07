@@ -1,0 +1,46 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Cassidy",
+        "Loser",
+        "Far From Me",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Touch Of Grey",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

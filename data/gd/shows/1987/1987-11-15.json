@@ -1,0 +1,42 @@
+{
+  "venue": "Long Beach Arena",
+  "city": "Long Beach",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Walkin' Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew",
+        "Around And Around",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

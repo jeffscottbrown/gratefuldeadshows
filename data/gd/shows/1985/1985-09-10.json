@@ -1,0 +1,43 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Never Trust A Woman",
+        "Drums",
+        "China Doll",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

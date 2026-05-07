@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Tennessee Jed",
+        "C.C. Rider",
+        "Tons Of Steel",
+        "It Must Have Been The Roses",
+        "Desolation Row",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Touch Of Grey",
+        "Looks Like Rain",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "Space",
+        "Just Like Tom Thumb's Blues",
+        "Black Peter",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "El Paso",
+        "Deal",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Loser",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Brown Eyed Women",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Help On The Way",
+        "Slipknot!",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

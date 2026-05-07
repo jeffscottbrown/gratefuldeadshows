@@ -1,0 +1,44 @@
+{
+  "venue": "Cole Field House",
+  "city": "College Park",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "C.C. Rider",
+        "Jack A Roe",
+        "Passenger",
+        "Bird Song",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

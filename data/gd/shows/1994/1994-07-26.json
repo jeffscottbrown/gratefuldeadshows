@@ -1,0 +1,45 @@
+{
+  "venue": "Riverport Amphitheatre",
+  "city": "Maryland Heights",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Lazy River Road",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "Childhood's End",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Victim Or The Crime",
+        "Samba In The Rain",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Attics Of My Life",
+        "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

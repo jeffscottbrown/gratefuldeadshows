@@ -1,0 +1,41 @@
+{
+  "venue": "Los Angeles Sports Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Loser",
+        "Little Red Rooster",
+        "So Many Roads",
+        "Just Like Tom Thumb's Blues",
+        "Eternity",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Corrina",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

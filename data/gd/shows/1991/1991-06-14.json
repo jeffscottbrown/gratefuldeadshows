@@ -1,0 +1,42 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Jack A Roe",
+        "Big River",
+        "Maggie's Farm",
+        "Row Jimmy",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now"
+      ]
+    }
+  ]
+}

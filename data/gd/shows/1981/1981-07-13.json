@@ -1,0 +1,44 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "El Paso",
+        "Jack A Roe",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "C.C. Rider",
+        "Althea",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

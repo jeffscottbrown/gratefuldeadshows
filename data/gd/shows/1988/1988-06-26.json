@@ -1,0 +1,42 @@
+{
+  "venue": "Pittsburgh Civic Arena",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "When Push Comes To Shove",
+        "Mama Tried",
+        "Big River",
+        "Cumberland Blues",
+        "Gentlemen Start Your Engines",
+        "Big Railroad Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

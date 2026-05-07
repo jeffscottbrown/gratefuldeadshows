@@ -1,0 +1,45 @@
+{
+  "venue": "Aladdin Theatre",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "My Brother Esau",
+        "Deal",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "The Other One",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

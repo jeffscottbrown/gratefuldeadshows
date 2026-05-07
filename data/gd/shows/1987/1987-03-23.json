@@ -1,0 +1,42 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Althea",
+        "Me And My Uncle",
+        "Big River",
+        "Iko Iko",
+        "Tons Of Steel",
+        "Feel Like A Stranger",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

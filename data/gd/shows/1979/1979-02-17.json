@@ -1,0 +1,48 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Don't Ease Me In",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Friend Of The Devil",
+        "Passenger",
+        "High Time",
+        "Looks Like Rain",
+        "Jack A Roe",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "From The Heart Of Me",
+        "Big Railroad Blues",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Shakedown Street",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Sugaree",
+        "Jack Straw",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Candyman",
+        "Passenger",
+        "Brown Eyed Women",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Tennessee Jed",
+        "Estimated Prophet",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Playing In The Band",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

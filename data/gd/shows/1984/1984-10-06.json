@@ -1,0 +1,42 @@
+{
+  "venue": "Richmond Coliseum",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Dire Wolf",
+        "Cassidy",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "China Doll",
+        "Jam",
+        "Drums",
+        "Space",
+        "Throwing Stones",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

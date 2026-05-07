@@ -1,0 +1,38 @@
+{
+  "venue": "Birmingham Jefferson Convention Complex Coliseum",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Iko Iko",
+        "Corrina",
+        "Terrapin Station",
+        "Drums",
+        "Easy Answers",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

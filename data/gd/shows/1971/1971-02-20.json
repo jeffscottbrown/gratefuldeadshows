@@ -1,0 +1,40 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Bertha",
+        "Playing In The Band",
+        "Bird Song",
+        "Big Boss Man",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Loser",
+        "Next Time You See Me",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Ripple",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

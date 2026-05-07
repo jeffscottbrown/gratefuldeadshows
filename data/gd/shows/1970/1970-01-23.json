@@ -1,0 +1,27 @@
+{
+  "venue": "Honolulu Civic Auditorium",
+  "city": "Honolulu",
+  "state": "HI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Black Peter",
+        "Hard To Handle",
+        "Mama Tried",
+        "Dire Wolf",
+        "Good Lovin'",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Dark Star",
+        "Saint Stephen",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

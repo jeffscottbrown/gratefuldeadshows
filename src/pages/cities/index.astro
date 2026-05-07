@@ -1,0 +1,50 @@
+---
+import Layout from '@/components/Layout.astro';
+import { getCities } from '@/lib/shows';
+
+const cities = await getCities();
+
+const byLetter = new Map<string, typeof cities>();
+for (const c of cities) {
+  const letter = c.city[0]?.toUpperCase() ?? '#';
+  if (!byLetter.has(letter)) byLetter.set(letter, []);
+  byLetter.get(letter)!.push(c);
+}
+const letters = Array.from(byLetter.keys()).sort();
+---
+
+<Layout title="Shows by City">
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-2">Shows by City</h1>
+    <p class="text-gray-400 mb-6">{cities.length} cities across the globe</p>
+
+    <div class="flex flex-wrap gap-1 mb-8">
+      {letters.map((l) => (
+        <a href={`#letter-${l}`} class="px-2 py-1 text-xs rounded bg-dead-card text-gray-400 hover:text-dead-gold hover:bg-dead-card-hover transition-colors">
+          {l}
+        </a>
+      ))}
+    </div>
+
+    {letters.map((letter) => (
+      <div id={`letter-${letter}`} class="mb-8 scroll-mt-20">
+        <h2 class="text-sm font-semibold text-purple-400 uppercase tracking-widest mb-3 border-b border-dead-border pb-2">
+          {letter}
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
+          {byLetter.get(letter)!.map(({ city, country, count }) => (
+            <a
+              href={`/cities/${encodeURIComponent(city)}`}
+              class="flex items-center justify-between px-4 py-2.5 rounded-lg border border-dead-border bg-dead-card hover:border-dead-gold hover:bg-dead-card-hover transition-all group"
+            >
+              <span class="text-sm text-white group-hover:text-dead-gold transition-colors truncate">
+                {city}<span class="text-gray-500 text-xs ml-1">({country})</span>
+              </span>
+              <span class="text-xs text-gray-500 ml-2 shrink-0">{count}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+</Layout>

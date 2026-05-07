@@ -1,0 +1,46 @@
+{
+  "venue": "Kingswood Music Theatre",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Loser",
+        "New Minglewood Blues",
+        "Candyman",
+        "Mama Tried",
+        "Big River",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Other One",
+        "China Doll",
+        "Dear Mr. Fantasy",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

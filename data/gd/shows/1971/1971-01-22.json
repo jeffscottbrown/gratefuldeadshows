@@ -1,0 +1,21 @@
+{
+  "venue": "Lane Community College",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Beat It On Down The Line",
+        "It Hurts Me Too",
+        "Me And My Uncle",
+        "Cold Rain And Snow",
+        "Hard To Handle",
+        "Brokedown Palace",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

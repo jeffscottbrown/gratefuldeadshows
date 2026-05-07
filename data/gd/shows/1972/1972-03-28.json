@@ -1,0 +1,29 @@
+{
+  "venue": "Academy of Music",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Sugaree",
+        "Two Souls In Communion",
+        "Sugar Magnolia",
+        "The Other One",
+        "It Hurts Me Too",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sidewalks Of New York",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

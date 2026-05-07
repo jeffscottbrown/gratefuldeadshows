@@ -1,0 +1,40 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "When Push Comes To Shove",
+        "Queen Jane Approximately",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Bertha",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Playing In The Band",
+        "Goin' Down The Road Feeling Bad",
+        "Morning Dew",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

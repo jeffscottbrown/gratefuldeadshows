@@ -1,0 +1,49 @@
+{
+  "venue": "Baltimore Civic Center",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Race Is On",
+        "Wave That Flag",
+        "Jack Straw",
+        "Sugaree",
+        "Mexicali Blues",
+        "Box Of Rain",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Don't Ease Me In",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Big River",
+        "Here Comes Sunshine",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "Me And My Uncle",
+        "He's Gone",
+        "Truckin'",
+        "Weather Report Suite Prelude",
+        "Wharf Rat",
+        "Me And Bobby Mcgee",
+        "Eyes Of The World",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "To Lay Me Down",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

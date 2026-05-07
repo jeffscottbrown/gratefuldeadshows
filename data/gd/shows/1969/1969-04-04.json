@@ -1,0 +1,30 @@
+{
+  "venue": "Avalon Ballroom",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Death Don't Have No Mercy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Feedback"
+      ]
+    }
+  ]
+}

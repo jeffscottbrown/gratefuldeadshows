@@ -1,0 +1,35 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Deep Elem Blues",
+        "Monkey And The Engineer",
+        "Big Railroad Blues",
+        "Operator",
+        "El Paso",
+        "How Long Blues",
+        "Ripple",
+        "Brokedown Palace",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cumberland Blues",
+        "Cold Rain And Snow",
+        "It Hurts Me Too",
+        "Beat It On Down The Line",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

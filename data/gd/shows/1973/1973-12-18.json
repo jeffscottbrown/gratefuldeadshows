@@ -1,0 +1,44 @@
+{
+  "venue": "Curtis Hixon Convention Hall",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Don't Ease Me In",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "Me And Bobby Mcgee",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Peggy O",
+        "El Paso",
+        "Deal",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Dark Star",
+        "Drums",
+        "Eyes Of The World",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

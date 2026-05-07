@@ -1,0 +1,44 @@
+{
+  "venue": "USAir Arena",
+  "city": "Landover",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Spoonful",
+        "Stagger Lee",
+        "Broken Arrow",
+        "Me And My Uncle",
+        "Big River",
+        "So Many Roads",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Samson And Delilah",
+        "Way To Go Home",
+        "Ship Of Fools",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Comes A Time",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rain"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Mama Tried",
+        "Deal",
+        "Beat It On Down The Line",
+        "Loser",
+        "Jack Straw",
+        "Tennessee Jed",
+        "El Paso",
+        "Brokedown Palace",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'",
+        "It Must Have Been The Roses",
+        "The Promised Land",
+        "Eyes Of The World",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Johnny B. Goode",
+        "Mississippi Half Step Uptown Toodeloo",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

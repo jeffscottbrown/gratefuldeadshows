@@ -1,0 +1,42 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Same Thing",
+        "Jack A Roe",
+        "Queen Jane Approximately",
+        "Brown Eyed Women",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

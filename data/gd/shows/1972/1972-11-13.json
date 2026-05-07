@@ -1,0 +1,37 @@
+{
+  "venue": "Soldiers & Sailors Memorial Hall",
+  "city": "Kansas City",
+  "state": "KS",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Box Of Rain",
+        "Black Throated Wind",
+        "Candyman",
+        "El Paso",
+        "Tomorrow Is Forever",
+        "Around And Around",
+        "Brown Eyed Women",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Dark Star",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

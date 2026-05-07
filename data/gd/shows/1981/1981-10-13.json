@@ -1,0 +1,44 @@
+{
+  "venue": "Walter Koebel Halle",
+  "city": "Ruesselsheim",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Peggy O",
+        "Cassidy",
+        "To Lay Me Down",
+        "New Minglewood Blues",
+        "Bird Song",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Spanish Jam",
+        "The Wheel",
+        "Sugar Magnolia",
+        "Black Peter",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

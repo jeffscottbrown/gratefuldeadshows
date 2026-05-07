@@ -1,0 +1,44 @@
+{
+  "venue": "Indianapolis Sports Center",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Dire Wolf",
+        "New Minglewood Blues",
+        "Dupree's Diamond Blues",
+        "Far From Me",
+        "My Brother Esau",
+        "Ramble On Rose",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Playing In The Band",
+        "Truckin'",
+        "Spoonful",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

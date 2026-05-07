@@ -1,0 +1,42 @@
+{
+  "venue": "Los Angeles Sports Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Rain",
+        "Let The Good Times Roll",
+        "I'm A King Bee",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Row Jimmy",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Way To Go Home",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "The Last Time",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

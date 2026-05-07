@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Wang Dang Doodle",
+        "Jack Straw",
+        "Loser",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "I Need A Miracle",
+        "Bertha",
+        "China Doll",
+        "Drums",
+        "Saint Stephen",
+        "Throwing Stones",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

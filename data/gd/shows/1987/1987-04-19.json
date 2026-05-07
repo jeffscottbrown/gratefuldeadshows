@@ -1,0 +1,44 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Tons Of Steel",
+        "Box Of Rain",
+        "Cassidy",
+        "Alabama Getaway",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Black Muddy River",
+        "I Need A Miracle",
+        "Cumberland Blues",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Dupree's Diamond Blues",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Big Railroad Blues",
+        "My Brother Esau",
+        "Peggy O",
+        "Let It Grow",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "Playing In The Band",
+        "Drums",
+        "Love The One You're With",
+        "The Wheel",
+        "Playing In The Band",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

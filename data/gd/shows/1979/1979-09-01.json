@@ -1,0 +1,41 @@
+{
+  "venue": "Holleder Memorial Stadium",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "Looks Like Rain",
+        "Don't Ease Me In",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

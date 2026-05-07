@@ -1,0 +1,43 @@
+{
+  "venue": "San Antonio Civic Auditorium",
+  "city": "San Antonio",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Deal",
+        "Mexicali Blues",
+        "Sugaree",
+        "Black Throated Wind",
+        "Bird Song",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Box Of Rain",
+        "El Paso",
+        "Big Railroad Blues",
+        "Around And Around",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "Don't Ease Me In",
+        "Big River",
+        "Dark Star",
+        "Me And Bobby Mcgee",
+        "Brokedown Palace",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Just Like Tom Thumb's Blues",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "New Speedway Boogie",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "One More Saturday Night",
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

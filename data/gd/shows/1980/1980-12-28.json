@@ -1,0 +1,40 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song",
+        "Little Red Rooster",
+        "Althea",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Don't Ease Me In",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

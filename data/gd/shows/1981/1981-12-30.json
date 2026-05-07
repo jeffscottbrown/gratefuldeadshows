@@ -1,0 +1,50 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "On The Road Again",
+        "Dire Wolf",
+        "Little Red Rooster",
+        "Cumberland Blues",
+        "It's All Over Now",
+        "Althea",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And Bobby Mcgee",
+        "Lady Di And I",
+        "Barbara Allen"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ramble On Rose",
+        "Estimated Prophet",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

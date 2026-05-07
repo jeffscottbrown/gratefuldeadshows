@@ -1,0 +1,48 @@
+{
+  "venue": "The Palace Theater",
+  "city": "Waterbury",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big River",
+        "Sugaree",
+        "Mexicali Blues",
+        "Black Throated Wind",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Bird Song",
+        "El Paso",
+        "Deal",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Brown Eyed Women",
+        "Around And Around",
+        "It's All Over Now",
+        "It's All Over Now, Baby Blue",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Beat It On Down The Line",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

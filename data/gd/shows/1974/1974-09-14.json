@@ -1,0 +1,48 @@
+{
+  "venue": "Olympiahalle",
+  "city": "Muenchen",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Deal",
+        "Jack Straw",
+        "Scarlet Begonias",
+        "The Promised Land",
+        "Loser",
+        "El Paso",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Tennessee Jed",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Big River",
+        "Sugaree",
+        "Mexicali Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "Truckin'",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Eyes Of The World",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

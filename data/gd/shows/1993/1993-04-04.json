@@ -1,0 +1,41 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Sugaree",
+        "Walkin' Blues",
+        "Dire Wolf",
+        "When I Paint My Masterpiece",
+        "So Many Roads",
+        "Eternity",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "Broken Arrow",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Attics Of My Life",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Hell In A Bucket",
+        "Dupree's Diamond Blues",
+        "New Minglewood Blues",
+        "Bird Song",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Playing In The Band",
+        "Drums",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

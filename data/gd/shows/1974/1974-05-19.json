@@ -1,0 +1,55 @@
+{
+  "venue": "Portland Memorial Coliseum",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Black Throated Wind",
+        "Scarlet Begonias",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Me And Bobby Mcgee",
+        "Sugaree",
+        "Jack Straw",
+        "It Must Have Been The Roses",
+        "El Paso",
+        "Loose Lucy",
+        "Money Money",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Wharf Rat",
+        "Big River",
+        "Peggy O",
+        "Truckin'",
+        "Mind Left Body Jam",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Des Moines Civic Center",
+  "city": "Des Moines",
+  "state": "IA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "El Paso",
+        "Mexicali Blues",
+        "Candyman",
+        "New Minglewood Blues",
+        "Althea",
+        "Far From Me",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Comes A Time",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

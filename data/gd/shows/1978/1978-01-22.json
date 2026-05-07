@@ -1,0 +1,44 @@
+{
+  "venue": "McArthur Court",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Cassidy",
+        "Peggy O",
+        "El Paso",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Row Jimmy",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Close Encounters Jam",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

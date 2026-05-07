@@ -1,0 +1,44 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "When Push Comes To Shove",
+        "My Brother Esau",
+        "It Must Have Been The Roses",
+        "Far From Me",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Uncle John's Band",
+        "Drums",
+        "Truckin'",
+        "Spoonful",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'",
+        "La Bamba",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

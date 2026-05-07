@@ -1,0 +1,44 @@
+{
+  "venue": "Marin County Veterans Auditorium",
+  "city": "San Rafael",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "C.C. Rider",
+        "Loser",
+        "El Paso",
+        "West L.A. Fadeaway",
+        "Beat It On Down The Line",
+        "Candyman",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Oh Babe It Ain't No Lie",
+        "Hell In A Bucket",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Don't Need Love",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Spoonful",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

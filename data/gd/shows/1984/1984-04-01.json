@@ -1,0 +1,43 @@
+{
+  "venue": "Marin County Veterans Auditorium",
+  "city": "San Rafael",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Cassidy",
+        "Tennessee Jed",
+        "My Brother Esau",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "Morning Dew",
+        "I Need A Miracle",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

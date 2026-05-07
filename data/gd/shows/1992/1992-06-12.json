@@ -1,0 +1,42 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Brown Eyed Women",
+        "Black Throated Wind",
+        "New Speedway Boogie",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Way To Go Home",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Attics Of My Life"
+      ]
+    }
+  ]
+}

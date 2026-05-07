@@ -1,0 +1,32 @@
+{
+  "venue": "Delta Center",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "El Paso",
+        "Lazy River Road",
+        "Cassidy",
+        "Box Of Rain",
+        "Eyes Of The World",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Rain"
+      ]
+    }
+  ]
+}

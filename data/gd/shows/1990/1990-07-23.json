@@ -1,0 +1,40 @@
+{
+  "venue": "World Music Theatre",
+  "city": "Tinley Park",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Picasso Moon",
+        "Never Trust A Woman",
+        "Stagger Lee",
+        "Cassidy",
+        "Truckin'",
+        "Smokestack Lightnin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

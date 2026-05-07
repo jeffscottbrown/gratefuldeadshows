@@ -1,0 +1,40 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Mississippi Half Step Uptown Toodeloo",
+        "El Paso",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Candyman",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Comes A Time",
+        "Drums",
+        "I Need A Miracle",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

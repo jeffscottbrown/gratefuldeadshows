@@ -1,0 +1,50 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Ballad Of Casey Jones",
+        "Silver Threads And Golden Needle",
+        "Black Peter",
+        "Friend Of The Devil",
+        "Uncle John's Band",
+        "Candyman",
+        "She's Mine",
+        "Katie Mae",
+        "I Hear A Voice Callin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Cumberland Blues",
+        "Hard To Handle",
+        "Beat It On Down The Line",
+        "Morning Dew",
+        "Drums",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Dire Wolf",
+        "Next Time You See Me",
+        "Dark Star",
+        "Saint Stephen",
+        "Drums",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Cold Jordan"
+      ]
+    }
+  ]
+}

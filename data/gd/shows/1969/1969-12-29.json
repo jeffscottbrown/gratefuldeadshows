@@ -1,0 +1,42 @@
+{
+  "venue": "Boston Tea Party",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Lovin'",
+        "Mama Tried",
+        "New Speedway Boogie",
+        "Casey Jones",
+        "Black Peter",
+        "Me And My Uncle",
+        "In The Midnight Hour",
+        "Cumberland Blues",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Mason's Children",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Dark Star",
+        "Alligator",
+        "Drums",
+        "The Eleven",
+        "Alligator",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

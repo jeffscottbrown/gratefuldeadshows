@@ -1,0 +1,41 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Jack A Roe",
+        "It's All Over Now, Baby Blue",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

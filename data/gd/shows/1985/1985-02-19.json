@@ -1,0 +1,38 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Dupree's Diamond Blues",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Terrapin Station",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Throwing Stones",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

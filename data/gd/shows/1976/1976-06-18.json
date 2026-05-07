@@ -1,0 +1,44 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Mama Tried",
+        "Crazy Fingers",
+        "Big River",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "Cassidy",
+        "Mission In The Rain",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Tennessee Jed",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "He Was A Friend Of Mine",
+        "China Cat Sunflower",
+        "Jam",
+        "New Potato Caboose",
+        "Me And My Uncle"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Turn On Your Lovelight",
+        "The Things I Used To Do",
+        "Who's Lovin' You Tonight",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cosmic Charlie"
+      ]
+    }
+  ]
+}

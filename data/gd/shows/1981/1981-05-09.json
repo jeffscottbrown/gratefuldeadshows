@@ -1,0 +1,46 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Feel Like A Stranger",
+        "Bird Song",
+        "Little Red Rooster",
+        "Candyman",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Nobody's Fault But Mine",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

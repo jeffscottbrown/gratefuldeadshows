@@ -1,0 +1,40 @@
+{
+  "venue": "Fox Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

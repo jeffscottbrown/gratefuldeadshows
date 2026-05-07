@@ -1,0 +1,41 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Lazy River Road",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Liberty"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Way To Go Home",
+        "Corrina",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

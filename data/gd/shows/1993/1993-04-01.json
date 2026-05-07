@@ -1,0 +1,40 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Candyman",
+        "Desolation Row",
+        "Stagger Lee",
+        "Eternity",
+        "Liberty"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Wave To The Wind",
+        "Drums",
+        "Way To Go Home",
+        "Days Between",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rain"
+      ]
+    }
+  ]
+}

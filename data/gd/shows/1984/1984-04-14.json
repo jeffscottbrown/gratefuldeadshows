@@ -1,0 +1,39 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Don't Need Love",
+        "Drums",
+        "Morning Dew",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

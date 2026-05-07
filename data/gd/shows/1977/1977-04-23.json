@@ -1,0 +1,43 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Cassidy",
+        "Loser",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "It's All Over Now",
+        "Scarlet Begonias",
+        "Fire On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
+        "Bertha",
+        "The Music Never Stopped",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Around And Around",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

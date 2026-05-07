@@ -1,0 +1,41 @@
+{
+  "venue": "Pine Knob Music Theatre",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Big River",
+        "Tennessee Jed",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "China Doll",
+        "I Need A Miracle",
+        "Bertha",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

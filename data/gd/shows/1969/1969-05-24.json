@@ -1,0 +1,25 @@
+{
+  "venue": "Seminole Indian Village",
+  "city": "West Hollywood",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Doin' That Rag",
+        "He Was A Friend Of Mine",
+        "China Cat Sunflower",
+        "Jam",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Alligator",
+        "Drums",
+        "Saint Stephen",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

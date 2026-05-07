@@ -1,0 +1,42 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "Just A Little Light",
+        "Ramble On Rose",
+        "Picasso Moon",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Sugar Magnolia",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

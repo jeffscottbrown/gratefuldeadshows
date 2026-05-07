@@ -1,0 +1,42 @@
+{
+  "venue": "Assembly Hall",
+  "city": "Champaign-Urbana",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "El Paso",
+        "Bird Song",
+        "Mexicali Blues",
+        "Deal",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Box Of Rain",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Wave That Flag",
+        "Me And My Uncle",
+        "Dark Star",
+        "Eyes Of The World",
+        "China Doll",
+        "Around And Around",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

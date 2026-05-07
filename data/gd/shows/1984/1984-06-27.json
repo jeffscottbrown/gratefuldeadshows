@@ -1,0 +1,41 @@
+{
+  "venue": "Merriweather Post Pavilion",
+  "city": "Columbia",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Cumberland Blues",
+        "My Brother Esau",
+        "Loser",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Why Don't We Do It In The Road",
+        "Drums",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

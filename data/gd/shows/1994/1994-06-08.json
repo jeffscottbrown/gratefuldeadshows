@@ -1,0 +1,32 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Cassidy",
+        "Don't Ease Me In",
+        "Picasso Moon",
+        "Big Railroad Blues",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Samba In The Rain",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "Turn On Your Lovelight",
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

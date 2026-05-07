@@ -1,0 +1,41 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Loser",
+        "Hard To Handle",
+        "Me And Bobby Mcgee",
+        "Cold Rain And Snow",
+        "The Rub",
+        "Playing In The Band",
+        "Friend Of The Devil",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Beat It On Down The Line",
+        "Next Time You See Me",
+        "Bertha",
+        "Sugar Magnolia",
+        "I Second That Emotion",
+        "Good Lovin'",
+        "Sing Me Back Home",
+        "Spanish Jam",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

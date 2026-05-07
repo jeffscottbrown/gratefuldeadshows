@@ -1,0 +1,21 @@
+{
+  "venue": "Canadian National Exhibition Hall",
+  "city": "Toronto",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Candyman",
+        "Don't Ease Me In",
+        "Easy Wind",
+        "New Speedway Boogie",
+        "Nobody's Fault But Mine",
+        "New Speedway Boogie",
+        "Turn On Your Lovelight",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

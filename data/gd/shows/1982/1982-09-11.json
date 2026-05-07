@@ -1,0 +1,45 @@
+{
+  "venue": "West Palm Beach Auditorium",
+  "city": "West Palm Beach",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Dupree's Diamond Blues",
+        "C.C. Rider",
+        "Loser",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

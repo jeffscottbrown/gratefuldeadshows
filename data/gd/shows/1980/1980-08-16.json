@@ -1,0 +1,46 @@
+{
+  "venue": "Mississippi River Festival",
+  "city": "Edwardsville",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "El Paso",
+        "Althea",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Easy To Love You",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "C.C. Rider",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Iko Iko",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

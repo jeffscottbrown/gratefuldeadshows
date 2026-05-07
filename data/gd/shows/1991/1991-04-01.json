@@ -1,0 +1,41 @@
+{
+  "venue": "Greensboro Coliseum",
+  "city": "Greensboro",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "It's All Over Now",
+        "Candyman",
+        "Just Like Tom Thumb's Blues",
+        "Picasso Moon",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "Playing In The Band",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

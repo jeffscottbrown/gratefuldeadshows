@@ -1,0 +1,44 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "It's All Over Now",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Cassidy",
+        "Scarlet Begonias",
+        "Fire On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Brown Eyed Women",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "L'alhambra",
+        "Drums",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

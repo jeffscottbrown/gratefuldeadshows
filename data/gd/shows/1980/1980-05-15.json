@@ -1,0 +1,44 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "Cassidy",
+        "They Love Each Other",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Peggy O",
+        "Far From Me",
+        "Feel Like A Stranger",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

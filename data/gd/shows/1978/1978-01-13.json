@@ -1,0 +1,44 @@
+{
+  "venue": "Arlington Theater",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mexicali Blues",
+        "Big River",
+        "Candyman",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Friend Of The Devil",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Sunrise",
+        "Dancing In The Street",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    }
+  ]
+}

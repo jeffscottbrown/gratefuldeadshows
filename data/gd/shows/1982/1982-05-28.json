@@ -1,0 +1,31 @@
+{
+  "venue": "Moscone Convention Center",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Truckin'",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Walkin' Blues",
+        "I Got A Mind To Give Up Livin'",
+        "Turn On Your Lovelight",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

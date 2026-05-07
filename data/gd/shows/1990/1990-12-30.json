@@ -1,0 +1,40 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Feel Like A Stranger",
+        "Candyman",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "High Time",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Tennessee Jed",
+        "Valley Road"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Looks Like Rain",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Drums",
+        "Terrapin Station",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

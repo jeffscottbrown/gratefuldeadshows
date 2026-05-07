@@ -1,0 +1,44 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Me And My Uncle",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Beat It On Down The Line",
+        "Loser",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "High Time",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

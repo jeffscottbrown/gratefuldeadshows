@@ -1,0 +1,43 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Deal",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "Mexicali Blues",
+        "Box Of Rain",
+        "Cumberland Blues",
+        "Candyman",
+        "Beat It On Down The Line",
+        "Don't Ease Me In",
+        "El Paso",
+        "Row Jimmy",
+        "The Race Is On",
+        "Bird Song",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Jack Straw",
+        "Wave That Flag",
+        "Greatest Story Ever Told",
+        "Truckin'",
+        "Eyes Of The World",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "Polo Field",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Wang Dang Doodle",
+        "Born On The Bayou",
+        "Green River",
+        "Bad Moon Rising",
+        "Proud Mary",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Forever Young",
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

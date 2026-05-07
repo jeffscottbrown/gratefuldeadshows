@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "Spoonful",
+        "Jack A Roe",
+        "El Paso",
+        "If The Shoe Fits",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "So Many Roads",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Way To Go Home",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

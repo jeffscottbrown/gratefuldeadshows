@@ -1,0 +1,45 @@
+{
+  "venue": "Kansas City Municipal Auditorium Arena",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Bertha",
+        "Dancing In The Street",
+        "Big Railroad Blues",
+        "El Paso",
+        "To Lay Me Down",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Bird Song",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Candyman",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Black Peter",
+        "I Need A Miracle",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

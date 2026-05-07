@@ -1,0 +1,40 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Peggy O",
+        "It's All Over Now",
+        "Loser",
+        "Let It Grow",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lazy Lightnin'",
+        "Supplication",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Dancing In The Street",
+        "Cosmic Charlie",
+        "Scarlet Begonias",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Drums",
+        "Saint Stephen",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

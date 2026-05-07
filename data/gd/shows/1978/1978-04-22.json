@@ -1,0 +1,42 @@
+{
+  "venue": "Nashville Municipal Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Candyman",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lazy Lightnin'",
+        "Supplication",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

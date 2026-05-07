@@ -1,0 +1,44 @@
+{
+  "venue": "Wembley Empire Pool",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Sugaree",
+        "Chinatown Shuffle",
+        "Me And My Uncle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big Boss Man",
+        "Black Throated Wind",
+        "Loser",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "El Paso",
+        "The Other One",
+        "Wharf Rat",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

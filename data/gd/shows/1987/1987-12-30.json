@@ -1,0 +1,44 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Pocky Way",
+        "Big Boss Man",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Gimme Some Lovin'",
+        "Morning Dew",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+---
+/**
+ * Base HTML layout. Every page wraps its content in this component.
+ *
+ * Includes:
+ * - Inter font from Google Fonts
+ * - Astro View Transitions (smooth client-side navigation, zero JS bundle cost)
+ * - Global Tailwind styles
+ * - Header + Footer shell
+ */
+import { ViewTransitions } from 'astro:transitions';
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import '@/styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Explore 2,300+ Grateful Dead and Dead & Company concerts.' } = Astro.props;
+const siteTitle = title === 'Home' ? 'Grateful Dead Shows' : `${title} | Grateful Dead Shows`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{siteTitle}</title>
+    <!-- View Transitions give SPA-like navigation with zero extra JS bundle -->
+    <ViewTransitions />
+  </head>
+  <body class="bg-dead-bg text-gray-100 flex flex-col min-h-screen font-sans">
+    <Header />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

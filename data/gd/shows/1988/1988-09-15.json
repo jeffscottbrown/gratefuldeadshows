@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Desolation Row",
+        "Row Jimmy",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "I Will Take You Home",
+        "All Along The Watchtower",
+        "Goin' Down The Road Feeling Bad",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

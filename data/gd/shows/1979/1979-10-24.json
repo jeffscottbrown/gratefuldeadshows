@@ -1,0 +1,43 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Loser",
+        "Mama Tried",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Easy To Love You",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

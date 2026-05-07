@@ -1,0 +1,42 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "Built To Last",
+        "We Can Run",
+        "Queen Jane Approximately",
+        "Candyman",
+        "Cassidy",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

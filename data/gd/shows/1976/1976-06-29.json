@@ -1,0 +1,46 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Tennessee Jed",
+        "Cassidy",
+        "Peggy O",
+        "Mama Tried",
+        "Mission In The Rain",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Row Jimmy",
+        "The Music Never Stopped",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Candyman",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

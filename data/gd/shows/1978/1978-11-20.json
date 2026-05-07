@@ -1,0 +1,38 @@
+{
+  "venue": "Cleveland Music Hall",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "It Must Have Been The Roses",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "Passenger",
+        "Peggy O",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jam",
+        "Drums",
+        "Jack A Roe",
+        "Playing In The Band",
+        "Shakedown Street",
+        "Drums",
+        "If I Had The World To Give",
+        "Playing In The Band",
+        "Around And Around"
+      ]
+    }
+  ]
+}

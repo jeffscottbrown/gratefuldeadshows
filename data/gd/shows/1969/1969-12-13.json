@@ -1,0 +1,27 @@
+{
+  "venue": "Swing Auditorium",
+  "city": "San Bernardino",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Hard To Handle",
+        "Black Peter",
+        "Mama Tried",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "High Time",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Cumberland Blues",
+        "Saint Stephen",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Foolish Heart",
+        "Walkin' Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Queen Jane Approximately",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Victim Or The Crime",
+        "Eyes Of The World",
+        "Drums",
+        "I Need A Miracle",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

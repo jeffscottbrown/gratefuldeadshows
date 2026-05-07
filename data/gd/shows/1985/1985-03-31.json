@@ -1,0 +1,41 @@
+{
+  "venue": "Cumberland County Civic Center",
+  "city": "Portland",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Candyman",
+        "C.C. Rider",
+        "Loser",
+        "Beat It On Down The Line",
+        "Dupree's Diamond Blues",
+        "It's All Over Now",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Samson And Delilah",
+        "He's Gone",
+        "I Need A Miracle",
+        "China Doll",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Day Tripper"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

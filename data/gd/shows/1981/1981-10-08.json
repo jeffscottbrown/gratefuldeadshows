@@ -1,0 +1,44 @@
+{
+  "venue": "The Forum Theater",
+  "city": "Copenhagen",
+  "state": "",
+  "country": "DK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Cumberland Blues",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Cassidy",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Walkin' Blues",
+        "So Many Roads",
+        "El Paso",
+        "Tennessee Jed",
+        "Easy Answers",
+        "Iko Iko",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Baba O'riley",
+        "Tomorrow Never Knows",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

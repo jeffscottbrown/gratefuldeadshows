@@ -1,0 +1,52 @@
+{
+  "venue": "Hill Auditorium",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Mr. Charlie",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Beat It On Down The Line",
+        "It Hurts Me Too",
+        "Cumberland Blues",
+        "Jack Straw",
+        "You Win Again",
+        "Run Rudolph Run",
+        "Playing In The Band",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Brokedown Palace",
+        "El Paso",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Deal",
+        "Sugar Magnolia",
+        "Turn On Your Lovelight",
+        "I'm A King Bee",
+        "I'm A Man",
+        "Turn On Your Lovelight",
+        "Two Trains Running",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

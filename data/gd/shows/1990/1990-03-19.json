@@ -1,0 +1,42 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "We Can Run",
+        "Jack A Roe",
+        "Picasso Moon",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Foolish Heart",
+        "Playing In The Band",
+        "Jam",
+        "Eyes Of The World",
+        "Drums",
+        "China Doll",
+        "Gimme Some Lovin'",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

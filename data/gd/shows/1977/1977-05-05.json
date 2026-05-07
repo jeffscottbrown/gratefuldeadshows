@@ -1,0 +1,42 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mama Tried",
+        "El Paso",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Deal",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Estimated Prophet",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Good Lovin'",
+        "Saint Stephen",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

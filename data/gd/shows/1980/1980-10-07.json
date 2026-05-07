@@ -1,0 +1,56 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Dark Hollow",
+        "Rosalie Mcfall",
+        "Monkey And The Engineer",
+        "To Lay Me Down",
+        "Heaven Help The Fool",
+        "Deep Elem Blues",
+        "El Paso",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Loser",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Little Red Rooster",
+        "Don't Ease Me In",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Stella Blue",
+        "I Need A Miracle",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

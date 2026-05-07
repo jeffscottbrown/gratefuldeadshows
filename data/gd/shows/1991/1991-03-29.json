@@ -1,0 +1,42 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Sugaree",
+        "Walkin' Blues",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "When I Paint My Masterpiece"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Saint Of Circumstance",
+        "New Speedway Boogie",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

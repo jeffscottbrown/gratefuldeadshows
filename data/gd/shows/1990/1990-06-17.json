@@ -1,0 +1,42 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Jack A Roe",
+        "Easy To Love You",
+        "Queen Jane Approximately",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Picasso Moon",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Drums",
+        "I Will Take You Home",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

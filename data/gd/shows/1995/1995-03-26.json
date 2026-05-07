@@ -1,0 +1,41 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Big River",
+        "Lazy River Road",
+        "Eternity",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "It's All Too Much",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

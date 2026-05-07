@@ -1,0 +1,43 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Peggy O",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

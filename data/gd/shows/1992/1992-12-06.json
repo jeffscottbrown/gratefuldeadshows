@@ -1,0 +1,42 @@
+{
+  "venue": "Compton Terrace Amphitheatre",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "China Doll",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

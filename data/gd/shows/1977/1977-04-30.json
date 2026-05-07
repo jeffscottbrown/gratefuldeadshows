@@ -1,0 +1,44 @@
+{
+  "venue": "The Palladium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Bertha",
+        "It's All Over Now",
+        "Deal",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Peggy O",
+        "Looks Like Rain",
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Good Lovin'",
+        "Friend Of The Devil",
+        "Estimated Prophet",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Stella Blue",
+        "Saint Stephen",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

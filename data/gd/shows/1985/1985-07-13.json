@@ -1,0 +1,42 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Fire On The Mountain",
+        "Walkin' Blues",
+        "Dupree's Diamond Blues",
+        "Mama Tried",
+        "Big River",
+        "Bird Song",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Comes A Time",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

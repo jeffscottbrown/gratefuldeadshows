@@ -1,0 +1,48 @@
+{
+  "venue": "Stanley Theatre",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Beat It On Down The Line",
+        "Friend Of The Devil",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "Bird Song",
+        "Big River",
+        "Brokedown Palace",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Jack Straw",
+        "Deal",
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "Dark Star",
+        "Cumberland Blues",
+        "Attics Of My Life",
+        "The Promised Land",
+        "Uncle John's Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Around And Around"
+      ]
+    }
+  ]
+}

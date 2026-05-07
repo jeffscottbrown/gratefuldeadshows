@@ -1,0 +1,40 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cold Rain And Snow",
+        "Mama Tried",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Keep On Growing",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

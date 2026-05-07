@@ -1,0 +1,42 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "New Minglewood Blues",
+        "Peggy O",
+        "If The Shoe Fits",
+        "When I Paint My Masterpiece",
+        "Ramble On Rose",
+        "Easy Answers",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "New Speedway Boogie",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

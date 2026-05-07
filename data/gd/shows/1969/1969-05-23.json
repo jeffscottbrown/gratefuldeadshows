@@ -1,0 +1,20 @@
+{
+  "venue": "Seminole Indian Village",
+  "city": "West Hollywood",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Morning Dew",
+        "Me And My Uncle",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

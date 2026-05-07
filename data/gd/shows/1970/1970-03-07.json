@@ -1,0 +1,30 @@
+{
+  "venue": "Santa Monica Civic Auditorium",
+  "city": "Santa Monica",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Black Peter",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "High Time",
+        "Dire Wolf",
+        "Not Fade Away",
+        "Drums",
+        "Good Lovin'",
+        "The Other One",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle"
+      ]
+    }
+  ]
+}

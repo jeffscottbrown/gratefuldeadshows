@@ -1,0 +1,42 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "Built To Last",
+        "Victim Or The Crime",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Crazy Fingers",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

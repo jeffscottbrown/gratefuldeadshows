@@ -1,0 +1,41 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Spoonful",
+        "Candyman",
+        "El Paso",
+        "Broken Arrow",
+        "Stagger Lee",
+        "Easy Answers",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lucy In The Sky With Diamonds",
+        "Wave To The Wind",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

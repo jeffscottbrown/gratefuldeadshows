@@ -1,0 +1,54 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Deal",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "Wave That Flag",
+        "Box Of Rain",
+        "Big River",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "You Ain't Woman Enough",
+        "Jack Straw",
+        "Don't Ease Me In",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Around And Around",
+        "Loose Lucy",
+        "Greatest Story Ever Told",
+        "Here Comes Sunshine",
+        "Me And Bobby Mcgee",
+        "Weather Report Suite Prelude",
+        "Eyes Of The World",
+        "China Doll",
+        "Sugar Magnolia",
+        "Casey Jones",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

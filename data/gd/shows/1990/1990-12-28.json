@@ -1,0 +1,39 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Victim Or The Crime",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

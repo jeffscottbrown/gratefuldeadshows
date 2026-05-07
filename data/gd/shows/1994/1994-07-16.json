@@ -1,0 +1,43 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Picasso Moon",
+        "Lazy River Road",
+        "El Paso",
+        "If The Shoe Fits",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Loose Lucy",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samba In The Rain",
+        "Estimated Prophet",
+        "Crazy Fingers",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

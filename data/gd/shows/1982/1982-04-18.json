@@ -1,0 +1,46 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Looks Like Rain",
+        "Big Railroad Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Sugar Magnolia",
+        "Playing In The Band",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "venue": "Market Square Arena",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mama Tried",
+        "Deal",
+        "Cassidy",
+        "Friend Of The Devil",
+        "Big River",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Scarlet Begonias",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Dancing In The Street",
+        "Drums",
+        "The Wheel",
+        "Ship Of Fools",
+        "Dancing In The Street",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

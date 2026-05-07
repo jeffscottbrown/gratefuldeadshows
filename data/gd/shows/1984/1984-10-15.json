@@ -1,0 +1,41 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "El Paso",
+        "Bird Song",
+        "C.C. Rider",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

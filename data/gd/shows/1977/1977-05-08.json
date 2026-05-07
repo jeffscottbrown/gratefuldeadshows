@@ -1,0 +1,43 @@
+{
+  "venue": "Barton Hall",
+  "city": "Ithaca",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Loser",
+        "El Paso",
+        "They Love Each Other",
+        "Jack Straw",
+        "Deal",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Row Jimmy",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Cassidy",
+        "Deep Elem Blues",
+        "C.C. Rider",
+        "Friend Of The Devil",
+        "Passenger",
+        "Althea",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "To Lay Me Down",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

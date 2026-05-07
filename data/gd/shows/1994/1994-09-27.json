@@ -1,0 +1,44 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "So Many Roads",
+        "Maggie's Farm",
+        "Cumberland Blues",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Way To Go Home",
+        "Corrina",
+        "Jam",
+        "Uncle John's Band",
+        "Jam",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

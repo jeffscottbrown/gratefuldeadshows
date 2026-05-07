@@ -1,0 +1,44 @@
+{
+  "venue": "Compton Terrace Amphitheatre",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Little Red Rooster",
+        "Jack A Roe",
+        "Maggie's Farm",
+        "Black Throated Wind",
+        "Bird Song",
+        "Valley Road"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Spoonful",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Playing In The Band",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

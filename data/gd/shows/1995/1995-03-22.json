@@ -1,0 +1,39 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "The Same Thing",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "I Want To Tell You",
+        "Attics Of My Life",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

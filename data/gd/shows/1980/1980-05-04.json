@@ -1,0 +1,43 @@
+{
+  "venue": "Baltimore Civic Center",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Feel Like A Stranger",
+        "Althea",
+        "El Paso",
+        "Easy To Love You",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Don't Ease Me In",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Friend Of The Devil",
+        "Queen Jane Approximately",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

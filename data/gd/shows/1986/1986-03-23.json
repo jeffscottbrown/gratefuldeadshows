@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Deal",
+        "Willie & The Hand Jive",
+        "Candyman",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "He's Gone",
+        "Spoonful",
+        "Drums",
+        "The Other One",
+        "Comes A Time",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

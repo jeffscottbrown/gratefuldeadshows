@@ -1,0 +1,28 @@
+{
+  "venue": "SUNY Gym",
+  "city": "Stony Brook",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Smokestack Lightnin'",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Friend Of The Devil",
+        "Truckin'",
+        "Candyman",
+        "It Hurts Me Too",
+        "Dancing In The Street",
+        "Big Railroad Blues",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

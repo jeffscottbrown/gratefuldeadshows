@@ -1,0 +1,41 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "Supplication",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Don't Need Love",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

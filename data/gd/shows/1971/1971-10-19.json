@@ -1,0 +1,48 @@
+{
+  "venue": "Northrop Auditorium",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Cumberland Blues",
+        "Tennessee Jed",
+        "Black Peter",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Comes A Time",
+        "Playing In The Band",
+        "One More Saturday Night",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Brokedown Palace",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Uncle John's Band",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

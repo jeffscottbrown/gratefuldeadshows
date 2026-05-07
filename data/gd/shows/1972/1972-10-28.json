@@ -1,0 +1,17 @@
+{
+  "venue": "Cleveland Public Hall",
+  "city": "Cleveland",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "El Paso",
+        "Casey Jones",
+        "Dark Star",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

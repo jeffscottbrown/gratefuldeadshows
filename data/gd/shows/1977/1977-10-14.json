@@ -1,0 +1,44 @@
+{
+  "venue": "Hofheinz Pavilion",
+  "city": "Houston",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "El Paso",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Loser",
+        "Passenger",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Candyman",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace",
+        "Playing In The Band"
+      ]
+    }
+  ]
+}

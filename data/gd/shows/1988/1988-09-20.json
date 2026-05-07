@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Althea",
+        "Mama Tried",
+        "Big River",
+        "Peggy O",
+        "When I Paint My Masterpiece",
+        "Louie Louie",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

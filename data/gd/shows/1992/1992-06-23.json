@@ -1,0 +1,43 @@
+{
+  "venue": "Star Lake Amphitheatre",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Black Throated Wind",
+        "Big Railroad Blues",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Spoonful",
+        "So Many Roads",
+        "Way To Go Home",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Standing On The Moon",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

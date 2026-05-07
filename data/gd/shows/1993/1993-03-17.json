@@ -1,0 +1,39 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Wang Dang Doodle",
+        "Lazy River Road",
+        "Desolation Row",
+        "Ramble On Rose",
+        "Eternity",
+        "Liberty"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Picasso Moon",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Dark Star",
+        "Drums",
+        "The Other One",
+        "Days Between",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

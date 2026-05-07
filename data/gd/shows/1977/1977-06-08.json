@@ -1,0 +1,40 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Passenger",
+        "Sunrise",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Jack A Roe",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Ramble On Rose",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

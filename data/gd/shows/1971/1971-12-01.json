@@ -1,0 +1,41 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Comes A Time",
+        "Jack Straw",
+        "The Rub",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Railroad Blues",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Big Boss Man",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

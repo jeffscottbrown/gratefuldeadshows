@@ -1,0 +1,45 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Cumberland Blues",
+        "Deal",
+        "Me And Bobby Mcgee",
+        "It Must Have Been The Roses",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "Ship Of Fools",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Seastones",
+        "Wharf Rat",
+        "Eyes Of The World",
+        "Big River",
+        "Scarlet Begonias",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Uncle John's Band",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

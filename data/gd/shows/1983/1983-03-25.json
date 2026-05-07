@@ -1,0 +1,42 @@
+{
+  "venue": "Compton Terrace Amphitheatre",
+  "city": "Tempe",
+  "state": "AZ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Me And My Uncle",
+        "Big River",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Playing In The Band",
+        "Drums",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

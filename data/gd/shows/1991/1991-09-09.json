@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Loose Lucy",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "New Speedway Boogie",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "The Last Time",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

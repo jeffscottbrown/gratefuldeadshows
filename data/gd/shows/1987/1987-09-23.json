@@ -1,0 +1,43 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "Tons Of Steel",
+        "Desolation Row",
+        "Big Railroad Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Cumberland Blues",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Around And Around",
+        "Good Lovin'",
+        "La Bamba",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

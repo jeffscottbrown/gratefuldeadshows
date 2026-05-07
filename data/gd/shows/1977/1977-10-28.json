@@ -1,0 +1,44 @@
+{
+  "venue": "Soldiers & Sailors Memorial Hall",
+  "city": "Kansas City",
+  "state": "KS",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Cassidy",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "Big River",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Candyman",
+        "Sunrise",
+        "Passenger",
+        "He's Gone",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

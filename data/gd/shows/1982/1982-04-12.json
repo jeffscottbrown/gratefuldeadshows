@@ -1,0 +1,42 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Bird Song",
+        "C.C. Rider",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Sugaree",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

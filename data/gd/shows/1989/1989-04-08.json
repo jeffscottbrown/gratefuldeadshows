@@ -1,0 +1,43 @@
+{
+  "venue": "Riverfront Arena",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Wang Dang Doodle",
+        "West L.A. Fadeaway",
+        "Blow Away",
+        "Queen Jane Approximately",
+        "Loser",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "I Need A Miracle",
+        "Black Peter",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

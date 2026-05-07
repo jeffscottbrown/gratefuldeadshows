@@ -1,0 +1,42 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Walkin' Blues",
+        "It Must Have Been The Roses",
+        "When I Paint My Masterpiece",
+        "So Many Roads",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samba In The Rain",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Jam",
+        "Space",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

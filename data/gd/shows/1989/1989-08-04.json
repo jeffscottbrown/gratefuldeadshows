@@ -1,0 +1,45 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Never Trust A Woman",
+        "Built To Last",
+        "Queen Jane Approximately",
+        "Jack A Roe",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Wang Dang Doodle",
+        "Crazy Fingers",
+        "Cumberland Blues",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

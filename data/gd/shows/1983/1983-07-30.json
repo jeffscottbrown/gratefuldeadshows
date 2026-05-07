@@ -1,0 +1,40 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Cassidy",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

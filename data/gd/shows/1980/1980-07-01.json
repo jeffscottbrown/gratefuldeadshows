@@ -1,0 +1,46 @@
+{
+  "venue": "San Diego Sports Arena",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "El Paso",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "C.C. Rider",
+        "Peggy O",
+        "Far From Me",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

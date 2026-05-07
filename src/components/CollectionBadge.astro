@@ -1,0 +1,26 @@
+---
+/**
+ * A small colored pill badge linking to a release collection page.
+ * Server-rendered — zero client JS.
+ */
+import { getBadge } from '@/lib/badges';
+
+interface Props {
+  slug: string;
+  size?: 'sm' | 'xs';
+  /** Set true when already inside an <a> tag to avoid invalid nested anchors. */
+  noLink?: boolean;
+}
+
+const { slug, size = 'xs', noLink = false } = Astro.props;
+const badge = getBadge(slug);
+const cls = size === 'sm'
+  ? 'px-2 py-1 text-xs'
+  : 'px-1.5 py-0.5 text-[10px]';
+const sharedClass = `inline-block rounded-full font-bold leading-none ${cls} ${badge.cls}`;
+---
+
+{noLink
+  ? <span title={badge.name} class={sharedClass}>{badge.abbr}</span>
+  : <a href={`/collections/${slug}`} title={badge.name} class={`${sharedClass} hover:opacity-80 transition-opacity`}>{badge.abbr}</a>
+}

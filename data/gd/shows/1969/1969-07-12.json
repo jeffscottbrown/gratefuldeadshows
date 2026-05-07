@@ -1,0 +1,26 @@
+{
+  "venue": "NY State Pavilion",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Green Green Grass Of Home",
+        "Ol' Slewfoot",
+        "Mountains Of The Moon",
+        "Doin' That Rag",
+        "China Cat Sunflower",
+        "Jam",
+        "Mama Tried",
+        "High Time",
+        "Dark Star",
+        "The Other One",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

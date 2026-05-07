@@ -1,0 +1,39 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Wang Dang Doodle",
+        "Loose Lucy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

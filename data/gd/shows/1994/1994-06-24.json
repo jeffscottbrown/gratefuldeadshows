@@ -1,0 +1,41 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Althea",
+        "The Same Thing",
+        "Broken Arrow",
+        "Cumberland Blues",
+        "Eternity",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Samba In The Rain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

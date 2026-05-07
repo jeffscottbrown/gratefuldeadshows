@@ -1,0 +1,43 @@
+{
+  "venue": "St. Paul Civic Center Arena",
+  "city": "St. Paul",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Uncle John's Band",
+        "Drums",
+        "Throwing Stones",
+        "Black Peter",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

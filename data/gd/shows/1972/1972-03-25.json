@@ -1,0 +1,37 @@
+{
+  "venue": "Academy of Music",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hey Bo Diddley",
+        "I'm A Man",
+        "Jam",
+        "Take It All Off",
+        "Mona"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "How Sweet It Is (To Be Loved By You)",
+        "Are You Lonely For Me Baby?",
+        "Next Time You See Me",
+        "Brown Eyed Women",
+        "Smokestack Lightnin'",
+        "Sittin' On Top Of The World",
+        "Sugaree",
+        "Looks Like Rain",
+        "Bertha",
+        "Mr. Charlie",
+        "Playing In The Band",
+        "Good Lovin'",
+        "Turn On Your Lovelight",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

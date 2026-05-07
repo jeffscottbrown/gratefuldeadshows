@@ -1,0 +1,44 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "C.C. Rider",
+        "Brown Eyed Women",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Tons Of Steel",
+        "My Baby Left Me",
+        "That's All Right, Mama",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Smokestack Lightnin'",
+        "Stella Blue",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

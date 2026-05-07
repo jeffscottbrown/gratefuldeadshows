@@ -1,0 +1,42 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Down In The Bottom",
+        "I Ain't Superstitous",
+        "Stagger Lee",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Bird Song",
+        "Looks Like Rain",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Goin' Down The Road Feeling Bad",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

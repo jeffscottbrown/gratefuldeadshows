@@ -1,0 +1,42 @@
+{
+  "venue": "Fieldhouse",
+  "city": "Iowa City",
+  "state": "IA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Loose Lucy",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Jack Straw",
+        "Here Comes Sunshine",
+        "El Paso",
+        "Box Of Rain",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "They Love Each Other",
+        "Greatest Story Ever Told",
+        "Row Jimmy",
+        "Big River",
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Eyes Of The World",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

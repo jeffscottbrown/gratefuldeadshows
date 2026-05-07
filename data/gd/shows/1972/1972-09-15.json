@@ -1,0 +1,46 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Greatest Story Ever Told",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "El Paso",
+        "Loser",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Me And My Uncle",
+        "Bird Song",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

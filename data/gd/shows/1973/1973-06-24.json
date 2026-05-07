@@ -1,0 +1,42 @@
+{
+  "venue": "Portland Memorial Coliseum",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "You Ain't Woman Enough",
+        "El Paso",
+        "Stella Blue",
+        "Greatest Story Ever Told",
+        "Bertha",
+        "Mexicali Blues",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Box Of Rain",
+        "Big Railroad Blues",
+        "Sugaree",
+        "The Race Is On",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Dark Star",
+        "Eyes Of The World",
+        "China Doll",
+        "Sugar Magnolia",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

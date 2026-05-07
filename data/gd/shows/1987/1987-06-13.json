@@ -1,0 +1,41 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "When Push Comes To Shove",
+        "Cassidy",
+        "Friend Of The Devil",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

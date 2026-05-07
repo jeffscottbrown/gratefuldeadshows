@@ -1,0 +1,44 @@
+{
+  "venue": "Universal Amphitheatre",
+  "city": "Universal City",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Bird Song",
+        "Cumberland Blues",
+        "Row Jimmy",
+        "Jack Straw",
+        "Deal",
+        "Beat It On Down The Line",
+        "Black Peter",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "El Paso",
+        "Dark Star",
+        "Eyes Of The World",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

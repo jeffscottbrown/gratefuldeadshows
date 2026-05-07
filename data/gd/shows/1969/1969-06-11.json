@@ -1,0 +1,33 @@
+{
+  "venue": "California Hall",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let It Be Me",
+        "Silver Threads And Golden Needle",
+        "Mama Tried",
+        "Cathy's Clown",
+        "Me And My Uncle",
+        "Ol' Slewfoot",
+        "Dire Wolf",
+        "Games People Play",
+        "The Race Is On",
+        "Green Green Grass Of Home"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Tiger By The Tail",
+        "I've Just Seen A Face",
+        "All I Have To Do Is Dream",
+        "Wabash Cannonball",
+        "Railroading The Great Divide"
+      ]
+    }
+  ]
+}

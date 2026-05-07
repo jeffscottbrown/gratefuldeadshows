@@ -1,0 +1,46 @@
+{
+  "venue": "Broome County Arena",
+  "city": "Binghamton",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Bird Song",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Cassidy",
+        "Loser",
+        "It's All Over Now",
+        "Dupree's Diamond Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Looks Like Rain",
+        "Deal",
+        "El Paso",
+        "Tennessee Jed",
+        "Estimated Prophet",
+        "Peggy O",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Dancing In The Street",
+        "Got My Mojo Workin",
+        "Dancing In The Street",
+        "The Wheel",
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

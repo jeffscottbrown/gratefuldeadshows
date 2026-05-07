@@ -1,0 +1,39 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Playing In The Band",
+        "Dear Mr. Fantasy",
+        "Drums",
+        "Playing In The Band",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

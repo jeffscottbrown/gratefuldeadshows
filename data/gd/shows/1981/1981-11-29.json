@@ -1,0 +1,43 @@
+{
+  "venue": "Pittsburgh Civic Arena",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "(I Can't Get No) Satisfaction"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

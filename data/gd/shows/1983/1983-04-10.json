@@ -1,0 +1,42 @@
+{
+  "venue": "Coliseum",
+  "city": "Morgantown",
+  "state": "WV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "My Brother Esau",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Man Smart (Woman Smarter)",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

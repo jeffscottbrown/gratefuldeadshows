@@ -1,0 +1,60 @@
+{
+  "venue": "Anaheim Stadium",
+  "city": "Anaheim",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "New Minglewood Blues",
+        "Tons Of Steel",
+        "West L.A. Fadeaway",
+        "When I Paint My Masterpiece",
+        "Mexicali Blues",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Mr. Tambourine Man",
+        "Dead Man, Dead Man",
+        "Dead Man, Dead Man",
+        "Maggie's Farm",
+        "Simple Twist Of Fate",
+        "Watching The River Flow",
+        "It's All Over Now, Baby Blue",
+        "Chimes Of Freedom",
+        "Queen Jane Approximately",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Ballad Of A Thin Man",
+        "Rainy Day Women #12 & #35",
+        "Gotta Serve Somebody",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Touch Of Grey",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

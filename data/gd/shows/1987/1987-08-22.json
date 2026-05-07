@@ -1,0 +1,43 @@
+{
+  "venue": "Calaveras County Fairgrounds",
+  "city": "Angel's Camp",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Tons Of Steel",
+        "Friend Of The Devil",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "Good Morning Little Schoolgirl",
+        "In The Midnight Hour"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "When Push Comes To Shove",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

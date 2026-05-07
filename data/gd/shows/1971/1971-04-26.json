@@ -1,0 +1,41 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Big Boss Man",
+        "Loser",
+        "Playing In The Band",
+        "Hard To Handle",
+        "Dark Star",
+        "Wharf Rat",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "It Hurts Me Too",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Deal",
+        "Mama Tried",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Sing Me Back Home",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

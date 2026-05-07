@@ -1,0 +1,43 @@
+{
+  "venue": "Pittsburgh Civic Arena",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Bertha",
+        "Walkin' Blues",
+        "Jack A Roe",
+        "El Paso",
+        "Built To Last",
+        "Victim Or The Crime",
+        "Just Like Tom Thumb's Blues",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Blow Away",
+        "Estimated Prophet",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Drums",
+        "Gimme Some Lovin'",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

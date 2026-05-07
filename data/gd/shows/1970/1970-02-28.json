@@ -1,0 +1,41 @@
+{
+  "venue": "Family Dog at the Great Highway",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Me And My Uncle",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Monkey And The Engineer",
+        "Little Sadie"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "High Time",
+        "Dire Wolf",
+        "Good Lovin'",
+        "Big Boss Man",
+        "Casey Jones",
+        "Alligator",
+        "Drums",
+        "The Other One",
+        "Mason's Children",
+        "Turn On Your Lovelight",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

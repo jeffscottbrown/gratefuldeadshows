@@ -1,0 +1,43 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Little Red Rooster",
+        "Broken Arrow",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Corrina",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

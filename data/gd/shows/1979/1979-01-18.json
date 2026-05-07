@@ -1,0 +1,45 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Jack A Roe",
+        "Looks Like Rain",
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "From The Heart Of Me",
+        "Ship Of Fools",
+        "He's Gone",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

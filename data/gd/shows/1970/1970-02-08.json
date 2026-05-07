@@ -1,0 +1,26 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Smokestack Lightnin'",
+        "Morning Dew",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Sittin' On Top Of The World",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "It Hurts Me Too",
+        "Dark Star",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "El Paso",
+        "Deal",
+        "Cassidy",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Row Jimmy",
+        "The Promised Land",
+        "Saint Stephen",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

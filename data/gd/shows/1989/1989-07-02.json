@@ -1,0 +1,42 @@
+{
+  "venue": "Sullivan Stadium",
+  "city": "Foxboro",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Wang Dang Doodle",
+        "We Can Run",
+        "Tennessee Jed",
+        "Queen Jane Approximately",
+        "To Lay Me Down",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Friend Of The Devil",
+        "Truckin'",
+        "He's Gone",
+        "Eyes Of The World",
+        "Drums",
+        "The Wheel",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

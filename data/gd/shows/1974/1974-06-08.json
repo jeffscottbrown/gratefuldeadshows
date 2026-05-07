@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Stadium",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Me And Bobby Mcgee",
+        "Scarlet Begonias",
+        "Mexicali Blues",
+        "It Must Have Been The Roses",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Greatest Story Ever Told",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues",
+        "Big River",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

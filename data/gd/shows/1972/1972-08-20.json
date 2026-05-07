@@ -1,0 +1,46 @@
+{
+  "venue": "San Jose Civic Auditorium",
+  "city": "San Jose",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Black Throated Wind",
+        "Cumberland Blues",
+        "El Paso",
+        "Loser",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Me And Bobby Mcgee",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

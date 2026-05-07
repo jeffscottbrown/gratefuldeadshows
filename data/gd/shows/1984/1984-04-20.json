@@ -1,0 +1,42 @@
+{
+  "venue": "Civic Convention Hall Auditorium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Cumberland Blues",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "It Must Have Been The Roses",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Morning Dew",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

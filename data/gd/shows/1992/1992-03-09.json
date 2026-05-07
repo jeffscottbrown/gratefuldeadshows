@@ -1,0 +1,39 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Big River",
+        "Row Jimmy",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Iko Iko",
+        "Corrina",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

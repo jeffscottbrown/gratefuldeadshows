@@ -1,0 +1,21 @@
+{
+  "venue": "Ford Auditorium",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Around And Around"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Ramble On Rose",
+        "Cassidy",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "Jack A Roe",
+        "Looks Like Rain",
+        "Scarlet Begonias",
+        "Fire On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Bertha",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

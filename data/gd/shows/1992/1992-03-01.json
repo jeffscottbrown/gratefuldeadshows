@@ -1,0 +1,41 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Althea",
+        "Wang Dang Doodle",
+        "Row Jimmy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "So Many Roads",
+        "Picasso Moon",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "Way To Go Home",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

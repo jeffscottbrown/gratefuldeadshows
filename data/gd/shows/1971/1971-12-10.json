@@ -1,0 +1,51 @@
+{
+  "venue": "Fox Theatre",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Mr. Charlie",
+        "Loser",
+        "Beat It On Down The Line",
+        "Sugaree",
+        "Jack Straw",
+        "Next Time You See Me",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Railroad Blues",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Brokedown Palace",
+        "Playing In The Band",
+        "Run Rudolph Run",
+        "Deal",
+        "Sugar Magnolia",
+        "Comes A Time",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Sittin' On Top Of The World",
+        "The Other One",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

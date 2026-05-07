@@ -1,0 +1,30 @@
+{
+  "venue": "Electric Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "It's All Over Now, Baby Blue"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "Jam",
+        "High Time",
+        "Mama Tried",
+        "Hard To Handle",
+        "Casey Jones",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

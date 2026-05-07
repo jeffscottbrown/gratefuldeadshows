@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "El Paso",
+        "Deep Elem Blues",
+        "Cassidy",
+        "Tennessee Jed",
+        "Little Red Rooster",
+        "Althea",
+        "Man Smart (Woman Smarter)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Ship Of Fools",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Rutgers Athletic Center",
+  "city": "Piscataway",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Cassidy",
+        "Candyman",
+        "Little Red Rooster",
+        "Jack A Roe",
+        "El Paso",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

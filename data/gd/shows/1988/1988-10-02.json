@@ -1,0 +1,41 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "To Lay Me Down",
+        "Box Of Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Samson And Delilah",
+        "Jam",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

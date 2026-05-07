@@ -1,0 +1,49 @@
+{
+  "venue": "Palais des Sports",
+  "city": "Paris",
+  "state": "",
+  "country": "FR",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cumberland Blues",
+        "Jack Straw",
+        "It Must Have Been The Roses",
+        "Beat It On Down The Line",
+        "Scarlet Begonias",
+        "Black Throated Wind",
+        "Friend Of The Devil",
+        "El Paso",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big River",
+        "Brown Eyed Women",
+        "Greatest Story Ever Told",
+        "Brokedown Palace",
+        "Truckin'",
+        "Eyes Of The World",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

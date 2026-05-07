@@ -1,0 +1,41 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Dancing In The Street",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Just Like Tom Thumb's Blues",
+        "Stagger Lee",
+        "Samson And Delilah"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

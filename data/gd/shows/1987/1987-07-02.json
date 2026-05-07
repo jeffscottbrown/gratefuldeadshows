@@ -1,0 +1,46 @@
+{
+  "venue": "Silver Stadium",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Walkin' Blues",
+        "Dire Wolf",
+        "My Brother Esau",
+        "When Push Comes To Shove",
+        "Tons Of Steel",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

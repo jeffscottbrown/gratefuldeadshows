@@ -1,0 +1,42 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "C.C. Rider",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Bird Song",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Iko Iko",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

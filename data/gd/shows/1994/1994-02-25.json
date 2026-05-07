@@ -1,0 +1,43 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Walkin' Blues",
+        "Ramble On Rose",
+        "Queen Jane Approximately",
+        "Loser",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Iko Iko",
+        "Way To Go Home",
+        "Truckin'",
+        "Spoonful",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

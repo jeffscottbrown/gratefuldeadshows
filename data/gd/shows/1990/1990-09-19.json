@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Me And My Uncle",
+        "Big River",
+        "It Must Have Been The Roses",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Ship Of Fools",
+        "Uncle John's Band",
+        "Let It Grow",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

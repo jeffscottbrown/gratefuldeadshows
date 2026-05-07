@@ -1,0 +1,40 @@
+{
+  "venue": "College Of William and Mary",
+  "city": "Williamsburg",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Passenger",
+        "Friend Of The Devil",
+        "El Paso",
+        "Brown Eyed Women",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Candyman",
+        "Sunrise",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Morning Dew",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

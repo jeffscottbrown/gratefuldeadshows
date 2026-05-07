@@ -1,0 +1,41 @@
+{
+  "venue": "Los Angeles Memorial Coliseum",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Walkin' Blues",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "Queen Jane Approximately",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Picasso Moon",
+        "Foolish Heart",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

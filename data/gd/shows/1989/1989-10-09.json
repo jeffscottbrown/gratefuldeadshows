@@ -1,0 +1,43 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Built To Last",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "We Can Run",
+        "Jack A Roe",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Dark Star",
+        "Drums",
+        "Death Don't Have No Mercy",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Throwing Stones",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Attics Of My Life"
+      ]
+    }
+  ]
+}

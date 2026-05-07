@@ -1,0 +1,44 @@
+{
+  "venue": "Blossom Music Center",
+  "city": "Cuyahoga Falls",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Bird Song",
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Touch Of Grey",
+        "Dear Mr. Fantasy",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "The Other One",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

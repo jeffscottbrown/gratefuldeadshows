@@ -1,0 +1,39 @@
+{
+  "venue": "Tower Theatre",
+  "city": "Upper Darby",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "U.S. Blues",
+        "The Music Never Stopped",
+        "Crazy Fingers",
+        "Comes A Time",
+        "Big River",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "Cassidy",
+        "Ship Of Fools",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Dancing In The Street",
+        "Around And Around",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

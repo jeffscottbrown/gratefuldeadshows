@@ -1,0 +1,42 @@
+{
+  "venue": "Reunion Arena",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "Believe It Or Not",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Dupree's Diamond Blues",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Wang Dang Doodle",
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "I Will Take You Home",
+        "Goin' Down The Road Feeling Bad",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

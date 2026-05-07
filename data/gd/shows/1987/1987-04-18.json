@@ -1,0 +1,41 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Far From Me",
+        "Row Jimmy",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Morning Dew",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

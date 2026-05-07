@@ -1,0 +1,44 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Jack Straw",
+        "Jack A Roe",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "When I Paint My Masterpiece",
+        "Cold Rain And Snow",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "China Doll",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

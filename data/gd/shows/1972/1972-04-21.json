@@ -1,0 +1,20 @@
+{
+  "venue": "Beat Club",
+  "city": "Bremen",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Mr. Charlie",
+        "Sugaree",
+        "Truckin'",
+        "The Other One",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Mama Tried",
+        "Star Spangled Banner",
+        "Next Time You See Me",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Dark Star",
+        "Uncle John's Band",
+        "Dark Star",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big River",
+        "Brokedown Palace",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Around And Around",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Don't Ease Me In",
+        "Me And Bobby Mcgee",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Row Jimmy",
+        "Greatest Story Ever Told",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

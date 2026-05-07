@@ -1,0 +1,24 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Alligator",
+        "Drums",
+        "Drummers' Chant",
+        "Alligator",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

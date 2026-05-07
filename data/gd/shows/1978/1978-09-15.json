@@ -1,0 +1,28 @@
+{
+  "venue": "Gizah Sound and Light Theater",
+  "city": "Cairo",
+  "state": "",
+  "country": "EG",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ollin Arrageed",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Big River",
+        "Loser",
+        "I Need A Miracle",
+        "Stagger Lee",
+        "Jack Straw",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Terrapin Station",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

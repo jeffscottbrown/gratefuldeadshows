@@ -1,0 +1,32 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Wang Dang Doodle",
+        "Althea",
+        "Black Throated Wind",
+        "Ramble On Rose",
+        "Eternity",
+        "Don't Ease Me In",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Picasso Moon",
+        "Lazy River Road",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Attics Of My Life",
+        "Around And Around",
+        "The Weight"
+      ]
+    }
+  ]
+}

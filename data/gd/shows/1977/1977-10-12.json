@@ -1,0 +1,46 @@
+{
+  "venue": "Manor Downs",
+  "city": "Austin",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Candyman",
+        "Passenger",
+        "Brown Eyed Women",
+        "El Paso",
+        "Friend Of The Devil",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Tennessee Jed",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Iko Iko",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Hollywood Bowl",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Sugaree",
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "El Paso",
+        "Scarlet Begonias",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Big River",
+        "Row Jimmy",
+        "Playing In The Band",
+        "Wharf Rat",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Playing In The Band",
+        "Ship Of Fools",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

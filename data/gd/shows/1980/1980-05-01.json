@@ -1,0 +1,44 @@
+{
+  "venue": "Greensboro Coliseum",
+  "city": "Greensboro",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Easy To Love You",
+        "New Minglewood Blues",
+        "Sugaree",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Don't Ease Me In",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "Drums",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

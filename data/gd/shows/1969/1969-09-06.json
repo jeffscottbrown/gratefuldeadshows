@@ -1,0 +1,19 @@
+{
+  "venue": "Family Dog at the Great Highway",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "He Was A Friend Of Mine",
+        "Big Boy Pete",
+        "Good Lovin'",
+        "It's All Over Now"
+      ]
+    }
+  ]
+}

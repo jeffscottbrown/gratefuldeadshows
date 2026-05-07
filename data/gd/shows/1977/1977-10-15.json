@@ -1,0 +1,41 @@
+{
+  "venue": "Moody Coliseum",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "They Love Each Other",
+        "Mama Tried",
+        "Big River",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Peggy O",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Sunrise",
+        "Terrapin Station",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Truckin'",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

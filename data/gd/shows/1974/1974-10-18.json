@@ -1,0 +1,53 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Around And Around",
+        "Sugaree",
+        "Mexicali Blues",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Cumberland Blues",
+        "El Paso",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Seastones",
+        "Dark Star",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

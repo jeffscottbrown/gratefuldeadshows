@@ -1,0 +1,39 @@
+{
+  "venue": "Fox Theatre",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Brown Eyed Women",
+        "Mr. Charlie",
+        "Jack Straw",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "It Hurts Me Too",
+        "Tennessee Jed",
+        "El Paso",
+        "Run Rudolph Run",
+        "Black Peter",
+        "Playing In The Band",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Big Boss Man",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

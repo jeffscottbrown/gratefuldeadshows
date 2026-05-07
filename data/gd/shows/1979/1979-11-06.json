@@ -1,0 +1,40 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Candyman",
+        "Easy To Love You",
+        "Looks Like Rain",
+        "Jack A Roe",
+        "Jack Straw",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

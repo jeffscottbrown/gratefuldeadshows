@@ -1,0 +1,37 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "Lazy River Road",
+        "Eternity",
+        "Loose Lucy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samba In The Rain",
+        "Truckin'",
+        "New Speedway Boogie",
+        "Jam",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "Sugar Magnolia",
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

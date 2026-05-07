@@ -1,0 +1,42 @@
+{
+  "venue": "Dane County Coliseum",
+  "city": "Madison",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Mexicali Blues",
+        "Big River",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Loser",
+        "Passenger",
+        "Brown Eyed Women",
+        "El Paso",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Playing In The Band",
+        "The Wheel",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

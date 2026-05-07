@@ -1,0 +1,41 @@
+{
+  "venue": "Freedom Hall",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "The Same Thing",
+        "Peggy O",
+        "Just Like Tom Thumb's Blues",
+        "Ramble On Rose",
+        "Eternity",
+        "Brown Eyed Women",
+        "Easy Answers",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Saint Of Circumstance",
+        "Lazy River Road",
+        "Corrina",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

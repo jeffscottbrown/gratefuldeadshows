@@ -1,0 +1,40 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Althea",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Music Never Stopped",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Spoonful",
+        "Drums",
+        "Ollin Arrageed",
+        "Man Smart (Woman Smarter)",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

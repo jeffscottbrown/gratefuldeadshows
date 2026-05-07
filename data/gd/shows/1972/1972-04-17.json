@@ -1,0 +1,41 @@
+{
+  "venue": "Tivoli Concert Hall",
+  "city": "Copenhagen",
+  "state": "",
+  "country": "DK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Me And Bobby Mcgee",
+        "Chinatown Shuffle",
+        "Sugaree",
+        "Black Throated Wind",
+        "Mr. Charlie",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Jack Straw",
+        "He's Gone",
+        "Next Time You See Me",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "One More Saturday Night",
+        "It Hurts Me Too",
+        "Ramble On Rose",
+        "El Paso",
+        "Big Railroad Blues",
+        "Truckin'",
+        "Dark Star",
+        "Sugar Magnolia",
+        "Caution (Do Not Stop On Tracks)",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

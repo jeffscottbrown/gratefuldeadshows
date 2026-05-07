@@ -1,0 +1,57 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bird Song",
+        "I've Been All Around This World",
+        "Dark Hollow",
+        "Rosalie Mcfall",
+        "Monkey And The Engineer",
+        "It Must Have Been The Roses",
+        "Jack A Roe",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Little Red Rooster",
+        "Althea",
+        "Jack Straw",
+        "Deal"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

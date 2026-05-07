@@ -1,0 +1,42 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "El Paso",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Althea",
+        "Lost Sailor",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Wharf Rat",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

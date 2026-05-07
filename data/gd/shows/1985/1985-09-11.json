@@ -1,0 +1,40 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Beat It On Down The Line",
+        "The Promised Land",
+        "Tennessee Jed",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Hell In A Bucket",
+        "Terrapin Station",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

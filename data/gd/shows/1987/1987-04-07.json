@@ -1,0 +1,44 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Beat It On Down The Line",
+        "Stagger Lee",
+        "Mama Tried",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Hell In A Bucket",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "I Need A Miracle",
+        "Bertha",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

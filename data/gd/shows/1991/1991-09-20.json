@@ -1,0 +1,40 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Jack A Roe",
+        "Black Throated Wind",
+        "Stagger Lee",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

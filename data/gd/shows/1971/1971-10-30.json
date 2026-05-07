@@ -1,0 +1,46 @@
+{
+  "venue": "Taft Auditorium",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Loser",
+        "Playing In The Band",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Me And Bobby Mcgee",
+        "Brown Eyed Women",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Mexicali Blues",
+        "Comes A Time",
+        "El Paso",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Truckin'",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

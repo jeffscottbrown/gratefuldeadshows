@@ -1,0 +1,43 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Hell In A Bucket",
+        "Sugaree",
+        "We Can Run",
+        "When I Paint My Masterpiece",
+        "Row Jimmy",
+        "Picasso Moon",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
+        "Scarlet Begonias",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "I Will Take You Home",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

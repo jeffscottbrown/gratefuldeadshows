@@ -1,0 +1,42 @@
+{
+  "venue": "Merriweather Post Pavilion",
+  "city": "Columbia",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Feel Like A Stranger",
+        "Althea",
+        "Cassidy",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Don't Need Love",
+        "Truckin'",
+        "Wang Dang Doodle",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

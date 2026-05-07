@@ -1,0 +1,50 @@
+{
+  "venue": "Oklahoma City Music Hall",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "Jack Straw",
+        "Candyman",
+        "Big River",
+        "Sugaree",
+        "El Paso",
+        "Box Of Rain",
+        "Deal",
+        "Cumberland Blues",
+        "Around And Around",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Brokedown Palace",
+        "Playing In The Band",
+        "Big Railroad Blues",
+        "Me And Bobby Mcgee",
+        "Wharf Rat",
+        "Jam",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

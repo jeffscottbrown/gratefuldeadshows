@@ -1,0 +1,40 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Ramble On Rose",
+        "El Paso",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Man Smart (Woman Smarter)",
+        "High Time",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

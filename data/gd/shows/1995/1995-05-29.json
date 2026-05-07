@@ -1,0 +1,41 @@
+{
+  "venue": "Portland Meadows",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Jack A Roe",
+        "Walkin' Blues",
+        "Dire Wolf",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "Just Like Tom Thumb's Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Looks Like Rain",
+        "Samba In The Rain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Days Between",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Never Trust A Woman",
+        "Built To Last",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "I Will Take You Home",
+        "I Need A Miracle",
+        "Dark Star",
+        "Attics Of My Life",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

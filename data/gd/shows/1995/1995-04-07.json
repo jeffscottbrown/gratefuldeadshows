@@ -1,0 +1,40 @@
+{
+  "venue": "Tampa Stadium",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Little Red Rooster",
+        "Loose Lucy",
+        "When I Paint My Masterpiece",
+        "Visions Of Johanna",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Saint Of Circumstance",
+        "Samba In The Rain",
+        "Unbroken Chain",
+        "Corrina",
+        "Drums",
+        "Easy Answers",
+        "Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

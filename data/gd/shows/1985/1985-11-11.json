@@ -1,0 +1,43 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Walking The Dog",
+        "Deal",
+        "New Minglewood Blues",
+        "Althea",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Dear Mr. Fantasy",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Bayfront Center Arena",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Blow Away",
+        "Walkin' Blues",
+        "When Push Comes To Shove",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "One More Saturday Night",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

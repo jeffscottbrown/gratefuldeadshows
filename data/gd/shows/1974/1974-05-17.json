@@ -1,0 +1,44 @@
+{
+  "venue": "P.N.E. Coliseum",
+  "city": "Vancouver",
+  "state": "BC",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Deal",
+        "The Race Is On",
+        "Ramble On Rose",
+        "Jack Straw",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "Loose Lucy",
+        "Big River",
+        "It Must Have Been The Roses",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues",
+        "Me And My Uncle",
+        "Ship Of Fools",
+        "Money Money",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Greatest Story Ever Told",
+        "Sugaree",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Eyes Of The World",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

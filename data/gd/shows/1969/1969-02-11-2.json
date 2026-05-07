@@ -1,0 +1,21 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Doin' That Rag",
+        "I'm A King Bee",
+        "Turn On Your Lovelight",
+        "Hey Jude"
+      ]
+    }
+  ]
+}

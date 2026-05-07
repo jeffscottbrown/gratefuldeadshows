@@ -1,0 +1,43 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Friend Of The Devil",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Row Jimmy",
+        "Picasso Moon",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Corrina",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Casey Jones",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

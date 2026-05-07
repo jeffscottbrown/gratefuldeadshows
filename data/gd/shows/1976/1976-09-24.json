@@ -1,0 +1,45 @@
+{
+  "venue": "College Of William and Mary",
+  "city": "Williamsburg",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Deal",
+        "Cassidy",
+        "Sugaree",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "Big River",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Supplication",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Loser",
+        "New Minglewood Blues",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Music Never Stopped",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

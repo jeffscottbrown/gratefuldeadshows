@@ -1,0 +1,41 @@
+{
+  "venue": "Miami Arena",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Hey Jude"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

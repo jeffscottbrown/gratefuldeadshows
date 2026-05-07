@@ -1,0 +1,50 @@
+{
+  "venue": "State Fairgrounds",
+  "city": "Lewiston",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "Far From Me",
+        "Little Red Rooster",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Althea",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Not Fade Away",
+        "The Wheel",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

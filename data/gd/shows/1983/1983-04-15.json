@@ -1,0 +1,43 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "My Brother Esau",
+        "Brown Eyed Women",
+        "Little Red Rooster",
+        "Dire Wolf",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Maybe You Know",
+        "He's Gone",
+        "Drums",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

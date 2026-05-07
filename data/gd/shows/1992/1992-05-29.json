@@ -1,0 +1,42 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "Peggy O",
+        "Black Throated Wind",
+        "They Love Each Other",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Jack A Roe",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

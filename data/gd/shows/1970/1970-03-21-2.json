@@ -1,0 +1,36 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Dancing In The Street",
+        "Easy Wind",
+        "Friend Of The Devil",
+        "Deep Elem Blues",
+        "Don't Ease Me In",
+        "Black Peter",
+        "Wake Up Little Susie",
+        "Uncle John's Band",
+        "Katie Mae",
+        "Cosmic Charlie",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Not Fade Away",
+        "In The Midnight Hour",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

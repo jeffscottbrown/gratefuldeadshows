@@ -1,0 +1,41 @@
+{
+  "venue": "Carrier Dome",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "C.C. Rider",
+        "Ramble On Rose",
+        "My Brother Esau",
+        "Bird Song",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

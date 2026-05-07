@@ -1,0 +1,42 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Ripple"
+      ]
+    }
+  ]
+}

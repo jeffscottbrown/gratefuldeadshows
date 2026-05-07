@@ -1,0 +1,42 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Bertha",
+        "Just A Little Light",
+        "Queen Jane Approximately",
+        "Stagger Lee",
+        "Cassidy",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Dark Star",
+        "Drums",
+        "All Along The Watchtower",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

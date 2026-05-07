@@ -1,0 +1,42 @@
+{
+  "venue": "Augusta Civic Center",
+  "city": "Augusta",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Stagger Lee",
+        "Cassidy",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Jack A Roe",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ramble On Rose",
+        "Terrapin Station",
+        "Let It Grow",
+        "Drums",
+        "Stella Blue",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

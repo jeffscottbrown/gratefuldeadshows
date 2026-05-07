@@ -1,0 +1,47 @@
+{
+  "venue": "Bucknell University",
+  "city": "Lewisburg",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Deal",
+        "Me And Bobby Mcgee",
+        "Next Time You See Me",
+        "Bertha",
+        "Playing In The Band",
+        "Sing Me Back Home",
+        "Me And My Uncle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "I Second That Emotion",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bird Song",
+        "Sugar Magnolia",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Hard To Handle",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

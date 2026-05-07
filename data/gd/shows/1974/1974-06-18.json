@@ -1,0 +1,46 @@
+{
+  "venue": "Freedom Hall",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "It Must Have Been The Roses",
+        "Black Throated Wind",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Loser",
+        "Mexicali Blues",
+        "Eyes Of The World",
+        "China Doll",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Loose Lucy",
+        "El Paso",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "The Other One",
+        "It's A Sin",
+        "Stella Blue",
+        "Big River",
+        "Tennessee Jed",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Morning Dew"
+      ]
+    }
+  ]
+}

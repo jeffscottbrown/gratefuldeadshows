@@ -1,0 +1,39 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Row Jimmy",
+        "Wang Dang Doodle",
+        "Brown Eyed Women",
+        "Desolation Row",
+        "Ramble On Rose",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

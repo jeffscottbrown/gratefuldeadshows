@@ -1,0 +1,44 @@
+{
+  "venue": "California State U. Dominguez Hills",
+  "city": "Carson",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Never Trust A Woman",
+        "The Race Is On",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Queen Jane Approximately",
+        "Loser",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Loose Lucy",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "I Need A Miracle",
+        "Dear Mr. Fantasy",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Carrier Dome",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "Bird Song",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Far From Me",
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Throwing Stones",
+        "Drums",
+        "Iko Iko",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Black Peter",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

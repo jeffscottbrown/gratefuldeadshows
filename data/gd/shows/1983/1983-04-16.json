@@ -1,0 +1,44 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "Maybe You Know",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "Looks Like Rain",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Uncle John's Band",
+        "Truckin'",
+        "Drums",
+        "Black Queen",
+        "Iko Iko",
+        "The Other One",
+        "Black Peter",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Box Of Rain",
+        "West L.A. Fadeaway",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Loser",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Cumberland Blues",
+        "Blow Away",
+        "Ship Of Fools",
+        "Truckin'",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

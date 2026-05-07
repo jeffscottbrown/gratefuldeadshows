@@ -1,0 +1,36 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "The Race Is On",
+        "They Love Each Other",
+        "C.C. Rider",
+        "High Time",
+        "Beat It On Down The Line",
+        "The Promised Land",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Comes A Time",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Cow Palace",
+  "city": "Daly City",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Mama Tried",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Deal",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Eyes Of The World",
+        "Wharf Rat",
+        "Drums",
+        "Good Lovin'",
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Around And Around",
+        "Help On The Way",
+        "Slipknot!",
+        "Not Fade Away",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Uncle John's Band",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

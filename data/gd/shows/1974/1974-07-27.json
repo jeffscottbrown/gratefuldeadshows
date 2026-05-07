@@ -1,0 +1,44 @@
+{
+  "venue": "Roanoke Civic Center",
+  "city": "Roanoke",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "Me And Bobby Mcgee",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Big River",
+        "U.S. Blues",
+        "The Promised Land",
+        "Brokedown Palace",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Eyes Of The World"
+      ]
+    }
+  ]
+}

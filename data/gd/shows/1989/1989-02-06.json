@@ -1,0 +1,41 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Not Fade Away",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "Jack A Roe",
+        "Queen Jane Approximately",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Tennessee Jed"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Scarlet Begonias",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

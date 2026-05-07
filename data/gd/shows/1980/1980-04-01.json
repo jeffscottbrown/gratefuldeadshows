@@ -1,0 +1,42 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "Don't Ease Me In",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Estimated Prophet",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street"
+      ]
+    }
+  ]
+}

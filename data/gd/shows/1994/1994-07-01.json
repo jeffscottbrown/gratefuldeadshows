@@ -1,0 +1,39 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Wang Dang Doodle",
+        "Dire Wolf",
+        "Queen Jane Approximately",
+        "Stagger Lee",
+        "Black Throated Wind",
+        "Bertha",
+        "Picasso Moon",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "I Want To Tell You",
+        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Samba In The Rain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Attics Of My Life",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

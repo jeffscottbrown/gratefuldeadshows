@@ -1,0 +1,42 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Row Jimmy",
+        "Walkin' Blues",
+        "Jack A Roe",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Unbroken Chain",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Corrina",
+        "Matilda, Matilda",
+        "Drums",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

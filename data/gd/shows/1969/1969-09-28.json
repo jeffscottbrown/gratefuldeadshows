@@ -1,0 +1,18 @@
+{
+  "venue": "Caf' au Go",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Doin' That Rag",
+        "The Seven",
+        "Good Lovin'",
+        "Saint Stephen",
+        "The Eleven"
+      ]
+    }
+  ]
+}

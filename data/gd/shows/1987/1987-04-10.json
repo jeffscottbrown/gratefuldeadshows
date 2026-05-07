@@ -1,0 +1,41 @@
+{
+  "venue": "UIC Pavilion",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Box Of Rain",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Around And Around",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

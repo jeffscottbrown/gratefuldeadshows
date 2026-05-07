@@ -1,0 +1,53 @@
+{
+  "venue": "Kongressaal",
+  "city": "Muenchen",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Mr. Charlie",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Chinatown Shuffle",
+        "Black Throated Wind",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "El Paso",
+        "It Hurts Me Too",
+        "You Win Again",
+        "Playing In The Band",
+        "Good Lovin'",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sittin' On Top Of The World",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Dark Star",
+        "Morning Dew",
+        "Drums",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sing Me Back Home"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Alabama Getaway",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Althea",
+        "New Minglewood Blues",
+        "Uncle John's Band",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

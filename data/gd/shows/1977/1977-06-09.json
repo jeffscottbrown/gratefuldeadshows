@@ -1,0 +1,46 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Jack Straw",
+        "They Love Each Other",
+        "Cassidy",
+        "Sunrise",
+        "Deal",
+        "Looks Like Rain",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Funiculi Funicula",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Drums",
+        "Saint Stephen",
+        "Terrapin Station",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

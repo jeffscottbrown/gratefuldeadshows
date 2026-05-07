@@ -1,0 +1,43 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "El Paso",
+        "Cumberland Blues",
+        "Tons Of Steel",
+        "C.C. Rider",
+        "Dupree's Diamond Blues",
+        "Just Like Tom Thumb's Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Why Don't We Do It In The Road",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

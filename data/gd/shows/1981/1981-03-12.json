@@ -1,0 +1,41 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Bird Song",
+        "C.C. Rider",
+        "Althea",
+        "Let It Grow",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Playing In The Band",
+        "He's Gone",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "C.C. Rider",
+        "Althea",
+        "Desolation Row",
+        "Loose Lucy",
+        "Hell In A Bucket",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "Goin' Down The Road Feeling Bad",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

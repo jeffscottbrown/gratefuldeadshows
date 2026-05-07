@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Brown Eyed Women",
+        "The Same Thing",
+        "Loose Lucy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

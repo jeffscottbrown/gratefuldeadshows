@@ -1,0 +1,39 @@
+{
+  "venue": "Seattle Center Memorial Stadium",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "Good Morning Little Schoolgirl",
+        "Peggy O",
+        "El Paso",
+        "Tennessee Jed",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Victim Or The Crime",
+        "Samba In The Rain",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Loser",
+        "Man Smart (Woman Smarter)",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)",
+        "Samson And Delilah",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Comes A Time",
+        "Drums",
+        "The Other One",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

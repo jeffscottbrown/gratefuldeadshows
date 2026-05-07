@@ -1,0 +1,42 @@
+{
+  "venue": "The Palace",
+  "city": "Auburn Hills",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Cold Rain And Snow",
+        "Walkin' Blues",
+        "Loose Lucy",
+        "When I Paint My Masterpiece",
+        "West L.A. Fadeaway",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Wave To The Wind",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

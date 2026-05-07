@@ -1,0 +1,18 @@
+{
+  "venue": "Rose Palace",
+  "city": "Pasadena",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

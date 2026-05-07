@@ -1,0 +1,44 @@
+{
+  "venue": "Sun Dome",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Greatest Story Ever Told",
+        "Dupree's Diamond Blues",
+        "C.C. Rider",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Big River",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Don't Need Love",
+        "Drums",
+        "Comes A Time",
+        "Throwing Stones",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

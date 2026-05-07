@@ -1,0 +1,43 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Boy Pete",
+        "Dire Wolf",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "She Belongs To Me",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Gimme Some Lovin'",
+        "In The Midnight Hour"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Walking The Dog"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Big Railroad Blues",
+        "Mama Tried",
+        "Big River",
+        "Stagger Lee",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

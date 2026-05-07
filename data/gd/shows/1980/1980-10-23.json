@@ -1,0 +1,55 @@
+{
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "On The Road Again",
+        "It Must Have Been The Roses",
+        "Dark Hollow",
+        "Jack A Roe",
+        "Cassidy",
+        "China Doll",
+        "Monkey And The Engineer",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Little Red Rooster",
+        "Big Railroad Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

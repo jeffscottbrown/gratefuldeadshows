@@ -1,0 +1,60 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "On The Road Again",
+        "It Must Have Been The Roses",
+        "Monkey And The Engineer",
+        "Jack A Roe",
+        "Dark Hollow",
+        "To Lay Me Down",
+        "Heaven Help The Fool",
+        "Bird Song",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Althea",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Big Railroad Blues",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

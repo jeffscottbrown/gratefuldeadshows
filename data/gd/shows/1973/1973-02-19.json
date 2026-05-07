@@ -1,0 +1,29 @@
+{
+  "venue": "International Amphitheatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Box Of Rain",
+        "Brown Eyed Women",
+        "El Paso"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Truckin'",
+        "The Other One",
+        "Eyes Of The World",
+        "China Doll",
+        "Sugar Magnolia",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "County Fairgrounds",
+  "city": "Ventura",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Cassidy",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Crazy Fingers",
+        "Drums",
+        "Not Fade Away",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

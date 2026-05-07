@@ -1,0 +1,47 @@
+{
+  "venue": "Meramec Community College",
+  "city": "Kirkwood",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "Friend Of The Devil",
+        "Deep Elem Blues",
+        "Silver Threads And Golden Needle",
+        "Candyman"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Mama Tried",
+        "High Time",
+        "Good Lovin'",
+        "Good Morning Little Schoolgirl",
+        "Me And My Uncle",
+        "Dire Wolf",
+        "Cold Rain And Snow",
+        "Attics Of My Life",
+        "Cumberland Blues",
+        "New Speedway Boogie",
+        "Nobody's Fault But Mine",
+        "New Speedway Boogie",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Cold Jordan"
+      ]
+    }
+  ]
+}

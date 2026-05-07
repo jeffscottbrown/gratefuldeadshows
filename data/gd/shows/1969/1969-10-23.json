@@ -1,0 +1,27 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Dire Wolf",
+        "High Time",
+        "Easy Wind",
+        "Hard To Handle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie",
+        "Mama Tried",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

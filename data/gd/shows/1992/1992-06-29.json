@@ -1,0 +1,39 @@
+{
+  "venue": "Deer Creek Music Center",
+  "city": "Noblesville",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Althea",
+        "Little Red Rooster",
+        "So Many Roads",
+        "Desolation Row",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Victim Or The Crime",
+        "Ship Of Fools",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

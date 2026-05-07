@@ -1,0 +1,45 @@
+{
+  "venue": "Sacramento Memorial Auditorium",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "It's All Over Now",
+        "Stagger Lee",
+        "Passenger",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

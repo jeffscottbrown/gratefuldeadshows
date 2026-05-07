@@ -1,0 +1,27 @@
+{
+  "venue": "Labor Temple",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Me And My Uncle",
+        "Jam",
+        "Sittin' On Top Of The World",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew"
+      ]
+    }
+  ]
+}

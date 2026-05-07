@@ -1,0 +1,47 @@
+{
+  "venue": "Jai",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "Jack Straw",
+        "Let It Rock",
+        "Cumberland Blues",
+        "El Paso",
+        "To Lay Me Down",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "China Doll"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ship Of Fools",
+        "Big River",
+        "Black Peter",
+        "Around And Around",
+        "Dark Star",
+        "Spanish Jam",
+        "U.S. Blues",
+        "Uncle John's Band",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Dillon Gym",
+  "city": "Princeton",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Big Railroad Blues",
+        "Big Boss Man",
+        "Bird Song",
+        "Playing In The Band",
+        "Hard To Handle",
+        "Loser",
+        "Mama Tried",
+        "Casey Jones",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Me And Bobby Mcgee",
+        "Deal",
+        "Beat It On Down The Line",
+        "I'm A King Bee",
+        "Bertha",
+        "Sing Me Back Home",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

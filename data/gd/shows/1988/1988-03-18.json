@@ -1,0 +1,39 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "When Push Comes To Shove",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Uncle John's Band",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

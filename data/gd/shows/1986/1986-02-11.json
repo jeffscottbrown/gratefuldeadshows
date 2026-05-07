@@ -1,0 +1,42 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "New Minglewood Blues",
+        "Dupree's Diamond Blues",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "The Music Never Stopped",
+        "Might As Well",
+        "Drums"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Hey Bo Diddley",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

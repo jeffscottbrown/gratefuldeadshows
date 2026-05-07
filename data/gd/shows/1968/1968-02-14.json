@@ -1,0 +1,38 @@
+{
+  "venue": "Carousel Ballroom",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Dark Star",
+        "China Cat Sunflower",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "New Potato Caboose",
+        "Born Cross Eyed",
+        "Spanish Jam",
+        "Alligator",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

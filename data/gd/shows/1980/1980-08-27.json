@@ -1,0 +1,46 @@
+{
+  "venue": "Pine Knob Music Theatre",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Althea",
+        "Looks Like Rain",
+        "Big Railroad Blues",
+        "Feel Like A Stranger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "C.C. Rider",
+        "High Time",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

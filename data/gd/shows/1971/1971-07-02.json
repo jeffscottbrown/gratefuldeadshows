@@ -1,0 +1,50 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Next Time You See Me",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Loser",
+        "The Rub",
+        "Me And My Uncle",
+        "Big Railroad Blues",
+        "Hard To Handle",
+        "Deal",
+        "The Promised Land",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Sing Me Back Home",
+        "Mama Tried",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Big Boss Man",
+        "Casey Jones",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

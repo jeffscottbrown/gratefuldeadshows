@@ -1,0 +1,41 @@
+{
+  "venue": "Niagara Falls Civic Center",
+  "city": "Niagara Falls",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Dire Wolf",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "My Brother Esau",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Drums",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

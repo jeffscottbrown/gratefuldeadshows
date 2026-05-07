@@ -1,0 +1,41 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Feel Like A Stranger",
+        "Jack A Roe",
+        "The Same Thing",
+        "Lazy River Road",
+        "El Paso",
+        "New Speedway Boogie",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

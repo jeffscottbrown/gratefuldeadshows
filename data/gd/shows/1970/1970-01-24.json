@@ -1,0 +1,20 @@
+{
+  "venue": "Honolulu Civic Auditorium",
+  "city": "Honolulu",
+  "state": "HI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cumberland Blues",
+        "Cold Rain And Snow",
+        "Me And My Uncle",
+        "I'm A King Bee",
+        "Mason's Children",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

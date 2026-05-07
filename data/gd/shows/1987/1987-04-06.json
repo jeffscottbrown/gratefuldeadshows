@@ -1,0 +1,42 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Peggy O",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "When Push Comes To Shove",
+        "Jack Straw",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cumberland Blues",
+        "Tons Of Steel",
+        "Saint Of Circumstance",
+        "Drums",
+        "Terrapin Station",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

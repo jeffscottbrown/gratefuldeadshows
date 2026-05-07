@@ -1,0 +1,43 @@
+{
+  "venue": "Grand Center",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Passenger",
+        "Peggy O",
+        "Looks Like Rain",
+        "Althea",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Feel Like A Stranger",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

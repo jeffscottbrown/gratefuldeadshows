@@ -1,0 +1,32 @@
+{
+  "venue": "Carousel Ballroom",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Dark Star",
+        "China Cat Sunflower",
+        "The Eleven",
+        "Feedback",
+        "New Potato Caboose",
+        "Born Cross Eyed",
+        "Feedback"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Beat It On Down The Line",
+        "Morning Dew",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Good Morning Little Schoolgirl"
+      ]
+    }
+  ]
+}

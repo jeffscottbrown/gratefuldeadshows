@@ -1,0 +1,54 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Black Throated Wind",
+        "Big Railroad Blues",
+        "El Paso",
+        "Brown Eyed Women",
+        "Cumberland Blues",
+        "Jack Straw",
+        "Don't Ease Me In",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "He's Gone",
+        "Me And Bobby Mcgee",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Tomorrow Is Forever",
+        "Greatest Story Ever Told",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Stella Blue",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Drums",
+        "Uncle John's Band",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

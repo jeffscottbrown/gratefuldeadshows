@@ -1,0 +1,46 @@
+{
+  "venue": "Rainbow Theater",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jam",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "El Paso",
+        "Jack A Roe",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

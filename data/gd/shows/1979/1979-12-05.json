@@ -1,0 +1,45 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Big River",
+        "Cold Rain And Snow",
+        "Easy To Love You",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Black Peter",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode",
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

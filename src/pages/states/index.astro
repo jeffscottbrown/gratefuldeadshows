@@ -1,0 +1,30 @@
+---
+import Layout from '@/components/Layout.astro';
+import { getStates } from '@/lib/shows';
+
+const states = await getStates();
+---
+
+<Layout title="Shows by State">
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-8">Browse by State</h1>
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
+      {states.map(({ state, country, count }) => (
+        <a
+          href={`/states/${encodeURIComponent(state)}`}
+          class="flex items-center justify-between px-4 py-3 rounded-lg border border-dead-border bg-dead-card hover:border-dead-gold hover:bg-dead-card-hover transition-all group"
+        >
+          <div class="truncate pr-2">
+            <span class="text-sm font-medium text-white group-hover:text-dead-gold transition-colors">
+              {state}
+            </span>
+            <span class="text-[10px] text-gray-500 ml-2 uppercase tracking-widest font-bold opacity-0 group-hover:opacity-100 transition-opacity">
+              {country}
+            </span>
+          </div>
+          <span class="text-xs text-gray-500 group-hover:text-gray-300 transition-colors">{count}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

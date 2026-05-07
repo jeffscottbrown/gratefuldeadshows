@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Stadium",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Might As Well",
+        "Mama Tried",
+        "Ramble On Rose",
+        "Cassidy",
+        "Deal",
+        "El Paso",
+        "Loser",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Brown Eyed Women",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Stella Blue",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

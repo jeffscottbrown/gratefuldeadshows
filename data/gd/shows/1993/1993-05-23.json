@@ -1,0 +1,38 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Loser",
+        "Just Like Tom Thumb's Blues",
+        "It's All Over Now",
+        "Bird Song",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Wave To The Wind",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

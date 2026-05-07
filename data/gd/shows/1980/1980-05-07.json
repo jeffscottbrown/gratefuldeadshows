@@ -1,0 +1,42 @@
+{
+  "venue": "Barton Hall",
+  "city": "Ithaca",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "Cassidy",
+        "Row Jimmy",
+        "El Paso",
+        "Easy To Love You",
+        "Althea",
+        "Feel Like A Stranger",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Bertha",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Saint Of Circumstance",
+        "Black Peter",
+        "Playing In The Band",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

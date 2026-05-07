@@ -1,0 +1,33 @@
+---
+/**
+ * Birthday Shows: find every show played on a given month/day.
+ * The "Today" link in the header sets ?month=M&day=D in the URL;
+ * the BirthdayPage island reads those params on mount.
+ */
+import Layout from '@/components/Layout.astro';
+import BirthdayPage from '@/components/islands/BirthdayPage';
+import { getAllShows } from '@/lib/shows';
+import { buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
+import type { ShowRow } from '@/components/islands/ShowList';
+
+const [allShows, releaseIndex] = await Promise.all([
+  getAllShows(),
+  buildReleasesDateIndex(),
+]);
+
+const showRows: ShowRow[] = allShows.map((s) => ({
+  slug: s.slug, band: s.band, date: s.date, year: s.year,
+  venue: s.venue, city: s.city, state: s.state, country: s.country,
+  collections: getCollectionsForDate(s.date, releaseIndex),
+}));
+---
+
+<Layout title="Birthday Shows" description="Find every Grateful Dead and Dead & Company show played on your birthday.">
+  <div class="mx-auto max-w-5xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-2">Birthday Shows</h1>
+    <p class="text-gray-400 mb-8">
+      Find every concert played on your birthday.
+    </p>
+    <BirthdayPage shows={showRows} client:load />
+  </div>
+</Layout>

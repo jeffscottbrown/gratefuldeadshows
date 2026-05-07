@@ -1,0 +1,44 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Candyman",
+        "Mexicali Blues",
+        "El Paso",
+        "Tennessee Jed",
+        "Let It Grow",
+        "Althea",
+        "Easy To Love You",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Sugaree",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Comes A Time",
+        "The Other One",
+        "Drums",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Feel Like A Stranger",
+        "Never Trust A Woman",
+        "Mama Tried",
+        "Big River",
+        "Loose Lucy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Jam",
+        "Drums",
+        "Space",
+        "Dear Mr. Fantasy",
+        "I Need A Miracle",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

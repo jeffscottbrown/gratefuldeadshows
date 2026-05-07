@@ -1,0 +1,46 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Cassidy",
+        "To Lay Me Down",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Little Red Rooster",
+        "Bird Song",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "High Time",
+        "Truckin'",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

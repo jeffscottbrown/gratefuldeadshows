@@ -1,0 +1,41 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "So Many Roads",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Wave To The Wind",
+        "Truckin'",
+        "Spoonful",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Days Between",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

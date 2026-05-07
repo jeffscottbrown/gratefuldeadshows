@@ -1,0 +1,43 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Loser",
+        "Beat It On Down The Line",
+        "Ramble On Rose",
+        "El Paso",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Far From Me",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Not Fade Away",
+        "Morning Dew",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

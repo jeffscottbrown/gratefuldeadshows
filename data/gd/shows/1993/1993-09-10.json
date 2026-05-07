@@ -1,0 +1,41 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Little Red Rooster",
+        "Just Like Tom Thumb's Blues",
+        "Ramble On Rose",
+        "Black Throated Wind",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Way To Go Home",
+        "Corrina",
+        "Uncle John's Band",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Attics Of My Life",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

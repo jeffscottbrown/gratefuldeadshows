@@ -1,0 +1,43 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Jack Straw",
+        "Jack A Roe",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Man Smart (Woman Smarter)",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Throwing Stones",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

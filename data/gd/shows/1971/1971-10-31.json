@@ -1,0 +1,39 @@
+{
+  "venue": "Ohio Theatre",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Deal",
+        "Playing In The Band",
+        "Loser",
+        "El Paso",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Casey Jones",
+        "Cumberland Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Sugar Magnolia",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

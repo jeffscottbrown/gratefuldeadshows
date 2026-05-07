@@ -1,0 +1,37 @@
+---
+import Layout from '@/components/Layout.astro';
+import ShowList, { type ShowRow } from '@/components/islands/ShowList';
+import { getCities, getShowsByCity } from '@/lib/shows';
+import { buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
+
+export async function getStaticPaths() {
+  const cities = await getCities();
+  return cities.map(({ city }) => ({ params: { city } }));
+}
+
+const city = Astro.params.city;
+const [shows, releaseIndex] = await Promise.all([getShowsByCity(city), buildReleasesDateIndex()]);
+
+const showRows: ShowRow[] = shows.map((s) => ({
+  slug: s.slug, band: s.band, date: s.date, year: s.year,
+  venue: s.venue, city: s.city, state: s.state, country: s.country,
+  collections: getCollectionsForDate(s.date, releaseIndex),
+}));
+
+const firstShow = shows[0];
+const location = [firstShow?.state, firstShow?.country].filter(Boolean).join(', ');
+---
+
+<Layout title={city}>
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <div class="flex items-center gap-2 text-sm text-gray-500 mb-6">
+      <a href="/cities" class="hover:text-dead-gold transition-colors">Cities</a>
+      <span>/</span>
+      <span class="text-gray-300">{city}</span>
+    </div>
+    <h1 class="text-3xl font-bold text-dead-gold mb-1">{city}</h1>
+    {location && <p class="text-gray-400 mb-1">{location}</p>}
+    <p class="text-gray-500 mb-8 text-sm">{shows.length} show{shows.length !== 1 ? 's' : ''}</p>
+    <ShowList shows={showRows} showFilter client:load />
+  </div>
+</Layout>

@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Althea",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Not Fade Away",
+        "China Doll",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

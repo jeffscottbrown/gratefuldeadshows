@@ -1,0 +1,42 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Hell In A Bucket",
+        "Sugaree",
+        "Cassidy",
+        "Stagger Lee",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Feel Like A Stranger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Supplication",
+        "Drums",
+        "Truckin'",
+        "Comes A Time",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

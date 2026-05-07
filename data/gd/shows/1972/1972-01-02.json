@@ -1,0 +1,50 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Sugaree",
+        "Mr. Charlie",
+        "Beat It On Down The Line",
+        "Loser",
+        "Jack Straw",
+        "Chinatown Shuffle",
+        "Your Love At Home",
+        "Tennessee Jed",
+        "El Paso",
+        "You Win Again",
+        "Big Railroad Blues",
+        "Mexicali Blues",
+        "Playing In The Band",
+        "Next Time You See Me",
+        "Brown Eyed Women",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Good Lovin'",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

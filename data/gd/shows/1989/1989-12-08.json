@@ -1,0 +1,42 @@
+{
+  "venue": "Great Western Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Stagger Lee",
+        "Beat It On Down The Line",
+        "Ramble On Rose",
+        "Cassidy",
+        "Blow Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

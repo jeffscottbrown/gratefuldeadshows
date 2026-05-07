@@ -1,0 +1,44 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "The Wheel",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

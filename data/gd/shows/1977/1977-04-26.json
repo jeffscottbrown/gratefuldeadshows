@@ -1,0 +1,34 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Tennessee Jed",
+        "Big River",
+        "Friend Of The Devil",
+        "Estimated Prophet",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Dancing In The Street",
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

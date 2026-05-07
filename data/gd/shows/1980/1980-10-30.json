@@ -1,0 +1,54 @@
+{
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Deep Elem Blues",
+        "Dark Hollow",
+        "I've Been All Around This World",
+        "On The Road Again",
+        "To Lay Me Down",
+        "Heaven Help The Fool",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Peggy O",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "New Minglewood Blues",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

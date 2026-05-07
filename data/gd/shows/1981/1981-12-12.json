@@ -1,0 +1,44 @@
+{
+  "venue": "Fiesta Hall",
+  "city": "San Mateo",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And Bobby Mcgee",
+        "Children Of The Eighties",
+        "Lucifer's Eyes",
+        "Warriors Of The Sun",
+        "Bye Bye Love",
+        "Barbara Allen",
+        "You Won't Find Me",
+        "Where Have The Heroes Gone",
+        "Oh Boy",
+        "Lady Di And I",
+        "The Boxer"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "New Minglewood Blues",
+        "Little Red Rooster",
+        "Deep Elem Blues",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Dire Wolf",
+        "Cold Rain And Snow",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

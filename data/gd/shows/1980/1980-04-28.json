@@ -1,0 +1,42 @@
+{
+  "venue": "Boutwell Auditorium",
+  "city": "Birmingham",
+  "state": "AL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "El Paso",
+        "Althea",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Far From Me",
+        "Feel Like A Stranger",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Goin' Down The Road Feeling Bad"
+      ]
+    }
+  ]
+}

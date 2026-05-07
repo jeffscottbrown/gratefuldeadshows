@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "My Brother Esau",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Truckin'",
+        "Black Peter",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

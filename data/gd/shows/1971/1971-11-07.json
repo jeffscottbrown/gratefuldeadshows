@@ -1,0 +1,54 @@
+{
+  "venue": "Harding Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Hide Away",
+        "Sugaree",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Cumberland Blues",
+        "El Paso",
+        "Big Railroad Blues",
+        "Comes A Time",
+        "Mexicali Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Loser",
+        "Sugar Magnolia",
+        "Dark Star",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Deal",
+        "Brokedown Palace",
+        "Playing In The Band",
+        "Casey Jones",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

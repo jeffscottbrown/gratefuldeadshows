@@ -1,0 +1,40 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Walkin' Blues",
+        "Brown Eyed Women",
+        "Desolation Row",
+        "Stagger Lee",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Truckin'",
+        "Crazy Fingers",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

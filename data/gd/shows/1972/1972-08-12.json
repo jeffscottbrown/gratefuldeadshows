@@ -1,0 +1,49 @@
+{
+  "venue": "Sacramento Memorial Auditorium",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Me And My Uncle",
+        "Bird Song",
+        "Black Throated Wind",
+        "Deal",
+        "El Paso",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Big Railroad Blues",
+        "Cumberland Blues",
+        "Stella Blue",
+        "Jack Straw",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "The Other One",
+        "Truckin'",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Queen Jane Approximately",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Estimated Prophet",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "I Will Take You Home",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

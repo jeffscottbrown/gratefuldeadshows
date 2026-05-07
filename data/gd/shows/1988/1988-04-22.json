@@ -1,0 +1,42 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Candyman",
+        "Queen Jane Approximately",
+        "When Push Comes To Shove",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Louie Louie",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

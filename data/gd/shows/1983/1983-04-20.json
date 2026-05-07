@@ -1,0 +1,43 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "The Promised Land",
+        "Loser",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "My Brother Esau",
+        "Maybe You Know",
+        "Bertha",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Throwing Stones",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

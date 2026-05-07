@@ -1,0 +1,22 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Mama Tried",
+        "Next Time You See Me",
+        "Casey Jones",
+        "China Cat Sunflower",
+        "Jam",
+        "High Time",
+        "Dire Wolf",
+        "Me And My Uncle"
+      ]
+    }
+  ]
+}

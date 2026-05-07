@@ -1,0 +1,45 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Frozen Logger",
+        "Mississippi Half Step Uptown Toodeloo",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "My Brother Esau",
+        "Loser",
+        "Dupree's Diamond Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Crazy Fingers",
+        "Samson And Delilah",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Dear Mr. Fantasy",
+        "Truckin'",
+        "Comes A Time",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Walkin' Blues",
+        "So Many Roads",
+        "When I Paint My Masterpiece",
+        "High Time",
+        "Eternity",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Wave To The Wind",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "Way To Go Home",
+        "Attics Of My Life",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Lazy River Road",
+        "Black Throated Wind",
+        "If The Shoe Fits",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Samson And Delilah",
+        "Samba In The Rain",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Days Between",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

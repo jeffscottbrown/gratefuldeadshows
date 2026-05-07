@@ -1,0 +1,43 @@
+{
+  "venue": "Copps Coliseum",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "New Minglewood Blues",
+        "Far From Me",
+        "Queen Jane Approximately",
+        "Loose Lucy",
+        "Victim Or The Crime",
+        "Standing On The Moon",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hey Pocky Way",
+        "Crazy Fingers",
+        "Cumberland Blues",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

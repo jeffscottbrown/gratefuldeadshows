@@ -1,0 +1,41 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Childhood's End",
+        "Cumberland Blues",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "So Many Roads",
+        "Samba In The Rain",
+        "Corrina",
+        "Drums",
+        "Space",
+        "Unbroken Chain",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River",
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

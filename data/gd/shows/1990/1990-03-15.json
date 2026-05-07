@@ -1,0 +1,43 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Easy To Love You",
+        "Walkin' Blues",
+        "Althea",
+        "Just Like Tom Thumb's Blues",
+        "Tennessee Jed",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "I Will Take You Home",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "Just Like Tom Thumb's Blues",
+        "It's All Over Now",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

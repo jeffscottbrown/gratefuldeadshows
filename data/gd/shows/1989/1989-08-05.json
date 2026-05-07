@@ -1,0 +1,39 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Cold Rain And Snow",
+        "We Can Run",
+        "Stagger Lee",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hey Pocky Way",
+        "Playing In The Band",
+        "I Know You Rider",
+        "Terrapin Station",
+        "Drums",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

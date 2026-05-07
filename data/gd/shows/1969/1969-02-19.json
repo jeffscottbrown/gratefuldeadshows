@@ -1,0 +1,27 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Turn On Your Lovelight",
+        "Drums",
+        "Not Fade Away",
+        "Turn On Your Lovelight",
+        "Jam"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Jam",
+        "Dark Star",
+        "The Other One"
+      ]
+    }
+  ]
+}

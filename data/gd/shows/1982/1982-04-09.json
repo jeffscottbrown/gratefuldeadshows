@@ -1,0 +1,43 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "C.C. Rider",
+        "Bird Song",
+        "It's All Over Now",
+        "Loser",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "To Lay Me Down",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "(I Can't Get No) Satisfaction"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

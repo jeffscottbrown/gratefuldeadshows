@@ -1,0 +1,38 @@
+{
+  "venue": "Wallace Wade Stadium",
+  "city": "Durham",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Deal",
+        "Hard To Handle",
+        "Me And Bobby Mcgee",
+        "Bertha",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Next Time You See Me",
+        "Loser",
+        "Sugar Magnolia",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Me And My Uncle",
+        "Sing Me Back Home",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Peggy O",
+        "The Same Thing",
+        "Loose Lucy",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Tennessee Jed",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Corrina",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

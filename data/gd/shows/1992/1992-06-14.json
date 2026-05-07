@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Walkin' Blues",
+        "Candyman",
+        "Desolation Row",
+        "Jack A Roe",
+        "Picasso Moon",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Way To Go Home",
+        "Corrina",
+        "Drums",
+        "Space",
+        "Spoonful",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Why Don't We Do It In The Road",
+        "Mississippi Half Step Uptown Toodeloo",
+        "C.C. Rider",
+        "Bird Song",
+        "Dancing In The Street",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Samson And Delilah",
+        "She Belongs To Me",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

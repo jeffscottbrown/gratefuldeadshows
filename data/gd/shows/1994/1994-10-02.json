@@ -1,0 +1,46 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Loser",
+        "It's All Over Now",
+        "Row Jimmy",
+        "Broken Arrow",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Samba In The Rain",
+        "If The Shoe Fits",
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Truckin'",
+        "That Would Be Something",
+        "Jam",
+        "Drums",
+        "Space",
+        "Days Between",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

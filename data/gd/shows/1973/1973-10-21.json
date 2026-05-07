@@ -1,0 +1,39 @@
+{
+  "venue": "Omaha Civic Auditorium",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Beat It On Down The Line",
+        "Loser",
+        "Black Throated Wind",
+        "They Love Each Other",
+        "Cumberland Blues",
+        "El Paso",
+        "You Ain't Woman Enough",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Playing In The Band",
+        "He's Gone",
+        "Truckin'",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

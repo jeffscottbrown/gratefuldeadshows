@@ -1,0 +1,42 @@
+{
+  "venue": "Pine Knob Music Theatre",
+  "city": "Clarkston",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Throwing Stones",
+        "Iko Iko",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

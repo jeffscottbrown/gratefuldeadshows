@@ -1,0 +1,43 @@
+{
+  "venue": "Silva Hall",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dupree's Diamond Blues",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Hell In A Bucket",
+        "Althea",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "I'm A King Bee",
+        "Friend Of The Devil",
+        "Desolation Row",
+        "Tennessee Jed",
+        "Easy Answers"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Saint Of Circumstance",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

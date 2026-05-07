@@ -1,0 +1,45 @@
+{
+  "venue": "Keifer Lakefront Arena",
+  "city": "New Orleans",
+  "state": "LA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "They Love Each Other",
+        "Little Red Rooster",
+        "Loser",
+        "Beat It On Down The Line",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Iko Iko",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

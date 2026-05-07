@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Victim Or The Crime",
+        "Brown Eyed Women",
+        "Queen Jane Approximately",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Samson And Delilah",
+        "Built To Last",
+        "Truckin'",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

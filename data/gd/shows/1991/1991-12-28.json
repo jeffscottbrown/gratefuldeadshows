@@ -1,0 +1,44 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Jack Straw",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Queen Jane Approximately",
+        "Loser",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "The Same Thing",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Keep Your Day Job",
+        "New Minglewood Blues",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "West L.A. Fadeaway",
+        "It's All Over Now",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Truckin'",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

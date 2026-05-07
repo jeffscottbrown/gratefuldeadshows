@@ -1,0 +1,47 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "El Paso",
+        "Jack A Roe",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Althea",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "C.C. Rider",
+        "To Lay Me Down",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Playing In The Band",
+        "China Doll",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

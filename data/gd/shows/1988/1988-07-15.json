@@ -1,0 +1,44 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "Queen Jane Approximately",
+        "Dire Wolf",
+        "Never Trust A Woman",
+        "Turn On Your Lovelight",
+        "Cassidy",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

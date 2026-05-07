@@ -1,0 +1,44 @@
+{
+  "venue": "Civic Convention Hall Auditorium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Playing In The Band",
+        "China Doll",
+        "Don't Need Love",
+        "Drums",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "San Diego Sports Arena",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ramble On Rose",
+        "The Same Thing",
+        "Brown Eyed Women",
+        "Broken Arrow",
+        "Easy Answers",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lucy In The Sky With Diamonds",
+        "Man Smart (Woman Smarter)",
+        "Way To Go Home",
+        "Eyes Of The World",
+        "Drums",
+        "The Last Time",
+        "Days Between",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

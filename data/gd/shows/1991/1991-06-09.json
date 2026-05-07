@@ -1,0 +1,40 @@
+{
+  "venue": "Buckeye Lake Music Center",
+  "city": "Hebron",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Reuben And Cherise",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

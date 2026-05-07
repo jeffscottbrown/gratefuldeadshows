@@ -1,0 +1,45 @@
+{
+  "venue": "The Mosque",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Jack Straw",
+        "They Love Each Other",
+        "Mexicali Blues",
+        "Peggy O",
+        "Cassidy",
+        "Loser",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Brown Eyed Women",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "The Other One",
+        "The Wheel",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Milwaukee Auditorium",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "Friend Of The Devil",
+        "Passenger",
+        "Easy To Love You",
+        "Althea",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Black Peter",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

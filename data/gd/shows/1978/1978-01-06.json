@@ -1,0 +1,40 @@
+{
+  "venue": "Swing Auditorium",
+  "city": "San Bernardino",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Dire Wolf",
+        "Mama Tried",
+        "Big River",
+        "Loser",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Deal",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

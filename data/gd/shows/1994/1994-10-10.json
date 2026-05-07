@@ -1,0 +1,40 @@
+{
+  "venue": "USAir Arena",
+  "city": "Landover",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Walkin' Blues",
+        "Althea",
+        "Desolation Row",
+        "Loose Lucy",
+        "Eternity"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

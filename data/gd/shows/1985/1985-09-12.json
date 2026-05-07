@@ -1,0 +1,43 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Bertha",
+        "It's All Over Now",
+        "Row Jimmy",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Drums",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

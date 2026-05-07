@@ -1,0 +1,38 @@
+{
+  "venue": "Universal Amphitheatre",
+  "city": "Universal City",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "Sugaree",
+        "The Race Is On",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Don't Ease Me In",
+        "Big River",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Row Jimmy",
+        "El Paso",
+        "Loose Lucy",
+        "Truckin'",
+        "The Other One",
+        "Wharf Rat",
+        "Me And Bobby Mcgee",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

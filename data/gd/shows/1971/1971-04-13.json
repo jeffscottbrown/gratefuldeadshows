@@ -1,0 +1,36 @@
+{
+  "venue": "Catholic Youth Center",
+  "city": "Scranton",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Mama Tried",
+        "Loser",
+        "Big Boss Man",
+        "Me And Bobby Mcgee",
+        "Bertha",
+        "Cumberland Blues",
+        "Big Railroad Blues",
+        "Playing In The Band",
+        "Hard To Handle",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Drums",
+        "Good Lovin'",
+        "I Second That Emotion",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

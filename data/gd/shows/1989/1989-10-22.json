@@ -1,0 +1,42 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Foolish Heart",
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Blow Away",
+        "Samson And Delilah",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

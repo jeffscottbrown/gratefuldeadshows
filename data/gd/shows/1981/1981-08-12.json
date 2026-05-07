@@ -1,0 +1,47 @@
+{
+  "venue": "Salt Palace",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Jack A Roe",
+        "C.C. Rider",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Man Smart (Woman Smarter)",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "Truckin'",
+        "Morning Dew",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

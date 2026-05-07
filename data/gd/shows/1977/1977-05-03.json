@@ -1,0 +1,45 @@
+{
+  "venue": "The Palladium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Me And My Uncle",
+        "Peggy O",
+        "Jack Straw",
+        "Row Jimmy",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Estimated Prophet",
+        "Sugaree",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Eyes Of The World",
+        "Wharf Rat",
+        "Not Fade Away",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

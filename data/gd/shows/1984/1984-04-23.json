@@ -1,0 +1,41 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Cassidy",
+        "Dupree's Diamond Blues",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Uncle John's Band",
+        "Only A Fool",
+        "Drums",
+        "Spanish Jam",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

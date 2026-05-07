@@ -1,0 +1,40 @@
+{
+  "venue": "Portland Meadows",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Wang Dang Doodle",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

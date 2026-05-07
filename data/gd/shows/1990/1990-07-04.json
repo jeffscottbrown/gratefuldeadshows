@@ -1,0 +1,43 @@
+{
+  "venue": "Sandstone Amphitheatre",
+  "city": "Bonner Springs",
+  "state": "KS",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Walkin' Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Queen Jane Approximately",
+        "Loose Lucy",
+        "It's All Over Now",
+        "Loser",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Just A Little Light",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Stanley Theatre",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "Cassidy",
+        "They Love Each Other",
+        "El Paso",
+        "Row Jimmy",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "Franklin's Tower",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

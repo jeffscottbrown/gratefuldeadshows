@@ -1,0 +1,43 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "West L.A. Fadeaway",
+        "Walkin' Blues",
+        "Far From Me",
+        "Cumberland Blues",
+        "Mexicali Blues",
+        "Box Of Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "Crazy Fingers",
+        "Saint Of Circumstance",
+        "China Doll",
+        "Playing In The Band",
+        "Drums",
+        "When I Paint My Masterpiece",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

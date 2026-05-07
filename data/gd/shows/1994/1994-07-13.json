@@ -1,0 +1,43 @@
+{
+  "venue": "Franklin County Field",
+  "city": "Highgate",
+  "state": "VT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Jack Straw",
+        "Althea",
+        "Queen Jane Approximately",
+        "Loser",
+        "It's All Over Now",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "New Speedway Boogie",
+        "Way To Go Home",
+        "Corrina",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "I Want To Tell You",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

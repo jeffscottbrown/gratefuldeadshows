@@ -1,0 +1,63 @@
+{
+  "venue": "Oakland Coliseum Stadium",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Funiculi Funicula",
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo",
+        "My Brother Esau",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "When Push Comes To Shove",
+        "Far From Me",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Scarlet Begonias",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Dear Mr. Fantasy",
+        "I Need A Miracle",
+        "Bertha",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Times They Are A Changin'",
+        "Man Of Peace",
+        "Maggie's Farm",
+        "I'll Be Your Baby Tonight",
+        "I Want You",
+        "Highway 61 Revisited",
+        "It's All Over Now, Baby Blue",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Ballad Of A Thin Man",
+        "Shelter From The Storm",
+        "Slow Train",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Touch Of Grey",
+        "All Along The Watchtower"
+      ]
+    }
+  ]
+}

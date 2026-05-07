@@ -1,0 +1,39 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Loser",
+        "Cumberland Blues",
+        "It Hurts Me Too",
+        "Bertha",
+        "Playing In The Band",
+        "Dark Hollow",
+        "Smokestack Lightnin'",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Bird Song",
+        "Easy Wind",
+        "Deal",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Good Lovin'",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

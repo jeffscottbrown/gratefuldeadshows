@@ -1,0 +1,44 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Friend Of The Devil",
+        "Looks Like Rain",
+        "Loser",
+        "Mexicali Blues",
+        "Mama Tried",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Dancing In The Street",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

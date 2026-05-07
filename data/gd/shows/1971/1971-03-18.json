@@ -1,0 +1,41 @@
+{
+  "venue": "Fox Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Big Boss Man",
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Loser",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "The Rub",
+        "Playing In The Band",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "The Other One",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Johnny B. Goode",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

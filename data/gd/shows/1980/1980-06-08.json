@@ -1,0 +1,44 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Samson And Delilah",
+        "Easy To Love You",
+        "Althea",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Saint Of Circumstance",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

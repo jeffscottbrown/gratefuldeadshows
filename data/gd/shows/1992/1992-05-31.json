@@ -1,0 +1,45 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "Queen Jane Approximately",
+        "Bird Song",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "So Many Roads",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Attics Of My Life",
+        "Spoonful",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

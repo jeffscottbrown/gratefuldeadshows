@@ -1,0 +1,44 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Jack Straw",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Stella Blue",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Revolution"
+      ]
+    }
+  ]
+}

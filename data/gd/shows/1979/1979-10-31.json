@@ -1,0 +1,41 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Cassidy",
+        "Loser",
+        "Me And My Uncle",
+        "Big River",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Passenger",
+        "Ramble On Rose",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Wharf Rat",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

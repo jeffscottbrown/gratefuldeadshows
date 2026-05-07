@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Greatest Story Ever Told",
+        "Althea",
+        "Little Red Rooster",
+        "Loser",
+        "It's All Over Now, Baby Blue",
+        "Brown Eyed Women",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Lazy River Road",
+        "Eternity",
+        "Ramble On Rose",
+        "Queen Jane Approximately",
+        "Row Jimmy",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Liberty",
+        "Corrina",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Samson And Delilah",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Poplar Creek Music Theatre",
+  "city": "Hoffman Estates",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Dire Wolf",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "He's Gone",
+        "Drums",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Iko Iko"
+      ]
+    }
+  ]
+}

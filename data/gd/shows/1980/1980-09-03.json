@@ -1,0 +1,44 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Little Red Rooster",
+        "Candyman",
+        "Easy To Love You",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "High Time",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "He's Gone",
+        "Truckin'",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Wang Dang Doodle",
+        "Loose Lucy",
+        "Queen Jane Approximately",
+        "It Must Have Been The Roses",
+        "It's All Over Now",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "So Many Roads",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Days Between",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

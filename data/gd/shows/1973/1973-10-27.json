@@ -1,0 +1,53 @@
+{
+  "venue": "State Fair Coliseum",
+  "city": "Indianapolis",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Loser",
+        "Black Throated Wind",
+        "They Love Each Other",
+        "Jack Straw",
+        "Ramble On Rose",
+        "El Paso",
+        "Brown Eyed Women",
+        "Greatest Story Ever Told",
+        "Loose Lucy",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Playing In The Band",
+        "He's Gone",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Wharf Rat",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Veteran's Memorial Coliseum",
+  "city": "Jacksonville",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And My Uncle",
+        "Big River",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Deal",
+        "El Paso",
+        "It Must Have Been The Roses",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Dupree's Diamond Blues",
+        "Cassidy",
+        "Far From Me"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Throwing Stones",
+        "The Wheel",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

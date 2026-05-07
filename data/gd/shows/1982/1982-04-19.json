@@ -1,0 +1,44 @@
+{
+  "venue": "Baltimore Civic Center",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "On The Road Again",
+        "Peggy O",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "Little Red Rooster",
+        "Cumberland Blues",
+        "Man Smart (Woman Smarter)",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

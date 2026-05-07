@@ -1,0 +1,42 @@
+{
+  "venue": "Rosemont Horizon",
+  "city": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "When I Paint My Masterpiece",
+        "Cumberland Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Spoonful",
+        "Smokestack Lightnin'",
+        "He's Gone",
+        "Drums",
+        "I Will Take You Home",
+        "All Along The Watchtower",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Nashville Municipal Auditorium",
+  "city": "Nashville",
+  "state": "TN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "From The Heart Of Me",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

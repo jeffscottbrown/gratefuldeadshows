@@ -1,0 +1,43 @@
+{
+  "venue": "Pittsburgh Civic Arena",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Little Red Rooster",
+        "Dire Wolf",
+        "It's All Over Now",
+        "We Can Run",
+        "Brown Eyed Women",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Man Smart (Woman Smarter)",
+        "Foolish Heart",
+        "Drums",
+        "The Wheel",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Around And Around",
+        "Goin' Down The Road Feeling Bad",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "venue": "Orpheum Theatre",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Cassidy",
+        "Deal",
+        "Mama Tried",
+        "Row Jimmy",
+        "Big River",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Peggy O",
+        "The Music Never Stopped",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Stronger Than Dirt Or Milkin' The Turkey",
+        "Cosmic Charlie",
+        "Samson And Delilah",
+        "Spanish Jam",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Around And Around",
+        "High Time",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

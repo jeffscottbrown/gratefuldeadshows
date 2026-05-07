@@ -1,0 +1,43 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Cassidy",
+        "Dire Wolf",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Sugaree",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "Terrapin Station",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

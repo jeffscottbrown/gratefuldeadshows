@@ -1,0 +1,46 @@
+{
+  "venue": "Fieldhouse",
+  "city": "Iowa City",
+  "state": "IA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "On The Road Again",
+        "Beat It On Down The Line",
+        "Stagger Lee",
+        "I Need A Miracle",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "Iko Iko",
+        "Truckin'",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

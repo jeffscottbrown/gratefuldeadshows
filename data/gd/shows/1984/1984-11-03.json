@@ -1,0 +1,40 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Down In The Bottom",
+        "It Must Have Been The Roses",
+        "The Music Never Stopped",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Cumberland Blues",
+        "Gloria",
+        "Why Don't We Do It In The Road",
+        "Drums",
+        "Uncle John's Band",
+        "Dear Mr. Fantasy",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

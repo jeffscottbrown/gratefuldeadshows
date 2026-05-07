@@ -1,0 +1,24 @@
+{
+  "venue": "Kezar Stadium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Blues For Allah",
+        "Stronger Than Dirt Or Milkin' The Turkey",
+        "Drums",
+        "Stronger Than Dirt Or Milkin' The Turkey",
+        "Blues For Allah"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

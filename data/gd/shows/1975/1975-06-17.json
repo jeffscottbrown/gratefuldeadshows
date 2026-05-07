@@ -1,0 +1,38 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Crazy Fingers",
+        "Beat It On Down The Line",
+        "Deal",
+        "Big River",
+        "Peggy O",
+        "Me And My Uncle",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Blues For Allah",
+        "Drums",
+        "Stronger Than Dirt Or Milkin' The Turkey",
+        "Blues For Allah",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

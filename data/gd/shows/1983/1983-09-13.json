@@ -1,0 +1,41 @@
+{
+  "venue": "Manor Downs",
+  "city": "Austin",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Little Red Rooster",
+        "Loser",
+        "Cassidy",
+        "Don't Ease Me In",
+        "My Brother Esau",
+        "Brown Eyed Women",
+        "The Music Never Stopped",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

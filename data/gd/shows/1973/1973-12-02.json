@@ -1,0 +1,46 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Dire Wolf",
+        "The Race Is On",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "Ramble On Rose",
+        "El Paso",
+        "Row Jimmy",
+        "Big River",
+        "Deal",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Wharf Rat",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Playing In The Band",
+        "Mind Left Body Jam",
+        "He's Gone",
+        "Truckin'",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Morning Dew"
+      ]
+    }
+  ]
+}

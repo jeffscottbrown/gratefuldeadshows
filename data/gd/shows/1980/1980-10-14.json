@@ -1,0 +1,63 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Dark Hollow",
+        "It Must Have Been The Roses",
+        "Cassidy",
+        "I've Been All Around This World",
+        "Monkey And The Engineer",
+        "China Doll",
+        "Heaven Help The Fool",
+        "Bird Song",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Candyman",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Let It Grow",
+        "The Wheel",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Uncle John's Band",
+        "Morning Dew",
+        "Playing In The Band",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

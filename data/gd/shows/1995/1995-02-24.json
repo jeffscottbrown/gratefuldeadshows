@@ -1,0 +1,31 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Same Thing",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Loose Lucy",
+        "Let It Grow",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "Corrina",
+        "Drums",
+        "Space",
+        "Visions Of Johanna",
+        "Turn On Your Lovelight",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

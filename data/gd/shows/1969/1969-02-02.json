@@ -1,0 +1,23 @@
+{
+  "venue": "Labor Temple",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Mexicali Blues",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Black Throated Wind",
+        "Don't Ease Me In",
+        "El Paso",
+        "They Love Each Other",
+        "Big River",
+        "Loser",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Row Jimmy",
+        "Jack Straw",
+        "Here Comes Sunshine",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Dark Star",
+        "Eyes Of The World",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

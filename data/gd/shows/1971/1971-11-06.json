@@ -1,0 +1,45 @@
+{
+  "venue": "Harding Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Sugaree",
+        "Jack Straw",
+        "Tennessee Jed",
+        "El Paso",
+        "Loser",
+        "Playing In The Band",
+        "Cumberland Blues",
+        "Black Peter",
+        "Beat It On Down The Line",
+        "Deal",
+        "Mexicali Blues",
+        "Sing Me Back Home",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Comes A Time",
+        "Sugar Magnolia",
+        "Brown Eyed Women",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

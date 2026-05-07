@@ -1,0 +1,24 @@
+{
+  "venue": "Club Melk Weg",
+  "city": "Amsterdam",
+  "state": "",
+  "country": "Netherlands",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Monkey And The Engineer",
+        "I've Been All Around This World",
+        "Cassidy",
+        "On The Road Again",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Oh Babe It Ain't No Lie"
+      ]
+    }
+  ]
+}

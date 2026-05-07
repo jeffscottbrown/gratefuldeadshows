@@ -1,0 +1,46 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "The Music Never Stopped",
+        "Me And My Uncle",
+        "Big River",
+        "It Must Have Been The Roses",
+        "C.C. Rider",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "On The Road Again",
+        "Althea",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Morning Dew",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

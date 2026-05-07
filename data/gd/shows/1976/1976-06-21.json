@@ -1,0 +1,46 @@
+{
+  "venue": "Tower Theatre",
+  "city": "Upper Darby",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Mama Tried",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "Scarlet Begonias",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Candyman",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Wheel",
+        "Samson And Delilah",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "It Must Have Been The Roses",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Around And Around",
+        "It Must Have Been The Roses"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

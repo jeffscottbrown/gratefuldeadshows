@@ -1,0 +1,44 @@
+{
+  "venue": "BSU Pavilion",
+  "city": "Boise",
+  "state": "ID",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Wang Dang Doodle",
+        "Jack Straw",
+        "They Love Each Other",
+        "Mama Tried",
+        "Big River",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Big Railroad Blues",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Throwing Stones",
+        "Goin' Down The Road Feeling Bad",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

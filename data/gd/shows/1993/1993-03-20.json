@@ -1,0 +1,41 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "It's All Over Now",
+        "So Many Roads",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Looks Like Rain",
+        "Lazy River Road",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

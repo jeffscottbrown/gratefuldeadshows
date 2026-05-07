@@ -1,0 +1,44 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Mama Tried",
+        "Big River",
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "Big Railroad Blues",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "I Need A Miracle",
+        "I Ain't Superstitous",
+        "He's Gone",
+        "Drums",
+        "Mind Left Body Jam",
+        "Morning Dew",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Dark Hollow",
+        "I've Been All Around This World",
+        "Cassidy",
+        "China Doll",
+        "On The Road Again",
+        "Bird Song",
+        "The Race Is On",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "High Time",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

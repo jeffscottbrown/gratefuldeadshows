@@ -1,0 +1,47 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Cassidy",
+        "Scarlet Begonias",
+        "The Music Never Stopped",
+        "Crazy Fingers",
+        "Big River",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Ship Of Fools",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Stephen",
+        "Eyes Of The World",
+        "Let It Grow",
+        "Drums",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "High Time",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Franklin's Tower"
+      ]
+    }
+  ]
+}

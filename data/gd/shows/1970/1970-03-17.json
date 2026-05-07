@@ -1,0 +1,16 @@
+{
+  "venue": "Kleinhans Music Hall",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "Drums",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

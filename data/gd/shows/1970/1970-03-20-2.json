@@ -1,0 +1,38 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Hard To Handle",
+        "Deep Elem Blues",
+        "Friend Of The Devil",
+        "Don't Ease Me In",
+        "Black Peter",
+        "Uncle John's Band",
+        "Katie Mae",
+        "Good Lovin'",
+        "Drums",
+        "Not Fade Away",
+        "Drums",
+        "Good Lovin'",
+        "Viola Lee Blues",
+        "High Time",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

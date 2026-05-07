@@ -1,0 +1,46 @@
+{
+  "venue": "The Palladium",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Cassidy",
+        "They Love Each Other",
+        "Big River",
+        "Loser",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Sugaree",
+        "El Paso",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Scarlet Begonias",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Drums",
+        "The Wheel",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

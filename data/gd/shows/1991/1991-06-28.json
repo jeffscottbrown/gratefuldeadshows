@@ -1,0 +1,43 @@
+{
+  "venue": "Mile High Stadium",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Wang Dang Doodle",
+        "Peggy O",
+        "Black Throated Wind",
+        "Iko Iko",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Picasso Moon",
+        "Crazy Fingers",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

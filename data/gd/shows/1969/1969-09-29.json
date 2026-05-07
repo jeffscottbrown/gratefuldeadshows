@@ -1,0 +1,18 @@
+{
+  "venue": "Caf' au Go",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alligator",
+        "Drums",
+        "The Other One",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Festhalle",
+  "city": "Frankfurt",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Wang Dang Doodle",
+        "Foolish Heart",
+        "Desolation Row",
+        "Bird Song",
+        "Valley Road"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Standing On The Moon",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "venue": "Civic Convention Hall Auditorium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Dire Wolf",
+        "Me And Bobby Mcgee",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Deal",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "Big River",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Scarlet Begonias",
+        "He's Gone",
+        "Truckin'",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

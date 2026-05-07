@@ -1,0 +1,41 @@
+{
+  "venue": "Great Western Forum",
+  "city": "Inglewood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "To Lay Me Down",
+        "When I Paint My Masterpiece",
+        "Friend Of The Devil",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Just A Little Light",
+        "Truckin'",
+        "Crazy Fingers",
+        "Playing In The Band",
+        "Jam",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

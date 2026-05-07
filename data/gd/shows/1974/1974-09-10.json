@@ -1,0 +1,46 @@
+{
+  "venue": "Alexandra Palace",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Around And Around",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Beat It On Down The Line",
+        "Peggy O",
+        "Tennessee Jed",
+        "Black Throated Wind",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Loser",
+        "Black Peter",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Stella Blue"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "Dire Wolf",
+        "Not Fade Away",
+        "Ramble On Rose",
+        "Big River",
+        "Dark Star",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Veterans Memorial Hall",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Friend Of The Devil",
+        "Passenger",
+        "Candyman",
+        "Cassidy",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

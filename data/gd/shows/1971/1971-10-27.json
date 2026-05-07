@@ -1,0 +1,41 @@
+{
+  "venue": "Onondaga County War Memorial",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Deal",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Beat It On Down The Line",
+        "Sugaree",
+        "Playing In The Band",
+        "Comes A Time",
+        "Mexicali Blues",
+        "Big Railroad Blues",
+        "Cumberland Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Me And Bobby Mcgee",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Brown Eyed Women",
+        "Truckin'",
+        "Not Fade Away",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

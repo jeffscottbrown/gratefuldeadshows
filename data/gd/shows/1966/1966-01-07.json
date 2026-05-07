@@ -1,0 +1,17 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "I'm A King Bee",
+        "I'm A Hog For You Baby",
+        "Caution (Do Not Stop On Tracks)",
+        "Death Don't Have No Mercy"
+      ]
+    }
+  ]
+}

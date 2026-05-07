@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Stadium",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Cassidy",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Scarlet Begonias",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Help On The Way",
+        "Slipknot!",
+        "Drums",
+        "Samson And Delilah",
+        "Slipknot!",
+        "Franklin's Tower",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

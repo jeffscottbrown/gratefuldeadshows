@@ -1,0 +1,38 @@
+{
+  "venue": "Carolina Coliseum Arena",
+  "city": "Columbia",
+  "state": "SC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Werewolves Of London",
+        "The Music Never Stopped",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Playing In The Band",
+        "Ship Of Fools",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

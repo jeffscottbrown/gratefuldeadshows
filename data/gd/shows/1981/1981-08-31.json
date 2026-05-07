@@ -1,0 +1,46 @@
+{
+  "venue": "Aladdin Theatre",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Jack A Roe",
+        "El Paso",
+        "Candyman",
+        "Little Red Rooster",
+        "Loser",
+        "Cassidy",
+        "Althea",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Never Trust A Woman",
+        "Morning Dew",
+        "Playing In The Band",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

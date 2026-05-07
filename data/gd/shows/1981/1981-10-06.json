@@ -1,0 +1,45 @@
+{
+  "venue": "Rainbow Theater",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "Little Red Rooster",
+        "Althea",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Never Trust A Woman",
+        "Cumberland Blues",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Man Smart (Woman Smarter)",
+        "High Time",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "The Wheel",
+        "Sugar Magnolia",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sunshine Daydream",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

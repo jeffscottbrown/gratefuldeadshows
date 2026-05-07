@@ -1,0 +1,44 @@
+{
+  "venue": "Kingswood Music Theatre",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Bird Song",
+        "Beat It On Down The Line",
+        "Dupree's Diamond Blues",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Never Trust A Woman",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "New Orleans",
+        "Big Boss Man",
+        "Iko Iko"
+      ]
+    }
+  ]
+}

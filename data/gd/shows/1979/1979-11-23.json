@@ -1,0 +1,43 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "High Time",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Easy To Love You",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

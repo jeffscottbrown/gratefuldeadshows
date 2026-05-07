@@ -1,0 +1,42 @@
+{
+  "venue": "USAir Arena",
+  "city": "Landover",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Jack A Roe",
+        "It's All Over Now",
+        "High Time",
+        "If The Shoe Fits",
+        "Lazy River Road",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)",
+        "Samba In The Rain",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

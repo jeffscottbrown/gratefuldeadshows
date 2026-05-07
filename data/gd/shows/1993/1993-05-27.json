@@ -1,0 +1,42 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "The Same Thing",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "High Time",
+        "When I Paint My Masterpiece",
+        "Cumberland Blues",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Picasso Moon",
+        "Fire On The Mountain",
+        "Wave To The Wind",
+        "Cassidy",
+        "Uncle John's Band",
+        "Cassidy",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

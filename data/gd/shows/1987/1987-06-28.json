@@ -1,0 +1,41 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "Little Red Rooster",
+        "Bird Song",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Saint Of Circumstance",
+        "Drums",
+        "I Need A Miracle",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

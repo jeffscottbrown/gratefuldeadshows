@@ -1,0 +1,41 @@
+{
+  "venue": "Dallas Memorial Auditorium",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "Me And My Uncle",
+        "Brown Eyed Women",
+        "Black Throated Wind",
+        "Bertha",
+        "El Paso",
+        "Deal",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Sugaree",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Box Of Rain",
+        "Truckin'",
+        "Ramble On Rose",
+        "Big River",
+        "Casey Jones",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

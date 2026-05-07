@@ -1,0 +1,42 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Black Throated Wind",
+        "Candyman",
+        "Queen Jane Approximately",
+        "Brown Eyed Women",
+        "Eternity",
+        "Liberty"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Way To Go Home",
+        "Broken Arrow",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "I Need A Miracle",
+        "Days Between",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

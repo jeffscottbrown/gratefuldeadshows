@@ -1,0 +1,42 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Candyman",
+        "Wang Dang Doodle",
+        "Althea",
+        "Me And My Uncle",
+        "Big River",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Truckin'",
+        "Deal",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

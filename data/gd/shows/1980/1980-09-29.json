@@ -1,0 +1,57 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "On The Road Again",
+        "Bird Song",
+        "Cassidy",
+        "I've Been All Around This World",
+        "Heaven Help The Fool",
+        "To Lay Me Down",
+        "Dark Hollow",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "El Paso",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Candyman",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Drums",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

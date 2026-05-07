@@ -1,0 +1,43 @@
+{
+  "venue": "Rupp Arena",
+  "city": "Lexington",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Dire Wolf",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Funiculi Funicula",
+        "Passenger",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Truckin'",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London",
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

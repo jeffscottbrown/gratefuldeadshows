@@ -1,0 +1,35 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Good Morning Little Schoolgirl",
+        "Alligator",
+        "Feedback"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

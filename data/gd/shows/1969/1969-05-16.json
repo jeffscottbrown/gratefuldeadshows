@@ -1,0 +1,18 @@
+{
+  "venue": "Campolindo High School",
+  "city": "Moraga",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

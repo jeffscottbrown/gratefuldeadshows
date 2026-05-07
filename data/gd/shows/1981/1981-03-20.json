@@ -1,0 +1,46 @@
+{
+  "venue": "Rainbow Theater",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "C.C. Rider",
+        "Althea",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "New Minglewood Blues",
+        "Candyman",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

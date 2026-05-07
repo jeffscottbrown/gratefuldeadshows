@@ -1,0 +1,32 @@
+{
+  "venue": "Seattle Center Coliseum",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "It Hurts Me Too",
+        "Cumberland Blues",
+        "Casey Jones",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hard To Handle",
+        "Turn On Your Lovelight",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

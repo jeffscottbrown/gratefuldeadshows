@@ -1,0 +1,29 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Loser",
+        "It Hurts Me Too",
+        "Cumberland Blues",
+        "Empty Pages",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Me And Bobby Mcgee",
+        "Big Boss Man",
+        "Brokedown Palace",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

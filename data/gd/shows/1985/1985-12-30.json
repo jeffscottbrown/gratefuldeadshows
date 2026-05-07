@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)",
+        "Samson And Delilah",
+        "He's Gone",
+        "I Need A Miracle",
+        "Crazy Fingers",
+        "Jam",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "venue": "Thelma Theater",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Me And My Uncle",
+        "Easy Wind",
+        "Cumberland Blues",
+        "Black Peter",
+        "Next Time You See Me",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hard To Handle",
+        "Casey Jones",
+        "Mama Tried",
+        "High Time",
+        "Dire Wolf",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "I'm A King Bee",
+        "Uncle John's Band",
+        "Jam",
+        "He Was A Friend Of Mine",
+        "Alligator",
+        "Drums",
+        "Caution (Do Not Stop On Tracks)",
+        "And We Bid You Good Night",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

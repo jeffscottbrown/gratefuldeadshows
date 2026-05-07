@@ -1,0 +1,44 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "El Paso",
+        "Friend Of The Devil",
+        "It's All Over Now",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Althea",
+        "C.C. Rider",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Iko Iko",
+        "Morning Dew",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Alabama Getaway"
+      ]
+    }
+  ]
+}

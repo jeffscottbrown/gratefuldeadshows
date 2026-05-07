@@ -1,0 +1,41 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Truckin'",
+        "It Hurts Me Too",
+        "Loser",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Mama Tried",
+        "Hard To Handle",
+        "Dark Star",
+        "Wharf Rat",
+        "Dark Star",
+        "Me And My Uncle"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Playing In The Band",
+        "Me And Bobby Mcgee",
+        "Candyman",
+        "Big Boss Man",
+        "Sugar Magnolia",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

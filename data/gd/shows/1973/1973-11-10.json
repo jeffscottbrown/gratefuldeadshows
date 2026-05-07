@@ -1,0 +1,54 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Jack Straw",
+        "Loser",
+        "Looks Like Rain",
+        "Deal",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "El Paso",
+        "Brokedown Palace",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Morning Dew",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Big River",
+        "Stella Blue",
+        "Truckin'",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

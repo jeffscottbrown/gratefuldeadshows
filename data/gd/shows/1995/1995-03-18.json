@@ -1,0 +1,31 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "El Paso",
+        "Ramble On Rose",
+        "Just Like Tom Thumb's Blues",
+        "Jack A Roe",
+        "The Promised Land",
+        "It's All Too Much",
+        "Iko Iko",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Visions Of Johanna",
+        "One More Saturday Night",
+        "Rain",
+        "It's All Too Much"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "Big River",
+        "It Must Have Been The Roses",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Dancing In The Street",
+        "Drums",
+        "Terrapin Station",
+        "Not Fade Away",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

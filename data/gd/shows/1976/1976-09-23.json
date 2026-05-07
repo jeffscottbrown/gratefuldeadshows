@@ -1,0 +1,41 @@
+{
+  "venue": "Cameron Indoor Stadium",
+  "city": "Durham",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Crazy Fingers",
+        "El Paso",
+        "It Must Have Been The Roses",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Looks Like Rain",
+        "Eyes Of The World",
+        "Samson And Delilah",
+        "High Time",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Drums",
+        "The Other One",
+        "Morning Dew"
+      ]
+    }
+  ]
+}

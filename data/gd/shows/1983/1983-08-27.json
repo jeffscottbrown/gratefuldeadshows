@@ -1,0 +1,39 @@
+{
+  "venue": "Seattle Center Memorial Coliseum",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Deep Elem Blues",
+        "My Brother Esau",
+        "Brown Eyed Women",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Throwing Stones",
+        "Black Peter",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

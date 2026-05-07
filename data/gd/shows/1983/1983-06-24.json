@@ -1,0 +1,44 @@
+{
+  "venue": "Dane County Coliseum",
+  "city": "Madison",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Far From Me",
+        "Candyman",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Truckin'",
+        "Morning Dew",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

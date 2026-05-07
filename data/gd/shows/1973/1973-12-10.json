@@ -1,0 +1,49 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Deal",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Big River",
+        "Don't Ease Me In",
+        "El Paso",
+        "Brown Eyed Women",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Peggy O",
+        "Me And My Uncle",
+        "Row Jimmy",
+        "Me And Bobby Mcgee",
+        "Big Railroad Blues",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Eyes Of The World",
+        "Brokedown Palace",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Sugar Magnolia",
+        "Goin' Down The Road Feeling Bad",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

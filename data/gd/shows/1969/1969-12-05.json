@@ -1,0 +1,38 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And My Uncle",
+        "Casey Jones",
+        "Black Peter",
+        "Mama Tried",
+        "It Hurts Me Too",
+        "Cumberland Blues",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "The Eleven",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie",
+        "Dancing In The Street",
+        "Dire Wolf",
+        "China Cat Sunflower",
+        "Dancing In The Street",
+        "Dire Wolf",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "High Time",
+        "Uncle John's Band",
+        "The Main Ten",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

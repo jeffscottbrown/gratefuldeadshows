@@ -1,0 +1,41 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Jack Straw",
+        "Dire Wolf",
+        "Wang Dang Doodle",
+        "Row Jimmy",
+        "Picasso Moon",
+        "Tennessee Jed",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Eyes Of The World",
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Last Time"
+      ]
+    }
+  ]
+}

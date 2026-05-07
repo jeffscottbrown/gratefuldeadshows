@@ -1,0 +1,42 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Stagger Lee",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Passenger",
+        "Brown Eyed Women",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Dancing In The Street",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Shakedown Street",
+        "Playing In The Band",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

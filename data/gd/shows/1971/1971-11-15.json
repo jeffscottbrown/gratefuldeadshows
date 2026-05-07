@@ -1,0 +1,47 @@
+{
+  "venue": "Austin Municipal Auditorium",
+  "city": "Austin",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Bertha",
+        "Playing In The Band",
+        "Deal",
+        "Jack Straw",
+        "Loser",
+        "Beat It On Down The Line",
+        "Dark Star",
+        "El Paso",
+        "Dark Star",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Brokedown Palace",
+        "Me And Bobby Mcgee",
+        "Cumberland Blues",
+        "Sugar Magnolia",
+        "You Win Again",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

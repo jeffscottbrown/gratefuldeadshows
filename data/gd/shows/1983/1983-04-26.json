@@ -1,0 +1,44 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Maybe You Know",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "It Must Have Been The Roses",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

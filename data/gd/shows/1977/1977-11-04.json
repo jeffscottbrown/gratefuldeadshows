@@ -1,0 +1,43 @@
+{
+  "venue": "Cotterell Gym",
+  "city": "Hamilton",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Brown Eyed Women",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "Sunrise",
+        "New Minglewood Blues",
+        "Dupree's Diamond Blues",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Cold Rain And Snow",
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "The Other One",
+        "Drums",
+        "Iko Iko",
+        "Stella Blue",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

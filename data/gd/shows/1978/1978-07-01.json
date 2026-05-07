@@ -1,0 +1,39 @@
+{
+  "venue": "Arrowhead Stadium",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Playing In The Band",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

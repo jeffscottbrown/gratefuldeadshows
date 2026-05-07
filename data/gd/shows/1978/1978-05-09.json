@@ -1,0 +1,40 @@
+{
+  "venue": "Onondaga County War Memorial",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "Friend Of The Devil",
+        "El Paso",
+        "Candyman",
+        "Passenger",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Dancing In The Street",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ]
+}

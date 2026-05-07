@@ -1,0 +1,58 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Monkey And The Engineer",
+        "I've Been All Around This World",
+        "Dark Hollow",
+        "Jack A Roe",
+        "Heaven Help The Fool",
+        "China Doll",
+        "On The Road Again",
+        "Bird Song",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Me And My Uncle",
+        "Big River",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Playing In The Band",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

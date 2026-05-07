@@ -1,0 +1,51 @@
+{
+  "venue": "Dane County Coliseum",
+  "city": "Madison",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Loose Lucy",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Box Of Rain",
+        "Row Jimmy",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Bertha",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "El Paso",
+        "You Ain't Woman Enough",
+        "They Love Each Other",
+        "Big River",
+        "Dark Star",
+        "Eyes Of The World",
+        "China Doll",
+        "The Promised Land",
+        "Sugaree",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

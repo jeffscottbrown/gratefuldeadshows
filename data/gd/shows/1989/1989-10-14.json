@@ -1,0 +1,41 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "New Minglewood Blues",
+        "We Can Run",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Scarlet Begonias",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "China Doll",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And My Uncle",
+        "Next Time You See Me",
+        "Casey Jones",
+        "Playing In The Band",
+        "Loser",
+        "Me And Bobby Mcgee",
+        "Hard To Handle",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Saint Stephen",
+        "Drums",
+        "Jam",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

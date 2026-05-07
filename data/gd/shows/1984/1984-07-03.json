@@ -1,0 +1,43 @@
+{
+  "venue": "Starlight Theatre",
+  "city": "Kansas City",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Candyman",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "My Brother Esau",
+        "Loser",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Touch Of Grey",
+        "Fire On The Mountain",
+        "Jam",
+        "Don't Need Love",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Tons Of Steel",
+        "High Time",
+        "When I Paint My Masterpiece",
+        "When Push Comes To Shove",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Crazy Fingers",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "All Along The Watchtower",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

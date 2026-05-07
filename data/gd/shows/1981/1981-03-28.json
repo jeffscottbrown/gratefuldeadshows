@@ -1,0 +1,44 @@
+{
+  "venue": "Grugahalle",
+  "city": "Essen",
+  "state": "",
+  "country": "DE",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Althea",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

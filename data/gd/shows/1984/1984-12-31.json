@@ -1,0 +1,44 @@
+{
+  "venue": "San Francisco Civic Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Jack Straw",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Wheel",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Uncle John's Band",
+        "Around And Around",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

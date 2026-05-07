@@ -1,0 +1,26 @@
+{
+  "venue": "Washington University",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Morning Dew",
+        "Good Morning Little Schoolgirl",
+        "Dark Star",
+        "Saint Stephen",
+        "It's A Sin",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Caution (Do Not Stop On Tracks)"
+      ]
+    }
+  ]
+}

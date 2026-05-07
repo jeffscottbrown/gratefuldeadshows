@@ -1,0 +1,45 @@
+{
+  "venue": "Roosevelt Stadium",
+  "city": "Jersey City",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Big River",
+        "Loser",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "The Music Never Stopped",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Dancing In The Street",
+        "The Wheel",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Not Fade Away",
+        "Drums",
+        "The Other One",
+        "Ship Of Fools",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

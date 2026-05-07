@@ -1,0 +1,48 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Mr. Charlie",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Black Peter",
+        "Next Time You See Me",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Mexicali Blues",
+        "Smokestack Lightnin'",
+        "Big Railroad Blues",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Deal",
+        "El Paso",
+        "Brokedown Palace",
+        "Uncle John's Band",
+        "Not Fade Away",
+        "Turn On Your Lovelight",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "San Francisco Civic Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "C.C. Rider",
+        "They Love Each Other",
+        "Beat It On Down The Line",
+        "Althea",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Throwing Stones",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

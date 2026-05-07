@@ -1,0 +1,43 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bird Song",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "It's All Over Now",
+        "Candyman",
+        "My Brother Esau",
+        "Big Railroad Blues",
+        "Greatest Story Ever Told"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

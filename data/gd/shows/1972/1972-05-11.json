@@ -1,0 +1,55 @@
+{
+  "venue": "Rotterdam Civic Hall",
+  "city": "Rotterdam",
+  "state": "",
+  "country": "NL",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Sugaree",
+        "Mr. Charlie",
+        "Black Throated Wind",
+        "Deal",
+        "Chinatown Shuffle",
+        "Mexicali Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "It Hurts Me Too",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Casey Jones",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "Me And My Uncle",
+        "Two Souls In Communion",
+        "El Paso",
+        "Tennessee Jed",
+        "Next Time You See Me",
+        "Dark Star",
+        "Drums",
+        "Dark Star",
+        "Sugar Magnolia",
+        "Caution (Do Not Stop On Tracks)",
+        "Who Do You Love?",
+        "Caution (Do Not Stop On Tracks)",
+        "Truckin'",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

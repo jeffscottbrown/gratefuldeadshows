@@ -1,0 +1,36 @@
+{
+  "venue": "Cobo Arena",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Loser",
+        "El Paso",
+        "Scarlet Begonias",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Playing In The Band",
+        "The Wheel",
+        "Good Lovin'",
+        "Comes A Time",
+        "Dancing In The Street",
+        "Not Fade Away",
+        "Dancing In The Street",
+        "Around And Around"
+      ]
+    }
+  ]
+}

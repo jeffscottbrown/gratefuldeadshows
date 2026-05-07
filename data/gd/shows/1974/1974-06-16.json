@@ -1,0 +1,56 @@
+{
+  "venue": "State Fairgrounds",
+  "city": "Des Moines",
+  "state": "IA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "Scarlet Begonias",
+        "Black Throated Wind",
+        "Sugaree",
+        "El Paso",
+        "It Must Have Been The Roses",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues",
+        "The Race Is On",
+        "Eyes Of The World",
+        "Big River",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Deal",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Wharf Rat",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

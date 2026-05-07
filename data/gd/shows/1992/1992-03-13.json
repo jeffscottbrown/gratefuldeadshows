@@ -1,0 +1,41 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "The Same Thing",
+        "Brown Eyed Women",
+        "El Paso",
+        "Candyman",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Way To Go Home",
+        "Crazy Fingers",
+        "Man Smart (Woman Smarter)",
+        "Wave To The Wind",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "venue": "Stabler Arena",
+  "city": "Bethlehem",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "El Paso",
+        "Peggy O",
+        "Little Red Rooster",
+        "Bird Song",
+        "Beat It On Down The Line",
+        "Cumberland Blues",
+        "Passenger",
+        "Althea",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Never Trust A Woman",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Sugar Magnolia",
+        "Black Peter",
+        "Around And Around",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

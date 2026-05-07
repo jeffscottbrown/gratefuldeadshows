@@ -1,0 +1,47 @@
+{
+  "venue": "Fox Theatre",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Tennessee Jed",
+        "Jack Straw",
+        "Don't Ease Me In",
+        "Black Throated Wind",
+        "Sugaree",
+        "Mexicali Blues",
+        "Bertha",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Beat It On Down The Line",
+        "Dire Wolf",
+        "Around And Around",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Big River",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Bird Song",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "He's Gone",
+        "The Other One",
+        "Greatest Story Ever Told",
+        "Comes A Time",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

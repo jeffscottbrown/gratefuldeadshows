@@ -1,0 +1,43 @@
+{
+  "venue": "Silva Hall",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Dire Wolf",
+        "Little Red Rooster",
+        "Dupree's Diamond Blues",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Beat It On Down The Line",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "China Doll",
+        "Drums",
+        "Truckin'",
+        "Spoonful",
+        "Black Peter",
+        "Around And Around",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

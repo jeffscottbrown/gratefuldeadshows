@@ -1,0 +1,42 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Ramble On Rose",
+        "Down In The Bottom",
+        "I Ain't Superstitous",
+        "Row Jimmy",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Spoonful",
+        "Drums",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

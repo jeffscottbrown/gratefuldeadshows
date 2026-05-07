@@ -1,0 +1,40 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Iko Iko",
+        "Walkin' Blues",
+        "Far From Me",
+        "Row Jimmy",
+        "Victim Or The Crime",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Just A Little Light",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

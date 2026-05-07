@@ -1,0 +1,18 @@
+{
+  "venue": "Max Yasgur's Farm",
+  "city": "Bethel",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Saint Stephen",
+        "Mama Tried",
+        "Dark Star",
+        "High Time",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

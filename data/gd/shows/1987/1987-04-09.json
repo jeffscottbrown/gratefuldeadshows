@@ -1,0 +1,42 @@
+{
+  "venue": "UIC Pavilion",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "The Promised Land",
+        "When Push Comes To Shove",
+        "Never Trust A Woman",
+        "El Paso",
+        "Row Jimmy",
+        "My Brother Esau",
+        "Far From Me",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "China Doll",
+        "Goin' Down The Road Feeling Bad",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

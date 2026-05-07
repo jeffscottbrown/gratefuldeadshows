@@ -1,0 +1,44 @@
+{
+  "venue": "Academy of Music",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Black Throated Wind",
+        "Chinatown Shuffle",
+        "Brown Eyed Women",
+        "Beat It On Down The Line",
+        "Looks Like Rain",
+        "Mr. Charlie",
+        "Jack Straw",
+        "Next Time You See Me",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Ramble On Rose",
+        "Two Souls In Communion",
+        "Mexicali Blues",
+        "Big Boss Man",
+        "Dark Star",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

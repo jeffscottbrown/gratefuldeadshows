@@ -1,0 +1,43 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Big Railroad Blues",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Black Peter",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

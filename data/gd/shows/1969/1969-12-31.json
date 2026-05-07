@@ -1,0 +1,50 @@
+{
+  "venue": "Boston Tea Party",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Mama Tried",
+        "Next Time You See Me",
+        "Cold Rain And Snow",
+        "Black Peter",
+        "Hard To Handle",
+        "Me And My Uncle",
+        "Mason's Children",
+        "Dire Wolf",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alligator",
+        "Drums",
+        "Alligator",
+        "Jam",
+        "And We Bid You Good Night",
+        "Alligator",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "Good Lovin'",
+        "Drums",
+        "The Eleven",
+        "High Time",
+        "Cumberland Blues",
+        "Big Boy Pete",
+        "Not Fade Away",
+        "Seasons Of My Heart",
+        "The Race Is On",
+        "Silver Threads And Golden Needle",
+        "Ol' Slewfoot",
+        "Dancing In The Street"
+      ]
+    }
+  ]
+}

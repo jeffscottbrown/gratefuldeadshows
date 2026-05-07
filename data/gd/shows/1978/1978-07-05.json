@@ -1,0 +1,37 @@
+{
+  "venue": "Omaha Civic Auditorium",
+  "city": "Omaha",
+  "state": "NE",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Beat It On Down The Line",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Dire Wolf",
+        "It's All Over Now",
+        "Candyman",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Deal",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Wharf Rat",
+        "Truckin'",
+        "Iko Iko",
+        "Around And Around"
+      ]
+    }
+  ]
+}

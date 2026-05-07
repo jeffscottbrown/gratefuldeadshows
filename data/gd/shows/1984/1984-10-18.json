@@ -1,0 +1,40 @@
+{
+  "venue": "Meadowlands Arena",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Candyman",
+        "Little Red Rooster",
+        "Big Railroad Blues",
+        "Cassidy",
+        "Althea",
+        "Hell In A Bucket"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dancing In The Street",
+        "Touch Of Grey",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "China Doll",
+        "Drums",
+        "Playing In The Band",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Dire Wolf",
+        "C.C. Rider",
+        "Candyman",
+        "It's All Over Now",
+        "Crazy Fingers",
+        "Greatest Story Ever Told",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Looks Like Rain",
+        "He's Gone",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Wheel",
+        "Stella Blue",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

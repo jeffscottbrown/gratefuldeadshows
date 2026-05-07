@@ -1,0 +1,40 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Brown Eyed Women",
+        "Spoonful",
+        "Lazy River Road",
+        "When I Paint My Masterpiece",
+        "Bird Song",
+        "Picasso Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Way To Go Home",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "The Last Time",
+        "Days Between",
+        "Throwing Stones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

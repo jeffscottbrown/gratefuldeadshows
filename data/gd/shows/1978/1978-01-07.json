@@ -1,0 +1,41 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Cassidy",
+        "Sunrise",
+        "Passenger",
+        "Mexicali Blues",
+        "Me And My Uncle",
+        "Looks Like Rain",
+        "El Paso",
+        "Let It Grow",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Dancing In The Street",
+        "Samson And Delilah",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

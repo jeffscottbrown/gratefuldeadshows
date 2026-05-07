@@ -1,0 +1,55 @@
+{
+  "venue": "Cow Palace",
+  "city": "Daly City",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "U.S. Blues",
+        "The Promised Land",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Black Throated Wind",
+        "Scarlet Begonias",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "El Paso",
+        "Deal",
+        "Cassidy",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Morning Dew",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Ship Of Fools",
+        "Big River",
+        "Ramble On Rose",
+        "Me And My Uncle",
+        "Bertha",
+        "Around And Around",
+        "Wharf Rat",
+        "Sugar Magnolia",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Milwaukee Auditorium",
+  "city": "Milwaukee",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Row Jimmy",
+        "Beat It On Down The Line",
+        "Candyman",
+        "It's All Over Now",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Dupree's Diamond Blues",
+        "Dancing In The Street",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

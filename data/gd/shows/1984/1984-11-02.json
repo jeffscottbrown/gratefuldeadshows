@@ -1,0 +1,43 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Peggy O",
+        "El Paso",
+        "Loser",
+        "Smokestack Lightnin'",
+        "Spoonful",
+        "Smokestack Lightnin'",
+        "Iko Iko"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Wharf Rat",
+        "Gimme Some Lovin'",
+        "Drums",
+        "Playing In The Band",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

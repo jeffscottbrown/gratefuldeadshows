@@ -1,0 +1,42 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Alabama Getaway",
+        "El Paso",
+        "Althea",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Far From Me",
+        "New Minglewood Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Saint Of Circumstance",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

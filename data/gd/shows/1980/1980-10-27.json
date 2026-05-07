@@ -1,0 +1,57 @@
+{
+  "venue": "Radio City Music Hall",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Race Is On",
+        "I've Been All Around This World",
+        "Monkey And The Engineer",
+        "To Lay Me Down",
+        "Heaven Help The Fool",
+        "Rosalie Mcfall",
+        "On The Road Again",
+        "Bird Song",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Passenger",
+        "Row Jimmy",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Truckin'",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Wharf Rat",
+        "I Need A Miracle",
+        "Bertha",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

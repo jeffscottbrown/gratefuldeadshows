@@ -1,0 +1,31 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Deal",
+        "Wang Dang Doodle",
+        "Dire Wolf",
+        "Black Throated Wind",
+        "Bird Song",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Box Of Rain",
+        "Estimated Prophet",
+        "He's Gone",
+        "That Would Be Something",
+        "Drums",
+        "Jam",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

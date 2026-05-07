@@ -1,0 +1,42 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Cassidy",
+        "Loser",
+        "Feel Like A Stranger",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "I Need A Miracle",
+        "Drums",
+        "The Other One",
+        "Goin' Down The Road Feeling Bad",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

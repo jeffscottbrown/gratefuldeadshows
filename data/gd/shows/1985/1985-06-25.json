@@ -1,0 +1,44 @@
+{
+  "venue": "Blossom Music Center",
+  "city": "Cuyahoga Falls",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Day Tripper",
+        "West L.A. Fadeaway",
+        "C.C. Rider",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "Row Jimmy",
+        "Me And My Uncle",
+        "Big River",
+        "Big Railroad Blues",
+        "Jack Straw",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Gimme Some Lovin'",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

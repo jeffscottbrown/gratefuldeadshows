@@ -1,0 +1,42 @@
+{
+  "venue": "Charlotte Coliseum",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "California Earthquake (Whole Lotta Shakin' Goin' On)",
+        "Feel Like A Stranger",
+        "Loser",
+        "Walkin' Blues",
+        "Bertha",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Looks Like Rain",
+        "We Can Run",
+        "Crazy Fingers",
+        "Terrapin Station",
+        "Drums",
+        "I Will Take You Home",
+        "Goin' Down The Road Feeling Bad",
+        "Standing On The Moon",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Attics Of My Life"
+      ]
+    }
+  ]
+}

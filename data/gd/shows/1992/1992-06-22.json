@@ -1,0 +1,43 @@
+{
+  "venue": "Star Lake Amphitheatre",
+  "city": "Burgettstown",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Loser",
+        "Walkin' Blues",
+        "It Must Have Been The Roses",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Victim Or The Crime",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Other One",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

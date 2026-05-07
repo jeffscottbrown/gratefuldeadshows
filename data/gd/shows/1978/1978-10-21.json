@@ -1,0 +1,42 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ollin Arrageed",
+        "The Promised Land",
+        "Sugaree",
+        "Passenger",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "I Need A Miracle"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "It Must Have Been The Roses",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Got My Mojo Workin",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "venue": "The Ark",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sittin' On Top Of The World",
+        "Morning Dew",
+        "Beat It On Down The Line",
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Death Don't Have No Mercy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dupree's Diamond Blues",
+        "Mountains Of The Moon",
+        "Jam",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight",
+        "Drums",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

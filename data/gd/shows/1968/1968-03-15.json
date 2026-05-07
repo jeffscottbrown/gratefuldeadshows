@@ -1,0 +1,31 @@
+{
+  "venue": "Carousel Ballroom",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "China Cat Sunflower",
+        "The Eleven",
+        "Good Morning Little Schoolgirl"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Morning Dew",
+        "It Hurts Me Too",
+        "Cryptical Envelopment",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Alligator",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Park West Ski Resort",
+  "city": "Park West",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "My Brother Esau",
+        "Althea",
+        "Hell In A Bucket",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

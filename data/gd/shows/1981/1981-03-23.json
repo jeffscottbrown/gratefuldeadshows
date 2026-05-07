@@ -1,0 +1,43 @@
+{
+  "venue": "Rainbow Theater",
+  "city": "London",
+  "state": "",
+  "country": "UK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Cassidy",
+        "It Must Have Been The Roses",
+        "El Paso",
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "Sugaree",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bird Song",
+        "Samson And Delilah",
+        "To Lay Me Down",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

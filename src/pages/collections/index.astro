@@ -1,0 +1,38 @@
+---
+import Layout from '@/components/Layout.astro';
+import CollectionBadge from '@/components/CollectionBadge.astro';
+import { getAllCollections } from '@/lib/releases';
+
+const collections = await getAllCollections();
+---
+
+<Layout
+  title="Official Release Collections"
+  description="Browse Grateful Dead official release collections: Dick's Picks, Dave's Picks, box sets, and more."
+>
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-2">Official Release Collections</h1>
+    <p class="text-gray-400 mb-8">
+      {collections.length} collections spanning the full catalog
+    </p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+      {collections.map((c) => (
+        <a
+          href={`/collections/${c.slug}`}
+          class="group p-6 rounded-xl border border-dead-border bg-dead-card hover:border-dead-gold hover:bg-dead-card-hover transition-all"
+        >
+          <div class="flex items-center gap-3 mb-3">
+            <CollectionBadge slug={c.slug} size="sm" noLink />
+            <h2 class="text-base font-semibold text-white group-hover:text-dead-gold transition-colors leading-tight">
+              {c.name}
+            </h2>
+          </div>
+          <p class="text-sm text-gray-500">
+            {c.releaseCount} release{c.releaseCount !== 1 ? 's' : ''} &middot; {c.showCount} show{c.showCount !== 1 ? 's' : ''}
+          </p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Layout>

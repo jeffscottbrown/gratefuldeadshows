@@ -1,0 +1,43 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Crazy Fingers",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

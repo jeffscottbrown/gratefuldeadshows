@@ -1,0 +1,42 @@
+{
+  "venue": "John F. Kennedy Stadium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Iko Iko",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Loser",
+        "Let It Grow",
+        "Blow Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Standing On The Moon",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

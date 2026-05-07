@@ -1,0 +1,40 @@
+{
+  "venue": "Shoreline Amphitheatre",
+  "city": "Mountain View",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "It's All Over Now",
+        "Ramble On Rose",
+        "Desolation Row",
+        "Dark Star",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Victim Or The Crime",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "Playing In The Band",
+        "Standing On The Moon",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

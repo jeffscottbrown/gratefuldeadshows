@@ -1,0 +1,45 @@
+{
+  "venue": "Field House",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Hard To Handle",
+        "Dancing In The Street",
+        "Me And My Uncle"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Friend Of The Devil",
+        "Deep Elem Blues",
+        "Candyman",
+        "Wake Up Little Susie",
+        "Black Peter",
+        "Uncle John's Band",
+        "Katie Mae"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie",
+        "Not Fade Away",
+        "Turn On Your Lovelight",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

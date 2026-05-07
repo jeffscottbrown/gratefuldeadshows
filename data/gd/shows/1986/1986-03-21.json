@@ -1,0 +1,38 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "(I'm A) Road Runner",
+        "Dupree's Diamond Blues",
+        "New Minglewood Blues",
+        "Bird Song",
+        "Tons Of Steel",
+        "Supplication",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

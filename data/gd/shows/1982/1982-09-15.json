@@ -1,0 +1,40 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Little Red Rooster",
+        "Dupree's Diamond Blues",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "Let It Grow",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Not Fade Away",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

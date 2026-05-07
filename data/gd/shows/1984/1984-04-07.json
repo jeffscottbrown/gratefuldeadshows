@@ -1,0 +1,43 @@
+{
+  "venue": "Irvine Meadows Amphitheatre",
+  "city": "Irvine",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "C.C. Rider",
+        "Big Railroad Blues",
+        "My Brother Esau",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Spanish Jam",
+        "The Other One",
+        "Throwing Stones",
+        "Wharf Rat",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

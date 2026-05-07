@@ -1,0 +1,43 @@
+{
+  "venue": "Copps Coliseum",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Easy To Love You",
+        "Beat It On Down The Line",
+        "It Must Have Been The Roses",
+        "The Last Time",
+        "Picasso Moon",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Believe It Or Not",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Hey Jude",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

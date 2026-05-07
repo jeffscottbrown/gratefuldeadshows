@@ -1,0 +1,20 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Black Throated Wind",
+        "He's Gone",
+        "Beat It On Down The Line",
+        "Loser",
+        "The Frozen Logger",
+        "El Paso"
+      ]
+    }
+  ]
+}

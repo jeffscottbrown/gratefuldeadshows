@@ -1,0 +1,50 @@
+{
+  "venue": "Veterans Memorial Auditorium",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Loser",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "El Paso",
+        "Sugaree",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Box Of Rain",
+        "Black Throated Wind",
+        "Tennessee Jed",
+        "Me And Bobby Mcgee",
+        "Bird Song",
+        "Big River",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Ramble On Rose",
+        "Truckin'",
+        "The Other One",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Morning Dew",
+        "Tomorrow Is Forever",
+        "The Promised Land",
+        "Deal",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

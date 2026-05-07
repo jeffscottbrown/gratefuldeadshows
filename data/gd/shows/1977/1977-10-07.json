@@ -1,0 +1,44 @@
+{
+  "venue": "University of New Mexico",
+  "city": "Albuquerque",
+  "state": "NM",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Jack Straw",
+        "Peggy O",
+        "El Paso",
+        "They Love Each Other",
+        "Big River",
+        "Dupree's Diamond Blues",
+        "Let It Grow",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Sunrise",
+        "Ramble On Rose",
+        "Passenger",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Iko Iko",
+        "The Wheel",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

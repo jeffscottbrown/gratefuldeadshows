@@ -1,0 +1,31 @@
+{
+  "venue": "Avalon Ballroom",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dupree's Diamond Blues",
+        "Doin' That Rag",
+        "Cosmic Charlie",
+        "Alligator",
+        "Drums",
+        "Alligator",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

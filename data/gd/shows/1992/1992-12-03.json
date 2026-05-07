@@ -1,0 +1,39 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "Cassidy",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Corrina",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

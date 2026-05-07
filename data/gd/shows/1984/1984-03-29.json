@@ -1,0 +1,40 @@
+{
+  "venue": "Marin County Veterans Auditorium",
+  "city": "San Rafael",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Walking The Dog",
+        "Bertha",
+        "The Promised Land",
+        "It Must Have Been The Roses",
+        "Little Red Rooster",
+        "Bird Song",
+        "My Brother Esau",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Spanish Jam",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

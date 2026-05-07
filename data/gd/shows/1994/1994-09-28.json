@@ -1,0 +1,37 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "El Paso",
+        "Lazy River Road",
+        "Eternity",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Looks Like Rain",
+        "Samba In The Rain",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Black Peter",
+        "Turn On Your Lovelight",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

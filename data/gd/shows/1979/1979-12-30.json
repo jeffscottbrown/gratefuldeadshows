@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Candyman",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Let It Grow",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

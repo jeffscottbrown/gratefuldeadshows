@@ -1,0 +1,47 @@
+{
+  "venue": "Events Center",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Little Red Rooster",
+        "Bird Song",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Candyman",
+        "Cassidy",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

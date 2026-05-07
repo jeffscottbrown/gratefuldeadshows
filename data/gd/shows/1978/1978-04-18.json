@@ -1,0 +1,40 @@
+{
+  "venue": "Pittsburgh Civic Arena",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Sugaree",
+        "Looks Like Rain",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "Loser",
+        "El Paso",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Dancing In The Street",
+        "Drums",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

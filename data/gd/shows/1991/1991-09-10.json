@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "C.C. Rider",
+        "It Takes A Lot To Laugh It Takes A Train To Cry",
+        "Black Throated Wind",
+        "High Time",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "Dark Star",
+        "Drums",
+        "Space",
+        "Dark Star",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now"
+      ]
+    }
+  ]
+}

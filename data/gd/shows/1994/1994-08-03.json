@@ -1,0 +1,41 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Lazy River Road",
+        "El Paso",
+        "If The Shoe Fits",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Promised Land",
+        "Foolish Heart",
+        "Easy Answers",
+        "Samba In The Rain",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Attics Of My Life",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

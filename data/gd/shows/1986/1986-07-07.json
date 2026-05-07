@@ -1,0 +1,37 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "It's All Over Now, Baby Blue",
+        "Desolation Row"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

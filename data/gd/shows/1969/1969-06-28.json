@@ -1,0 +1,22 @@
+{
+  "venue": "Veterans Auditorium",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ol' Slewfoot",
+        "Silver Threads And Golden Needle",
+        "Mama Tried",
+        "Me And My Uncle",
+        "Doin' That Rag",
+        "High Time",
+        "I'm A King Bee",
+        "Sittin' On Top Of The World",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

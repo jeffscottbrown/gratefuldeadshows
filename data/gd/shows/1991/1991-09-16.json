@@ -1,0 +1,42 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Bertha",
+        "New Minglewood Blues",
+        "It Must Have Been The Roses",
+        "Dire Wolf",
+        "Queen Jane Approximately",
+        "West L.A. Fadeaway",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Saint Of Circumstance",
+        "Comes A Time",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Goin' Down The Road Feeling Bad",
+        "Attics Of My Life",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

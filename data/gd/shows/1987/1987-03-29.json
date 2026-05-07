@@ -1,0 +1,41 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Bertha",
+        "Little Red Rooster",
+        "Far From Me",
+        "Friend Of The Devil",
+        "El Paso",
+        "When Push Comes To Shove",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Playing In The Band",
+        "China Doll",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "The Wheel",
+        "Goin' Down The Road Feeling Bad",
+        "Black Muddy River",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

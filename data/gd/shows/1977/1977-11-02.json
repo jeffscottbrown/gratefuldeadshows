@@ -1,0 +1,44 @@
+{
+  "venue": "Field House",
+  "city": "Cincinnati",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Big River",
+        "Candyman",
+        "Looks Like Rain",
+        "Ramble On Rose",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Good Lovin'",
+        "Sunrise",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Saint Stephen",
+        "Truckin'",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Terrapin Station"
+      ]
+    }
+  ]
+}

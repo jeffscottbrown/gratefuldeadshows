@@ -1,0 +1,39 @@
+{
+  "venue": "Los Angeles Sports Arena",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Wang Dang Doodle",
+        "Lazy River Road",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "Way To Go Home",
+        "Corrina",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

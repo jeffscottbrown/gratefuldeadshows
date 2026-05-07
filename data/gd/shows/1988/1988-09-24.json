@@ -1,0 +1,43 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Feel Like A Stranger",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Box Of Rain",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Chinese Bones",
+        "Neighbourhood Girls",
+        "Crazy Fingers",
+        "Man Smart (Woman Smarter)",
+        "Every Time You Go Away",
+        "What's Going On?",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'",
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

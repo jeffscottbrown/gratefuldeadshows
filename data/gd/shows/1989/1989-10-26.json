@@ -1,0 +1,40 @@
+{
+  "venue": "Miami Arena",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Foolish Heart",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Big River",
+        "Brown Eyed Women",
+        "Victim Or The Crime",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
+        "Blow Away",
+        "Dark Star",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

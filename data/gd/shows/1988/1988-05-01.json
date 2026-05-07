@@ -1,0 +1,43 @@
+{
+  "venue": "Frost Amphitheatre",
+  "city": "Palo Alto",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Box Of Rain",
+        "Hell In A Bucket",
+        "Touch Of Grey",
+        "Little Red Rooster",
+        "Far From Me",
+        "Cumberland Blues",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "When Push Comes To Shove",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Louie Louie",
+        "Truckin'",
+        "Crazy Fingers",
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

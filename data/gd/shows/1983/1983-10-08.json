@@ -1,0 +1,40 @@
+{
+  "venue": "Richmond Coliseum",
+  "city": "Richmond",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "New Minglewood Blues",
+        "Brown Eyed Women",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Keep Your Day Job",
+        "Playing In The Band",
+        "Crazy Fingers",
+        "Drums",
+        "Truckin'",
+        "Spoonful",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

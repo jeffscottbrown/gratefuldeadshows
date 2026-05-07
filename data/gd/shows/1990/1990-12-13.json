@@ -1,0 +1,42 @@
+{
+  "venue": "McNichols Sports Arena",
+  "city": "Denver",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "Wang Dang Doodle",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Valley Road"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Morning Dew",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

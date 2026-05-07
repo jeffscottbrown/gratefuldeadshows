@@ -1,0 +1,50 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Jack Straw",
+        "Me And Bobby Mcgee",
+        "Tennessee Jed",
+        "Box Of Rain",
+        "El Paso",
+        "Cumberland Blues",
+        "Don't Ease Me In",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "He's Gone",
+        "Truckin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Other One",
+        "Sugar Magnolia",
+        "Sing Me Back Home",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

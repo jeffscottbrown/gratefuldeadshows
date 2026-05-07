@@ -1,0 +1,44 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Scarlet Begonias",
+        "Little Red Rooster",
+        "Dire Wolf",
+        "My Brother Esau",
+        "High Time",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Devil With The Blue Dress On",
+        "Good Golly Miss Molly",
+        "Devil With The Blue Dress On",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "Truckin'",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

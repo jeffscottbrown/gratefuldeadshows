@@ -1,0 +1,28 @@
+{
+  "venue": "Miami Arena",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Walkin' Blues",
+        "Friend Of The Devil",
+        "Queen Jane Approximately",
+        "Ramble On Rose",
+        "The Music Never Stopped",
+        "Eyes Of The World",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Stella Blue",
+        "Sugar Magnolia",
+        "Liberty"
+      ]
+    }
+  ]
+}

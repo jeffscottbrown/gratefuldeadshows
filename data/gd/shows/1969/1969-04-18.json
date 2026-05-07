@@ -1,0 +1,25 @@
+{
+  "venue": "Memorial Union Ballroom",
+  "city": "West Lafayette",
+  "state": "IN",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hard To Handle",
+        "Morning Dew",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Sittin' On Top Of The World",
+        "I'm A King Bee",
+        "Doin' That Rag",
+        "Turn On Your Lovelight",
+        "Cosmic Charlie",
+        "Beat It On Down The Line"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Manhattan Center",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "It Hurts Me Too",
+        "Me And Bobby Mcgee",
+        "Dire Wolf",
+        "Oh Boy",
+        "I'm A Hog For You Baby",
+        "Playing In The Band",
+        "In The Midnight Hour",
+        "Mama Tried",
+        "Cumberland Blues",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Johnny B. Goode",
+        "Loser",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Sugar Magnolia",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Truckin'"
+      ]
+    }
+  ]
+}

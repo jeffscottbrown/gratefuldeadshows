@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Spoonful",
+        "Friend Of The Devil",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Way To Go Home",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "I Need A Miracle",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

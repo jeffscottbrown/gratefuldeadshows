@@ -1,0 +1,28 @@
+{
+  "venue": "Atwood Hall",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Good Morning Little Schoolgirl",
+        "Doin' That Rag",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Death Don't Have No Mercy",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dupree's Diamond Blues",
+        "Mountains Of The Moon"
+      ]
+    }
+  ]
+}

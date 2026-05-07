@@ -1,0 +1,47 @@
+{
+  "venue": "Texas Christian University",
+  "city": "Fort Worth",
+  "state": "TX",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Beat It On Down The Line",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "El Paso",
+        "Sugaree",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Me And Bobby Mcgee",
+        "Loser",
+        "Playing In The Band",
+        "Tennessee Jed",
+        "You Win Again",
+        "Mexicali Blues",
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Me And My Uncle",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

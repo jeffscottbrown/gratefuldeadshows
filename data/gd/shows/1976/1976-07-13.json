@@ -1,0 +1,43 @@
+{
+  "venue": "Orpheum Theatre",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Peggy O",
+        "Cassidy",
+        "Crazy Fingers",
+        "Let It Grow",
+        "Drums",
+        "Let It Grow",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Music Never Stopped",
+        "It Must Have Been The Roses",
+        "Samson And Delilah",
+        "High Time",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Sugar Magnolia",
+        "Stella Blue",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Dancing In The Street"
+      ]
+    }
+  ]
+}

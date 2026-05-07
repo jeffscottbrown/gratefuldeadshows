@@ -1,0 +1,27 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Not Fade Away",
+        "Cumberland Blues",
+        "Cold Rain And Snow",
+        "High Time",
+        "Me And My Uncle",
+        "Dark Star",
+        "Spanish Jam",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

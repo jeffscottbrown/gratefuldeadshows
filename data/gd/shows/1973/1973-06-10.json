@@ -1,0 +1,53 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Beat It On Down The Line",
+        "Ramble On Rose",
+        "Jack Straw",
+        "Wave That Flag",
+        "Looks Like Rain",
+        "Box Of Rain",
+        "They Love Each Other",
+        "The Race Is On",
+        "Row Jimmy",
+        "El Paso",
+        "Bird Song",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Stella Blue",
+        "Big River",
+        "Here Comes Sunshine",
+        "Around And Around",
+        "Dark Star",
+        "He's Gone",
+        "Wharf Rat",
+        "Truckin'",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It Takes A Lot To Laugh It Takes A Train To Cry",
+        "That's All Right, Mama",
+        "The Promised Land",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

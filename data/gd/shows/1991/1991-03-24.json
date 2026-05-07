@@ -1,0 +1,44 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Wang Dang Doodle",
+        "Jack A Roe",
+        "Beat It On Down The Line",
+        "Brown Eyed Women",
+        "Desolation Row",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Orpheum Theatre",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Scarlet Begonias",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "Mama Tried",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Brown Eyed Women",
+        "Samson And Delilah",
+        "Friend Of The Devil",
+        "Let It Grow",
+        "Eyes Of The World",
+        "Wharf Rat",
+        "The Other One",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

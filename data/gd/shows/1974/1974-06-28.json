@@ -1,0 +1,58 @@
+{
+  "venue": "Boston Garden",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "It Must Have Been The Roses",
+        "Jack Straw",
+        "Beat It On Down The Line",
+        "Deal",
+        "Mexicali Blues",
+        "Tennessee Jed",
+        "Me And Bobby Mcgee",
+        "Loose Lucy",
+        "El Paso",
+        "Sugaree",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Seastones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Big River",
+        "To Lay Me Down",
+        "Me And My Uncle",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Space",
+        "Mind Left Body Jam",
+        "Jam",
+        "U.S. Blues",
+        "The Promised Land",
+        "Goin' Down The Road Feeling Bad",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Ship Of Fools"
+      ]
+    }
+  ]
+}

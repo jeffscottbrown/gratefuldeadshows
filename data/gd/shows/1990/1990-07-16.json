@@ -1,0 +1,46 @@
+{
+  "venue": "Rich Stadium",
+  "city": "Orchard Park",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Blow Away",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loose Lucy",
+        "It's All Over Now",
+        "High Time",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Wharf Rat",
+        "Around And Around",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

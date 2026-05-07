@@ -1,0 +1,58 @@
+{
+  "venue": "Warfield Theater",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "On The Road Again",
+        "Jack A Roe",
+        "Monkey And The Engineer",
+        "Bird Song",
+        "Dark Hollow",
+        "Rosalie Mcfall",
+        "Heaven Help The Fool",
+        "China Doll",
+        "Oh Babe It Ain't No Lie",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Peggy O",
+        "Beat It On Down The Line",
+        "Friend Of The Devil",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Loser",
+        "Little Red Rooster",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Samson And Delilah",
+        "He's Gone",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Black Peter",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

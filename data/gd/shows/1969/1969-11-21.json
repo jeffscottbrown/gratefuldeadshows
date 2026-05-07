@@ -1,0 +1,32 @@
+{
+  "venue": "Building A",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Good Morning Little Schoolgirl",
+        "Cold Rain And Snow",
+        "Cumberland Blues",
+        "Easy Wind"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "High Time",
+        "Me And My Uncle",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

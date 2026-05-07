@@ -1,0 +1,39 @@
+{
+  "venue": "Copps Coliseum",
+  "city": "Ontario",
+  "state": "",
+  "country": "CA",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "So Many Roads"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Way To Go Home",
+        "Corrina",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Black Peter",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "venue": "Harpur College",
+  "city": "Binghamton",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "I Know You Rider",
+        "Friend Of The Devil",
+        "Dire Wolf",
+        "Beat It On Down The Line",
+        "Black Peter",
+        "Candyman",
+        "Cumberland Blues",
+        "Deep Elem Blues",
+        "Cold Jordan",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Stephen",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie",
+        "Casey Jones",
+        "Good Lovin'",
+        "Cold Rain And Snow",
+        "It's A Man's World",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Morning Dew",
+        "Viola Lee Blues",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

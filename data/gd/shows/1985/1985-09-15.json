@@ -1,0 +1,43 @@
+{
+  "venue": "Devore Field",
+  "city": "Chula Vista",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Dupree's Diamond Blues",
+        "Smokestack Lightnin'",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "She Belongs To Me",
+        "Truckin'",
+        "Comes A Time",
+        "Around And Around",
+        "Drums",
+        "Space",
+        "U.S. Blues",
+        "(I Can't Get No) Satisfaction"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

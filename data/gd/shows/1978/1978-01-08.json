@@ -1,0 +1,39 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Mama Tried",
+        "Big River",
+        "Sunrise",
+        "It's All Over Now",
+        "Looks Like Rain",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Good Lovin'",
+        "Estimated Prophet",
+        "Drums",
+        "The Other One",
+        "Truckin'",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

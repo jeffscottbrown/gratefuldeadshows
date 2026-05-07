@@ -1,0 +1,49 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Beat It On Down The Line",
+        "Sugaree",
+        "Greatest Story Ever Told",
+        "Brown Eyed Women",
+        "Me And My Uncle",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Deal",
+        "Jack Straw",
+        "Tennessee Jed",
+        "El Paso",
+        "Bird Song",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Row Jimmy",
+        "Truckin'",
+        "Drums",
+        "Eyes Of The World",
+        "Let Me Sing Your Blues Away",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

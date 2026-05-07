@@ -1,0 +1,42 @@
+{
+  "venue": "Paramount Northwest Theatre",
+  "city": "Seattle",
+  "state": "WA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Mama Tried",
+        "Deal",
+        "Looks Like Rain",
+        "Ramble On Rose",
+        "El Paso",
+        "Sugaree",
+        "Let It Grow",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

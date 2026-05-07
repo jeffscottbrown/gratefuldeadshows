@@ -1,0 +1,45 @@
+---
+/**
+ * Search page: filter shows by year, country, and city.
+ * All filtering is client-side — data is serialized into the page at build time.
+ */
+import Layout from '@/components/Layout.astro';
+import SearchPage from '@/components/islands/SearchPage';
+import { getAllShows, getYears, getCities, getCountries } from '@/lib/shows';
+import { buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
+import type { ShowRow } from '@/components/islands/ShowList';
+
+const [allShows, years, cities, countries, releaseIndex] = await Promise.all([
+  getAllShows(),
+  getYears(),
+  getCities(),
+  getCountries(),
+  buildReleasesDateIndex(),
+]);
+
+const showRows: ShowRow[] = allShows.map((s) => ({
+  slug: s.slug, band: s.band, date: s.date, year: s.year,
+  venue: s.venue, city: s.city, state: s.state, country: s.country,
+  collections: getCollectionsForDate(s.date, releaseIndex),
+}));
+
+const yearOpts = years.map(({ year, gdCount, dacCount }) => ({ year, count: gdCount + dacCount }));
+---
+
+<Layout title="Search Shows" description="Filter Grateful Dead and Dead & Company shows by year, country, and city.">
+  <div class="mx-auto max-w-7xl px-4 py-10">
+    <h1 class="text-3xl font-bold text-dead-gold mb-2">Search Shows</h1>
+    <p class="text-gray-400 mb-8">Filter by year, country, and city.</p>
+    <!--
+      SearchPage is a React island. It reads initial filter values from the URL
+      (so the "Today" link and external links work), then manages state client-side.
+    -->
+    <SearchPage
+      shows={showRows}
+      years={yearOpts}
+      countries={countries}
+      cities={cities}
+      client:load
+    />
+  </div>
+</Layout>

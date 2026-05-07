@@ -1,0 +1,50 @@
+{
+  "venue": "Pauley Pavilion",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "Looks Like Rain",
+        "Stagger Lee",
+        "Passenger",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Sugaree",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Shakedown Street",
+        "Drums",
+        "Ollin Arrageed",
+        "Space",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

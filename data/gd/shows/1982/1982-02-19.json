@@ -1,0 +1,44 @@
+{
+  "venue": "Golden Hall",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Little Red Rooster",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Candyman",
+        "El Paso",
+        "Althea",
+        "New Minglewood Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Ship Of Fools",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Man Smart (Woman Smarter)",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

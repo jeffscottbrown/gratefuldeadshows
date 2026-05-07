@@ -1,0 +1,41 @@
+{
+  "venue": "Laguna Seca Recreation Area",
+  "city": "Monterey",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Walkin' Blues",
+        "Candyman",
+        "Queen Jane Approximately",
+        "Althea",
+        "Blow Away",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "Crazy Fingers",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Believe It Or Not",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

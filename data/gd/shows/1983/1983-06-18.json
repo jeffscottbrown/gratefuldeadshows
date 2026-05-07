@@ -1,0 +1,44 @@
+{
+  "venue": "Saratoga Performing Arts Center",
+  "city": "Saratoga",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Jack Straw",
+        "Bird Song",
+        "Mexicali Blues",
+        "Big River",
+        "Althea",
+        "Hell In A Bucket",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Playing In The Band",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

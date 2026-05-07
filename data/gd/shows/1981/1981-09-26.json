@@ -1,0 +1,44 @@
+{
+  "venue": "War Memorial Auditorium",
+  "city": "Buffalo",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "C.C. Rider",
+        "They Love Each Other",
+        "Cassidy",
+        "Jack A Roe",
+        "On The Road Again",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Bertha",
+        "Estimated Prophet",
+        "Goin' Down The Road Feeling Bad",
+        "Drums",
+        "Not Fade Away",
+        "Morning Dew",
+        "Playing In The Band",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "The Omni",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Good Morning Little Schoolgirl",
+        "Friend Of The Devil",
+        "Queen Jane Approximately",
+        "Loose Lucy",
+        "Broken Arrow",
+        "Easy Answers",
+        "Alabama Getaway"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Samba In The Rain",
+        "He's Gone",
+        "That Would Be Something",
+        "Drums",
+        "Visions Of Johanna",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

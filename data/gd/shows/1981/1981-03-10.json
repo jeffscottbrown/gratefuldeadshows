@@ -1,0 +1,46 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Me And My Uncle",
+        "It Must Have Been The Roses",
+        "Little Red Rooster",
+        "Don't Ease Me In",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "China Doll",
+        "Truckin'",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

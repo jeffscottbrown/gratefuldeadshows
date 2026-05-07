@@ -1,0 +1,43 @@
+{
+  "venue": "Masonic Temple",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Me And My Uncle",
+        "Big River",
+        "They Love Each Other",
+        "Beat It On Down The Line",
+        "Dire Wolf",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Friend Of The Devil",
+        "Jack Straw",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

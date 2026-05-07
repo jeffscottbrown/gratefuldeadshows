@@ -1,0 +1,43 @@
+{
+  "venue": "Buckeye Lake Music Center",
+  "city": "Hebron",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Stagger Lee",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Picasso Moon",
+        "Bird Song",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Saint Of Circumstance",
+        "In The Midnight Hour",
+        "West L.A. Fadeaway",
+        "Truckin'",
+        "Spoonful",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Baba O'riley",
+        "Tomorrow Never Knows"
+      ]
+    }
+  ]
+}

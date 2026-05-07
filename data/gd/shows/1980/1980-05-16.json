@@ -1,0 +1,45 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "High Time",
+        "Me And My Uncle",
+        "Big River",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Feel Like A Stranger",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Eyes Of The World",
+        "Drums",
+        "Truckin'",
+        "Morning Dew",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

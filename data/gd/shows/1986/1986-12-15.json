@@ -1,0 +1,45 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "C.C. Rider",
+        "When Push Comes To Shove",
+        "Beat It On Down The Line",
+        "Greatest Story Ever Told",
+        "Loser",
+        "Cassidy",
+        "Althea",
+        "My Brother Esau",
+        "Candyman",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "Black Muddy River",
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "Truckin'",
+        "Wharf Rat",
+        "Playing In The Band",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

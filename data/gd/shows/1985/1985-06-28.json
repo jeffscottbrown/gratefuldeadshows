@@ -1,0 +1,41 @@
+{
+  "venue": "Hershey Park Stadium",
+  "city": "Hershey",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "The Promised Land",
+        "Ramble On Rose",
+        "I Ain't Superstitous",
+        "Down In The Bottom",
+        "Bird Song",
+        "Comes A Time",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Music Never Stopped",
+        "Just Like Tom Thumb's Blues",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Morning Dew",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Providence Civic Center",
+  "city": "Providence",
+  "state": "RI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "Cassidy",
+        "Dire Wolf",
+        "New Minglewood Blues",
+        "Althea",
+        "Looks Like Rain",
+        "Far From Me",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ramble On Rose",
+        "Supplication",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "The Other One",
+        "Wharf Rat",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

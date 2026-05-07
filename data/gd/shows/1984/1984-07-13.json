@@ -1,0 +1,43 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "C.C. Rider",
+        "Loser",
+        "Cassidy",
+        "Dupree's Diamond Blues",
+        "Hell In A Bucket",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Touch Of Grey",
+        "Fire On The Mountain",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "I Need A Miracle",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Dark Star"
+      ]
+    }
+  ]
+}

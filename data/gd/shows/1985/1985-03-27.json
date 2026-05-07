@@ -1,0 +1,39 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "Mama Tried",
+        "Big River",
+        "Just Like Tom Thumb's Blues",
+        "Brown Eyed Women",
+        "Tons Of Steel",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

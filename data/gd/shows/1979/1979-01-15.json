@@ -1,0 +1,41 @@
+{
+  "venue": "Springfield Civic Center Arena",
+  "city": "Springfield",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Jack A Roe",
+        "Cassidy",
+        "Row Jimmy",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Stagger Lee",
+        "Passenger",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Shakedown Street",
+        "From The Heart Of Me",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

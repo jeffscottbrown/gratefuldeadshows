@@ -1,0 +1,48 @@
+{
+  "venue": "Paramount Theater",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Friend Of The Devil",
+        "Mama Tried",
+        "Sugaree",
+        "Cassidy",
+        "Candyman",
+        "Big River",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Mission In The Rain",
+        "Looks Like Rain",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Might As Well",
+        "Samson And Delilah",
+        "Cosmic Charlie",
+        "Let It Grow",
+        "Drums",
+        "Stella Blue",
+        "Dancing In The Street",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "venue": "Field House",
+  "city": "Middletown",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Workin' Man Blues",
+        "I Don't Know You",
+        "Last Lonely Eagle",
+        "Truck Drivin' Man",
+        "Fair Chance To Know"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "New Speedway Boogie",
+        "Drums",
+        "Good Lovin'",
+        "Drums",
+        "Jam",
+        "Good Lovin'",
+        "Dire Wolf",
+        "Don't Ease Me In",
+        "Turn On Your Lovelight",
+        "The Main Ten",
+        "Uncle John's Band",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

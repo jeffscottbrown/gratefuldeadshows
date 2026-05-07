@@ -1,0 +1,45 @@
+{
+  "venue": "St. Louis Arena",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Row Jimmy",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Jack A Roe",
+        "Passenger",
+        "Funiculi Funicula",
+        "Brown Eyed Women",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Saint Stephen",
+        "Iko Iko",
+        "Not Fade Away",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

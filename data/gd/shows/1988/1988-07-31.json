@@ -1,0 +1,42 @@
+{
+  "venue": "Laguna Seca Recreation Area",
+  "city": "Monterey",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "Gentlemen Start Your Engines",
+        "When I Paint My Masterpiece",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Foolish Heart",
+        "Man Smart (Woman Smarter)",
+        "Terrapin Station",
+        "I Will Take You Home",
+        "Drums",
+        "The Other One",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

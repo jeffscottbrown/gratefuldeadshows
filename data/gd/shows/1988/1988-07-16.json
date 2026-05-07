@@ -1,0 +1,41 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Little Red Rooster",
+        "Loser",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Far From Me",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

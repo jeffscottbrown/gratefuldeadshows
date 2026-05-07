@@ -1,0 +1,211 @@
+---
+/**
+ * Show detail page: /shows/gd/1977-05-08 or /shows/dac/2015-06-16
+ *
+ * getStaticPaths generates one route per show in both bands' collections.
+ */
+import Layout from '@/components/Layout.astro';
+import CollectionBadge from '@/components/CollectionBadge.astro';
+import { getAllShows, type Band } from '@/lib/shows';
+import { getAllReleases, buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
+import { formatDate, setLabel } from '@/lib/format';
+import { getBadge } from '@/lib/badges';
+
+export async function getStaticPaths() {
+  const shows = await getAllShows();
+  return shows.map((show) => ({
+    params: { band: show.band, slug: show.slug },
+    props: { show },
+  }));
+}
+
+const { show } = Astro.props;
+
+// Releases for this specific show
+const [releases, releaseIndex] = await Promise.all([
+  getAllReleases(),
+  buildReleasesDateIndex(),
+]);
+const showCollectionSlugs = getCollectionsForDate(show.date, releaseIndex);
+const showReleases = releases.filter((r) => {
+  if (showCollectionSlugs.includes(r.collectionSlug)) {
+    if (r.isRange && r.startDate && r.endDate) return show.date >= r.startDate && show.date <= r.endDate;
+    return r.dates.includes(show.date);
+  }
+  return false;
+});
+
+// External links
+const d = show.date.replace(/-/g, '/');
+const bandPath = show.band === 'gd' ? 'grateful-dead' : 'dead-and-company';
+const relistenUrl = `https://relisten.net/${bandPath}/${d}`;
+const archiveQuery = show.band === 'gd'
+  ? `collection%3AGratefulDead%20AND%20date%3A${show.date}`
+  : `collection%3ADeadAndCompany%20AND%20date%3A${show.date}`;
+const archiveUrl = `https://archive.org/search.php?query=${archiveQuery}`;
+---
+
+<Layout
+  title={`${show.date} — ${show.venue}`}
+  description={`${show.band === 'gd' ? 'Grateful Dead' : 'Dead & Company'} at ${show.venue}, ${show.city} on ${show.date}`}
+>
+  <div class="mx-auto max-w-4xl px-4 py-10">
+    <!-- Breadcrumb -->
+    <div class="flex items-center gap-2 text-sm text-gray-500 mb-6">
+      <a href={`/years/${show.year}`} class="hover:text-dead-gold transition-colors">{show.year}</a>
+      <span>/</span>
+      <a href={`/cities/${encodeURIComponent(show.city)}`} class="hover:text-dead-gold transition-colors">{show.city}</a>
+      <span>/</span>
+      <span class="text-gray-300 truncate">{show.venue}</span>
+    </div>
+
+    <!-- Show header -->
+    <div class="rounded-xl border border-dead-border bg-dead-card p-6 mb-8">
+      <div class="flex flex-wrap items-start justify-between gap-4 mb-4">
+        <div>
+          <h1 class="text-2xl font-bold text-white leading-tight">{show.venue}</h1>
+          {show.band === 'dac' && (
+            <span class="mt-1 inline-block text-xs font-bold text-teal-400 uppercase tracking-widest">
+              Dead &amp; Company
+            </span>
+          )}
+        </div>
+        <!-- Collection badges -->
+        <div class="flex flex-wrap gap-2">
+          {showCollectionSlugs.map((slug) => (
+            <CollectionBadge slug={slug} size="sm" />
+          ))}
+        </div>
+      </div>
+
+      <dl class="grid grid-cols-2 sm:grid-cols-4 gap-4 text-sm">
+        <div>
+          <dt class="text-gray-500 text-xs uppercase tracking-wider mb-1">Date</dt>
+          <dd class="text-gray-200">{formatDate(show.slug, 'long')}</dd>
+        </div>
+        <div>
+          <dt class="text-gray-500 text-xs uppercase tracking-wider mb-1">Year</dt>
+          <dd>
+            <a href={`/years/${show.year}`} class="text-purple-400 hover:text-purple-300 hover:underline transition-colors">
+              {show.year}
+            </a>
+          </dd>
+        </div>
+        <div>
+          <dt class="text-gray-500 text-xs uppercase tracking-wider mb-1">City</dt>
+          <dd>
+            <a href={`/cities/${encodeURIComponent(show.city)}`} class="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors">
+              {show.city}{show.state ? `, ${show.state}` : ''}
+            </a>
+          </dd>
+        </div>
+        <div>
+          <dt class="text-gray-500 text-xs uppercase tracking-wider mb-1">Country</dt>
+          <dd>
+            <a href={`/countries/${encodeURIComponent(show.country)}`} class="text-gray-300 hover:text-white hover:underline transition-colors">
+              {show.country}
+            </a>
+          </dd>
+        </div>
+      </dl>
+
+      {show.notes && (
+        <p class="mt-4 text-sm text-gray-400 italic border-t border-dead-border pt-4">{show.notes}</p>
+      )}
+    </div>
+
+    <!-- Listen + Official Releases -->
+    <div class="flex flex-col sm:flex-row gap-4 mb-8">
+      <!-- Listen tile -->
+      <div class="rounded-xl border border-dead-border bg-dead-card p-5 shrink-0">
+        <h2 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Listen</h2>
+        <div class="flex flex-col gap-2">
+          <a
+            href={relistenUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-dead-teal text-white text-sm font-medium hover:opacity-90 transition-opacity"
+          >
+            Relisten ↗
+          </a>
+          <a
+            href={archiveUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-dead-border border border-dead-border text-white text-sm font-medium hover:bg-dead-card-hover transition-colors"
+          >
+            Archive.org ↗
+          </a>
+        </div>
+      </div>
+
+      <!-- Official releases tile -->
+      {showReleases.length > 0 && (
+        <div class="rounded-xl border border-dead-border bg-dead-card p-5 flex-1">
+          <h2 class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Official Releases</h2>
+          <div class="flex flex-col gap-3">
+            {showReleases.map((release) => {
+              const badge = getBadge(release.collectionSlug);
+              return (
+                <div class="flex gap-3 items-start">
+                  {release.imageUrl && (
+                    <div class="w-16 h-16 shrink-0 rounded-md overflow-hidden border border-dead-border bg-dead-bg">
+                      <img
+                        src={release.imageUrl}
+                        alt={release.title}
+                        class="w-full h-full object-cover"
+                        onerror="this.parentElement.style.display='none'"
+                      />
+                    </div>
+                  )}
+                  <div class="flex flex-col gap-1 min-w-0">
+                    <a
+                      href={release.discUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="text-sm text-dead-gold hover:text-white hover:underline transition-colors leading-tight"
+                    >
+                      {release.title} ↗
+                    </a>
+                    <CollectionBadge slug={release.collectionSlug} />
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Setlist -->
+    {show.setlist.length > 0 ? (
+      <div>
+        <h2 class="text-xl font-semibold text-dead-teal-light mb-4">Setlist</h2>
+        <div class="space-y-6">
+          {show.setlist.map((set) => (
+            <div>
+              <h3 class="text-sm font-semibold text-purple-400 uppercase tracking-widest mb-3">
+                {setLabel(set.set)}
+              </h3>
+              <ol class="space-y-1">
+                {set.songs.map((song, i) => (
+                  <li class="flex items-center gap-3 group">
+                    <span class="text-xs text-gray-600 w-6 text-right shrink-0">{i + 1}.</span>
+                    <a
+                      href={`/songs/${encodeURIComponent(song.toLowerCase().replace(/[''`]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,''))}`}
+                      class="text-sm text-gray-200 hover:text-dead-gold hover:underline transition-colors"
+                    >
+                      {song}
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          ))}
+        </div>
+      </div>
+    ) : (
+      <p class="text-gray-500 italic">No setlist data available for this show.</p>
+    )}
+  </div>
+</Layout>

@@ -1,0 +1,24 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Space",
+        "Jam",
+        "The Eleven",
+        "Saint Stephen",
+        "Alligator",
+        "Drums",
+        "Turn On Your Lovelight",
+        "Caution (Do Not Stop On Tracks)",
+        "Drums",
+        "Caution (Do Not Stop On Tracks)",
+        "Feedback"
+      ]
+    }
+  ]
+}

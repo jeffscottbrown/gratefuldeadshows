@@ -1,0 +1,54 @@
+{
+  "venue": "John F. Kennedy Stadium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Jack Straw",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Althea",
+        "My Brother Esau",
+        "When Push Comes To Shove",
+        "Cassidy",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Looks Like Rain",
+        "Terrapin Station",
+        "Drums",
+        "I Need A Miracle",
+        "Black Peter",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Tangled Up In Blue",
+        "I'll Be Your Baby Tonight",
+        "Man Of Peace",
+        "The Ballad Of Frankie Lee And Judas Priest",
+        "John Brown",
+        "Simple Twist Of Fate",
+        "Ballad Of A Thin Man",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Chimes Of Freedom",
+        "Queen Jane Approximately",
+        "Gotta Serve Somebody",
+        "Joey",
+        "All Along The Watchtower"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

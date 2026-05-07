@@ -1,0 +1,24 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Dupree's Diamond Blues",
+        "Mountains Of The Moon",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Sittin' On Top Of The World",
+        "Cold Rain And Snow",
+        "Doin' That Rag",
+        "Me And My Uncle",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

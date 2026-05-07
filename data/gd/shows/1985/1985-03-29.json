@@ -1,0 +1,41 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Down In The Bottom",
+        "I Ain't Superstitous",
+        "Friend Of The Devil",
+        "Supplication",
+        "My Brother Esau",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Terrapin Station",
+        "Man Smart (Woman Smarter)",
+        "Goin' Down The Road Feeling Bad",
+        "Baby What You Want Me To Do",
+        "Drums",
+        "Wharf Rat",
+        "Throwing Stones",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

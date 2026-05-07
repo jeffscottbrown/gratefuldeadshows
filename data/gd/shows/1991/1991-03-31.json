@@ -1,0 +1,39 @@
+{
+  "venue": "Greensboro Coliseum",
+  "city": "Greensboro",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Wang Dang Doodle",
+        "Friend Of The Devil",
+        "Queen Jane Approximately",
+        "West L.A. Fadeaway",
+        "Cassidy",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Eyes Of The World",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

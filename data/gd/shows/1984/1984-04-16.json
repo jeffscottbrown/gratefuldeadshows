@@ -1,0 +1,42 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Peggy O",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Dupree's Diamond Blues",
+        "Cassidy",
+        "West L.A. Fadeaway",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hell In A Bucket",
+        "Ship Of Fools",
+        "Far From Me",
+        "He's Gone",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Keep Your Day Job"
+      ]
+    }
+  ]
+}

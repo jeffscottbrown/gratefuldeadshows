@@ -1,0 +1,29 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Black Peter",
+        "Big Boss Man",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "Dire Wolf",
+        "Dark Star",
+        "High Time",
+        "Good Morning Little Schoolgirl",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

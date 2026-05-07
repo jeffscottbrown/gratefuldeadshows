@@ -1,0 +1,42 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Truckin'",
+        "Loser",
+        "Beat It On Down The Line",
+        "Tennessee Jed",
+        "Playing In The Band",
+        "Big Railroad Blues",
+        "Jack Straw",
+        "Cumberland Blues",
+        "Comes A Time",
+        "Mexicali Blues",
+        "The Frozen Logger",
+        "Cold Rain And Snow",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Me And My Uncle",
+        "Dark Star",
+        "Sittin' On Top Of The World",
+        "Dark Star",
+        "Me And Bobby Mcgee",
+        "Brown Eyed Women",
+        "Ramble On Rose",
+        "Sugar Magnolia",
+        "Saint Stephen",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

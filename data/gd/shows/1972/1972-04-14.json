@@ -1,0 +1,47 @@
+{
+  "venue": "Tivoli Concert Hall",
+  "city": "Copenhagen",
+  "state": "",
+  "country": "DK",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Mr. Charlie",
+        "You Win Again",
+        "Black Throated Wind",
+        "Chinatown Shuffle",
+        "Loser",
+        "Me And Bobby Mcgee",
+        "Cumberland Blues",
+        "Playing In The Band",
+        "Tennessee Jed",
+        "El Paso",
+        "Big Boss Man",
+        "Beat It On Down The Line",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "It Hurts Me Too",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Dark Star",
+        "Sugar Magnolia",
+        "Good Lovin'",
+        "Caution (Do Not Stop On Tracks)",
+        "Who Do You Love?",
+        "Caution (Do Not Stop On Tracks)",
+        "Good Lovin'",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

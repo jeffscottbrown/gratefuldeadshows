@@ -1,0 +1,54 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Sugaree",
+        "Black Throated Wind",
+        "To Lay Me Down",
+        "El Paso",
+        "Ramble On Rose",
+        "Me And Bobby Mcgee",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Me And My Uncle",
+        "Loose Lucy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Dark Star",
+        "Mind Left Body Jam",
+        "Eyes Of The World",
+        "China Doll",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Johnny B. Goode",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

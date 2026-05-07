@@ -1,0 +1,62 @@
+---
+import Layout from '@/components/Layout.astro';
+---
+
+<Layout title="About" description="About GratefulDeadShows.com — built for the community.">
+  <div class="mx-auto max-w-4xl px-4 py-12 text-gray-100">
+    <div class="text-center mb-12">
+      <h1 class="text-4xl md:text-5xl font-bold text-dead-gold mb-4">Built for the Community</h1>
+      <p class="text-xl italic text-gray-400">
+        &ldquo;Once in a while you get shown the light in the strangest of places if you look at it right.&rdquo;
+      </p>
+    </div>
+
+    <section class="space-y-8 leading-relaxed text-lg text-gray-300">
+      <p>
+        Welcome to <strong class="text-gray-100">GratefulDeadShows.com</strong>. This project was born
+        out of appreciation for the music, the history, and the incredible energy that the Grateful Dead
+        community shares.
+      </p>
+
+      <div class="bg-dead-card border-l-4 border-dead-gold p-6 rounded-r-lg">
+        <p>
+          Whether you&apos;re chasing a specific sequence from &apos;77 or discovering a hidden gem from
+          the 90s, this site is here to add a little more joy to your journey through the tapes.
+          Dead &amp; Company shows are now included as well.
+        </p>
+      </div>
+
+      <h2 class="text-2xl font-semibold text-dead-gold mt-10">The Data</h2>
+      <p>
+        Show and setlist data is stored as plain JSON files — one file per show, organized by year.
+        This makes it easy for the community to contribute corrections or additions directly via GitHub.
+        Official release data (Dave&apos;s Picks, Dick&apos;s Picks, and more) is maintained in separate
+        JSON files by collection, so adding a new quarterly release is as simple as adding a single file.
+      </p>
+    </section>
+
+    <hr class="my-12 border-dead-border" />
+
+    <section class="bg-dead-card rounded-2xl p-8 border border-dead-border">
+      <h2 class="text-2xl font-bold text-gray-100 mb-4">Help Make It Better</h2>
+      <p class="mb-6 text-gray-300">
+        This is an open-source project. Your insights are what will make this site truly shine.
+        If you have:
+      </p>
+      <ul class="list-disc pl-6 space-y-2 mb-8 text-gray-300">
+        <li>Corrections to show dates, venues, or setlists</li>
+        <li>Dead &amp; Company show data to contribute</li>
+        <li>Ideas for new features or enhancements</li>
+        <li>A desire to contribute to the code</li>
+      </ul>
+      <a
+        href="https://github.com/jeffscottbrown/gratefuldeadshows/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center justify-center px-6 py-3 bg-dead-gold text-dead-bg font-semibold rounded-lg hover:opacity-90 transition-opacity"
+      >
+        Visit the GitHub Repository ↗
+      </a>
+    </section>
+  </div>
+</Layout>

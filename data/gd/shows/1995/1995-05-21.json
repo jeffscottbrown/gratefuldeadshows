@@ -1,0 +1,40 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "West L.A. Fadeaway",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Just Like Tom Thumb's Blues",
+        "So Many Roads",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Unbroken Chain",
+        "Eyes Of The World",
+        "Corrina",
+        "Drums",
+        "Spanish Jam",
+        "The Other One",
+        "Days Between",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

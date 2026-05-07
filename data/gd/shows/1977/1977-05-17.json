@@ -1,0 +1,48 @@
+{
+  "venue": "Memorial Coliseum",
+  "city": "Tuscaloosa",
+  "state": "AL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "El Paso",
+        "They Love Each Other",
+        "Jack Straw",
+        "Jack A Roe",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Passenger",
+        "High Time",
+        "Big River",
+        "Sunrise",
+        "Scarlet Begonias",
+        "Fire On The Mountain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Bertha",
+        "Good Lovin'",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Wharf Rat",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Santa Cruz County Fairgrounds",
+  "city": "Watsonville",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "Hell In A Bucket",
+        "Deep Elem Blues",
+        "Looks Like Rain",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Drums",
+        "Uncle John's Band",
+        "Throwing Stones",
+        "Not Fade Away",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Funiculi Funicula",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

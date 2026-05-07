@@ -1,0 +1,42 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Jack A Roe",
+        "Wang Dang Doodle",
+        "Loose Lucy",
+        "Queen Jane Approximately",
+        "Lazy River Road",
+        "Let It Grow",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Looks Like Rain",
+        "Way To Go Home",
+        "Truckin'",
+        "Drums",
+        "The Wheel",
+        "Throwing Stones",
+        "Goin' Down The Road Feeling Bad",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rain"
+      ]
+    }
+  ]
+}

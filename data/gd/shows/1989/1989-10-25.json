@@ -1,0 +1,41 @@
+{
+  "venue": "Miami Arena",
+  "city": "Miami",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Just A Little Light",
+        "Friend Of The Devil",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Cold Rain And Snow",
+        "Picasso Moon",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Standing On The Moon",
+        "Truckin'",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

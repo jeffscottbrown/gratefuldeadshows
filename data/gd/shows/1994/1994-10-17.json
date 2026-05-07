@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "In The Midnight Hour",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Tennessee Jed",
+        "Eternity",
+        "Friend Of The Devil",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Rainy Day Women #12 & #35"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Berkeley Community Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "El Paso",
+        "Row Jimmy",
+        "My Brother Esau",
+        "Cumberland Blues",
+        "Desolation Row",
+        "Ramble On Rose",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Maybe You Know",
+        "Goin' Down The Road Feeling Bad",
+        "Morning Dew",
+        "Around And Around",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away",
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

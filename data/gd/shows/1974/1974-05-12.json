@@ -1,0 +1,43 @@
+{
+  "venue": "University of Nevada",
+  "city": "Reno",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Tennessee Jed"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "El Paso",
+        "U.S. Blues",
+        "Greatest Story Ever Told",
+        "It Must Have Been The Roses",
+        "Me And Bobby Mcgee",
+        "Deal"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Around And Around",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "The Other One",
+        "Mind Left Body Jam",
+        "Row Jimmy",
+        "Big River",
+        "Ship Of Fools",
+        "Sugar Magnolia"
+      ]
+    }
+  ]
+}

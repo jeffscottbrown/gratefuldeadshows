@@ -1,0 +1,40 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Althea",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "Cassidy",
+        "Loose Lucy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Victim Or The Crime",
+        "Uncle John's Band",
+        "Corrina",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "China Doll",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

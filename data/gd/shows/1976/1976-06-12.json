@@ -1,0 +1,47 @@
+{
+  "venue": "Boston Music Hall",
+  "city": "Boston",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Row Jimmy",
+        "The Music Never Stopped",
+        "Brown Eyed Women",
+        "Big River",
+        "Mission In The Rain",
+        "Looks Like Rain",
+        "Friend Of The Devil",
+        "Lazy Lightnin'",
+        "Supplication",
+        "High Time",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Wheel",
+        "Cassidy",
+        "Tennessee Jed",
+        "Let It Grow",
+        "Drums",
+        "Wharf Rat",
+        "Comes A Time",
+        "Dancing In The Street",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Sugar Magnolia",
+        "U.S. Blues",
+        "Sunshine Daydream"
+      ]
+    }
+  ]
+}

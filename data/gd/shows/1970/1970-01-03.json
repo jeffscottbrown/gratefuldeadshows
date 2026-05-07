@@ -1,0 +1,28 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Cumberland Blues",
+        "Cold Rain And Snow",
+        "Alligator",
+        "Drums",
+        "Alligator",
+        "Feedback"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

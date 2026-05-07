@@ -1,0 +1,44 @@
+{
+  "venue": "Veterans Memorial Coliseum",
+  "city": "New Haven",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Little Red Rooster",
+        "Tennessee Jed",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Ship Of Fools",
+        "Throwing Stones",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Wharf Rat",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

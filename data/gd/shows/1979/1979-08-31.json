@@ -1,0 +1,39 @@
+{
+  "venue": "Glens Falls Civic Center",
+  "city": "Glens Falls",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Dire Wolf",
+        "Cassidy",
+        "Loser",
+        "El Paso",
+        "Peggy O",
+        "New Minglewood Blues",
+        "Easy To Love You",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Greatest Story Ever Told",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    }
+  ]
+}

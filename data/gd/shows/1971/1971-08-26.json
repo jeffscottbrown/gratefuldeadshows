@@ -1,0 +1,54 @@
+{
+  "venue": "Gaelic Park",
+  "city": "Bronx",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Playing In The Band",
+        "Mr. Charlie",
+        "Sugaree",
+        "El Paso",
+        "Big Boss Man",
+        "Big Railroad Blues",
+        "Hard To Handle",
+        "Beat It On Down The Line",
+        "Loser",
+        "Sugar Magnolia",
+        "Empty Pages",
+        "Good Lovin'",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Me And My Uncle",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Deal",
+        "Cumberland Blues",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Next Time You See Me",
+        "Me And Bobby Mcgee",
+        "Uncle John's Band",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Jam",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

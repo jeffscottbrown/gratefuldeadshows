@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Auditorium Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugaree",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Row Jimmy",
+        "It's All Over Now",
+        "High Time",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Uncle John's Band",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

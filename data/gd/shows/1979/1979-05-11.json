@@ -1,0 +1,37 @@
+{
+  "venue": "Billerica Forum",
+  "city": "Billerica",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Peggy O",
+        "It's All Over Now",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Passenger",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Black Peter",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

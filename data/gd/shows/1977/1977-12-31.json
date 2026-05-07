@@ -1,0 +1,42 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Tennessee Jed",
+        "Funiculi Funicula",
+        "Me And My Uncle",
+        "Loser",
+        "Jack Straw",
+        "Friend Of The Devil",
+        "Lazy Lightnin'",
+        "Supplication"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Wharf Rat",
+        "Drums",
+        "Not Fade Away",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "venue": "International Amphitheatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Me And My Uncle",
+        "Loose Lucy",
+        "Black Throated Wind",
+        "Loser",
+        "Beat It On Down The Line",
+        "Sugaree",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "El Paso",
+        "Row Jimmy",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Big River",
+        "It Must Have Been The Roses",
+        "Jack Straw",
+        "Dark Star",
+        "Stella Blue",
+        "Johnny B. Goode",
+        "Uncle John's Band",
+        "U.S. Blues",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Ship Of Fools"
+      ]
+    }
+  ]
+}

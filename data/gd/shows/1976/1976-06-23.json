@@ -1,0 +1,42 @@
+{
+  "venue": "Tower Theatre",
+  "city": "Upper Darby",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Mama Tried",
+        "Row Jimmy",
+        "Big River",
+        "High Time",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Friend Of The Devil",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Might As Well",
+        "Let It Grow",
+        "Drums",
+        "Let It Grow",
+        "Cosmic Charlie",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Dancing In The Street",
+        "The Wheel",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

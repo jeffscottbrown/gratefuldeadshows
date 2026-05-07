@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Row Jimmy",
+        "Me And My Uncle",
+        "Big River",
+        "Stagger Lee",
+        "New Minglewood Blues",
+        "When Push Comes To Shove",
+        "Sugaree",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Willie & The Hand Jive",
+        "Iko Iko",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

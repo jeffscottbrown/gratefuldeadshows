@@ -1,0 +1,44 @@
+{
+  "venue": "Buckeye Lake Music Center",
+  "city": "Hebron",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Rain",
+        "Feel Like A Stranger",
+        "Bertha",
+        "Wang Dang Doodle",
+        "Loser",
+        "El Paso",
+        "Althea",
+        "Eternity",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Foolish Heart",
+        "I Want To Tell You",
+        "Looks Like Rain",
+        "Samba In The Rain",
+        "Uncle John's Band",
+        "Saint Of Circumstance",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

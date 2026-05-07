@@ -1,0 +1,34 @@
+{
+  "venue": "Gizah Sound and Light Theater",
+  "city": "Cairo",
+  "state": "",
+  "country": "EG",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Candyman",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "El Paso",
+        "Ramble On Rose",
+        "New Minglewood Blues",
+        "Deal",
+        "Ollin Arrageed",
+        "Fire On The Mountain",
+        "Iko Iko",
+        "I Need A Miracle",
+        "It's All Over Now",
+        "Sunrise",
+        "Shakedown Street",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

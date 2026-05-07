@@ -1,0 +1,45 @@
+{
+  "venue": "Fillmore Auditorium",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Good Morning Little Schoolgirl",
+        "Casey Jones",
+        "Dire Wolf",
+        "Easy Wind",
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "High Time",
+        "Mama Tried",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "The Other One",
+        "Dark Star",
+        "Uncle John's Band",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Caution (Do Not Stop On Tracks)",
+        "Jam",
+        "The Main Ten",
+        "Caution (Do Not Stop On Tracks)",
+        "Space",
+        "Feedback",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

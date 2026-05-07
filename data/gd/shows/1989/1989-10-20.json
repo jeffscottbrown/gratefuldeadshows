@@ -1,0 +1,45 @@
+{
+  "venue": "The Spectrum",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Greatest Story Ever Told",
+        "Candyman",
+        "Picasso Moon",
+        "Just A Little Light",
+        "Tennessee Jed",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Stagger Lee",
+        "The Promised Land",
+        "California Earthquake (Whole Lotta Shakin' Goin' On)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hey Pocky Way",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "The Other One",
+        "Drums",
+        "Space",
+        "I Will Take You Home",
+        "The Other One",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

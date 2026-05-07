@@ -1,0 +1,42 @@
+{
+  "venue": "Richfield Coliseum",
+  "city": "Richfield",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Bertha",
+        "The Same Thing",
+        "Peggy O",
+        "Queen Jane Approximately",
+        "West L.A. Fadeaway",
+        "Eternity",
+        "Tennessee Jed"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Picasso Moon",
+        "New Speedway Boogie",
+        "Victim Or The Crime",
+        "He's Gone",
+        "Jam",
+        "Drums",
+        "Space",
+        "Turn On Your Lovelight",
+        "Stella Blue",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

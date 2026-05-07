@@ -1,0 +1,40 @@
+{
+  "venue": "Giants Stadium",
+  "city": "East Rutherford",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Broken Arrow",
+        "When I Paint My Masterpiece",
+        "Lazy River Road",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "Drums",
+        "Corrina",
+        "Attics Of My Life",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Liberty"
+      ]
+    }
+  ]
+}

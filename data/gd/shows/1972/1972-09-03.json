@@ -1,0 +1,54 @@
+{
+  "venue": "Folsom Field",
+  "city": "Boulder",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Black Throated Wind",
+        "Bird Song",
+        "Beat It On Down The Line",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Bertha",
+        "El Paso",
+        "Brown Eyed Women",
+        "Mexicali Blues",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Truckin'",
+        "Loser",
+        "He's Gone",
+        "The Other One",
+        "Wharf Rat",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Cold Rain And Snow",
+        "Sugar Magnolia",
+        "Deal",
+        "Jack Straw",
+        "Ramble On Rose",
+        "Rockin' Pneumonia & The Boogie Woogie Flu",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

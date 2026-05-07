@@ -1,0 +1,41 @@
+{
+  "venue": "Red Rocks Amphitheatre",
+  "city": "Morrison",
+  "state": "CO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Sugaree",
+        "On The Road Again",
+        "It Must Have Been The Roses",
+        "Me And My Uncle",
+        "Big River",
+        "Peggy O",
+        "Little Red Rooster",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "The Other One",
+        "Stella Blue",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

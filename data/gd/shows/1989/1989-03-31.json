@@ -1,0 +1,41 @@
+{
+  "venue": "Greensboro Coliseum",
+  "city": "Greensboro",
+  "state": "NC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Me And My Uncle",
+        "Big River",
+        "Loser",
+        "Victim Or The Crime",
+        "Standing On The Moon"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Hey Pocky Way",
+        "Truckin'",
+        "Terrapin Station",
+        "Drums",
+        "I Will Take You Home",
+        "All Along The Watchtower",
+        "Morning Dew",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

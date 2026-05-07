@@ -1,0 +1,43 @@
+{
+  "venue": "Curtis Hixon Convention Hall",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Passenger",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Candyman",
+        "El Paso",
+        "Tennessee Jed",
+        "It's All Over Now",
+        "Loser",
+        "Jack Straw",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Drums",
+        "Shakedown Street",
+        "Black Peter",
+        "Playing In The Band",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

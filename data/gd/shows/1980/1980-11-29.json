@@ -1,0 +1,44 @@
+{
+  "venue": "Alligator Alley Gym",
+  "city": "Gainesville",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "Candyman",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Franklin's Tower",
+        "Estimated Prophet",
+        "He's Gone",
+        "Truckin'",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

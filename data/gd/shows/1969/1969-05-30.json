@@ -1,0 +1,22 @@
+{
+  "venue": "Springer's Inn",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Morning Dew",
+        "Me And My Uncle",
+        "Doin' That Rag",
+        "I'm A King Bee",
+        "Dark Star",
+        "Cosmic Charlie",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

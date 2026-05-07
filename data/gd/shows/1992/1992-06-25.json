@@ -1,0 +1,44 @@
+{
+  "venue": "Soldier Field",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "When I Paint My Masterpiece",
+        "Brown Eyed Women",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Good Morning Little Schoolgirl",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "So Many Roads",
+        "All Along The Watchtower",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

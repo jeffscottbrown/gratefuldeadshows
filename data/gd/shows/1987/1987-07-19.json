@@ -1,0 +1,62 @@
+{
+  "venue": "Autzen Stadium",
+  "city": "Eugene",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Iko Iko",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "New Minglewood Blues",
+        "Peggy O",
+        "Addams Family Tuning",
+        "When I Paint My Masterpiece",
+        "West L.A. Fadeaway",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Playing In The Band",
+        "He's Gone",
+        "Spoonful",
+        "Drums",
+        "The Wheel",
+        "Truckin'",
+        "Wharf Rat",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Maggie's Farm",
+        "Dead Man, Dead Man",
+        "Dead Man, Dead Man",
+        "Watching The River Flow",
+        "Simple Twist Of Fate",
+        "The Ballad Of Frankie Lee And Judas Priest",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Heart Of Mine",
+        "It's All Over Now, Baby Blue",
+        "Rainy Day Women #12 & #35",
+        "Queen Jane Approximately",
+        "Ballad Of A Thin Man",
+        "Highway 61 Revisited",
+        "Tangled Up In Blue"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Touch Of Grey",
+        "All Along The Watchtower"
+      ]
+    }
+  ]
+}

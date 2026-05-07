@@ -1,0 +1,43 @@
+{
+  "venue": "Fox Theatre",
+  "city": "St. Louis",
+  "state": "MO",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Don't Ease Me In",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Man Smart (Woman Smarter)",
+        "Beat It On Down The Line",
+        "Bird Song",
+        "Big River",
+        "Loser",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "El Paso",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Drums",
+        "Dark Star",
+        "Morning Dew",
+        "Playing In The Band",
+        "Friend Of The Devil",
+        "The Promised Land",
+        "Brokedown Palace",
+        "One More Saturday Night",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

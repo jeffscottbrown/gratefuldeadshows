@@ -1,0 +1,39 @@
+{
+  "venue": "Easttown Theatre",
+  "city": "Detroit",
+  "state": "MI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugar Magnolia",
+        "Deal",
+        "El Paso",
+        "Tennessee Jed",
+        "Jack Straw",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Black Peter",
+        "Candyman",
+        "One More Saturday Night",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Truckin'",
+        "Ramble On Rose",
+        "Mexicali Blues",
+        "Dark Star",
+        "Me And Bobby Mcgee",
+        "Cumberland Blues",
+        "Saint Stephen",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

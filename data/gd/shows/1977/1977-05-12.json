@@ -1,0 +1,44 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Tennessee Jed",
+        "Cassidy",
+        "Peggy O",
+        "Jack Straw",
+        "They Love Each Other",
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Brown Eyed Women",
+        "Estimated Prophet",
+        "Sunrise",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Not Fade Away",
+        "Comes A Time",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

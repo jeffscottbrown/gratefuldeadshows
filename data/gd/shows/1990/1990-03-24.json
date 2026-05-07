@@ -1,0 +1,41 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Never Trust A Woman",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Walkin' Blues",
+        "Loser",
+        "Desolation Row",
+        "Tennessee Jed",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

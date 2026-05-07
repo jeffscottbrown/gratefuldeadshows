@@ -1,0 +1,43 @@
+{
+  "venue": "Fox Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Friend Of The Devil",
+        "Me And My Uncle",
+        "Big River",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Brown Eyed Women",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Sunrise",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Iko Iko",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

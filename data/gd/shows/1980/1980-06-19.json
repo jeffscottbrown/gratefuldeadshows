@@ -1,0 +1,45 @@
+{
+  "venue": "West High Auditorium",
+  "city": "Anchorage",
+  "state": "AK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Promised Land",
+        "They Love Each Other",
+        "El Paso",
+        "Tennessee Jed",
+        "Cassidy",
+        "Althea",
+        "Looks Like Rain",
+        "Far From Me",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "C.C. Rider",
+        "Peggy O",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "Wharf Rat",
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

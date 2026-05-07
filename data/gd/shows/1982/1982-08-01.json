@@ -1,0 +1,42 @@
+{
+  "venue": "Zoo Amphitheatre",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "They Love Each Other",
+        "C.C. Rider",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Big River",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Iko Iko",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Drums",
+        "The Wheel",
+        "Playing In The Band",
+        "Black Peter",
+        "Around And Around",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

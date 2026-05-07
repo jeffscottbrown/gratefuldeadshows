@@ -1,0 +1,40 @@
+{
+  "venue": "Augusta Civic Center",
+  "city": "Augusta",
+  "state": "ME",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "It Must Have Been The Roses",
+        "On The Road Again",
+        "Jack A Roe",
+        "It's All Over Now",
+        "Cumberland Blues",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Don't Need Love",
+        "Uncle John's Band",
+        "Drums",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

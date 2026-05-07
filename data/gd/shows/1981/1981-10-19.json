@@ -1,0 +1,45 @@
+{
+  "venue": "Sports Palace",
+  "city": "Barcelona",
+  "state": "",
+  "country": "Spain",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Franklin's Tower",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Loser",
+        "C.C. Rider",
+        "Tennessee Jed",
+        "Passenger",
+        "Althea",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Space",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

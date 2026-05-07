@@ -1,0 +1,42 @@
+{
+  "venue": "Freedom Hall",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Sugaree",
+        "Walkin' Blues",
+        "It Must Have Been The Roses",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "Desolation Row",
+        "Foolish Heart"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Louie Louie",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "Drums",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Knockin' On Heaven's Door"
+      ]
+    }
+  ]
+}

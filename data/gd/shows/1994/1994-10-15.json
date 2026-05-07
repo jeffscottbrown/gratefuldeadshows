@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Black Throated Wind",
+        "Just Like Tom Thumb's Blues",
+        "Candyman",
+        "Easy Answers",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Victim Or The Crime",
+        "Way To Go Home",
+        "New Speedway Boogie",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Want To Tell You"
+      ]
+    }
+  ]
+}

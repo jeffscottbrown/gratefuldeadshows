@@ -1,0 +1,38 @@
+{
+  "venue": "Glen Helen Regional Park",
+  "city": "Devore",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Playing In The Band",
+        "Shakedown Street",
+        "New Minglewood Blues",
+        "Samson And Delilah",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Man Smart (Woman Smarter)",
+        "Truckin'",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues",
+        "(I Can't Get No) Satisfaction"
+      ]
+    }
+  ]
+}

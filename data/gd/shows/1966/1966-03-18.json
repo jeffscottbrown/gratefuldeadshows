@@ -1,0 +1,25 @@
+{
+  "venue": "Carthay Studios",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Viola Lee Blues",
+        "One Kind Favor",
+        "I Know You Rider",
+        "You See A Broken Heart",
+        "It's A Sin",
+        "Beat It On Down The Line",
+        "Heads Up",
+        "Next Time You See Me",
+        "Slow R and B Instrumental",
+        "Space",
+        "Death Don't Have No Mercy",
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "venue": "University Gymnasium, State University of New York",
+  "city": "Stony Brook",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Casey Jones",
+        "Sugar Magnolia",
+        "Next Time You See Me",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie",
+        "Big Boss Man",
+        "Mama Tried",
+        "Hard To Handle",
+        "Drums",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Glens Falls Civic Center",
+  "city": "Glens Falls",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Peggy O",
+        "El Paso",
+        "Ramble On Rose",
+        "C.C. Rider",
+        "Althea",
+        "Passenger",
+        "Brown Eyed Women",
+        "The Music Never Stopped",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Uncle John's Band",
+        "Truckin'",
+        "Alabama Getaway",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

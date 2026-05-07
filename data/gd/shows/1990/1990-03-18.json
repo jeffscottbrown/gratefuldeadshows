@@ -1,0 +1,43 @@
+{
+  "venue": "Hartford Civic Center",
+  "city": "Hartford",
+  "state": "CT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Friend Of The Devil",
+        "Just A Little Light",
+        "When I Paint My Masterpiece",
+        "Ramble On Rose",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Looks Like Rain",
+        "He's Gone",
+        "Truckin'",
+        "Spoonful",
+        "Drums",
+        "The Wheel",
+        "All Along The Watchtower",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

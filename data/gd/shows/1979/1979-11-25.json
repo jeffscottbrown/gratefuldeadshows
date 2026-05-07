@@ -1,0 +1,44 @@
+{
+  "venue": "Pauley Pavilion",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Tennessee Jed",
+        "Me And My Uncle",
+        "Big River",
+        "Loser",
+        "New Minglewood Blues",
+        "Easy To Love You",
+        "Althea",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Bertha",
+        "Looks Like Rain",
+        "He's Gone",
+        "The Other One",
+        "Drums",
+        "Truckin'",
+        "Stella Blue",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

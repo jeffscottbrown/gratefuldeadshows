@@ -1,0 +1,42 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "The Promised Land",
+        "Candyman",
+        "New Minglewood Blues",
+        "When Push Comes To Shove",
+        "Tons Of Steel",
+        "Desolation Row",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugar Magnolia",
+        "Sugaree",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Goin' Down The Road Feeling Bad",
+        "Dear Mr. Fantasy",
+        "All Along The Watchtower",
+        "Wharf Rat",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Touch Of Grey"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "venue": "Merriweather Post Pavilion",
+  "city": "Columbia",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Dupree's Diamond Blues",
+        "Walkin' Blues",
+        "Jack A Roe",
+        "My Brother Esau",
+        "Stagger Lee",
+        "Let It Grow",
+        "Keep Your Day Job"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Dear Mr. Fantasy",
+        "Goin' Down The Road Feeling Bad",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

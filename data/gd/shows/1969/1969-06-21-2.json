@@ -1,0 +1,24 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Old, Old House",
+        "Sittin' On Top Of The World",
+        "I'm A King Bee",
+        "Dire Wolf",
+        "Mama Tried",
+        "High Time",
+        "Dupree's Diamond Blues",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

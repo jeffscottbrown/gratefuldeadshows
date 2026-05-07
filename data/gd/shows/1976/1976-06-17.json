@@ -1,0 +1,39 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Big River",
+        "They Love Each Other",
+        "Cassidy",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Row Jimmy",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Dancing In The Street",
+        "Samson And Delilah",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Friend Of The Devil",
+        "Let It Grow",
+        "Drums",
+        "Let It Grow",
+        "Wharf Rat",
+        "Around And Around"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Stanley Theatre",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Peggy O",
+        "Cassidy",
+        "Friend Of The Devil",
+        "Easy To Love You",
+        "El Paso",
+        "Tennessee Jed",
+        "Dancing In The Street",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Passenger",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Wharf Rat",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Don't Ease Me In"
+      ]
+    }
+  ]
+}

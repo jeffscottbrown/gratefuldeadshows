@@ -1,0 +1,45 @@
+{
+  "venue": "Park West Ski Resort",
+  "city": "Park West",
+  "state": "UT",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Big Boss Man",
+        "The Promised Land",
+        "Dire Wolf",
+        "New Minglewood Blues",
+        "Row Jimmy",
+        "It's All Over Now",
+        "Loser",
+        "Cassidy",
+        "When Push Comes To Shove"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Truckin'",
+        "Smokestack Lightnin'",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "All Along The Watchtower",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    }
+  ]
+}

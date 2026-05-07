@@ -1,0 +1,47 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Black Throated Wind",
+        "It Must Have Been The Roses",
+        "Cumberland Blues",
+        "Scarlet Begonias",
+        "Jack Straw",
+        "Deal",
+        "El Paso",
+        "To Lay Me Down",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "The Other One",
+        "Spanish Jam",
+        "Wharf Rat",
+        "Around And Around",
+        "Peggy O",
+        "U.S. Blues",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

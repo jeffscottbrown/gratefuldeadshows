@@ -1,0 +1,46 @@
+{
+  "venue": "Paramount Theater",
+  "city": "Portland",
+  "state": "OR",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Might As Well",
+        "Cassidy",
+        "Row Jimmy",
+        "Looks Like Rain",
+        "They Love Each Other",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Candyman",
+        "The Music Never Stopped",
+        "Scarlet Begonias",
+        "Dancing In The Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Wharf Rat",
+        "Let It Grow",
+        "Drums",
+        "It Must Have Been The Roses",
+        "Around And Around",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Wheel"
+      ]
+    }
+  ]
+}

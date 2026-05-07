@@ -1,0 +1,20 @@
+{
+  "venue": "Caf' au Go",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "China Cat Sunflower",
+        "Jam",
+        "I Know You Rider",
+        "Alligator",
+        "Drums",
+        "The Other One",
+        "Death Don't Have No Mercy"
+      ]
+    }
+  ]
+}

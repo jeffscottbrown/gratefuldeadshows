@@ -1,0 +1,46 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Sugar Magnolia",
+        "Touch Of Grey",
+        "Man Smart (Woman Smarter)",
+        "Big Boss Man",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Shakedown Street"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Victim Or The Crime",
+        "Dark Star",
+        "Drums",
+        "Dear Mr. Fantasy",
+        "Hey Jude",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

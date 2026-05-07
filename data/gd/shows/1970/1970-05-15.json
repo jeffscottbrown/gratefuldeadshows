@@ -1,0 +1,42 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Don't Ease Me In",
+        "I Know You Rider",
+        "The Rub",
+        "Friend Of The Devil",
+        "Long Black Limousine",
+        "Candyman",
+        "Cumberland Blues",
+        "New Speedway Boogie",
+        "Cold Jordan"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Easy Wind",
+        "Attics Of My Life",
+        "Saint Stephen",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "New Minglewood Blues"
+      ]
+    }
+  ]
+}

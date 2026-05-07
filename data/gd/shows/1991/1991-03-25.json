@@ -1,0 +1,43 @@
+{
+  "venue": "Knickerbocker Arena",
+  "city": "Albany",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Queen Jane Approximately",
+        "High Time",
+        "It's All Over Now",
+        "Tennessee Jed",
+        "The Promised Land",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Greatest Story Ever Told",
+        "Crazy Fingers",
+        "Truckin'",
+        "Spoonful",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Black Peter",
+        "Throwing Stones",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

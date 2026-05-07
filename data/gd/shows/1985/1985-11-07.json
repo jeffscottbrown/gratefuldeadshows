@@ -1,0 +1,42 @@
+{
+  "venue": "Community War Memorial",
+  "city": "Rochester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Street",
+        "Dire Wolf",
+        "C.C. Rider",
+        "Loser",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Cumberland Blues",
+        "Beat It On Down The Line",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Touch Of Grey",
+        "Samson And Delilah",
+        "High Time",
+        "Let It Grow",
+        "Drums",
+        "Gimme Some Lovin'",
+        "Stella Blue",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "In The Midnight Hour"
+      ]
+    }
+  ]
+}

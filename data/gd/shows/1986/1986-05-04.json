@@ -1,0 +1,41 @@
+{
+  "venue": "Cal Expo Amphitheatre",
+  "city": "Sacramento",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Little Red Rooster",
+        "Candyman",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Gimme Some Lovin'",
+        "Playing In The Band",
+        "Drums",
+        "Uncle John's Band",
+        "Playing In The Band",
+        "I Need A Miracle",
+        "Wharf Rat",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Box Of Rain"
+      ]
+    }
+  ]
+}

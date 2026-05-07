@@ -1,0 +1,41 @@
+{
+  "venue": "Henry J. Kaiser Convention Center",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Touch Of Grey",
+        "Feel Like A Stranger",
+        "Franklin's Tower",
+        "Little Red Rooster",
+        "Althea",
+        "We Can Run",
+        "Desolation Row",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Man Smart (Woman Smarter)",
+        "Standing On The Moon",
+        "Playing In The Band",
+        "Drums",
+        "I Will Take You Home",
+        "He's Gone",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "venue": "Robert F. Kennedy Stadium",
+  "city": "Washington, D.C.",
+  "state": "DC",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Althea",
+        "Little Red Rooster",
+        "Friend Of The Devil",
+        "El Paso",
+        "So Many Roads",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Way To Go Home",
+        "Saint Of Circumstance",
+        "New Speedway Boogie",
+        "That Would Be Something",
+        "Drums",
+        "Days Between",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

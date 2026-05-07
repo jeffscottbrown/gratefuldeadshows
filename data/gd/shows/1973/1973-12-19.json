@@ -1,0 +1,44 @@
+{
+  "venue": "Curtis Hixon Convention Hall",
+  "city": "Tampa",
+  "state": "FL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Mexicali Blues",
+        "Sugar Shack",
+        "Dire Wolf",
+        "Black Throated Wind",
+        "Candyman",
+        "Jack Straw",
+        "Big Railroad Blues",
+        "Big River",
+        "Here Comes Sunshine",
+        "El Paso",
+        "Ramble On Rose",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Me And Bobby Mcgee",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "He's Gone",
+        "Truckin'",
+        "Nobody's Fault But Mine",
+        "Truckin'",
+        "Stella Blue",
+        "Around And Around",
+        "Casey Jones"
+      ]
+    }
+  ]
+}

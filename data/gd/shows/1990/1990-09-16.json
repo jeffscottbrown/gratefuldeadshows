@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Little Red Rooster",
+        "Stagger Lee",
+        "Queen Jane Approximately",
+        "Tennessee Jed",
+        "Cassidy",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Iko Iko",
+        "Looks Like Rain",
+        "He's Gone",
+        "Jam",
+        "Drums",
+        "Standing On The Moon",
+        "I Need A Miracle",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

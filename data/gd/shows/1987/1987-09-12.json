@@ -1,0 +1,43 @@
+{
+  "venue": "Capital Centre",
+  "city": "Landover`",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Loser",
+        "Me And My Uncle",
+        "Big River",
+        "Ramble On Rose",
+        "Just Like Tom Thumb's Blues",
+        "Hey Pocky Way",
+        "Cassidy",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cumberland Blues",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Man Smart (Woman Smarter)",
+        "Drums",
+        "Truckin'",
+        "I Need A Miracle",
+        "Morning Dew",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night",
+        "Black Muddy River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Hollywood Palladium",
+  "city": "Hollywood",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Greatest Story Ever Told",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Black Throated Wind",
+        "Bird Song",
+        "The Promised Land",
+        "Deal",
+        "El Paso",
+        "Sugaree",
+        "Playing In The Band",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "He's Gone",
+        "Truckin'",
+        "Ramble On Rose",
+        "Beat It On Down The Line",
+        "Dark Star",
+        "Drums",
+        "Jack Straw",
+        "Sing Me Back Home",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

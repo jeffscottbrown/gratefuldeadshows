@@ -1,0 +1,33 @@
+{
+  "venue": "Veterans Auditorium",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Ol' Slewfoot",
+        "Mama Tried",
+        "High Time",
+        "Dupree's Diamond Blues",
+        "Me And My Uncle",
+        "Jam",
+        "Casey Jones",
+        "Dire Wolf",
+        "Sittin' On Top Of The World",
+        "Big Boss Man",
+        "Dark Star",
+        "Saint Stephen",
+        "The Eleven",
+        "Green Green Grass Of Home"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "It's All Over Now, Baby Blue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "venue": "Nassau Veterans Memorial Coliseum",
+  "city": "Uniondale",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Little Red Rooster",
+        "Row Jimmy",
+        "El Paso",
+        "Might As Well",
+        "The Promised Land",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Man Smart (Woman Smarter)",
+        "So Many Roads",
+        "Truckin'",
+        "Drums",
+        "Space",
+        "I Need A Miracle",
+        "Standing On The Moon",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

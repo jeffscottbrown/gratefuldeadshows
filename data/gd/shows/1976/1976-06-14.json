@@ -1,0 +1,46 @@
+{
+  "venue": "Beacon Theatre",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Mama Tried",
+        "Row Jimmy",
+        "Cassidy",
+        "Brown Eyed Women",
+        "Big River",
+        "Might As Well",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Wheel",
+        "Samson And Delilah",
+        "High Time",
+        "The Music Never Stopped",
+        "Crazy Fingers",
+        "Dancing In The Street",
+        "Cosmic Charlie",
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "venue": "Shrine Auditorium",
+  "city": "Los Angeles",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Cassidy",
+        "Peggy O",
+        "Big River",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Deal",
+        "El Paso",
+        "Tennessee Jed",
+        "The Music Never Stopped",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "New Minglewood Blues",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Dancing In The Street",
+        "Wharf Rat",
+        "Dancing In The Street",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "venue": "Recreation Hall",
+  "city": "State College",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "They Love Each Other",
+        "Mama Tried",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Row Jimmy",
+        "El Paso",
+        "Stagger Lee",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "The Other One",
+        "China Doll",
+        "Playing In The Band",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Shakedown Street"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "venue": "Auditorium Theater",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Sugaree",
+        "Cassidy",
+        "Row Jimmy",
+        "Mama Tried",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Scarlet Begonias",
+        "Lazy Lightnin'",
+        "Supplication",
+        "Peggy O",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Saint Stephen",
+        "The Wheel",
+        "Playing In The Band",
+        "Samson And Delilah",
+        "Crazy Fingers",
+        "Stella Blue",
+        "Around And Around",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

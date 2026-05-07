@@ -1,0 +1,36 @@
+{
+  "venue": "Uptown Theatre",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Mississippi Half Step Uptown Toodeloo",
+        "Passenger",
+        "Tennessee Jed",
+        "El Paso",
+        "Candyman",
+        "New Minglewood Blues",
+        "They Love Each Other",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Playing In The Band",
+        "Drums",
+        "Space",
+        "Black Peter",
+        "Truckin'",
+        "Good Lovin'"
+      ]
+    }
+  ]
+}

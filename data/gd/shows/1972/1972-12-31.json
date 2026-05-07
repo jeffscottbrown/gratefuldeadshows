@@ -1,0 +1,55 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Around And Around",
+        "Deal",
+        "Mexicali Blues",
+        "Brown Eyed Women",
+        "Box Of Rain",
+        "Jack Straw",
+        "Don't Ease Me In",
+        "Beat It On Down The Line",
+        "Candyman",
+        "El Paso",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Promised Land",
+        "Mississippi Half Step Uptown Toodeloo",
+        "Big River",
+        "Sugaree",
+        "Truckin'",
+        "The Other One",
+        "Drums",
+        "The Other One",
+        "Morning Dew",
+        "Sugar Magnolia",
+        "Sing Me Back Home",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "Uncle John's Band",
+        "One More Saturday Night"
+      ]
+    }
+  ]
+}

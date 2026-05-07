@@ -1,0 +1,42 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Here Comes Sunshine",
+        "Walkin' Blues",
+        "Jack A Roe",
+        "Desolation Row",
+        "Ramble On Rose",
+        "Broken Arrow",
+        "Lazy River Road",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Saint Of Circumstance",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "The Last Time",
+        "Attics Of My Life",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "I Fought The Law"
+      ]
+    }
+  ]
+}

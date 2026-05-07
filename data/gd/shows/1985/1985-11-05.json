@@ -1,0 +1,44 @@
+{
+  "venue": "The Centrum",
+  "city": "Worcester",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "They Love Each Other",
+        "Kansas City",
+        "Tennessee Jed",
+        "It's All Over Now",
+        "Bird Song",
+        "Looks Like Rain",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Shakedown Street",
+        "Man Smart (Woman Smarter)",
+        "Ship Of Fools",
+        "Supplication",
+        "Playing In The Band",
+        "Don't Need Love",
+        "Drums",
+        "Just Like Tom Thumb's Blues",
+        "Goin' Down The Road Feeling Bad",
+        "Black Peter",
+        "Around And Around",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

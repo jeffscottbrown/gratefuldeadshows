@@ -1,0 +1,46 @@
+{
+  "venue": "St. John Arena",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "New Minglewood Blues",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Peggy O",
+        "El Paso",
+        "Crazy Fingers",
+        "It's All Over Now",
+        "Scarlet Begonias"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lazy Lightnin'",
+        "Supplication",
+        "It Must Have Been The Roses",
+        "Samson And Delilah",
+        "Saint Stephen",
+        "Jam",
+        "Not Fade Away",
+        "Drums",
+        "Wharf Rat",
+        "Not Fade Away",
+        "Saint Stephen",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Morning Dew"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "venue": "Oakland Coliseum Arena",
+  "city": "Oakland",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Althea",
+        "Me And My Uncle",
+        "Maggie's Farm",
+        "Candyman",
+        "Easy Answers",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Iko Iko",
+        "Childhood's End",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Terrapin Station",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Throwing Stones",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}

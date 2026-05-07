@@ -1,0 +1,44 @@
+{
+  "venue": "Tulsa Fairgrounds Pavilion",
+  "city": "Tulsa",
+  "state": "OK",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Loser",
+        "Beat It On Down The Line",
+        "Peggy O",
+        "It's All Over Now",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "From The Heart Of Me",
+        "New Minglewood Blues",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "I Need A Miracle",
+        "Bertha",
+        "Good Lovin'",
+        "Ship Of Fools",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Not Fade Away",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

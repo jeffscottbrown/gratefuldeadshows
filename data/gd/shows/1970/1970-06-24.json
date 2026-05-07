@@ -1,0 +1,43 @@
+{
+  "venue": "Capitol Theater",
+  "city": "Port Chester",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dire Wolf",
+        "Don't Ease Me In",
+        "Attics Of My Life",
+        "Friend Of The Devil",
+        "Candyman",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones",
+        "Black Peter",
+        "Drums",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Mama Tried",
+        "High Time",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Cosmic Charlie"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "New Minglewood Blues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "venue": "Manhattan Center",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Me And My Uncle",
+        "Next Time You See Me",
+        "Morning Dew",
+        "Playing In The Band",
+        "Loser",
+        "Easy Wind",
+        "Me And Bobby Mcgee",
+        "Greatest Story Ever Told",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Hard To Handle",
+        "Deal",
+        "Sugar Magnolia",
+        "Casey Jones",
+        "Good Lovin'",
+        "Goin' Down The Road Feeling Bad",
+        "Saint Stephen",
+        "Not Fade Away",
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

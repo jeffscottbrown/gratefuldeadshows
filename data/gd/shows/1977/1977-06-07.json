@@ -1,0 +1,50 @@
+{
+  "venue": "Winterland Arena",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Jack Straw",
+        "Tennessee Jed",
+        "Looks Like Rain",
+        "Peggy O",
+        "Funiculi Funicula",
+        "El Paso",
+        "Friend Of The Devil",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Good Lovin'",
+        "Candyman",
+        "Estimated Prophet",
+        "He's Gone",
+        "Drums",
+        "Samson And Delilah",
+        "Terrapin Station",
+        "Morning Dew",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 4,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

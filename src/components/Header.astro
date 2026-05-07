@@ -1,0 +1,81 @@
+---
+/**
+ * Site-wide sticky header.
+ * The "Today" link href is set by a small inline script so it always points
+ * to today's date without any React or framework overhead.
+ */
+const navLinks = [
+  { href: '/years',       label: 'By Year' },
+  { href: '/cities',      label: 'By City' },
+  { href: '/countries',   label: 'By Country' },
+  { href: '/songs',       label: 'By Song' },
+  { href: '/collections', label: 'Collections' },
+  { href: '/birthday',    label: 'Birthday Shows' },
+];
+---
+
+<header class="sticky top-0 z-50 border-b border-dead-border bg-dead-bg/90 backdrop-blur-sm">
+  <div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3">
+    <!-- Wordmark -->
+    <a
+      href="/"
+      class="flex items-center gap-2 text-dead-gold font-bold text-lg tracking-wide hover:text-dead-gold-light transition-colors shrink-0"
+    >
+      <span class="text-2xl">☮</span>
+      <span class="hidden sm:inline">Grateful Dead Shows</span>
+    </a>
+
+    <!-- Desktop nav -->
+    <nav class="hidden md:flex items-center gap-1">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="px-3 py-1.5 rounded-md text-sm text-gray-300 hover:text-dead-gold hover:bg-dead-card transition-colors"
+        >
+          {link.label}
+        </a>
+      ))}
+      <!-- Today link: href populated by script below -->
+      <a
+        id="today-link"
+        href="/birthday"
+        class="px-3 py-1.5 rounded-md text-sm text-dead-gold border border-dead-gold/40 hover:bg-dead-gold hover:text-dead-bg transition-colors font-medium"
+      >
+        Today
+      </a>
+    </nav>
+
+    <!-- Mobile nav (abbreviated) -->
+    <nav class="flex md:hidden items-center gap-1">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="px-2 py-1 rounded text-xs text-gray-400 hover:text-dead-gold transition-colors"
+        >
+          {link.label.split(' ').at(-1)}
+        </a>
+      ))}
+      <a
+        id="today-link-mobile"
+        href="/birthday"
+        class="px-2 py-1 rounded text-xs text-dead-gold border border-dead-gold/40 hover:bg-dead-gold hover:text-dead-bg transition-colors"
+      >
+        Today
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!--
+  Vanilla JS to set today's month/day on the birthday links.
+  No framework needed — runs once on page load.
+-->
+<script>
+  function setTodayLinks() {
+    const now = new Date();
+    const href = `/birthday?month=${now.getMonth() + 1}&day=${now.getDate()}`;
+    document.getElementById('today-link')?.setAttribute('href', href);
+    document.getElementById('today-link-mobile')?.setAttribute('href', href);
+  }
+  document.addEventListener('astro:page-load', setTodayLinks);
+</script>

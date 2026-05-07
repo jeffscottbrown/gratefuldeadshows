@@ -1,0 +1,45 @@
+{
+  "venue": "Downs of Santa Fe",
+  "city": "Santa Fe,",
+  "state": "NM",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "Greatest Story Ever Told",
+        "Dire Wolf",
+        "Hell In A Bucket",
+        "West L.A. Fadeaway",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Althea",
+        "C.C. Rider",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "Let It Grow",
+        "He's Gone",
+        "Drums",
+        "Truckin'",
+        "Wang Dang Doodle",
+        "Morning Dew",
+        "Around And Around",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

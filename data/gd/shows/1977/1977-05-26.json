@@ -1,0 +1,44 @@
+{
+  "venue": "Baltimore Civic Center",
+  "city": "Baltimore",
+  "state": "MD",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Sugaree",
+        "Mama Tried",
+        "Sunrise",
+        "Deal",
+        "Passenger",
+        "Brown Eyed Women",
+        "Looks Like Rain",
+        "Jack A Roe",
+        "New Minglewood Blues",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "High Time",
+        "Big River",
+        "Terrapin Station",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Not Fade Away",
+        "Goin' Down The Road Feeling Bad",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Uncle John's Band"
+      ]
+    }
+  ]
+}

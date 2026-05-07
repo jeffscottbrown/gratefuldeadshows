@@ -1,0 +1,38 @@
+{
+  "venue": "Sam Boyd Silver Bowl",
+  "city": "Las Vegas",
+  "state": "NV",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Picasso Moon",
+        "Friend Of The Devil",
+        "Wang Dang Doodle",
+        "Althea",
+        "Queen Jane Approximately",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Here Comes Sunshine",
+        "Way To Go Home",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Drums",
+        "Easy Answers",
+        "Standing On The Moon",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Lucy In The Sky With Diamonds"
+      ]
+    }
+  ]
+}

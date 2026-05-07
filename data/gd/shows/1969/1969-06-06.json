@@ -1,0 +1,19 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Smokestack Lightnin'",
+        "Green Green Grass Of Home",
+        "Me And My Uncle",
+        "Checkin' Up",
+        "Beat It On Down The Line",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

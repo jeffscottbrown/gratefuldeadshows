@@ -1,0 +1,45 @@
+{
+  "venue": "Capitol Theatre",
+  "city": "Passaic",
+  "state": "NJ",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Franklin's Tower",
+        "The Music Never Stopped",
+        "Brown Eyed Women",
+        "Cassidy",
+        "They Love Each Other",
+        "Looks Like Rain",
+        "Tennessee Jed",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Might As Well",
+        "Samson And Delilah",
+        "High Time",
+        "Let It Grow",
+        "Drums",
+        "Let It Grow",
+        "Dancing In The Street",
+        "Cosmic Charlie",
+        "Around And Around",
+        "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Not Fade Away"
+      ]
+    }
+  ]
+}

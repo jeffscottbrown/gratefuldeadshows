@@ -1,0 +1,40 @@
+{
+  "venue": "Hampton Coliseum",
+  "city": "Hampton",
+  "state": "VA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Friend Of The Devil",
+        "Mexicali Blues",
+        "Maggie's Farm",
+        "Stagger Lee",
+        "Picasso Moon",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "New Speedway Boogie",
+        "Truckin'",
+        "Crazy Fingers",
+        "Corrina",
+        "Drums",
+        "Space",
+        "The Last Time",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Weight"
+      ]
+    }
+  ]
+}

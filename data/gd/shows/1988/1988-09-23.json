@@ -1,0 +1,41 @@
+{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Walkin' Blues",
+        "Loser",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Dupree's Diamond Blues",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Victim Or The Crime",
+        "Foolish Heart",
+        "Drums",
+        "I Will Take You Home",
+        "The Other One",
+        "Stella Blue",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

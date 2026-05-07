@@ -1,0 +1,45 @@
+{
+  "venue": "Alpine Valley Music Theatre",
+  "city": "East Troy",
+  "state": "WI",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Let The Good Times Roll",
+        "Feel Like A Stranger",
+        "Built To Last",
+        "Me And My Uncle",
+        "Cumberland Blues",
+        "It's All Over Now",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "When Push Comes To Shove",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Playing In The Band",
+        "Uncle John's Band",
+        "Standing On The Moon",
+        "Drums",
+        "The Wheel",
+        "Gimme Some Lovin'",
+        "Goin' Down The Road Feeling Bad",
+        "Not Fade Away",
+        "And We Bid You Good Night"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

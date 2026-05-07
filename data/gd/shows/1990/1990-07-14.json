@@ -1,0 +1,42 @@
+{
+  "venue": "Foxboro Stadium",
+  "city": "Foxboro",
+  "state": "MA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Shakedown Street",
+        "Walkin' Blues",
+        "Far From Me",
+        "Candyman",
+        "Stuck Inside A Mobile With The Memphis Blues Again",
+        "Ramble On Rose",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Eyes Of The World",
+        "Estimated Prophet",
+        "Crazy Fingers",
+        "Uncle John's Band",
+        "Drums",
+        "I Will Take You Home",
+        "I Need A Miracle",
+        "Goin' Down The Road Feeling Bad",
+        "Throwing Stones",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "The Last Time",
+        "And We Bid You Good Night"
+      ]
+    }
+  ]
+}

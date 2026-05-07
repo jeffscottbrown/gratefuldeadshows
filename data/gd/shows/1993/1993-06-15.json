@@ -1,0 +1,38 @@
+{
+  "venue": "Freedom Hall",
+  "city": "Louisville",
+  "state": "KY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Althea",
+        "Wang Dang Doodle",
+        "Friend Of The Devil",
+        "Desolation Row",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Victim Or The Crime",
+        "Crazy Fingers",
+        "Estimated Prophet",
+        "Spoonful",
+        "He's Gone",
+        "Drums",
+        "The Last Time",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Gloria"
+      ]
+    }
+  ]
+}

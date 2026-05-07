@@ -1,0 +1,44 @@
+{
+  "venue": "Recreational Hall",
+  "city": "Davis",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "One More Saturday Night",
+        "Sugaree",
+        "Me And My Uncle",
+        "Mexicali Blues",
+        "Bird Song",
+        "Little Red Rooster",
+        "Ramble On Rose",
+        "Looks Like Rain",
+        "Althea",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Samson And Delilah",
+        "Ship Of Fools",
+        "Playing In The Band",
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Drums",
+        "Space",
+        "Not Fade Away",
+        "Wharf Rat",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

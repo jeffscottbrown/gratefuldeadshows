@@ -1,0 +1,29 @@
+{
+  "venue": "Fillmore West",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cumberland Blues",
+        "Cold Rain And Snow",
+        "Dire Wolf",
+        "Me And My Uncle",
+        "Hard To Handle",
+        "Dancing In The Street",
+        "Casey Jones",
+        "Mama Tried",
+        "Good Lovin'",
+        "High Time",
+        "Cryptical Envelopment",
+        "Drums",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Black Peter",
+        "Turn On Your Lovelight"
+      ]
+    }
+  ]
+}

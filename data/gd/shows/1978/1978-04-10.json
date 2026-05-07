@@ -1,0 +1,42 @@
+{
+  "venue": "Fox Theatre",
+  "city": "Atlanta",
+  "state": "GA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Promised Land",
+        "Brown Eyed Women",
+        "It's All Over Now",
+        "Peggy O",
+        "Cassidy",
+        "Dire Wolf",
+        "El Paso",
+        "Row Jimmy",
+        "Passenger",
+        "Candyman",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Jack Straw",
+        "Ship Of Fools",
+        "Dancing In The Street",
+        "Drums",
+        "Franklin's Tower",
+        "Black Peter",
+        "Around And Around"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ]
+}

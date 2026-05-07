@@ -1,0 +1,48 @@
+{
+  "venue": "Civic Convention Hall Auditorium",
+  "city": "Philadelphia",
+  "state": "PA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Mexicali Blues",
+        "Scarlet Begonias",
+        "Black Throated Wind",
+        "Deal",
+        "Beat It On Down The Line",
+        "Peggy O",
+        "Jack Straw",
+        "Loser",
+        "El Paso",
+        "Row Jimmy",
+        "Playing In The Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Ship Of Fools",
+        "Big River",
+        "Loose Lucy",
+        "Me And My Uncle",
+        "It Must Have Been The Roses",
+        "Weather Report Suite Prelude",
+        "Weather Report Suite Part 1",
+        "Let It Grow",
+        "Space",
+        "Wharf Rat",
+        "U.S. Blues",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

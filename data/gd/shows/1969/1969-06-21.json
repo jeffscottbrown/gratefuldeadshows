@@ -1,0 +1,31 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Green Green Grass Of Home",
+        "Me And My Uncle",
+        "High Time",
+        "China Cat Sunflower",
+        "Jam",
+        "Morning Dew",
+        "Alligator",
+        "Drums",
+        "Jam",
+        "The Other One",
+        "Cryptical Envelopment",
+        "Ol' Slewfoot"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cosmic Charlie"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "venue": "Fillmore East",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Beat It On Down The Line",
+        "Good Lovin'",
+        "Drums",
+        "Good Lovin'",
+        "Mama Tried",
+        "Black Peter",
+        "Hard To Handle",
+        "Saint Stephen",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Casey Jones"
+      ]
+    }
+  ]
+}

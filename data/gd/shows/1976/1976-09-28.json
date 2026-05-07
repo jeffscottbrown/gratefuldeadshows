@@ -1,0 +1,38 @@
+{
+  "venue": "Onondaga County War Memorial",
+  "city": "Syracuse",
+  "state": "NY",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Cold Rain And Snow",
+        "Big River",
+        "Bertha",
+        "Cassidy",
+        "Tennessee Jed",
+        "New Minglewood Blues",
+        "Candyman",
+        "It's All Over Now",
+        "Friend Of The Devil",
+        "Let It Grow",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "The Wheel",
+        "Samson And Delilah",
+        "Comes A Time",
+        "Drums",
+        "Eyes Of The World",
+        "Dancing In The Street",
+        "Playing In The Band",
+        "Johnny B. Goode"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "venue": "Greek Theatre",
+  "city": "Berkeley",
+  "state": "CA",
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Jack Straw",
+        "Bertha",
+        "Me And My Uncle",
+        "Big River",
+        "To Lay Me Down",
+        "Little Red Rooster",
+        "Loser",
+        "Passenger",
+        "Ramble On Rose",
+        "Let It Grow",
+        "Might As Well"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Cold Rain And Snow",
+        "Samson And Delilah",
+        "It Must Have Been The Roses",
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "Terrapin Station",
+        "Never Trust A Woman",
+        "Drums",
+        "The Wheel",
+        "I Need A Miracle",
+        "Goin' Down The Road Feeling Bad",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
+        "(I Can't Get No) Satisfaction",
+        "Brokedown Palace"
+      ]
+    }
+  ]
+}
