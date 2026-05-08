@@ -11,23 +11,33 @@
         "Alabama Getaway",
         "Ramble On Rose",
         "Dear Mr. Fantasy",
-        "Hey Jude",
+        "Hey Jude Reprise",
         "Dark Star",
         "Cumberland Blues",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Scarlet Begonias",
         "Viola Lee Blues",
-        "Dark Star",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Fire On The Mountain",
         "Drums",
         "Space",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Death Don't Have No Mercy",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-05-23.jpg"
 }

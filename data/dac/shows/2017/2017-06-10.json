@@ -8,14 +8,19 @@
       "set": 1,
       "songs": [
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Spoonful",
         "Bertha",
         "Ramble On Rose",
         "Friend Of The Devil",
-        "Loser",
+        "The Loser",
         "Brown Eyed Women",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -25,9 +30,15 @@
         "Space",
         "Stella Blue",
         "China Cat Sunflower",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-10.jpg"
 }

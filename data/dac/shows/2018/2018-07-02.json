@@ -8,14 +8,19 @@
       "set": 1,
       "songs": [
         "Feel Like A Stranger",
-        "Dancing",
+        "Dancing In The Streets",
         "Hurts Me Too",
-        "World To Give",
+        "If I Had The World To Give",
         "Corinna",
         "They Love Each Other",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
-        "Saint Stephen",
+        "Saint Of Circumstance",
         "He's Gone",
         "Help On The Way",
         "Slipknot!",
@@ -24,9 +29,15 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "Not Fade Away",
-        "Touch"
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-07-02.jpg"
 }

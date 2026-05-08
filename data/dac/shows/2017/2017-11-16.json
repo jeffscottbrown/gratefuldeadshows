@@ -7,25 +7,36 @@
     {
       "set": 1,
       "songs": [
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Ramble On Rose",
         "Row Jimmy",
         "Friend Of The Devil",
         "New Minglewood Blues",
         "West L.A. Fadeaway",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Deal",
         "Eyes Of The World",
         "Drums",
         "Space",
         "Dear Prudence",
         "Uncle John's Band",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-16.jpg"
 }

@@ -10,23 +10,34 @@
         "Cold Rain And Snow",
         "Tennessee Jed",
         "Dire Wolf",
-        "Queen Jane Approximately",
+        "Queen Jane",
         "If I Had The World To Give",
         "Here Comes Sunshine",
-        "Little Red Rooster",
-        "Let It Grow",
+        "Red Rooster",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Iko Iko",
         "Dark Star",
         "Truckin'",
-        "SmokeStack Lightining",
-        "Dark Star",
+        "Smokestack Lightning",
+        "Dark Star (Second Verse)",
         "Deal",
         "Drums",
         "Space",
         "Wharf Rat",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Werewolves Of London"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-19.jpg"
 }

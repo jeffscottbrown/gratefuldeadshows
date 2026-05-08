@@ -7,8 +7,18 @@
     {
       "set": 1,
       "songs": [
+        "Let The Good Times Roll",
+        "Playing In The Band",
+        "Feel Like A Stranger",
+        "China Doll",
+        "Brown Eyed Women",
         "Jack Straw",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "Scarlet Begonias",
         "China Cat Sunflower",
@@ -17,10 +27,17 @@
         "Drums",
         "Space",
         "Dear Mr. Fantasy",
+        "Hey Jude Reprise",
         "Stella Blue",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Werewolves Of London"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-11.jpg"
 }

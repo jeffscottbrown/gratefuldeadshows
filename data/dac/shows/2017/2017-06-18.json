@@ -2,5 +2,40 @@
   "venue": "Fenway Park",
   "city": "Unknown Location",
   "state": "",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Samson And Delilah",
+        "Brown Eyed Women",
+        "Big River",
+        "Candyman",
+        "Let It Grow",
+        "Friend Of The Devil",
+        "Dark Star",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
+        "Fire On The Mountain",
+        "Saint Stephen",
+        "Drums",
+        "Space",
+        "Dark Star (Second Verse)",
+        "The Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-18.jpg"
 }

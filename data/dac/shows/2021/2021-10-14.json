@@ -9,20 +9,35 @@
       "songs": [
         "Man Smart (Woman Smarter)",
         "Bertha",
-        "Queen Jane Approximately",
+        "Queen Jane",
         "Brown Eyed Women",
         "Peggy O",
         "Cassidy",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deep Ellum Blues",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "The Other One",
+        "Drums",
+        "Space",
+        "Cumberland Blues",
         "Death Don't Have No Mercy",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Liberty"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-14.jpg"
 }

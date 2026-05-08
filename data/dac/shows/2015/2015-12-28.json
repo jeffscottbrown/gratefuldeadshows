@@ -8,14 +8,18 @@
       "set": 1,
       "songs": [
         "The Music Never Stopped",
-        "Standing On Shaky Ground",
-        "The Music Never Stopped",
+        "Shakey Ground",
         "Mississippi Half Step Uptown Toodeloo",
         "Candyman",
         "Me And My Uncle",
         "Tennessee Jed",
         "Jack Straw",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "Help On The Way",
@@ -25,9 +29,15 @@
         "Space",
         "Looks Like Rain",
         "The Wheel",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-12-28.jpg"
 }

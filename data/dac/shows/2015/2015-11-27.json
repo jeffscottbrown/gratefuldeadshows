@@ -13,7 +13,12 @@
         "Jack Straw",
         "Row Jimmy",
         "Black Throated Wind",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "Playing In The Band",
         "Let It Grow",
@@ -21,9 +26,15 @@
         "Drums",
         "Space",
         "Wharf Rat",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-27.jpg"
 }

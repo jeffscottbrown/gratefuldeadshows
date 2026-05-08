@@ -8,22 +8,35 @@
       "set": 1,
       "songs": [
         "Iko Iko",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Alabama Getaway",
         "Black Throated Wind",
         "West L.A. Fadeaway",
         "Brown Eyed Women",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Eyes Of The World",
         "Althea",
         "Scarlet Begonias",
         "Fire On The Mountain",
+        "Drums",
+        "Space",
         "All Along The Watchtower",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-08.jpg"
 }

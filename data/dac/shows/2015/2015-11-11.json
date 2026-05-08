@@ -13,7 +13,12 @@
         "Here Comes Sunshine",
         "El Paso",
         "Althea",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Viola Lee Blues",
         "Wang Dang Doodle",
         "Viola Lee Blues",
@@ -22,9 +27,14 @@
         "Dark Star",
         "Drums",
         "Space",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "China Doll",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }

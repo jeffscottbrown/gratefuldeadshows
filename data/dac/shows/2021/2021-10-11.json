@@ -13,7 +13,12 @@
         "It Must Have Been The Roses",
         "Mr. Charlie",
         "Looks Like Rain",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Uncle John's Band",
         "Fire On The Mountain",
@@ -22,9 +27,15 @@
         "Space",
         "New Speedway Boogie",
         "Black Peter",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-11.jpg"
 }

@@ -12,20 +12,30 @@
         "Samson And Delilah",
         "West L.A. Fadeaway",
         "Bird Song",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "He's Gone",
-        "Smokestack Lightnin'",
-        "He's Gone",
+        "Smokestack Lightning",
         "Let It Grow",
         "Drums",
         "Space",
         "Dark Star",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-03.jpg"
 }

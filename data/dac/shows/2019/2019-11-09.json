@@ -13,7 +13,12 @@
         "Tennessee Jed",
         "Friend Of The Devil",
         "Bird Song",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Franklin's Tower",
         "Scarlet Begonias",
@@ -22,11 +27,18 @@
         "Space",
         "Milestones",
         "Uncle John's Band",
-        "Playing In The Band (Reprise)",
+        "Playing In The Band",
         "Black Peter",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-11-09.jpg"
 }

@@ -7,6 +7,18 @@
     {
       "set": 1,
       "songs": [
+        "Cassidy",
+        "Bird Song",
+        "Dire Wolf",
+        "When I Paint My Masterpiece",
+        "Tennessee Jed",
+        "Here Comes Sunshine",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Cold Rain And Snow",
         "Estimated Prophet",
         "Eyes Of The World",
@@ -15,9 +27,15 @@
         "Space",
         "The Wheel",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-14.jpg"
 }

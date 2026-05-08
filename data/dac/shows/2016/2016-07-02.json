@@ -13,7 +13,12 @@
         "Cold Rain And Snow",
         "Even So",
         "Uncle John's Band",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Saint Of Circumstance",
@@ -22,9 +27,15 @@
         "Space",
         "Stella Blue",
         "Throwing Stones",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-02.jpg"
 }

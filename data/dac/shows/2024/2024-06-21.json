@@ -12,19 +12,32 @@
         "Easy Wind",
         "Ramble On Rose",
         "The Weight",
-        "Ship Of Fools",
+        "Lost Sailor",
         "Saint Of Circumstance",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Deal",
         "Scarlet Begonias",
         "Fire On The Mountain",
+        "Drums",
+        "Space",
         "Standing On The Moon",
         "Brown Eyed Women",
-        "Eyes Of The World",
+        "Eyes Of The World"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-21.jpg"
 }

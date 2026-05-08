@@ -11,9 +11,14 @@
         "Uncle John's Band",
         "He's Gone",
         "Brown Eyed Women",
-        "Little Red Rooster",
+        "Red Rooster",
         "Jack Straw",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Estimated Prophet",
@@ -24,10 +29,16 @@
         "The Days Between",
         "Help On The Way",
         "Slipknot!",
-        "Franklin's Tower",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-18.jpg"
 }

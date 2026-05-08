@@ -8,28 +8,37 @@
       "set": 1,
       "songs": [
         "Truckin'",
-        "Smokestack Lightening",
+        "Smokestack Lightning",
         "Bertha",
         "Playing In The Band",
         "Bird Song",
         "Tennessee Jed",
         "Shakedown Street",
         "Passenger",
-        "Bird Song (Reprise)",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Scarlet Begonias",
         "Fire On The Mountain",
-        "Terripin Station",
+        "Terrapin Station",
         "Drums",
         "Space",
         "The Other One",
-        "Warf Rat",
-        "Franklin's Tower",
-        "Touch Of Grey",
-        "Bobby Talks Politics"
+        "Wharf Rat",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-12.jpg"
 }

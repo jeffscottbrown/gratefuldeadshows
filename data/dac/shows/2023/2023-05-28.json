@@ -11,10 +11,15 @@
         "Deal",
         "Samson And Delilah",
         "Friend Of The Devil",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Tennessee Jed",
         "If I Had The World To Give",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "Estimated Prophet",
         "China Cat Sunflower",
@@ -26,5 +31,6 @@
         "Morning Dew"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-05-28.jpg"
 }

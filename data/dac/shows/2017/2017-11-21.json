@@ -13,16 +13,29 @@
         "Tennessee Jed",
         "Ship Of Fools",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "Looks Like Rain",
         "Terrapin Station",
-        "Days Between",
-        "Throwing Stones",
+        "Drums",
+        "Space",
+        "The Days Between",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-21.jpg"
 }

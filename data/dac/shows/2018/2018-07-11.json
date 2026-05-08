@@ -14,18 +14,31 @@
         "They Love Each Other",
         "West L.A. Fadeaway",
         "The Music Never Stopped",
-        "Easy Answers",
+        "Easy Answers"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Uncle John's Band",
         "Looks Like Rain",
         "Help On The Way",
-        "Slipnot!",
+        "Slipknot!",
         "Franklin's Tower",
+        "Drums",
+        "Space",
         "The Wheel",
-        "A Hard Rain's A-Gonna Fall",
-        "Good Lovin'",
+        "Hard Rain's Gonna Fall",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-07-11.jpg"
 }

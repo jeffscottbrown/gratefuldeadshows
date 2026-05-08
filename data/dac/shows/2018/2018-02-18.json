@@ -13,7 +13,12 @@
         "Greatest Story Ever Told",
         "If I Had The World To Give",
         "Ramble On Rose",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Franklin's Tower",
         "U.S. Blues",
@@ -22,10 +27,16 @@
         "Space",
         "The Other One",
         "Morning Dew",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-18.jpg"
 }

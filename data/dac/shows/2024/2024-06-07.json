@@ -13,7 +13,12 @@
         "Ship Of Fools",
         "Help On The Way",
         "Slipknot!",
-        "Eyes Of The World",
+        "Eyes Of The World"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Scarlet Begonias",
         "He's Gone",
@@ -22,9 +27,15 @@
         "Space",
         "Looks Like Rain",
         "Truckin'",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-07.jpg"
 }

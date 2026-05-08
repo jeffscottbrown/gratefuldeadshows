@@ -13,7 +13,12 @@
         "When I Paint My Masterpiece",
         "Sugaree",
         "Cassidy",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -22,9 +27,15 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-11-06.jpg"
 }

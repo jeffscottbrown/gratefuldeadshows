@@ -12,20 +12,32 @@
         "Row Jimmy",
         "Big River",
         "Tennessee Jed",
-        "Althea",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Help On The Way",
         "Slipknot!",
-        "Lady With A Fan",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "Standing On The Moon",
         "Bertha",
         "U.S. Blues",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night",
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-10.jpg"
 }

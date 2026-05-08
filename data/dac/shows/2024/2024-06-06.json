@@ -13,7 +13,12 @@
         "Tennessee Jed",
         "The Weight",
         "Peggy O",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -24,9 +29,15 @@
         "Death Don't Have No Mercy",
         "Brown Eyed Women",
         "U.S. Blues",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-06.jpg"
 }

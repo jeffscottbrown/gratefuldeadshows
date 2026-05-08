@@ -10,20 +10,31 @@
         "Cold Rain And Snow",
         "New Speedway Boogie",
         "El Paso",
-        "The Eleven",
+        "They Love Each Other",
         "Candyman",
         "Bird Song",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "Viola Lee Blues",
         "Terrapin Station",
-        "Drums with Oteil",
+        "Drums",
         "Space",
         "Dear Prudence",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-23.jpg"
 }

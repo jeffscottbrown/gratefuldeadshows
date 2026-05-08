@@ -13,7 +13,12 @@
         "Big River",
         "Friend Of The Devil",
         "Feel Like A Stranger",
-        "Althea",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Saint Stephen",
         "Help On The Way",
@@ -21,13 +26,17 @@
         "Terrapin Station",
         "Drums",
         "Space",
-        "Wharf Rat",
         "Goin' Down The Road Feeling Bad",
         "U.S. Blues",
-        "Knockin' On Heaven's Door",
-        "Come Down",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-07-04.jpg"
 }

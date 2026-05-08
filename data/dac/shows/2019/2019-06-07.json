@@ -10,22 +10,33 @@
         "Feel Like A Stranger",
         "Cumberland Blues",
         "Dire Wolf",
-        "Loser",
+        "The Loser",
         "Loose Lucy",
         "It Must Have Been The Roses",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Dark Star",
         "Scarlet Begonias",
         "China Doll",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Eyes Of The World",
         "Drums",
         "Space",
         "Black Peter",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-07.jpg"
 }

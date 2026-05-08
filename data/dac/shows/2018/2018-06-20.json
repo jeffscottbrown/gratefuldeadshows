@@ -14,17 +14,30 @@
         "West L.A. Fadeaway",
         "Loose Lucy",
         "Ship Of Fools",
-        "Passenger",
+        "Passenger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "He's Gone",
         "Scarlet Begonias",
         "Fire On The Mountain",
-        "I Need A Miracle",
+        "Drums",
+        "Space",
+        "Need a Miracle",
         "Dear Prudence",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-20.jpg"
 }

@@ -10,11 +10,15 @@
         "Ripple",
         "Shakedown Street",
         "Bertha",
-        "Loser",
+        "The Loser",
         "They Love Each Other",
         "Tennessee Jed",
-        "Lady With A Fan",
-        "Terrapin Station",
+        "Terrapin Station"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Truckin'",
         "Uncle John's Band",
@@ -25,8 +29,15 @@
         "The Wheel",
         "Standing On The Moon",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Werewolves Of London"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-10-31.jpg"
 }

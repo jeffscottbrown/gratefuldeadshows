@@ -15,7 +15,12 @@
         "Mr. Charlie",
         "Black Throated Wind",
         "Cassidy",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Estimated Prophet",
         "Eyes Of The World",
@@ -25,9 +30,15 @@
         "Milestones",
         "Goin' Down The Road Feeling Bad",
         "Death Don't Have No Mercy",
-        "One More Saturday Night",
-        "The Mighty Quinn"
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "The Mighty Quinn (Quinn The Eskimo)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-28.jpg"
 }

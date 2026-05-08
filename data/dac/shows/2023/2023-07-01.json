@@ -9,12 +9,18 @@
       "songs": [
         "Let The Good Times Roll",
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Deal",
         "Me And My Uncle",
         "Dear Mr. Fantasy",
+        "Hey Jude Reprise",
         "Terrapin Station",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Eyes Of The World",
         "Shakedown Street",
         "Saint Stephen",
@@ -22,12 +28,18 @@
         "Drums",
         "Space",
         "Milestones",
-        "Days Between",
+        "The Days Between",
         "Sugar Magnolia",
         "Scarlet Begonias",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Goin' Down The Road Feeling Bad"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-01.jpg"
 }

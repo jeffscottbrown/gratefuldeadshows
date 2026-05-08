@@ -9,10 +9,15 @@
       "songs": [
         "Bertha",
         "Mississippi Half Step Uptown Toodeloo",
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Good Lovin'",
         "Maggie's Farm",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Shakedown Street",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -22,10 +27,15 @@
         "Black Peter",
         "Brown Eyed Women",
         "Hell In A Bucket",
-        "Throwing Stones",
-        "Come Down",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-25.jpg"
 }

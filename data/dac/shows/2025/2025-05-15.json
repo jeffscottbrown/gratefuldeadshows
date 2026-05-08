@@ -12,7 +12,12 @@
         "Uncle John's Band",
         "Friend Of The Devil",
         "Lay Down Sally",
-        "Terrapin Station",
+        "Terrapin Station"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Bertha",
         "Jack Straw",
         "China Cat Sunflower",
@@ -23,9 +28,15 @@
         "Standing On The Moon",
         "Brown Eyed Women",
         "Hell In A Bucket",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Turn On Your Lovelight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-15.jpg"
 }

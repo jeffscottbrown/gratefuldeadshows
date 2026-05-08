@@ -15,7 +15,12 @@
         "Next Time You See Me",
         "Mississippi Half Step Uptown Toodeloo",
         "Bird Song",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Iko Iko",
         "Sugaree",
         "China Cat Sunflower",
@@ -25,9 +30,15 @@
         "Space",
         "Hell In A Bucket",
         "Wharf Rat",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-27.jpg"
 }

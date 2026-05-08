@@ -8,11 +8,16 @@
       "set": 1,
       "songs": [
         "Shakedown Street",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Cold Rain And Snow",
         "Tennessee Jed",
         "They Love Each Other",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -22,7 +27,12 @@
         "Space",
         "The Other One",
         "Stella Blue",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }

@@ -12,19 +12,31 @@
         "Me And My Uncle",
         "Big River",
         "Sugaree",
-        "jack starw",
-        "Mississippi Half Step Uptown Toodeloo",
-        "box of rian",
+        "Jack Straw",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Box Of Rain",
         "Viola Lee Blues",
         "Uncle John's Band",
         "China Cat Sunflower",
-        "i know you ryder",
+        "I Know You Rider",
+        "Drums",
         "Space",
-        "Viola Lee Blues",
         "Stella Blue",
-        "Dead&Co2016-06-16.Krall.T17",
-        "Dead&Co2016-06-16.Krall.T18"
+        "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-16.jpg"
 }

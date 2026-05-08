@@ -7,24 +7,30 @@
     {
       "set": 1,
       "songs": [
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Jack Straw",
         "Brown Eyed Women",
         "Ramble On Rose",
         "Deep Ellum Blues",
         "Beat It On Down The Line",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "New Speedway Boogie",
         "Dark Star",
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Drums",
         "Space",
-        "A Hard Rain's A-Gonna Fall",
+        "Hard Rain's Gonna Fall",
         "The Wheel",
         "Not Fade Away",
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-24.jpg"
 }

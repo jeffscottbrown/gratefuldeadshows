@@ -7,7 +7,7 @@
     {
       "set": 1,
       "songs": [
-        "I Need A Miracle",
+        "Need a Miracle",
         "The Music Never Stopped",
         "They Love Each Other",
         "The Weight",
@@ -15,6 +15,29 @@
         "Mama Tried",
         "Althea"
       ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Dark Star",
+        "Saint Stephen",
+        "Let It Grow",
+        "Drums",
+        "Space",
+        "The Days Between",
+        "Dear Mr. Fantasy",
+        "Hey Jude Reprise",
+        "Sugar Magnolia",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Touch Of Grey"
+      ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-24.jpg"
 }

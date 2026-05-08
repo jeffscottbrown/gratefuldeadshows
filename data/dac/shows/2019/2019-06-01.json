@@ -9,12 +9,17 @@
       "songs": [
         "Bertha",
         "Good Lovin'",
-        "The Eleven",
+        "They Love Each Other",
         "Big River",
         "Mr. Charlie",
         "Tennessee Jed",
         "Lost Sailor",
-        "Saint Stephen",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Row Jimmy",
@@ -24,10 +29,17 @@
         "Space",
         "My Favorite Things",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Uncle John's Band",
-        "Playing In The Band (Reprise)"
+        "Playing In The Band (Reprise)",
+        "Uncle John's Band"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-01.jpg"
 }

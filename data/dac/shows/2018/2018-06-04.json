@@ -13,16 +13,29 @@
         "Friend Of The Devil",
         "If I Had The World To Give",
         "Sugaree",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "He's Gone",
         "China Cat Sunflower",
         "I Know You Rider",
-        "A Hard Rain's A-Gonna Fall",
+        "Drums",
+        "Space",
+        "Hard Rain's Gonna Fall",
         "Goin' Down The Road Feeling Bad",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-04.jpg"
 }

@@ -13,7 +13,12 @@
         "Tennessee Jed",
         "They Love Each Other",
         "Black Throated Wind",
-        "Mississippi Half Step Uptown Toodeloo",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Playing In The Band",
         "Uncle John's Band",
@@ -23,9 +28,15 @@
         "Space",
         "Milestones",
         "The Days Between",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-13.jpg"
 }

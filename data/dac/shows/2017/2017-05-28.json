@@ -14,7 +14,12 @@
         "Peggy O",
         "Loose Lucy",
         "Sugaree",
-        "Samson And Delilah",
+        "Samson And Delilah"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "Crazy Fingers",
@@ -23,9 +28,15 @@
         "Drums",
         "Space",
         "Dear Prudence",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-05-28.jpg"
 }

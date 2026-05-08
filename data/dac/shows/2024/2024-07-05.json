@@ -13,7 +13,12 @@
         "Good Lovin'",
         "Next Time You See Me",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Playing In The Band",
@@ -24,10 +29,15 @@
         "Looks Like Rain",
         "Brown Eyed Women",
         "Fire On The Mountain",
-        "Throwing Stones",
-        "Come Down",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-07-05.jpg"
 }

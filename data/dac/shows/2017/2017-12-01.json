@@ -15,6 +15,12 @@
         "They Love Each Other",
         "The Music Never Stopped",
         "Easy Answers",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Scarlet Begonias",
         "Fire On The Mountain",
@@ -23,9 +29,15 @@
         "Space",
         "Dear Prudence",
         "The Wheel",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-12-01.jpg"
 }

@@ -11,18 +11,31 @@
         "Big Boss Man",
         "Brown Eyed Women",
         "West L.A. Fadeaway",
-        "Loser",
+        "The Loser",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Bertha",
         "Eyes Of The World",
         "Scarlet Begonias",
         "Fire On The Mountain",
+        "Drums",
+        "Space",
         "The Wheel",
         "Looks Like Rain",
-        "In The Midnight Hour",
+        "In The Midnight Hour"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-06.jpg"
 }

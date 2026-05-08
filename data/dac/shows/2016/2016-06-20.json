@@ -13,10 +13,14 @@
         "Row Jimmy",
         "Crazy Fingers",
         "Need a Miracle",
-        "Big RR Blues",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "The Wheel",
-        "stay",
         "Eyes Of The World",
         "Standing On The Moon",
         "Let It Grow",
@@ -24,9 +28,15 @@
         "Space",
         "All Along The Watchtower",
         "Morning Dew",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-20.jpg"
 }

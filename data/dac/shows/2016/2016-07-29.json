@@ -12,8 +12,13 @@
         "Easy Wind",
         "Ramble On Rose",
         "Row Jimmy",
-        "Loser",
-        "Touch Of Grey",
+        "The Loser",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "He's Gone",
@@ -23,9 +28,15 @@
         "Space",
         "New Speedway Boogie",
         "Morning Dew",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-29.jpg"
 }

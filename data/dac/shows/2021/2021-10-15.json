@@ -9,11 +9,17 @@
       "songs": [
         "The Music Never Stopped",
         "Easy Answers",
+        "The Music Never Stopped (Reprise)",
         "Dire Wolf",
         "El Paso",
         "Row Jimmy",
         "Jack Straw",
-        "Mississippi Half Step Uptown Toodeloo",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Truckin'",
         "Saint Stephen",
@@ -22,10 +28,16 @@
         "Drums",
         "Space",
         "Milestones",
-        "Days Between",
-        "U.S. Blues",
+        "The Days Between",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-15.jpg"
 }

@@ -14,9 +14,12 @@
         "Tennessee Jed",
         "Dire Wolf",
         "Bird Song",
-        "Big Railroad Blues",
-        "Casey Jones",
-        "Black Muddy River",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Estimated Prophet",
         "Scarlet Begonias",
@@ -26,9 +29,15 @@
         "Space",
         "Cumberland Blues",
         "Black Peter",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-07.jpg"
 }

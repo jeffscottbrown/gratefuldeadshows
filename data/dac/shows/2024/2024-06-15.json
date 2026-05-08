@@ -7,23 +7,36 @@
     {
       "set": 1,
       "songs": [
-        "I Need A Miracle",
+        "Need a Miracle",
         "Eyes Of The World",
-        "Dancing In The Street",
-        "It Hurts Me Too",
+        "Dancing In The Streets",
+        "Hurts Me Too",
         "Cassidy",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Playing In The Band",
         "Cumberland Blues",
         "Estimated Prophet",
-        "Days Between",
+        "Drums",
+        "Space",
+        "The Days Between",
         "Viola Lee Blues",
         "U.S. Blues",
-        "Dark Star",
+        "Dark Star"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-15.jpg"
 }

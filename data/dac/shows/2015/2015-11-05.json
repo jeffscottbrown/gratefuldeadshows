@@ -13,7 +13,12 @@
         "Mississippi Half Step Uptown Toodeloo",
         "Bird Song",
         "Cumberland Blues",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Iko Iko",
         "Feel Like A Stranger",
         "China Cat Sunflower",
@@ -22,9 +27,15 @@
         "Space",
         "Playing In The Band",
         "Standing On The Moon",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-05.jpg"
 }

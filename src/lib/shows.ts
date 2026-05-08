@@ -31,6 +31,7 @@ export interface Show {
   country: string;
   setlist: SetEntry[];
   notes?: string;
+  imageUrl?: string;
 }
 
 // ── Internal loader ────────────────────────────────────────────────────────
@@ -48,6 +49,7 @@ function entryToShow(entry: { id: string; data: Record<string, unknown> }, band:
     country: entry.data.country as string,
     setlist: (entry.data.setlist as SetEntry[]) ?? [],
     notes: entry.data.notes as string | undefined,
+    imageUrl: entry.data.imageUrl as string | undefined,
   };
 }
 

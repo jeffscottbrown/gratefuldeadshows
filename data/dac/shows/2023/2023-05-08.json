@@ -14,7 +14,12 @@
         "Jack Straw",
         "Bertha",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Help On The Way",
@@ -24,10 +29,15 @@
         "Space",
         "Scarlet Begonias",
         "Fire On The Mountain",
-        "Morning Dew",
-        "Lady With A Fan",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Terrapin Station"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-05-08.jpg"
 }

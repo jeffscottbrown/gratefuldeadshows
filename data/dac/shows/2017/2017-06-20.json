@@ -14,17 +14,29 @@
         "Looks Like Rain",
         "Dire Wolf",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "Deal",
         "China Doll",
         "Terrapin Station",
+        "Drums",
         "Space",
         "All Along The Watchtower",
         "Black Peter",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Goin' Down The Road Feeling Bad"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-20.jpg"
 }

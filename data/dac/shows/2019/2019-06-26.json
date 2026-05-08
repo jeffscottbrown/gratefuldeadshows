@@ -14,7 +14,12 @@
         "Friend Of The Devil",
         "Peggy O",
         "Cumberland Blues",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Playing In The Band",
         "China Doll",
@@ -23,10 +28,16 @@
         "Drums",
         "Space",
         "New Speedway Boogie",
-        "A Hard Rain's A-Gonna Fall",
-        "U.S. Blues",
+        "Hard Rain's Gonna Fall",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-26.jpg"
 }

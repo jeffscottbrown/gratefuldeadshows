@@ -10,22 +10,33 @@
         "Bertha",
         "Me And My Uncle",
         "They Love Each Other",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Comes A Time",
         "Throwing Stones",
-        "Terrapin Station",
+        "Terrapin Station"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Uncle John's Band",
-        "Playing In The Band",
+        "Playing In The Band (Reprise)",
         "Deal",
         "Viola Lee Blues",
         "Drums",
         "Space",
         "The Wheel",
-        "A Hard Rain's A-Gonna Fall",
-        "One More Saturday Night",
+        "Hard Rain's Gonna Fall",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-08.jpg"
 }

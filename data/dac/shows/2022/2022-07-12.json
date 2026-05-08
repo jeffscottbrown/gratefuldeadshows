@@ -14,7 +14,12 @@
         "They Love Each Other",
         "West L.A. Fadeaway",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Big Railroad Blues",
         "Dark Star",
         "El Paso",
@@ -22,12 +27,18 @@
         "Eyes Of The World",
         "Drums",
         "Space",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Hell In A Bucket",
         "Dear Prudence",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-07-12.jpg"
 }

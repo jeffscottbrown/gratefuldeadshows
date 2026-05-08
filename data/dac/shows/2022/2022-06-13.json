@@ -14,20 +14,30 @@
         "Big Railroad Blues",
         "Friend Of The Devil",
         "Crazy Fingers",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Dark Star",
         "El Paso",
         "Sing Me Back Home",
-        "Dark Star (Reprise)",
         "Uncle John's Band",
         "Drums",
         "Space",
         "Cumberland Blues",
         "Death Don't Have No Mercy",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-13.jpg"
 }

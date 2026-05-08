@@ -10,21 +10,33 @@
         "Feel Like A Stranger",
         "Cold Rain And Snow",
         "The Promised Land",
-        "Loser",
+        "The Loser",
         "Bertha",
         "Cassidy",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Uncle John's Band",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
+        "Drums",
         "Space",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Morning Dew",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-17.jpg"
 }

@@ -13,20 +13,31 @@
         "Crazy Fingers",
         "Big River",
         "Good Lovin'",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Estimated Prophet",
         "Cumberland Blues",
         "The Other One",
         "Drums",
+        "Space",
         "Black Peter",
         "Althea",
         "U.S. Blues",
-        "Morning Dew",
-        "Come Down",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Turn On Your Lovelight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-17.jpg"
 }

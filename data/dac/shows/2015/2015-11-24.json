@@ -9,13 +9,18 @@
       "songs": [
         "Cold Rain And Snow",
         "New Speedway Boogie",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "New Speedway Boogie",
         "Me And My Uncle",
         "Candyman",
         "Bertha",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -24,9 +29,15 @@
         "Drums",
         "Space",
         "Black Peter",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-24.jpg"
 }

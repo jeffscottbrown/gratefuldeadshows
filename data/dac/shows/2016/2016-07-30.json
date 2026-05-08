@@ -7,15 +7,36 @@
     {
       "set": 1,
       "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Shakedown Street",
+        "Cassidy",
+        "Standing On The Moon",
+        "Me And My Uncle",
+        "Brown Eyed Women",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "Saint Stephen",
         "Eyes Of The World",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "The Days Between",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues",
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-30.jpg"
 }

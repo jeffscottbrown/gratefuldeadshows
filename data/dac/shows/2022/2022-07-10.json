@@ -13,20 +13,31 @@
         "Looks Like Rain",
         "Brown Eyed Women",
         "Estimated Prophet",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Samson And Delilah",
         "Help On The Way",
-        "Slipknot!",
         "Slipknot!",
         "China Cat Sunflower",
         "I Know You Rider",
         "Drums",
         "Space",
         "Cumberland Blues",
-        "Days Between",
-        "Franklin's Tower",
-        "Brokedown Palace"
+        "The Days Between",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Brokedown Palace",
+        "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-07-10.jpg"
 }

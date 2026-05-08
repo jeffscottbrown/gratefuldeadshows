@@ -14,10 +14,14 @@
         "High Time",
         "Mr. Charlie",
         "Bird Song",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "The Other One",
-        "Lady With A Fan",
         "Terrapin Station",
         "The Other One",
         "Drums",
@@ -25,9 +29,15 @@
         "Stella Blue",
         "Help On The Way",
         "Slipknot!",
-        "Franklin's Tower",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-05-20.jpg"
 }

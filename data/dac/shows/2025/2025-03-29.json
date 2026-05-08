@@ -12,7 +12,12 @@
         "Deal",
         "The Weight",
         "Terrapin Station",
-        "Bertha",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Hell In A Bucket",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -21,11 +26,17 @@
         "Row Jimmy",
         "Drums",
         "Space",
-        "A Hard Rain's A-Gonna Fall",
+        "Hard Rain's Gonna Fall",
         "Shakedown Street",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-03-29.jpg"
 }

@@ -13,7 +13,12 @@
         "Friend Of The Devil",
         "New Minglewood Blues",
         "Sugaree",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Estimated Prophet",
         "Cumberland Blues",
@@ -23,10 +28,15 @@
         "Space",
         "The Wheel",
         "Dear Prudence",
-        "Casey Jones",
-        "Liberty fake",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-07.jpg"
 }

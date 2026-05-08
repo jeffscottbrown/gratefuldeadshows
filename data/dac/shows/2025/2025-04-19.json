@@ -7,12 +7,17 @@
     {
       "set": 1,
       "songs": [
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Truckin'",
         "Lay Down Sally",
         "Tennessee Jed",
         "Jack Straw",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "He's Gone",
@@ -22,9 +27,15 @@
         "Dear Prudence",
         "Brown Eyed Women",
         "Hell In A Bucket",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-19.jpg"
 }

@@ -14,18 +14,29 @@
         "Brown Eyed Women",
         "Ramble On Rose",
         "Bird Song",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Dark Star",
         "Estimated Prophet",
         "Eyes Of The World",
         "Drums",
         "Space",
-        "Wheel",
+        "The Wheel",
         "Standing On The Moon",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2020-01-16.jpg"
 }

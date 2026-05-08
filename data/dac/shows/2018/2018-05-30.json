@@ -14,12 +14,16 @@
         "Tennessee Jed",
         "Bird Song",
         "Loose Lucy",
-        "Bird Song",
+        "Bird Song (Reprise)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Althea",
         "Estimated Prophet",
-        "The Other One",
         "Eyes Of The World",
         "Drums",
         "Space",
@@ -27,5 +31,6 @@
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-05-30.jpg"
 }

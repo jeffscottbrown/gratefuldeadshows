@@ -2,5 +2,43 @@
   "venue": "Cellairis Amphitheatre at Lakewood",
   "city": "Atlanta",
   "state": "GA",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Scarlet Begonias",
+        "The Music Never Stopped",
+        "Alabama Getaway",
+        "Big River",
+        "West L.A. Fadeaway",
+        "Tennessee Jed",
+        "Bird Song",
+        "Loose Lucy",
+        "Bird Song (Reprise)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Other One",
+        "Franklin's Tower",
+        "Crazy Fingers",
+        "Terrapin Station",
+        "The Other One",
+        "Drums",
+        "Space",
+        "Althea",
+        "Standing On The Moon",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Fire On The Mountain"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-29.jpg"
 }

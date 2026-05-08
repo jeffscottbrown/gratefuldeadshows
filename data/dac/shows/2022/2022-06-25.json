@@ -11,9 +11,14 @@
         "The Wheel",
         "New Speedway Boogie",
         "Big Railroad Blues",
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Tennessee Jed",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Casey Jones",
         "Ramble On Rose",
         "Help On The Way",
@@ -21,12 +26,18 @@
         "Franklin's Tower",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "Fire On The Mountain",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-25.jpg"
 }

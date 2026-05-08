@@ -13,19 +13,30 @@
         "Althea",
         "Peggy O",
         "Bertha",
-        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "New Speedway Boogie",
         "He's Gone",
         "Fire On The Mountain",
+        "Drums",
+        "Space",
         "A Love Supreme",
-        "A Hard Rain's A-Gonna Fall",
-        "Playing In The Band (Reprise)",
+        "Hard Rain's Gonna Fall",
         "Throwing Stones",
-        "U.S. Blues",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Liberty"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-22.jpg"
 }

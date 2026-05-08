@@ -14,19 +14,30 @@
         "Cold Rain And Snow",
         "Peggy O",
         "Sugaree",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "El Paso",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Saint Stephen",
         "William Tell Bridge",
         "The Eleven",
         "Drums",
         "Space",
         "Morning Dew",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-30.jpg"
 }

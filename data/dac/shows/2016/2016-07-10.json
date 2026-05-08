@@ -13,7 +13,12 @@
         "Standing On The Moon",
         "Crazy Fingers",
         "Althea",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugar Magnolia",
         "Viola Lee Blues",
         "Scarlet Begonias",
@@ -21,10 +26,16 @@
         "Drums",
         "Space",
         "Wharf Rat",
-        "Same Story, Different Day",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-10.jpg"
 }

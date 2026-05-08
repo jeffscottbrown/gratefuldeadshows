@@ -2,5 +2,42 @@
   "venue": "Alpine Valley ampithearte",
   "city": "East Troy",
   "state": "WI",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Easy Answers",
+        "Alabama Getaway",
+        "Big River",
+        "Jack Straw",
+        "Black Muddy River",
+        "Friend Of The Devil",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "The Weight",
+        "Shakedown Street",
+        "Althea",
+        "China Cat Sunflower",
+        "I Know You Rider",
+        "Drums",
+        "Space",
+        "All Along The Watchtower",
+        "Standing On The Moon",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-23.jpg"
 }

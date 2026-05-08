@@ -10,21 +10,33 @@
         "Feel Like A Stranger",
         "Here Comes Sunshine",
         "Brown Eyed Women",
-        "Loser",
-        "Little Red Rooster",
+        "The Loser",
+        "Red Rooster",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Iko Iko",
         "Estimated Prophet",
         "China Cat Sunflower",
         "I Know You Rider",
+        "Drums",
         "Space",
         "Uncle John's Band",
         "The Days Between",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-21.jpg"
 }

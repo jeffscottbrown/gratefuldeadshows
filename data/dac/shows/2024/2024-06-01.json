@@ -2,5 +2,42 @@
   "venue": "The Sphere",
   "city": "Las Vegas",
   "state": "NV",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Alabama Getaway",
+        "The Music Never Stopped",
+        "They Love Each Other",
+        "Ramble On Rose",
+        "Hurts Me Too",
+        "Lost Sailor",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Sugaree",
+        "Saint Stephen",
+        "Brown Eyed Women",
+        "Cumberland Blues",
+        "Drums",
+        "Space",
+        "Dear Prudence",
+        "Sugar Magnolia",
+        "Scarlet Begonias",
+        "Sunshine Daydream",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-01.jpg"
 }

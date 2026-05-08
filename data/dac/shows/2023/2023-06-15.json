@@ -14,19 +14,30 @@
         "Brown Eyed Women",
         "Dark Star",
         "El Paso",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Fire On The Mountain",
         "New Speedway Boogie",
         "Estimated Prophet",
         "Eyes Of The World",
         "Drums",
         "Space",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Cumberland Blues",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-15.jpg"
 }

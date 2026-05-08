@@ -14,16 +14,30 @@
         "Ramble On Rose",
         "Hurts Me Too",
         "Bird Song",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Althea",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
-        "Days Between",
-        "Not Fade Away",
+        "Drums",
+        "Space",
+        "The Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-14.jpg"
 }

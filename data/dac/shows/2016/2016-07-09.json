@@ -9,24 +9,35 @@
       "songs": [
         "Cassidy",
         "Brown Eyed Women",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Dire Wolf",
         "Ramble On Rose",
         "Box Of Rain",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Eyes Of The World",
         "Saint Stephen",
         "The Other One",
         "Drums",
         "Space",
-        "A Hard Rain's A-Gonna Fall",
+        "Hard Rain's Gonna Fall",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-09.jpg"
 }

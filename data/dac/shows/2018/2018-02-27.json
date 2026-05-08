@@ -14,16 +14,29 @@
         "Row Jimmy",
         "Loose Lucy",
         "Brown Eyed Women",
-        "The Wheel",
+        "The Wheel"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Althea",
         "Estimated Prophet",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "Wharf Rat",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-27.jpg"
 }

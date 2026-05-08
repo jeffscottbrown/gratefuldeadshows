@@ -12,7 +12,12 @@
         "Cumberland Blues",
         "Lay Down Sally",
         "Tennessee Jed",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Uncle John's Band",
         "Estimated Prophet",
         "Eyes Of The World",
@@ -21,9 +26,15 @@
         "Space",
         "Wharf Rat",
         "U.S. Blues",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-03-21.jpg"
 }

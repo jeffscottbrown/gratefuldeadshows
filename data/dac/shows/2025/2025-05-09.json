@@ -13,7 +13,12 @@
         "Don't Ease Me In",
         "Me And My Uncle",
         "Ramble On Rose",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Liberty",
         "Scarlet Begonias",
         "Fire On The Mountain",
@@ -24,9 +29,15 @@
         "Space",
         "Death Don't Have No Mercy",
         "Brown Eyed Women",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-09.jpg"
 }

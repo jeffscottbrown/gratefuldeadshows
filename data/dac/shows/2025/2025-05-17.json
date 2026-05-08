@@ -13,7 +13,12 @@
         "Franklin's Tower",
         "Tennessee Jed",
         "The Harder They Come",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Passenger",
         "Scarlet Begonias",
         "Fire On The Mountain",
@@ -23,9 +28,15 @@
         "Space",
         "Looks Like Rain",
         "Tangled Up In Blue",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-17.jpg"
 }

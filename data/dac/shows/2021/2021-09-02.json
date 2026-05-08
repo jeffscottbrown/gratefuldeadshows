@@ -10,10 +10,15 @@
         "Playing In The Band",
         "The Wheel",
         "Iko Iko",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Ramble On Rose",
         "Brown Eyed Women",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Dark Star",
         "El Paso",
@@ -22,9 +27,15 @@
         "Space",
         "Casey Jones",
         "Stella Blue",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-02.jpg"
 }

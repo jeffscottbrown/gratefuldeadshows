@@ -2,5 +2,42 @@
   "venue": "Fenway Park",
   "city": "Unknown Location",
   "state": "",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "The Music Never Stopped",
+        "Cold Rain And Snow",
+        "Me And My Uncle",
+        "Big Boss Man",
+        "Ramble On Rose",
+        "Sugaree",
+        "Passenger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dancing In The Streets",
+        "Help On The Way",
+        "Slipknot!",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "Need a Miracle",
+        "Standing On The Moon",
+        "Franklin's Tower",
+        "Black Muddy River"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-17.jpg"
 }

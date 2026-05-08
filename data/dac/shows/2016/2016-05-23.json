@@ -2,5 +2,37 @@
   "venue": "Fillmore West",
   "city": "San Francisco",
   "state": "CA",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Saint Stephen",
+        "Hell In A Bucket",
+        "Cold Rain And Snow",
+        "Loose Lucy",
+        "Queen Jane",
+        "Brown Eyed Women"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Big Railroad Blues",
+        "Sugaree",
+        "Estimated Prophet",
+        "Dark Star",
+        "The Other One",
+        "The Days Between",
+        "China Cat Sunflower",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Brokedown Palace"
+      ]
+    }
+  ]
 }

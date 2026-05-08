@@ -10,9 +10,14 @@
         "Iko Iko",
         "Eyes Of The World",
         "Bertha",
-        "Loser",
+        "The Loser",
         "El Paso",
-        "Cold Rain And Snow",
+        "Cold Rain And Snow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Ripple",
         "Estimated Prophet",
         "Mr. Charlie",
@@ -24,10 +29,15 @@
         "Standing On The Moon",
         "Althea",
         "Goin' Down The Road Feeling Bad",
-        "Knockin' On Heaven's Door",
-        "Come Down",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Fire On The Mountain"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-30.jpg"
 }

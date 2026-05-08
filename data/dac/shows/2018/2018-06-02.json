@@ -14,11 +14,17 @@
         "Ramble On Rose",
         "The Weight",
         "The Music Never Stopped",
-        "Easy Answers",
+        "Easy Answers"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Uncle John's Band",
         "The Other One"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-02.jpg"
 }

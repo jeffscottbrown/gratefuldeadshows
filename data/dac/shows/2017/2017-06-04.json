@@ -13,7 +13,12 @@
         "They Love Each Other",
         "Cassidy",
         "Bird Song",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -22,10 +27,16 @@
         "Drums",
         "Space",
         "The Other One",
-        "A Hard Rain's A-Gonna Fall",
-        "Casey Jones",
+        "Hard Rain's Gonna Fall",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-04.jpg"
 }

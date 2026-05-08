@@ -12,17 +12,30 @@
         "Bertha",
         "When I Paint My Masterpiece",
         "Jack Straw",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Uncle John's Band",
         "Saint Stephen",
         "Morning Dew",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "All Along The Watchtower",
         "Stella Blue",
         "Althea",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-22.jpg"
 }

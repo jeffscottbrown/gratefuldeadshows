@@ -14,7 +14,12 @@
         "Friend Of The Devil",
         "They Love Each Other",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "The Wheel",
         "Playing In The Band (Reprise)",
@@ -23,11 +28,12 @@
         "The Eleven",
         "Drums",
         "Space",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Althea",
         "Stella Blue",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-08.jpg"
 }

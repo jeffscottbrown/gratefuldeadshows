@@ -13,7 +13,13 @@
         "Jack Straw",
         "Althea",
         "Playing In The Band",
-        "Playing In The Band (Reprise)",
+        "Rain Delay"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
         "Uncle John's Band",
         "Playing In The Band (Reprise)",
         "Help On The Way",
@@ -22,12 +28,19 @@
         "He's Gone",
         "The Other One",
         "Drums",
+        "Space",
         "Standing On The Moon",
         "All Along The Watchtower",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door",
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-03.jpg"
 }

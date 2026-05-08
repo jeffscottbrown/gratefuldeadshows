@@ -13,7 +13,12 @@
         "Franklin's Tower",
         "Let It Grow",
         "The Weight",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sunshine Daydream",
         "Greatest Story Ever Told",
         "China Cat Sunflower",
@@ -21,11 +26,17 @@
         "Terrapin Station",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "Althea",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-10.jpg"
 }

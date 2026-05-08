@@ -14,20 +14,30 @@
         "Here Comes Sunshine",
         "New Speedway Boogie",
         "Bird Song",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "Cumberland Blues",
         "I Know You Rider",
-        "Lady With A Fan",
         "Terrapin Station",
         "Drums",
         "Space",
         "Stella Blue",
         "Help On The Way",
         "Slipknot!",
-        "Franklin's Tower",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-01-17.jpg"
 }

@@ -7,14 +7,19 @@
     {
       "set": 1,
       "songs": [
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Cold Rain And Snow",
         "Hell In A Bucket",
         "Big River",
         "Althea",
         "New Speedway Boogie",
         "The Music Never Stopped",
-        "Ripple",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Estimated Prophet",
         "Eyes Of The World",
@@ -23,9 +28,15 @@
         "Drums",
         "Space",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-09.jpg"
 }

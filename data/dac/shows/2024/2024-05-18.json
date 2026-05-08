@@ -9,25 +9,35 @@
       "songs": [
         "Let The Good Times Roll",
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Sugaree",
         "Loose Lucy",
         "Ship Of Fools",
         "Tennessee Jed",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Eyes Of The World",
-        "Lady With A Fan",
-        "Ship Of Fools",
+        "Terrapin Station",
         "Drums",
         "Space",
         "Stella Blue",
         "The Wheel",
         "Goin' Down The Road Feeling Bad",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-18.jpg"
 }

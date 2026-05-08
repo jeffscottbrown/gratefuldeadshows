@@ -10,20 +10,33 @@
         "Samson And Delilah",
         "Truckin'",
         "Dear Mr. Fantasy",
-        "Hey Jude",
+        "Hey Jude Reprise",
         "Mama Tried",
         "Cassidy",
-        "Saint Stephen",
+        "Saint Stephen"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Shakedown Street",
         "West L.A. Fadeaway",
         "Sugaree",
         "Estimated Prophet",
         "Eyes Of The World",
+        "Drums",
+        "Space",
         "Dear Prudence",
         "Cold Rain And Snow",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-11.jpg"
 }

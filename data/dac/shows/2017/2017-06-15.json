@@ -13,7 +13,12 @@
         "West L.A. Fadeaway",
         "Row Jimmy",
         "Cumberland Blues",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Jack Straw",
         "Viola Lee Blues",
         "He's Gone",
@@ -21,11 +26,16 @@
         "The Other One",
         "Drums",
         "Space",
-        "The Other One",
         "Wharf Rat",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Liberty"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-15.jpg"
 }

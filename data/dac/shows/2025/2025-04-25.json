@@ -13,7 +13,12 @@
         "Slipknot!",
         "Cumberland Blues",
         "Jack Straw",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Lost Sailor",
         "Saint Of Circumstance",
@@ -24,9 +29,15 @@
         "Space",
         "Standing On The Moon",
         "Althea",
-        "Uncle John's Band",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-25.jpg"
 }

@@ -13,16 +13,31 @@
         "Easy Wind",
         "Ramble On Rose",
         "Dear Mr. Fantasy",
-        "Bird Song",
+        "Hey Jude Reprise",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
         "Iko Iko",
-        "I Need A Miracle",
+        "Drums",
+        "Space",
+        "Need a Miracle",
         "Wharf Rat",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-01.jpg"
 }

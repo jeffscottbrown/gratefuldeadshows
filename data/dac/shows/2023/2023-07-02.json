@@ -11,21 +11,33 @@
         "Brown Eyed Women",
         "Samson And Delilah",
         "Friend Of The Devil",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Ramble On Rose",
         "High Time",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "They Love Each Other",
         "China Cat Sunflower",
         "I Know You Rider",
         "Fire On The Mountain",
         "The Other One",
+        "Drums",
         "Space",
         "The Eleven",
         "U.S. Blues",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-02.jpg"
 }

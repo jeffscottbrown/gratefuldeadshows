@@ -9,12 +9,17 @@
       "songs": [
         "Playing In The Band",
         "Uncle John's Band",
-        "Dark Star",
-        "Playing In The Band",
+        "Dark Star (Second Verse)",
+        "Playing In The Band (Reprise)",
         "They Love Each Other",
         "Me And My Uncle",
         "Samson And Delilah",
-        "Terrapin Station",
+        "Terrapin Station"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "He's Gone",
@@ -24,10 +29,16 @@
         "Space",
         "Althea",
         "The Days Between",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "Not Fade Away (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2020-01-19.jpg"
 }

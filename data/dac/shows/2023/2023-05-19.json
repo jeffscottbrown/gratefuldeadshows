@@ -12,8 +12,14 @@
         "Mississippi Half Step Uptown Toodeloo",
         "They Love Each Other",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "New Speedway Boogie",
         "Eyes Of The World",
@@ -23,9 +29,15 @@
         "The Wheel",
         "Wharf Rat",
         "Sugar Magnolia",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-05-19.jpg"
 }

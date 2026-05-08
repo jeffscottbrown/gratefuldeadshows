@@ -13,7 +13,12 @@
         "Black Throated Wind",
         "Loose Lucy",
         "Big Boss Man",
-        "Mississippi Half Step Uptown Toodeloo",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Scarlet Begonias",
         "Fire On The Mountain",
@@ -22,10 +27,16 @@
         "Space",
         "The Other One",
         "Stella Blue",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-26.jpg"
 }

@@ -9,24 +9,38 @@
       "songs": [
         "The Music Never Stopped",
         "Easy Answers",
-        "The Music Never Stopped",
+        "The Music Never Stopped (Reprise)",
         "Tennessee Jed",
         "Here Comes Sunshine",
         "Loose Lucy",
         "Mr. Charlie",
         "Looks Like Rain",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Happy Birthday",
         "The Other One",
         "Uncle John's Band",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
+        "Drums",
+        "Space",
         "Cumberland Blues",
         "The Other One",
         "Stella Blue",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-11.jpg"
 }

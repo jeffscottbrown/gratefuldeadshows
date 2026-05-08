@@ -13,7 +13,12 @@
         "Me And My Uncle",
         "They Love Each Other",
         "West L.A. Fadeaway",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Let The Good Times Roll",
         "Scarlet Begonias",
         "Help On The Way",
@@ -22,10 +27,16 @@
         "Drums",
         "Space",
         "Cumberland Blues",
-        "Days Between",
-        "Not Fade Away",
+        "The Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-27.jpg"
 }

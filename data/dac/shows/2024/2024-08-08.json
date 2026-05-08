@@ -12,7 +12,12 @@
         "Mr. Charlie",
         "Playing In The Band",
         "Brown Eyed Women",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Passenger",
         "Saint Stephen",
         "Uncle John's Band",
@@ -20,9 +25,15 @@
         "Space",
         "Black Peter",
         "Goin' Down The Road Feeling Bad",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-08.jpg"
 }

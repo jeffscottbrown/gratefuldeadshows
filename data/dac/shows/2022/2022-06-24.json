@@ -12,11 +12,18 @@
         "Bertha",
         "Next Time You See Me",
         "Dark Star",
-        "Althea",
+        "Dear Mr. Fantasy",
+        "Hey Jude Reprise",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Throwing Stones",
         "Brown Eyed Women",
         "Estimated Prophet",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Sing Me Back Home",
         "Truckin'",
         "Drums",
@@ -27,5 +34,6 @@
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-24.jpg"
 }

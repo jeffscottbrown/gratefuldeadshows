@@ -13,7 +13,12 @@
         "Jack Straw",
         "Me And My Uncle",
         "Ramble On Rose",
-        "Althea",
+        "Althea"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Franklin's Tower",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -24,9 +29,15 @@
         "All Along The Watchtower",
         "He's Gone",
         "Truckin'",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-01.jpg"
 }

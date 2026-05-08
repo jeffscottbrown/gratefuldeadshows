@@ -14,7 +14,12 @@
         "They Love Each Other",
         "Foolish Heart",
         "The Other One",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "He's Gone",
@@ -24,9 +29,15 @@
         "All Along The Watchtower",
         "The Other One",
         "Standing On The Moon",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-28.jpg"
 }

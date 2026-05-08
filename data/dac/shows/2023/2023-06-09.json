@@ -10,11 +10,16 @@
         "Playing In The Band",
         "Deal",
         "Tennessee Jed",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Ramble On Rose",
         "Brown Eyed Women",
         "Crazy Fingers",
-        "Dancing In The Street",
+        "Dancing In The Streets"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Estimated Prophet",
         "The Other One",
@@ -24,9 +29,15 @@
         "Stella Blue",
         "Sugar Magnolia",
         "Scarlet Begonias",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-09.jpg"
 }

@@ -8,13 +8,18 @@
       "set": 1,
       "songs": [
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Althea",
         "Mississippi Half Step Uptown Toodeloo",
         "High Time",
         "All Along The Watchtower",
         "Bertha",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -24,11 +29,17 @@
         "Uncle John's Band",
         "Cumberland Blues",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Playing In The Band (Reprise)",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-10.jpg"
 }

@@ -9,22 +9,29 @@
       "songs": [
         "Cassidy",
         "Brown Eyed Women",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Here Comes Sunshine",
         "Tennessee Jed",
         "China Doll",
         "Viola Lee Blues",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "New Speedway Boogie",
         "Dark Star",
         "The Other One",
         "Terrapin Station",
         "Drums",
         "Space",
+        "Dark Star Big River Jam",
         "Black Peter",
         "Casey Jones",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-24.jpg"
 }

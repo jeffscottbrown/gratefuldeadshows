@@ -13,18 +13,30 @@
         "The Music Never Stopped",
         "They Love Each Other",
         "New Speedway Boogie",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "I Fought The Law",
         "Dark Star",
+        "Spanish Jam",
         "Saint Stephen",
         "Sugaree",
         "Drums",
         "Space",
         "Stella Blue",
         "Cold Rain And Snow",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "In The Midnight Hour"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-05-16.jpg"
 }

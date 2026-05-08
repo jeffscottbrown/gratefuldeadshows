@@ -7,12 +7,17 @@
     {
       "set": 1,
       "songs": [
-        "Good Times",
+        "Let The Good Times Roll",
         "China Cat Sunflower",
         "I Know You Rider",
         "They Love Each Other",
         "Shakedown Street",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Broken Arrow",
@@ -26,5 +31,6 @@
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-08-03.jpg"
 }

@@ -10,11 +10,16 @@
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Brown Eyed Women",
-        "Loser",
+        "The Loser",
         "They Love Each Other",
         "Bird Song",
         "New Speedway Boogie",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Estimated Prophet",
         "Franklin's Tower",
@@ -23,12 +28,18 @@
         "Drums",
         "Space",
         "Althea",
-        "Days Between",
-        "Not Fade Away",
+        "The Days Between",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "Brokedown Palace",
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-07-06.jpg"
 }

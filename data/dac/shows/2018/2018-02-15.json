@@ -13,9 +13,12 @@
         "Cassidy",
         "Brown Eyed Women",
         "Bertha",
-        "Good Lovin'",
-        "La Bamba",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Althea",
@@ -24,10 +27,16 @@
         "Drums",
         "Space",
         "Looks Like Rain",
-        "I Need A Miracle",
-        "Casey Jones",
+        "Need a Miracle",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-15.jpg"
 }

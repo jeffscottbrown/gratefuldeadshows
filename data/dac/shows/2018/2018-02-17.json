@@ -9,12 +9,17 @@
       "songs": [
         "Shakedown Street",
         "Cold Rain And Snow",
-        "Loser",
+        "The Loser",
         "Jack Straw",
         "Easy Wind",
         "Tennessee Jed",
         "Sugaree",
-        "Ripple",
+        "Ripple"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Viola Lee Blues",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -24,9 +29,15 @@
         "Space",
         "Standing On The Moon",
         "The Wheel",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-17.jpg"
 }

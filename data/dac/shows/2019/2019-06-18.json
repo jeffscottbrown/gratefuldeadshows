@@ -14,7 +14,12 @@
         "It Must Have Been The Roses",
         "Cumberland Blues",
         "Cassidy",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Shakedown Street",
         "Wharf Rat",
@@ -24,10 +29,16 @@
         "Space",
         "Viola Lee Blues",
         "Dear Prudence",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "In The Midnight Hour",
-        "Playing In The Band"
+        "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-18.jpg"
 }

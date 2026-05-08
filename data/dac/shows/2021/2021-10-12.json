@@ -13,7 +13,12 @@
         "They Love Each Other",
         "High Time",
         "Let It Grow",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Crazy Fingers",
         "Althea",
@@ -26,5 +31,6 @@
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-12.jpg"
 }

@@ -14,7 +14,12 @@
         "Ramble On Rose",
         "They Love Each Other",
         "Cassidy",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Eyes Of The World",
         "Uncle John's Band",
         "China Doll",
@@ -22,11 +27,18 @@
         "I Know You Rider",
         "Drums",
         "Space",
+        "Spanish Jam",
         "Althea",
         "Stella Blue",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-20.jpg"
 }

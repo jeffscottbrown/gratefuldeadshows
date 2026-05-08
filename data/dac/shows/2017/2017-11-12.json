@@ -13,7 +13,12 @@
         "Cassidy",
         "Beat It On Down The Line",
         "They Love Each Other",
-        "Cumberland Blues",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Ship Of Fools",
@@ -22,10 +27,16 @@
         "Space",
         "Standing On The Moon",
         "The Other One",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Samson And Delilah",
         "Werewolves Of London"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-12.jpg"
 }

@@ -13,19 +13,29 @@
         "When I Paint My Masterpiece",
         "Dire Wolf",
         "Jack Straw",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "New Speedway Boogie",
         "Bertha",
         "Truckin'",
-        "Dark Star",
-        "Lady With A Fan",
+        "Dark Star (Second Verse)",
         "Terrapin Station",
         "Drums",
         "Space",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-03.jpg"
 }

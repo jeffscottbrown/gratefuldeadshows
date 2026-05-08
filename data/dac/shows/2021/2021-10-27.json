@@ -9,22 +9,34 @@
       "songs": [
         "The Music Never Stopped",
         "Easy Answers",
-        "The Music Never Stopped",
+        "The Music Never Stopped (Reprise)",
         "Row Jimmy",
         "Friend Of The Devil",
         "Cumberland Blues",
         "Cassidy",
-        "Mississippi Half Step Uptown Toodeloo",
+        "Mississippi Half Step Uptown Toodeloo"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "William Tell Bridge",
         "The Eleven",
-        "He's Gone",
         "New Speedway Boogie",
-        "I Need A Miracle",
+        "Drums",
+        "Space",
+        "Need a Miracle",
         "Death Don't Have No Mercy",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-27.jpg"
 }

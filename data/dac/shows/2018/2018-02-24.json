@@ -2,5 +2,41 @@
   "venue": "Smoothie King Center",
   "city": "New Orleans",
   "state": "LA",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "The Music Never Stopped",
+        "Cold Rain And Snow",
+        "Peggy O",
+        "Friend Of The Devil",
+        "Smokestack Lightning",
+        "Bertha",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Fire On The Mountain",
+        "Truckin'",
+        "Ship Of Fools",
+        "Uncle John's Band",
+        "Drums",
+        "Space",
+        "Stella Blue",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Werewolves Of London"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-24.jpg"
 }

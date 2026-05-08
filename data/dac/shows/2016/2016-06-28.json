@@ -9,13 +9,17 @@
       "songs": [
         "Hell In A Bucket",
         "Cold Rain And Snow",
-        "Queen Jane Approximately",
+        "Queen Jane",
         "Big River",
         "Row Jimmy",
-        "Miss",
         "Mississippi Half Step Uptown Toodeloo",
-        "Cumberland Blues",
-        "Estimated",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Estimated Prophet",
         "Eyes Of The World",
         "Deal",
         "Viola Lee Blues",
@@ -23,10 +27,15 @@
         "Space",
         "The Wheel",
         "Black Peter",
-        "U.S. Blues",
-        "Touch Of Grey",
-        "CBS Sunday Morning Interview"
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-28.jpg"
 }

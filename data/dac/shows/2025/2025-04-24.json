@@ -7,14 +7,19 @@
     {
       "set": 1,
       "songs": [
-        "I Need A Miracle",
+        "Need a Miracle",
         "Franklin's Tower",
         "Mississippi Half Step Uptown Toodeloo",
         "I Know You Rider",
         "Feel Like A Stranger",
-        "Bertha",
+        "Bertha"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
-        "Loser",
+        "The Loser",
         "Truckin'",
         "The Other One",
         "Saint Stephen",
@@ -22,9 +27,15 @@
         "Space",
         "Death Don't Have No Mercy",
         "Brown Eyed Women",
-        "Black Muddy River",
+        "Black Muddy River"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Sugar Magnolia"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-24.jpg"
 }

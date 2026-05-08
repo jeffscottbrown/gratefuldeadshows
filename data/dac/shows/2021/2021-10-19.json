@@ -14,18 +14,30 @@
         "Friend Of The Devil",
         "They Love Each Other",
         "Dear Prudence",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Estimated Prophet",
         "Eyes Of The World",
         "Fire On The Mountain",
         "Drums",
         "Space",
+        "Fire (reprise)",
         "Turn On Your Lovelight",
         "Morning Dew",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Althea"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-19.jpg"
 }

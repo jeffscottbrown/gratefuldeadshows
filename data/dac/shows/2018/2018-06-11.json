@@ -12,19 +12,31 @@
         "Friend Of The Devil",
         "New Minglewood Blues",
         "Ship Of Fools",
-        "Corrina",
-        "Cassidy",
+        "Corinna",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "The Weight",
         "Truckin'",
         "He's Gone",
         "New Speedway Boogie",
         "Uncle John's Band",
+        "Drums",
         "Space",
         "Uncle John's Band",
         "Black Peter",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-11.jpg"
 }

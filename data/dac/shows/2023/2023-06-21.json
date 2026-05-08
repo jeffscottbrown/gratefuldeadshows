@@ -10,10 +10,15 @@
         "Shakedown Street",
         "Bertha",
         "Ramble On Rose",
-        "It Hurts Me Too",
-        "Dancing In The Street",
+        "Hurts Me Too",
+        "Dancing In The Streets",
         "Althea",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Saint Stephen",
@@ -22,9 +27,15 @@
         "Space",
         "The Eleven",
         "Stella Blue",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-21.jpg"
 }

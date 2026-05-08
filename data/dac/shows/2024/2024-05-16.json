@@ -13,7 +13,12 @@
         "Bird Song",
         "Me And My Uncle",
         "Brown Eyed Women",
-        "Cold Rain And Snow",
+        "Cold Rain And Snow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Uncle John's Band",
         "Help On The Way",
         "Slipknot!",
@@ -24,9 +29,15 @@
         "Standing On The Moon",
         "Saint Stephen",
         "Hell In A Bucket",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-16.jpg"
 }

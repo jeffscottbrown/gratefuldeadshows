@@ -2,5 +2,43 @@
   "venue": "Alpine Valley ampithearte",
   "city": "East Troy",
   "state": "WI",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Hell In A Bucket",
+        "Brown Eyed Women",
+        "Greatest Story Ever Told",
+        "Deep Ellum Blues",
+        "Even So",
+        "Ramble On Rose",
+        "Cassidy",
+        "Touch Of Grey"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Viola Lee Blues",
+        "Estimated Prophet",
+        "Uncle John's Band",
+        "China Doll",
+        "Viola Lee Blues",
+        "Drums",
+        "Space",
+        "The Wheel",
+        "Hard Rain's Gonna Fall",
+        "Viola Lee Blues",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Ripple"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-22.jpg"
 }

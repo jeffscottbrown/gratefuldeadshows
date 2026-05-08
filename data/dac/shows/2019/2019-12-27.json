@@ -14,7 +14,12 @@
         "Me And My Uncle",
         "Cassidy",
         "Brown Eyed Women",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Terrapin Station",
         "China Doll",
@@ -23,9 +28,15 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-12-27.jpg"
 }

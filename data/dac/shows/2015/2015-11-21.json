@@ -13,17 +13,30 @@
         "Row Jimmy",
         "Ramble On Rose",
         "Hell In A Bucket",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Cumberland Blues",
         "Cryptical Envelopment",
         "Uncle John's Band",
         "Scarlet Begonias",
+        "Fire On The Mountain",
         "Drums",
         "Space",
         "Dear Prudence",
         "Goin' Down The Road Feeling Bad",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Friend Of The Devil"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-21.jpg"
 }

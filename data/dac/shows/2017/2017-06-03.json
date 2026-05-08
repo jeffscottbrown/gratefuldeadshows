@@ -12,9 +12,13 @@
         "Tennessee Jed",
         "Here Comes Sunshine",
         "Candyman",
-        "Me And My Uncle",
         "Friend Of The Devil",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "China Doll",
@@ -24,9 +28,15 @@
         "Space",
         "The Wheel",
         "Looks Like Rain",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-03.jpg"
 }

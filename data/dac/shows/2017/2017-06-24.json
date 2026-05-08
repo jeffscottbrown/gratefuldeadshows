@@ -2,5 +2,41 @@
   "venue": "Citi Field",
   "city": "Flushing",
   "state": "NY",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Dancing In The Streets",
+        "Jack Straw",
+        "Here Comes Sunshine",
+        "Tennessee Jed",
+        "Cold Rain And Snow",
+        "Bird Song",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Scarlet Begonias",
+        "Viola Lee Blues",
+        "Estimated Prophet",
+        "Comes A Time",
+        "Eyes Of The World",
+        "Drums",
+        "Space",
+        "The Other One",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Touch Of Grey",
+        "Johnny B. Goode"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-24.jpg"
 }

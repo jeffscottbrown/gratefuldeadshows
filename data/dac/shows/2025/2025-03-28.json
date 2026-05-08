@@ -10,22 +10,33 @@
         "Let The Good Times Roll",
         "Playing In The Band",
         "Cold Rain And Snow",
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "They Love Each Other",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "Dark Star",
         "Passenger",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Jack Straw",
         "Fire On The Mountain",
         "Drums",
         "Space",
         "Black Peter",
         "Brown Eyed Women",
-        "Estimated Prophet",
+        "Estimated Prophet"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-03-28.jpg"
 }

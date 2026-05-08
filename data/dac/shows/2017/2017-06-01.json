@@ -14,17 +14,28 @@
         "Red Rooster",
         "Uncle John's Band",
         "New Speedway Boogie",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Estimated Prophet",
         "Saint Stephen",
         "Terrapin Station",
         "Dark Star",
         "Drums",
         "Space",
-        "Dark Star",
-        "Morning Dew",
+        "Dark Star (Second Verse)",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-01.jpg"
 }

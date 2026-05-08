@@ -14,21 +14,32 @@
         "Mississippi Half Step Uptown Toodeloo",
         "Mr. Charlie",
         "Friend Of The Devil",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "He's Gone",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "He's Gone",
         "China Cat Sunflower",
         "I Know You Rider",
         "Drums",
         "Space",
         "Althea",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight",
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-11-01.jpg"
 }

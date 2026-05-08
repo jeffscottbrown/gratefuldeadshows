@@ -12,21 +12,34 @@
         "Peggy O",
         "Bertha",
         "Comes A Time",
-        "Jackero",
+        "Jack A Roe",
         "Bird Song",
         "New Speedway Boogie",
-        "Bird Song",
+        "Bird Song (Reprise)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "Saint Stephen",
         "William Tell Bridge",
         "The Eleven",
+        "Drums",
         "Space",
         "Eyes Of The World",
         "Stella Blue",
         "Sunshine Daydream"
       ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "One More Saturday Night"
+      ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-16.jpg"
 }

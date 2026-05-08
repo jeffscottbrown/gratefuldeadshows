@@ -14,21 +14,31 @@
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Greatest Story Ever Told",
         "Bertha",
         "China Cat Sunflower",
         "I Know You Rider",
-        "Lady With A Fan",
         "Terrapin Station",
         "Drums",
         "Space",
         "Wharf Rat",
         "Dear Mr. Fantasy",
-        "Hey Jude",
-        "Morning Dew",
+        "Hey Jude Reprise",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Sunshine Daydream"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-17.jpg"
 }

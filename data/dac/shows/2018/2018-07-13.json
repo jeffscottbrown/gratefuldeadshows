@@ -15,7 +15,12 @@
         "Comes A Time",
         "Lost Sailor",
         "Saint Of Circumstance",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "The Weight",
         "Terrapin Station",
         "Saint Stephen",
@@ -25,10 +30,16 @@
         "Space",
         "All Along The Watchtower",
         "Black Peter",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Liberty",
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-07-13.jpg"
 }

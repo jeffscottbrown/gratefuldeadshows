@@ -9,21 +9,33 @@
       "songs": [
         "New Minglewood Blues",
         "Cumberland Blues",
+        "Ramble On Rose",
         "Black Throated Wind",
         "Althea",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
-        "A Hard Rain's A-Gonna Fall",
+        "Hard Rain's Gonna Fall",
         "He's Gone",
         "New Speedway Boogie",
         "Saint Stephen",
         "Drums",
         "Space",
         "Looks Like Rain",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-17.jpg"
 }

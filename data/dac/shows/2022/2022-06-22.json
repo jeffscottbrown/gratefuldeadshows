@@ -13,19 +13,31 @@
         "Ship Of Fools",
         "Big River",
         "Here Comes Sunshine",
-        "Cassidy",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Looks Like Rain",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
         "Shakedown Street",
         "Drums",
         "Space",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Death Don't Have No Mercy",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-22.jpg"
 }

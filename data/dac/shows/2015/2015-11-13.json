@@ -10,10 +10,15 @@
         "Mississippi Half Step Uptown Toodeloo",
         "Brown Eyed Women",
         "Tennessee Jed",
-        "Little Red Rooster",
+        "Red Rooster",
         "Bird Song",
         "Standing On The Moon",
-        "Cumberland Blues",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -22,8 +27,12 @@
         "Space",
         "The Wheel",
         "Black Peter",
-        "Playing In The Band (Reprise)",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }

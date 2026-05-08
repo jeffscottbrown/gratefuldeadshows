@@ -13,11 +13,28 @@
         "Tennessee Jed",
         "They Love Each Other",
         "New Speedway Boogie",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dark Star",
+        "Estimated Prophet",
+        "Eyes Of The World",
+        "Saint Stephen",
+        "Drums",
+        "Space",
         "Stella Blue",
-        "Brokedown Palace",
+        "Brokedown Palace"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Turn On Your Lovelight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-02.jpg"
 }

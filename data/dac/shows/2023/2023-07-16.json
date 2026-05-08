@@ -9,26 +9,38 @@
       "songs": [
         "Bertha",
         "Good Lovin'",
-        "Loser",
+        "The Loser",
         "High Time",
         "Samson And Delilah",
         "Althea",
         "Dear Mr. Fantasy",
-        "Hey Jude",
-        "Bird Song",
+        "Hey Jude Reprise",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "Estimated Prophet",
         "Eyes Of The World",
         "Drums",
-        "Days Between",
+        "Space",
+        "The Days Between",
         "Cumberland Blues",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Truckin'",
         "Brokedown Palace",
-        "Not Fade Away"
+        "Not Fade Away (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-16.jpg"
 }

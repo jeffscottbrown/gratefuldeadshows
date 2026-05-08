@@ -13,7 +13,12 @@
         "Black Throated Wind",
         "Peggy O",
         "Box Of Rain",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Truckin'",
         "He's Gone",
         "Help On The Way",
@@ -21,11 +26,17 @@
         "Franklin's Tower",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "China Cat Sunflower",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Samson And Delilah"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-26.jpg"
 }

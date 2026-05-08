@@ -13,7 +13,12 @@
         "Brown Eyed Women",
         "Althea",
         "Cassidy",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Franklin's Tower",
         "Fire On The Mountain",
@@ -22,11 +27,18 @@
         "Drums",
         "Space",
         "The Other One",
-        "Days Between",
+        "The Days Between",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Uncle John's Band",
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-07-14.jpg"
 }

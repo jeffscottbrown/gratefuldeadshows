@@ -11,10 +11,15 @@
         "Brown Eyed Women",
         "Ramble On Rose",
         "They Love Each Other",
-        "Little Red Rooster",
+        "Red Rooster",
         "Big Boss Man",
         "Cumberland Blues",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Iko Iko",
         "Deal",
         "Help On The Way",
@@ -24,9 +29,15 @@
         "Space",
         "The Wheel",
         "Stella Blue",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-25.jpg"
 }

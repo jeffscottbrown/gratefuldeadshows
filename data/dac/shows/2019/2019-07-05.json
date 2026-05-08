@@ -9,6 +9,7 @@
       "songs": [
         "Not Fade Away",
         "Cold Rain And Snow",
+        "Rain Delay",
         "Cold Rain And Snow",
         "Bertha",
         "Me And My Uncle",
@@ -24,10 +25,16 @@
         "Space",
         "Casey Jones",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight",
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-07-05.jpg"
 }

@@ -13,20 +13,31 @@
         "Ship Of Fools",
         "Friend Of The Devil",
         "Loose Lucy",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Truckin'",
         "Playing In The Band",
         "Viola Lee Blues",
         "China Cat Sunflower",
         "I Know You Rider",
-        "This Could Be The Last Time",
+        "The Last Time",
         "Drums",
         "Space",
         "Uncle John's Band",
         "Wharf Rat",
-        "Playing In The Band (Reprise)",
+        "Playing In The Band (Reprise)"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-25.jpg"
 }

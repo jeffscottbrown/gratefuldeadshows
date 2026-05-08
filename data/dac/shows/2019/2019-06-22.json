@@ -10,25 +10,35 @@
         "Eyes Of The World",
         "Deal",
         "Black Throated Wind",
-        "Big Boss Man",
         "Easy Wind",
         "The Loser",
         "Big Railroad Blues",
         "Bird Song",
-        "Box Of Rain",
-        "Box Of Rain",
+        "Box Of Rain"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "He's Gone",
         "Dark Star",
+        "Drums",
         "Space",
         "Stella Blue",
         "Not Fade Away",
         "Goin' Down The Road Feeling Bad",
-        "Not Fade Away",
+        "Not Fade Away (Reprise)"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-22.jpg"
 }

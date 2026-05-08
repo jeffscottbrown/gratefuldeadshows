@@ -10,11 +10,16 @@
         "Bertha",
         "New Minglewood Blues",
         "Row Jimmy",
-        "Deep Elem Blues",
+        "Deep Ellum Blues",
         "Friend Of The Devil",
         "El Paso",
         "Sugaree",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Shakedown Street",
         "Uncle John's Band",
         "Saint Stephen",
@@ -23,9 +28,15 @@
         "Drums",
         "Space",
         "Black Peter",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-07-02.jpg"
 }

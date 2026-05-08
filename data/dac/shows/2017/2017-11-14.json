@@ -13,7 +13,12 @@
         "Brown Eyed Women",
         "Tennessee Jed",
         "Bird Song",
-        "Man Smart (Woman Smarter)",
+        "Man Smart (Woman Smarter)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -24,9 +29,15 @@
         "A Love Supreme",
         "Stella Blue",
         "Saint Stephen",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-14.jpg"
 }

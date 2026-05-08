@@ -10,11 +10,17 @@
         "Bertha",
         "Good Lovin'",
         "New Speedway Boogie",
+        "Smokestack Lightning",
         "Mr. Charlie",
         "Ramble On Rose",
         "They Love Each Other",
         "High Time",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Truckin'",
         "Viola Lee Blues",
@@ -24,9 +30,15 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-06-17.jpg"
 }

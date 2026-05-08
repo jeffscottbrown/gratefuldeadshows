@@ -14,20 +14,32 @@
         "Comes A Time",
         "Mr. Charlie",
         "He's Gone",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "They Love Each Other",
         "Playing In The Band",
         "Help On The Way",
         "Slipknot!",
         "Fire On The Mountain",
+        "Drums",
         "Space",
         "Playing In The Band (Reprise)",
         "The Other One",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight",
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-25.jpg"
 }

@@ -13,16 +13,29 @@
         "Sugaree",
         "Friend Of The Devil",
         "Crazy Fingers",
-        "Uncle John's Band",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Shakedown Street",
         "Dark Star",
+        "Drums",
+        "Space",
         "Wharf Rat",
         "Playing In The Band",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-01.jpg"
 }

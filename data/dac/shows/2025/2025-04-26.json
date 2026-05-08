@@ -12,16 +12,29 @@
         "Scarlet Begonias",
         "Fire On The Mountain",
         "The Wheel",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Estimated Prophet",
         "Eyes Of The World",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "Looks Like Rain",
         "Cold Rain And Snow",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-26.jpg"
 }

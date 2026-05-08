@@ -14,7 +14,12 @@
         "Looks Like Rain",
         "Easy Wind",
         "Cumberland Blues",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Saint Stephen",
         "William Tell Bridge",
@@ -25,9 +30,15 @@
         "Space",
         "The Other One",
         "Stella Blue",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-11-05.jpg"
 }

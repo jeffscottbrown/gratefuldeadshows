@@ -12,7 +12,12 @@
         "The Music Never Stopped",
         "Cumberland Blues",
         "Loose Lucy",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Mr. Charlie",
         "Scarlet Begonias",
         "Franklin's Tower",
@@ -20,11 +25,17 @@
         "The Eleven",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "All Along The Watchtower",
-        "Broken Arrow",
+        "Broken Arrow"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Sugar Magnolia"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-03-27.jpg"
 }

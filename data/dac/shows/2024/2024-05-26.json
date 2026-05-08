@@ -12,7 +12,12 @@
         "Jack Straw",
         "Friend Of The Devil",
         "Ramble On Rose",
-        "Feel Like A Stranger",
+        "Feel Like A Stranger"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "All Along The Watchtower",
@@ -22,9 +27,15 @@
         "Wharf Rat",
         "Cold Rain And Snow",
         "U.S. Blues",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-26.jpg"
 }

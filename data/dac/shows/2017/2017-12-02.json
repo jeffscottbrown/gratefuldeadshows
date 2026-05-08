@@ -12,8 +12,13 @@
         "New Minglewood Blues",
         "Next Time You See Me",
         "Ramble On Rose",
-        "If I Had A World To Give",
-        "Sugaree",
+        "If I Had The World To Give",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Dark Star",
@@ -22,9 +27,15 @@
         "Space",
         "Uncle John's Band",
         "Saint Stephen",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-12-02.jpg"
 }

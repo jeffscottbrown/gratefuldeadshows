@@ -11,10 +11,15 @@
         "Big Railroad Blues",
         "Iko Iko",
         "Mr. Charlie",
-        "Loser",
+        "The Loser",
         "Tennessee Jed",
         "Sugaree",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -24,14 +29,25 @@
         "Space",
         "Milestones",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
         "Sugar Magnolia",
         "Uncle John's Band",
         "Scarlet Begonias",
         "Fire On The Mountain",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-12-31.jpg"
 }

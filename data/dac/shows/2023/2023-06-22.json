@@ -12,9 +12,14 @@
         "Mama Tried",
         "Alabama Getaway",
         "Dear Mr. Fantasy",
-        "Hey Jude",
+        "Hey Jude Reprise",
         "Truckin'",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Estimated Prophet",
@@ -24,7 +29,12 @@
         "All Blues",
         "Cumberland Blues",
         "All Along The Watchtower",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }

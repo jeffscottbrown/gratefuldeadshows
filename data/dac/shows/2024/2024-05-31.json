@@ -13,7 +13,12 @@
         "Row Jimmy",
         "Tennessee Jed",
         "Playing In The Band",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Uncle John's Band",
         "China Cat Sunflower",
         "I Know You Rider",
@@ -23,10 +28,15 @@
         "Stella Blue",
         "Terrapin Station",
         "Hell In A Bucket",
-        "Black Muddy River",
-        "Come Down",
+        "Black Muddy River"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-05-31.jpg"
 }

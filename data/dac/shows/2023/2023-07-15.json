@@ -9,12 +9,17 @@
       "songs": [
         "Let The Good Times Roll",
         "Hell In A Bucket",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Jack Straw",
         "Big Railroad Blues",
         "Cassidy",
         "They Love Each Other",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Playing In The Band",
         "The Other One",
@@ -24,9 +29,15 @@
         "Uncle John's Band",
         "Playing In The Band (Reprise)",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-15.jpg"
 }

@@ -14,18 +14,32 @@
         "Friend Of The Devil",
         "Bertha",
         "Mama Tried",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Spanish Jam",
         "Scarlet Begonias",
         "New Speedway Boogie",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
+        "Drums",
+        "Space",
         "The Other One",
         "Standing On The Moon",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-15.jpg"
 }

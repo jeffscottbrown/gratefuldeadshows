@@ -9,22 +9,35 @@
       "songs": [
         "Shakedown Street",
         "Alabama Getaway",
-        "Loser",
+        "The Loser",
         "Hurts Me Too",
         "Me And My Uncle",
         "Sugaree",
         "The Music Never Stopped",
-        "Easy Answers",
+        "Easy Answers"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "A Love Supreme",
         "The Other One",
         "Estimated Prophet",
         "Althea",
         "Terrapin Station",
+        "Drums",
         "Space",
         "The Other One",
         "The Days Between",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Goin' Down The Road Feeling Bad"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-15.jpg"
 }

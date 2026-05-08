@@ -7,19 +7,35 @@
     {
       "set": 1,
       "songs": [
-        "1/2 Step",
+        "Mississippi Half Step Uptown Toodeloo",
         "Bertha",
         "Tennessee Jed",
         "Mr. Charlie",
-        "Loser",
+        "The Loser",
         "Crazy Fingers",
-        "Cumberland",
+        "Cumberland Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Playing In The Band",
+        "Eyes Of The World",
+        "Comes A Time",
+        "Terrapin Station",
+        "Drums",
         "Space",
-        "New Speedway",
+        "New Speedway Boogie",
         "Black Peter",
-        "Playing In The Band (Reprise)",
+        "Playing In The Band (Reprise)"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-29.jpg"
 }

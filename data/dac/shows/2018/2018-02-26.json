@@ -13,8 +13,13 @@
         "They Love Each Other",
         "Bird Song",
         "New Speedway Boogie",
-        "Bird Song",
-        "Deal",
+        "Bird Song (Reprise)",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "The Weight",
         "Help On The Way",
         "Slipknot!",
@@ -22,10 +27,16 @@
         "Dark Star",
         "Drums",
         "Space",
-        "Days Between",
-        "Throwing Stones",
+        "The Days Between",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-02-26.jpg"
 }

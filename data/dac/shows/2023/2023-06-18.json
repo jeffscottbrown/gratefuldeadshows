@@ -14,15 +14,28 @@
         "Friend Of The Devil",
         "Lost Sailor",
         "Saint Of Circumstance",
-        "Big Railroad Blues",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Samson And Delilah",
         "Playing In The Band",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
+        "Drums",
+        "Space",
         "Death Don't Have No Mercy",
         "Throwing Stones",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Werewolves Of London",
         "Playing In The Band (Reprise)"
       ]

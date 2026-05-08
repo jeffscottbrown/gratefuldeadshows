@@ -14,7 +14,12 @@
         "Peggy O",
         "Bertha",
         "Cassidy",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Viola Lee Blues",
         "Truckin'",
         "China Doll",
@@ -24,9 +29,15 @@
         "Space",
         "Althea",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-05.jpg"
 }

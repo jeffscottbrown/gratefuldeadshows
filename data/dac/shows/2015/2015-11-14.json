@@ -13,7 +13,12 @@
         "Me And My Uncle",
         "Ship Of Fools",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Jack Straw",
         "Shakedown Street",
         "Scarlet Begonias",
@@ -22,7 +27,12 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Friend Of The Devil"
       ]
     }

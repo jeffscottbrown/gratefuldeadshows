@@ -2,5 +2,42 @@
   "venue": "USANA Amphitheater",
   "city": "Salt Lake City",
   "state": "UT",
-  "country": "US"
+  "country": "US",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Feel Like A Stranger",
+        "Need a Miracle",
+        "Wang Dang Doodle",
+        "Row Jimmy",
+        "When I Paint My Masterpiece",
+        "Jack Straw",
+        "Big Boss Man",
+        "Sugaree",
+        "The Promised Land"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Lost Sailor",
+        "Saint Of Circumstance",
+        "He's Gone",
+        "Crazy Fingers",
+        "Shakedown Street",
+        "Drums",
+        "Space",
+        "Standing On The Moon",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "U.S. Blues"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-07.jpg"
 }

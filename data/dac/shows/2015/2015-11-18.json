@@ -13,17 +13,29 @@
         "El Paso",
         "West L.A. Fadeaway",
         "Tennessee Jed",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "New Speedway Boogie",
         "Estimated Prophet",
         "Viola Lee Blues",
+        "Drums",
         "Space",
         "Stella Blue",
         "China Cat Sunflower",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-18.jpg"
 }

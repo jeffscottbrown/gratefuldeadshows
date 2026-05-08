@@ -13,7 +13,12 @@
         "West L.A. Fadeaway",
         "They Love Each Other",
         "Jack Straw",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Let The Good Times Roll",
         "Sugar Magnolia",
         "Althea",
@@ -23,9 +28,15 @@
         "Standing On The Moon",
         "Good Lovin'",
         "Deal",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-06-08.jpg"
 }

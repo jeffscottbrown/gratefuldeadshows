@@ -14,7 +14,12 @@
         "To Lay Me Down",
         "Mr. Charlie",
         "Cassidy",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Dark Star",
         "Estimated Prophet",
@@ -23,9 +28,15 @@
         "Space",
         "Wharf Rat",
         "Sugar Magnolia",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-28.jpg"
 }

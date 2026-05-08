@@ -14,7 +14,12 @@
         "They Love Each Other",
         "Ramble On Rose",
         "Sugaree",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Terrapin Station",
         "Althea",
         "Scarlet Begonias",
@@ -23,9 +28,15 @@
         "Space",
         "The Wheel",
         "The Other One",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-23.jpg"
 }

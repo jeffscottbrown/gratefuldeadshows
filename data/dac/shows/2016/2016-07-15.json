@@ -7,24 +7,35 @@
     {
       "set": 1,
       "songs": [
-        "July 2016",
         "Jack Straw",
         "The Music Never Stopped",
         "Next Time You See Me",
-        "Loser",
+        "The Loser",
         "Peggy O",
         "Help On The Way",
         "Slipknot!",
-        "Saint Stephen",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Dark Star",
         "Terrapin Station",
         "Drums",
         "Space",
         "Morning Dew",
-        "Casey Jones",
-        "Black Muddy River"
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "Black Muddy River",
+        "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-15.jpg"
 }

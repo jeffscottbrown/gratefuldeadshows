@@ -9,10 +9,17 @@
       "songs": [
         "Cumberland Blues",
         "Bertha",
+        "Rain Delay"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Good Lovin'",
         "Crazy Fingers",
         "Mr. Charlie",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
         "Brown Eyed Women",
         "Estimated Prophet",
@@ -20,11 +27,17 @@
         "Drums",
         "Space",
         "Dear Mr. Fantasy",
-        "Hey Jude",
-        "Morning Dew",
+        "Hey Jude Reprise",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-07-02.jpg"
 }

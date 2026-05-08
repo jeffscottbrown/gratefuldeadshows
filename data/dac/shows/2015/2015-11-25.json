@@ -11,9 +11,14 @@
         "Brown Eyed Women",
         "Feel Like A Stranger",
         "Peggy O",
-        "Little Red Rooster",
+        "Red Rooster",
         "Bird Song",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Truckin'",
         "He's Gone",
         "Eyes Of The World",
@@ -22,9 +27,15 @@
         "Space",
         "Stella Blue",
         "China Cat Sunflower",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-25.jpg"
 }

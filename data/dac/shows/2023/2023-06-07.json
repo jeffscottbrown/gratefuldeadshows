@@ -14,18 +14,29 @@
         "Black Throated Wind",
         "Big Railroad Blues",
         "Dark Star",
-        "Johnny B. Goode",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Eyes Of The World",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Fire On The Mountain",
         "Shakedown Street",
         "Drums",
         "Space",
         "The Eleven",
         "Death Don't Have No Mercy",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-07.jpg"
 }

@@ -14,7 +14,12 @@
         "Alabama Getaway",
         "Peggy O",
         "China Doll",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Estimated Prophet",
         "He's Gone",
         "Saint Stephen",
@@ -23,9 +28,15 @@
         "Drums",
         "Space",
         "Uncle John's Band",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Turn On Your Lovelight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-01-19.jpg"
 }

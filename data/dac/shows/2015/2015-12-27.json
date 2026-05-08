@@ -13,7 +13,12 @@
         "Black Throated Wind",
         "Standing On The Moon",
         "Cassidy",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Samson And Delilah",
         "Deal",
         "He's Gone",
@@ -22,10 +27,16 @@
         "Drums",
         "Space",
         "Black Peter",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-12-27.jpg"
 }

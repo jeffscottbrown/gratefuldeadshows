@@ -10,10 +10,15 @@
         "Playing In The Band",
         "Uncle John's Band",
         "Dear Mr. Fantasy",
-        "Hey Jude",
+        "Hey Jude Reprise",
         "Ramble On Rose",
         "Brown Eyed Women",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Truckin'",
         "Wang Dang Doodle",
         "Scarlet Begonias",
@@ -24,10 +29,16 @@
         "Drums",
         "Space",
         "All Along The Watchtower",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Deal",
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-07-16.jpg"
 }

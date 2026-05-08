@@ -13,7 +13,12 @@
         "He's Gone",
         "Brown Eyed Women",
         "Dear Prudence",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Scarlet Begonias",
         "Playing In The Band",
@@ -22,11 +27,17 @@
         "Drums",
         "Space",
         "Milestones",
-        "Days Between",
+        "The Days Between",
         "Throwing Stones",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-03.jpg"
 }

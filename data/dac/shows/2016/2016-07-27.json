@@ -7,23 +7,36 @@
     {
       "set": 1,
       "songs": [
+        "Iko Iko",
         "New Minglewood Blues",
         "Candyman",
         "Big River",
         "Friend Of The Devil",
         "Even So",
         "Sugaree",
-        "The Music Never Stopped",
-        "Bob's Banter to Vote",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Truckin'",
         "Althea",
         "Estimated Prophet",
         "Playing In The Band",
-        "Playing In The Band (Reprise)",
+        "Drums",
+        "Space",
         "Goin' Down The Road Feeling Bad",
-        "A Hard Rain's Gonna Fall (B. Dylan)",
-        "Throwing Stones",
+        "Hard Rain's Gonna Fall",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-27.jpg"
 }

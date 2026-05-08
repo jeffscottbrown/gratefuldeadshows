@@ -13,7 +13,12 @@
         "Deal",
         "Bird Song",
         "Passenger",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Estimated Prophet",
         "He's Gone",
@@ -22,9 +27,15 @@
         "Drums",
         "Space",
         "The Days Between",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-16.jpg"
 }

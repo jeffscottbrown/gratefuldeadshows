@@ -12,8 +12,14 @@
         "Me And My Uncle",
         "Row Jimmy",
         "Dear Mr. Fantasy",
+        "Hey Jude Reprise",
         "Cassidy",
-        "Iko Iko",
+        "Iko Iko"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Viola Lee Blues",
         "Looks Like Rain",
@@ -23,9 +29,15 @@
         "Space",
         "The Wheel",
         "Wharf Rat",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-06-13.jpg"
 }

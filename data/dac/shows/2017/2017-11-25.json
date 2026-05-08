@@ -13,17 +13,30 @@
         "Me And My Uncle",
         "Cumberland Blues",
         "Althea",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "He's Gone",
         "China Cat Sunflower",
         "If I Had The World To Give",
         "I Know You Rider",
+        "Drums",
+        "Space",
         "Stella Blue",
         "All Along The Watchtower",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-25.jpg"
 }

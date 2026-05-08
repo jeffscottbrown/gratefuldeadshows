@@ -11,19 +11,29 @@
         "Truckin'",
         "They Love Each Other",
         "Jack Straw",
-        "Cold Rain And Snow",
+        "Cold Rain And Snow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "El Paso",
-        "Dark Star",
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Drums",
         "Space",
         "Dear Prudence",
         "Sugaree",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-09.jpg"
 }

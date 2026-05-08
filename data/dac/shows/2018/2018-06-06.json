@@ -13,16 +13,30 @@
         "Row Jimmy",
         "Mississippi Half Step Uptown Toodeloo",
         "Comes A Time",
-        "Viola Lee Blues",
+        "Viola Lee Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "The Other One",
         "Standing On The Moon",
         "Sugar Magnolia",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Casey Jones"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-06.jpg"
 }

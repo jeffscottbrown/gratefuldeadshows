@@ -8,13 +8,18 @@
       "set": 1,
       "songs": [
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Feel Like A Stranger",
         "Dire Wolf",
-        "Loser",
+        "The Loser",
         "Cassidy",
         "Bird Song",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -24,9 +29,15 @@
         "Space",
         "Wharf Rat",
         "Throwing Stones",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-29.jpg"
 }

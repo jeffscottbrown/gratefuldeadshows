@@ -14,17 +14,30 @@
         "Greatest Story Ever Told",
         "Ship Of Fools",
         "Mississippi Half Step Uptown Toodeloo",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "The Weight",
         "Playing In The Band",
         "Uncle John's Band",
         "Terrapin Station",
+        "Drums",
+        "Space",
         "Standing On The Moon",
-        "I Need A Miracle",
-        "Goin' Down The Road Feeling Bad",
+        "Need a Miracle",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River",
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-28.jpg"
 }

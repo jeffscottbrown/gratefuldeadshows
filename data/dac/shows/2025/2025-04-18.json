@@ -12,18 +12,29 @@
         "Althea",
         "The Harder They Come",
         "Mississippi Half Step Uptown Toodeloo",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Cold Rain And Snow",
         "Estimated Prophet",
         "Eyes Of The World",
         "Row Jimmy",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "Goin' Down The Road Feeling Bad",
-        "Knockin' On Heaven's Door",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2025-04-18.jpg"
 }

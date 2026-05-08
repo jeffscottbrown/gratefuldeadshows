@@ -13,19 +13,30 @@
         "Crazy Fingers",
         "Brown Eyed Women",
         "Ship Of Fools",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Viola Lee Blues",
         "Estimated Prophet",
         "Terrapin Station",
         "Drums",
         "Space",
-        "A Hard Rain's A-Gonna Fall",
+        "Hard Rain's Gonna Fall",
         "Fire On The Mountain",
         "U.S. Blues",
-        "Black Muddy River",
+        "Black Muddy River"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-07-12.jpg"
 }

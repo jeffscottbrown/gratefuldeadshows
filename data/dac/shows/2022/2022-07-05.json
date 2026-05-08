@@ -10,11 +10,16 @@
         "The Music Never Stopped",
         "Liberty",
         "They Love Each Other",
-        "Loser",
+        "The Loser",
         "Alabama Getaway",
         "Iko Iko",
         "High Time",
-        "Cassidy",
+        "Cassidy"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Jack Straw",
         "Scarlet Begonias",
         "Viola Lee Blues",
@@ -23,9 +28,11 @@
         "Drums",
         "Space",
         "The Wheel",
+        "The Other One",
         "Black Peter",
         "Sugar Magnolia"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2022-07-05.jpg"
 }

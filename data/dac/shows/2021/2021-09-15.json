@@ -13,20 +13,32 @@
         "Brown Eyed Women",
         "If I Had The World To Give",
         "Dire Wolf",
-        "A Hard Rain's A-Gonna Fall",
-        "Big Railroad Blues",
+        "Hard Rain's Gonna Fall",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Sugaree",
         "Dark Star",
         "Saint Stephen",
+        "William Tell Bridge",
         "The Eleven",
         "Drums",
         "Space",
-        "Dark Star",
+        "Dark Star (Second Verse)",
         "Casey Jones",
         "Death Don't Have No Mercy",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-15.jpg"
 }

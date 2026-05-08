@@ -13,7 +13,12 @@
         "Row Jimmy",
         "New Speedway Boogie",
         "Dear Prudence",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Comes A Time",
         "Estimated Prophet",
@@ -21,11 +26,17 @@
         "I Know You Rider",
         "Drums",
         "Space",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Black Peter",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-10.jpg"
 }

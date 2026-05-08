@@ -10,10 +10,15 @@
         "Samson And Delilah",
         "Dire Wolf",
         "Cold Rain And Snow",
-        "Loser",
-        "Corrina",
+        "The Loser",
+        "Corinna",
         "Here Comes Sunshine",
-        "Greatest Story Ever Told",
+        "Greatest Story Ever Told"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Comes A Time",
@@ -21,11 +26,17 @@
         "Drums",
         "Space",
         "Morning Dew",
-        "I Need A Miracle",
-        "Casey Jones",
+        "Need a Miracle",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace",
         "Playing In The Band (Reprise)"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-19.jpg"
 }

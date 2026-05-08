@@ -13,16 +13,21 @@
         "Franklin's Tower",
         "Estimated Prophet",
         "Sugaree",
-        "Lady With A Fan",
         "Terrapin Station",
         "The Other One",
         "Drums",
         "Space",
         "The Wheel",
-        "Morning Dew",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "One More Saturday Night",
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-21.jpg"
 }

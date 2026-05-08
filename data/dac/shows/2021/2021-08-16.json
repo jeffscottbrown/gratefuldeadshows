@@ -12,8 +12,14 @@
         "Deal",
         "Tennessee Jed",
         "Brown Eyed Women",
-        "New Speedway Boogie",
+        "New Speedway Boogie"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
+        "A Love Supreme",
         "Truckin'",
         "Spoonful",
         "Playing In The Band (Reprise)",
@@ -27,5 +33,6 @@
         "Not Fade Away"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-16.jpg"
 }

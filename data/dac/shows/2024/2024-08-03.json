@@ -12,19 +12,29 @@
         "Uncle John's Band",
         "Mr. Charlie",
         "Samson And Delilah",
-        "Sugaree",
+        "Sugaree"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "Terrapin Station",
         "Drums",
         "Space",
-        "Days Between",
+        "The Days Between",
         "Brown Eyed Women",
         "U.S. Blues",
-        "Morning Dew",
-        "Come Down",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-08-03.jpg"
 }

@@ -13,7 +13,12 @@
         "Black Throated Wind",
         "Mr. Charlie",
         "Hell In A Bucket",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "He's Gone",
         "Uncle John's Band",
@@ -23,9 +28,15 @@
         "All Along The Watchtower",
         "Playing In The Band (Reprise)",
         "Standing On The Moon",
-        "Not Fade Away",
+        "Not Fade Away (Reprise)"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-10-20.jpg"
 }

@@ -7,11 +7,18 @@
     {
       "set": 1,
       "songs": [
+        "Rain Delay",
         "Let The Good Times Roll",
         "Mississippi Half Step Uptown Toodeloo",
         "Bertha",
         "Ramble On Rose",
-        "Dancing In The Street",
+        "Rain Delay"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Dancing In The Streets",
         "Playing In The Band",
         "Scarlet Begonias",
         "Deal",
@@ -21,9 +28,15 @@
         "Playing In The Band (Reprise)",
         "All Along The Watchtower",
         "Morning Dew",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-09-17.jpg"
 }

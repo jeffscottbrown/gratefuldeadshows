@@ -14,7 +14,12 @@
         "Tennessee Jed",
         "Sugaree",
         "Deal",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
@@ -25,9 +30,15 @@
         "Cryptical Envelopment",
         "The Other One",
         "Morning Dew",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-28.jpg"
 }

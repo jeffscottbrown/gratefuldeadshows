@@ -12,7 +12,12 @@
         "Me And My Uncle",
         "Sugaree",
         "Let It Grow",
-        "Uncle John's Band",
+        "Uncle John's Band"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Shakedown Street",
         "Dark Star",
         "Saint Stephen",
@@ -24,10 +29,16 @@
         "Standing On The Moon",
         "Help On The Way",
         "Slipknot!",
-        "Franklin's Tower",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "U.S. Blues"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-30.jpg"
 }

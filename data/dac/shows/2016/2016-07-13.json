@@ -14,17 +14,29 @@
         "Cold Rain And Snow",
         "Looks Like Rain",
         "Row Jimmy",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Shakedown Street",
         "Uncle John's Band",
         "All Along The Watchtower",
         "China Cat Sunflower",
         "I Know You Rider",
+        "Drums",
         "Space",
         "Black Peter",
-        "Johnny B. Goode",
+        "Johnny B. Goode"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "In The Midnight Hour"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-07-13.jpg"
 }

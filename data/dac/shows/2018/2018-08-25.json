@@ -13,7 +13,12 @@
         "Ramble On Rose",
         "Alabama Getaway",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Help On The Way",
         "Slipknot!",
         "Fire On The Mountain",
@@ -23,10 +28,16 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "Franklin's Tower",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "The Weight",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-08-25.jpg"
 }

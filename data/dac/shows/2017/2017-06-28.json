@@ -13,18 +13,29 @@
         "Row Jimmy",
         "Big River",
         "Cassidy",
-        "Big Railroad Blues",
+        "Big Railroad Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "He's Gone",
         "Truckin'",
         "Drums",
         "Space",
-        "I Need A Miracle",
+        "Need a Miracle",
         "Wharf Rat",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-06-28.jpg"
 }

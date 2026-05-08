@@ -14,20 +14,29 @@
         "Black Throated Wind",
         "Mr. Charlie",
         "Mississippi Half Step Uptown Toodeloo",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "Estimated Prophet",
         "Eyes Of The World",
-        "Lady With A Fan",
         "Terrapin Station",
         "Drums",
         "Space",
-        "My Favorite Things",
         "The Days Between",
         "China Cat Sunflower",
-        "I Know You Rider",
+        "I Know You Rider"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-11-08.jpg"
 }

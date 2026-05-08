@@ -13,10 +13,14 @@
         "Ramble On Rose",
         "Althea",
         "Cassidy",
-        "Deal",
+        "Deal"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Truckin'",
         "Wang Dang Doodle",
-        "Truckin'",
         "Estimated Prophet",
         "Eyes Of The World",
         "Terrapin Station",
@@ -25,9 +29,15 @@
         "China Cat Sunflower",
         "I Know You Rider",
         "Morning Dew",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Werewolves Of London"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-10-31.jpg"
 }

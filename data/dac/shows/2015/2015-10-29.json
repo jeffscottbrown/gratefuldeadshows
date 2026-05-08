@@ -13,18 +13,30 @@
         "Feel Like A Stranger",
         "He's Gone",
         "Bird Song",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Lost Sailor",
         "Saint Of Circumstance",
         "Help On The Way",
         "Slipknot!",
         "Franklin's Tower",
+        "Drums",
         "Space",
         "The Other One",
         "Stella Blue",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-10-29.jpg"
 }

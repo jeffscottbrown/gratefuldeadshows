@@ -2,5 +2,43 @@
   "venue": "Moon palace Cancun Mexico",
   "city": "Cancun",
   "state": "",
-  "country": "MX"
+  "country": "MX",
+  "setlist": [
+    {
+      "set": 1,
+      "songs": [
+        "Bertha",
+        "Good Lovin'",
+        "Shakedown Street",
+        "High Time",
+        "Cold Rain And Snow",
+        "Black Throated Wind",
+        "Sugaree",
+        "The Mighty Quinn (Quinn The Eskimo)"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
+        "Help On The Way",
+        "Slipknot!",
+        "Saint Stephen",
+        "William Tell Bridge",
+        "The Eleven",
+        "Drums",
+        "Space",
+        "Spanish Jam",
+        "New Speedway Boogie",
+        "Stella Blue",
+        "Franklin's Tower"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
+        "One More Saturday Night"
+      ]
+    }
+  ],
+  "imageUrl": "/images/dac-shows/2020-01-18.jpg"
 }

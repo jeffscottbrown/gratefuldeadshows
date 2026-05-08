@@ -14,7 +14,12 @@
         "Dire Wolf",
         "Liberty",
         "Bird Song",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Here Comes Sunshine",
         "Cumberland Blues",
         "He's Gone",
@@ -23,9 +28,15 @@
         "Drums",
         "Space",
         "Black Peter",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-18.jpg"
 }

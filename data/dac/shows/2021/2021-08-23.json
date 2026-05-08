@@ -9,12 +9,17 @@
       "songs": [
         "Hell In A Bucket",
         "Easy Wind",
-        "Loser",
+        "The Loser",
         "Brown Eyed Women",
         "Throwing Stones",
         "Row Jimmy",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Saint Stephen",
         "Mama Tried",
         "Dark Star",
@@ -24,9 +29,15 @@
         "Space",
         "Deal",
         "Standing On The Moon",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2021-08-23.jpg"
 }

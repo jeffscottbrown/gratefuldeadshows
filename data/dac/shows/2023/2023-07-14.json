@@ -14,7 +14,12 @@
         "Brown Eyed Women",
         "New Speedway Boogie",
         "Wharf Rat",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "He's Gone",
@@ -22,11 +27,18 @@
         "Fire On The Mountain",
         "Drums",
         "Space",
+        "Dark Star Big River Jam",
         "Standing On The Moon",
         "Casey Jones",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Knockin' On Heaven's Door"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2023-07-14.jpg"
 }

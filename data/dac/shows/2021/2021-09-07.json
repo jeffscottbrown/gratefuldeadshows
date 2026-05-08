@@ -10,18 +10,30 @@
         "Let The Good Times Roll",
         "Feel Like A Stranger",
         "Next Time You See Me",
-        "Loser",
+        "The Loser",
         "They Love Each Other",
         "Cassidy",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Althea",
         "Scarlet Begonias",
         "Viola Lee Blues",
         "Fire On The Mountain",
         "Eyes Of The World",
+        "Drums",
+        "Space",
         "Standing On The Moon",
         "Viola Lee Blues",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }

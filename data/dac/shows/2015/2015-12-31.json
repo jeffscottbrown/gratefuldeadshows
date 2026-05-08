@@ -12,21 +12,38 @@
         "Ramble On Rose",
         "Loose Lucy",
         "Sugaree",
-        "Hell In A Bucket",
+        "Hell In A Bucket"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "Uncle John's Band",
-        "Lady With A Fan",
         "Terrapin Station",
-        "Dear Prudence",
+        "Drums",
+        "Space",
+        "Dear Prudence"
+      ]
+    },
+    {
+      "set": 3,
+      "songs": [
         "In The Midnight Hour",
         "Sugar Magnolia",
         "Scarlet Begonias",
         "Touch Of Grey",
         "Fire On The Mountain",
         "Saint Stephen",
-        "Sunshine Daydream",
+        "Sunshine Daydream"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-12-31.jpg"
 }

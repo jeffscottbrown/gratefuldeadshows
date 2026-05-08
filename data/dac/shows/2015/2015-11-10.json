@@ -13,7 +13,12 @@
         "Big River",
         "Peggy O",
         "Sugaree",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Deal",
         "Uncle John's Band",
         "Estimated Prophet",
@@ -21,10 +26,16 @@
         "Drums",
         "Space",
         "Dear Prudence",
-        "Get Out My Life Woman",
-        "Goin' Down The Road Feeling Bad",
+        "Get Out Of My Life, Woman",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-11-10.jpg"
 }

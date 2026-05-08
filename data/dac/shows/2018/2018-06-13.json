@@ -13,17 +13,30 @@
         "When I Paint My Masterpiece",
         "Cumberland Blues",
         "Black Muddy River",
-        "Don't Ease Me In",
+        "Don't Ease Me In"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Feel Like A Stranger",
         "Viola Lee Blues",
         "China Cat Sunflower",
         "I Know You Rider",
         "Man Smart (Woman Smarter)",
+        "Drums",
+        "Space",
         "Viola Lee Blues",
         "Looks Like Rain",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Brokedown Palace"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-13.jpg"
 }

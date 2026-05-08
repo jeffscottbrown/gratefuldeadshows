@@ -36,6 +36,7 @@ const showSchema = z.object({
   country: z.string(),
   setlist: z.array(setSchema).default([]),
   notes: z.string().optional(),
+  imageUrl: z.string().optional(),
 });
 
 // ── Release schema ─────────────────────────────────────────────────────────

@@ -13,7 +13,12 @@
         "Big Railroad Blues",
         "Row Jimmy",
         "Sugaree",
-        "One More Saturday Night",
+        "One More Saturday Night"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Greatest Story Ever Told",
         "Mr. Charlie",
         "Estimated Prophet",
@@ -23,10 +28,15 @@
         "Uncle John's Band",
         "Cumberland Blues",
         "Hell In A Bucket",
-        "Morning Dew",
-        "Come Down",
+        "Morning Dew"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Sugar Magnolia"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-07-06.jpg"
 }

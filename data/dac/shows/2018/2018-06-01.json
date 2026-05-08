@@ -9,12 +9,17 @@
       "songs": [
         "Jack Straw",
         "Cold Rain And Snow",
-        "Deep Elem Blues",
+        "Deep Ellum Blues",
         "Jack A Roe",
-        "Loser",
+        "The Loser",
         "Bertha",
         "Cassidy",
-        "Jack Straw",
+        "Jack Straw"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Not Fade Away",
         "Dark Star",
         "Saint Stephen",
@@ -22,12 +27,16 @@
         "Drums",
         "Space",
         "The Wheel",
-        "Diamonds on the Soles of Her Shoes",
-        "The Wheel",
         "Wharf Rat",
-        "Not Fade Away",
+        "Not Fade Away"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2018-06-01.jpg"
 }

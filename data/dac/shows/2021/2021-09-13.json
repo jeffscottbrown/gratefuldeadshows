@@ -11,20 +11,29 @@
         "Cold Rain And Snow",
         "Ship Of Fools",
         "Big River",
-        "It Hurts Me Too",
+        "Hurts Me Too",
         "Black Throated Wind",
         "Jack Straw",
-        "U.S. Blues",
+        "U.S. Blues"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Bertha",
         "Good Lovin'",
         "China Doll",
         "Shakedown Street",
-        "Lady With A Fan",
         "Terrapin Station",
         "Drums",
         "Space",
         "Wharf Rat",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Johnny B. Goode"
       ]
     }

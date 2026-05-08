@@ -8,13 +8,18 @@
       "set": 1,
       "songs": [
         "The Music Never Stopped",
-        "Dancing In The Street",
+        "Dancing In The Streets",
         "Row Jimmy",
         "Tennessee Jed",
         "If I Had The World To Give",
         "Brown Eyed Women",
         "Lost Sailor",
-        "Saint Of Circumstance",
+        "Saint Of Circumstance"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "A Love Supreme",
         "Truckin'",
         "Estimated Prophet",
@@ -25,9 +30,15 @@
         "Space",
         "Throwing Stones",
         "Black Peter",
-        "Good Lovin'",
+        "Good Lovin'"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Touch Of Grey"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-20.jpg"
 }

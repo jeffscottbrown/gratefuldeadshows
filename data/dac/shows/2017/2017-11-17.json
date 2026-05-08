@@ -13,7 +13,12 @@
         "Mississippi Half Step Uptown Toodeloo",
         "Big River",
         "Sugaree",
-        "The Music Never Stopped",
+        "The Music Never Stopped"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Scarlet Begonias",
         "Fire On The Mountain",
         "He's Gone",
@@ -23,9 +28,15 @@
         "Milestones",
         "Wharf Rat",
         "The Wheel",
-        "Sugar Magnolia",
+        "Sugar Magnolia"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2017-11-17.jpg"
 }

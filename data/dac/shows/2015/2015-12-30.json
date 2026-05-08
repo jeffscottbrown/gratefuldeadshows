@@ -11,20 +11,32 @@
         "Here Comes Sunshine",
         "West L.A. Fadeaway",
         "Althea",
-        "Loser",
+        "The Loser",
         "Bertha",
-        "Bird Song",
+        "Bird Song"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Playing In The Band",
         "Viola Lee Blues",
         "Shakedown Street",
         "China Cat Sunflower",
         "I Know You Rider",
         "Drums",
+        "Space",
         "The Other One",
         "Wharf Rat",
-        "Turn On Your Lovelight",
+        "Turn On Your Lovelight"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Friend Of The Devil"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2015-12-30.jpg"
 }

@@ -14,20 +14,31 @@
         "Sugaree",
         "Looks Like Rain",
         "Row Jimmy",
-        "Let It Grow",
+        "Let It Grow"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Fire On The Mountain",
         "Lost Sailor",
         "Saint Of Circumstance",
         "He's Gone",
         "Truckin'",
-        "Smokestack Lightnin'",
+        "Smokestack Lightning",
         "Drums",
         "Space",
         "All Along The Watchtower",
         "Stella Blue",
-        "Goin' Down The Road Feeling Bad",
+        "Goin' Down The Road Feeling Bad"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Black Muddy River"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2019-06-12.jpg"
 }

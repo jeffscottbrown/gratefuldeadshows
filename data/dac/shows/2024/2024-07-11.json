@@ -7,12 +7,17 @@
     {
       "set": 1,
       "songs": [
-        "I Need A Miracle",
+        "Need a Miracle",
         "Eyes Of The World",
         "Ramble On Rose",
         "They Love Each Other",
         "Bird Song",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "China Cat Sunflower",
         "I Know You Rider",
         "Uncle John's Band",
@@ -21,12 +26,17 @@
         "Space",
         "Standing On The Moon",
         "Dear Mr. Fantasy",
-        "Hey Jude",
+        "Hey Jude Reprise",
         "Truckin'",
-        "Knockin' On Heaven's Door",
-        "Come Down",
+        "Knockin' On Heaven's Door"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Turn On Your Lovelight"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2024-07-11.jpg"
 }

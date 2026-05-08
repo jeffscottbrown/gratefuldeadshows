@@ -14,7 +14,12 @@
         "Ramble On Rose",
         "Sugaree",
         "Passenger",
-        "Casey Jones",
+        "Casey Jones"
+      ]
+    },
+    {
+      "set": 2,
+      "songs": [
         "Dark Star",
         "Friend Of The Devil",
         "Scarlet Begonias",
@@ -23,10 +28,16 @@
         "Space",
         "The Other One",
         "Wharf Rat",
-        "Throwing Stones",
+        "Throwing Stones"
+      ]
+    },
+    {
+      "set": 99,
+      "songs": [
         "Ripple",
         "One More Saturday Night"
       ]
     }
-  ]
+  ],
+  "imageUrl": "/images/dac-shows/2016-06-25.jpg"
 }
