@@ -93,6 +93,13 @@ export async function getShowsByCity(city: string): Promise<Show[]> {
   return all.filter((s) => s.city.toLowerCase() === city.toLowerCase());
 }
 
+export async function getShowsByCityAndState(city: string, state: string): Promise<Show[]> {
+  const all = await loadAll();
+  return all.filter(
+    (s) => s.city.toLowerCase() === city.toLowerCase() && s.state.toLowerCase() === state.toLowerCase(),
+  );
+}
+
 export async function getShowsByState(state: string): Promise<Show[]> {
   const all = await loadAll();
   return all.filter((s) => s.state.toLowerCase() === state.toLowerCase());
@@ -138,12 +145,12 @@ export async function getYears(): Promise<{ year: string; gdCount: number; dacCo
     .sort((a, b) => a.year.localeCompare(b.year));
 }
 
-export async function getCities(): Promise<{ city: string; country: string; gdCount: number; dacCount: number }[]> {
+export async function getCities(): Promise<{ city: string; state: string; country: string; gdCount: number; dacCount: number }[]> {
   const all = await loadAll();
-  const map = new Map<string, { country: string; gdCount: number; dacCount: number }>();
+  const map = new Map<string, { state: string; country: string; gdCount: number; dacCount: number }>();
   for (const s of all) {
-    const key = `${s.city}||${s.country}`;
-    if (!map.has(key)) map.set(key, { country: s.country, gdCount: 0, dacCount: 0 });
+    const key = `${s.city}||${s.state}||${s.country}`;
+    if (!map.has(key)) map.set(key, { state: s.state, country: s.country, gdCount: 0, dacCount: 0 });
     const entry = map.get(key)!;
     if (s.band === 'gd') entry.gdCount++; else entry.dacCount++;
   }

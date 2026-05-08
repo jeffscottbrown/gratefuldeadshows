@@ -6,7 +6,7 @@
  */
 import { useState, useMemo, useEffect } from 'react';
 import { BADGES } from '@/lib/badges';
-import { formatDate } from '@/lib/format';
+import { formatDate, cityUrl } from '@/lib/format';
 import BandFilter, { type BandSelection } from './BandFilter';
 
 export interface ShowRow {
@@ -135,13 +135,24 @@ export default function ShowList({ shows, showFilter = false }: Props) {
                     {show.venue}
                   </a>
                 </td>
-                <td className="px-4 py-3">
+                <td className="px-4 py-3 whitespace-nowrap">
                   <a
-                    href={`/cities/${encodeURIComponent(show.city)}`}
+                    href={cityUrl(show.city, show.state)}
                     className="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors"
                   >
-                    {show.city}{show.state ? `, ${show.state}` : ''}
+                    {show.city}
                   </a>
+                  {show.state && (
+                    <>
+                      {', '}
+                      <a
+                        href={`/states/${encodeURIComponent(show.state)}`}
+                        className="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors"
+                      >
+                        {show.state}
+                      </a>
+                    </>
+                  )}
                 </td>
                 <td className="px-4 py-3 hidden sm:table-cell">
                   <a

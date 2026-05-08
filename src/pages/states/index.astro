@@ -1,6 +1,7 @@
 ---
 import Layout from '@/components/Layout.astro';
 import { getStates } from '@/lib/shows';
+import { stateLabel } from '@/lib/format';
 
 const states = await getStates();
 ---
@@ -16,10 +17,10 @@ const states = await getStates();
         >
           <div class="truncate pr-2">
             <span class="text-sm font-medium text-white group-hover:text-dead-gold transition-colors">
-              {state}
+              {stateLabel(state)}
             </span>
             <span class="text-[10px] text-gray-500 ml-2 uppercase tracking-widest font-bold opacity-0 group-hover:opacity-100 transition-opacity">
-              {country}
+              {state}
             </span>
           </div>
           <span class="text-xs text-gray-500 group-hover:text-gray-300 transition-colors">{count}</span>

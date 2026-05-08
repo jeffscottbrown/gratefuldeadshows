@@ -3,9 +3,11 @@
  */
 import { useState } from 'react';
 import BandFilter, { type BandSelection } from './BandFilter';
+import { cityUrl } from '@/lib/format';
 
 interface CityEntry {
   city: string;
+  state: string;
   country: string;
   gdCount: number;
   dacCount: number;
@@ -26,6 +28,10 @@ export default function CityList({ cities }: { cities: CityEntry[] }) {
     const letter = c.city[0]?.toUpperCase() ?? '#';
     if (!byLetter.has(letter)) byLetter.set(letter, []);
     byLetter.get(letter)!.push(c);
+  }
+  // Sort each letter's cities: primary by city name, secondary by state
+  for (const [, entries] of byLetter) {
+    entries.sort((a, b) => a.city.localeCompare(b.city) || a.state.localeCompare(b.state));
   }
   const letters = Array.from(byLetter.keys()).sort();
 
@@ -54,14 +60,15 @@ export default function CityList({ cities }: { cities: CityEntry[] }) {
             {letter}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
-            {byLetter.get(letter)!.map(({ city, country, count }) => (
+            {byLetter.get(letter)!.map(({ city, state, country, count }) => (
               <a
-                key={city}
-                href={`/cities/${encodeURIComponent(city)}`}
+                key={`${city}||${state}||${country}`}
+                href={cityUrl(city, state)}
                 className="flex items-center justify-between px-4 py-2.5 rounded-lg border border-dead-border bg-dead-card hover:border-dead-gold hover:bg-dead-card-hover transition-all group"
               >
                 <span className="text-sm text-white group-hover:text-dead-gold transition-colors truncate">
-                  {city}<span className="text-gray-500 text-xs ml-1">({country})</span>
+                  {city}{state && <span className="text-gray-500 text-xs ml-1">{state}</span>}
+                  {!state && <span className="text-gray-500 text-xs ml-1">({country})</span>}
                 </span>
                 <span className="text-xs text-gray-500 ml-2 shrink-0">{count}</span>
               </a>

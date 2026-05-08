@@ -8,7 +8,7 @@ import Layout from '@/components/Layout.astro';
 import CollectionBadge from '@/components/CollectionBadge.astro';
 import { getAllShows, type Band } from '@/lib/shows';
 import { getAllReleases, buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
-import { formatDate, setLabel } from '@/lib/format';
+import { formatDate, setLabel, cityUrl } from '@/lib/format';
 import { getBadge } from '@/lib/badges';
 
 export async function getStaticPaths() {
@@ -54,7 +54,7 @@ const archiveUrl = `https://archive.org/search.php?query=${archiveQuery}`;
     <div class="flex items-center gap-2 text-sm text-gray-500 mb-6">
       <a href={`/years/${show.year}`} class="hover:text-dead-gold transition-colors">{show.year}</a>
       <span>/</span>
-      <a href={`/cities/${encodeURIComponent(show.city)}`} class="hover:text-dead-gold transition-colors">{show.city}</a>
+      <a href={cityUrl(show.city, show.state)} class="hover:text-dead-gold transition-colors">{show.city}</a>
       <span>/</span>
       <span class="text-gray-300 truncate">{show.venue}</span>
     </div>
@@ -103,9 +103,17 @@ const archiveUrl = `https://archive.org/search.php?query=${archiveQuery}`;
         <div>
           <dt class="text-gray-500 text-xs uppercase tracking-wider mb-1">City</dt>
           <dd>
-            <a href={`/cities/${encodeURIComponent(show.city)}`} class="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors">
-              {show.city}{show.state ? `, ${show.state}` : ''}
+            <a href={cityUrl(show.city, show.state)} class="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors">
+              {show.city}
             </a>
+            {show.state && (
+              <span>
+                {', '}
+                <a href={`/states/${encodeURIComponent(show.state)}`} class="text-dead-gold hover:text-dead-gold-light hover:underline transition-colors">
+                  {show.state}
+                </a>
+              </span>
+            )}
           </dd>
         </div>
         <div>

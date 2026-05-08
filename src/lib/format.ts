@@ -86,3 +86,42 @@ const COUNTRY_NAMES: Record<string, string> = {
 export function countryLabel(code: string): string {
   return COUNTRY_NAMES[code] ?? code;
 }
+
+const US_STATE_NAMES: Record<string, string> = {
+  AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California',
+  CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', FL: 'Florida', GA: 'Georgia',
+  HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa',
+  KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana', ME: 'Maine', MD: 'Maryland',
+  MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi', MO: 'Missouri',
+  MT: 'Montana', NE: 'Nebraska', NV: 'Nevada', NH: 'New Hampshire', NJ: 'New Jersey',
+  NM: 'New Mexico', NY: 'New York', NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio',
+  OK: 'Oklahoma', OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina',
+  SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah', VT: 'Vermont',
+  VA: 'Virginia', WA: 'Washington', WV: 'West Virginia', WI: 'Wisconsin', WY: 'Wyoming',
+  DC: 'Washington D.C.',
+};
+
+export function stateLabel(code: string): string {
+  return US_STATE_NAMES[code] ?? code;
+}
+
+/** Cities that appear in more than one US state — require state-qualified URLs. */
+export const AMBIGUOUS_CITIES = new Set([
+  'Bloomington',
+  'Columbia',
+  'Hollywood',
+  'Kansas City',
+  'Portland',
+]);
+
+/**
+ * Returns the canonical URL for a city page.
+ * Ambiguous cities (same name in multiple states) use /cities/[state]/[city].
+ * All others use /cities/[city].
+ */
+export function cityUrl(city: string, state: string): string {
+  if (state && AMBIGUOUS_CITIES.has(city)) {
+    return `/cities/${encodeURIComponent(state)}/${encodeURIComponent(city)}`;
+  }
+  return `/cities/${encodeURIComponent(city)}`;
+}
