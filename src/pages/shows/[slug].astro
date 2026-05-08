@@ -1,12 +1,13 @@
 ---
 /**
- * Show detail page: /shows/gd/1977-05-08 or /shows/dac/2015-06-16
+ * Show detail page: /shows/1977-05-08 or /shows/2015-06-16
  *
  * getStaticPaths generates one route per show in both bands' collections.
+ * Dates never overlap between GD and DAC so the slug alone is unique.
  */
 import Layout from '@/components/Layout.astro';
 import CollectionBadge from '@/components/CollectionBadge.astro';
-import { getAllShows, type Band } from '@/lib/shows';
+import { getAllShows } from '@/lib/shows';
 import { getAllReleases, buildReleasesDateIndex, getCollectionsForDate } from '@/lib/releases';
 import { formatDate, setLabel, cityUrl } from '@/lib/format';
 import { getBadge } from '@/lib/badges';
@@ -14,7 +15,7 @@ import { getBadge } from '@/lib/badges';
 export async function getStaticPaths() {
   const shows = await getAllShows();
   return shows.map((show) => ({
-    params: { band: show.band, slug: show.slug },
+    params: { slug: show.slug },
     props: { show },
   }));
 }

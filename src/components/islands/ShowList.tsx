@@ -103,7 +103,7 @@ export default function ShowList({ shows, showFilter = false }: Props) {
               >
                 <td className="px-4 py-3 whitespace-nowrap">
                   <a
-                    href={`/shows/${show.band}/${show.slug}`}
+                    href={`/shows/${show.slug}`}
                     className="text-dead-teal-light hover:text-teal-300 hover:underline transition-colors"
                   >
                     {formatDate(show.slug, 'short')}

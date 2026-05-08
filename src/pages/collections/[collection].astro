@@ -111,7 +111,7 @@ const isArchive = slug === 'hunters-trix';
                     {release.dates.slice(0, 6).map((d) => {
                       const show = showByDate.get(d);
                       return show
-                        ? <a href={`/shows/${show.band}/${show.slug}`} class="text-dead-gold hover:text-white hover:underline">{d}</a>
+                        ? <a href={`/shows/${show.slug}`} class="text-dead-gold hover:text-white hover:underline">{d}</a>
                         : <span class="text-gray-600">{d}</span>;
                     })}
                     {release.dates.length > 6 && <span class="text-gray-600">+{release.dates.length - 6} more</span>}
