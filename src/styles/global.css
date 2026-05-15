@@ -1,6 +1,17 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-dead-gold: #e8b84b;
+  --color-dead-gold-light: #f5d07a;
+  --color-dead-teal: #0d9488;
+  --color-dead-teal-light: #14b8a6;
+  --color-dead-bg: #0a0a14;
+  --color-dead-card: #111827;
+  --color-dead-card-hover: #1f2937;
+  --color-dead-border: #1f2937;
+  --font-sans: Inter, system-ui, sans-serif;
+  --background-image-hero-gradient: linear-gradient(135deg, #0a0a14 0%, #1a0533 50%, #0a1a14 100%);
+}
 
 :root {
   --bg: #0a0a14;

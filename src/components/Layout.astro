@@ -8,7 +8,7 @@
  * - Global Tailwind styles
  * - Header + Footer shell
  */
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 import Header from './Header.astro';
 import Footer from './Footer.astro';
 import '@/styles/global.css';
@@ -37,7 +37,7 @@ const siteTitle = title === 'Home' ? 'Grateful Dead Shows' : `${title} | Gratefu
     />
     <title>{siteTitle}</title>
     <!-- View Transitions give SPA-like navigation with zero extra JS bundle -->
-    <ViewTransitions />
+    <ClientRouter />
   </head>
   <body class="bg-dead-bg text-gray-100 flex flex-col min-h-screen font-sans">
     <Header />
