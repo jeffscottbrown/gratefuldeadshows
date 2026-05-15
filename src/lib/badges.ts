@@ -120,6 +120,11 @@ export const BADGES: Record<string, BadgeInfo> = {
     abbr: "W77",
     cls: "bg-gray-600 text-gray-100",
   },
+  "enjoying-the-ride": {
+    name: "Enjoying the Ride",
+    abbr: "EtR",
+    cls: "bg-indigo-800 text-indigo-100",
+  },
   "here-comes-sunshine": {
     name: "Here Comes Sunshine",
     abbr: "HCS",
