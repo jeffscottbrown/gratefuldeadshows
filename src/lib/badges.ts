@@ -110,9 +110,14 @@ export const BADGES: Record<string, BadgeInfo> = {
     abbr: "Lyc",
     cls: "bg-teal-800 text-teal-100",
   },
-  winterland: {
-    name: "Winterland",
-    abbr: "Wtr",
+  "winterland-1973-complete-recordings": {
+    name: "Winterland 1973",
+    abbr: "W73",
+    cls: "bg-slate-700 text-slate-100",
+  },
+  "winterland-1977-complete-recordings": {
+    name: "Winterland 1977",
+    abbr: "W77",
     cls: "bg-gray-600 text-gray-100",
   },
   "here-comes-sunshine": {
