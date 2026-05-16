@@ -38,7 +38,7 @@ const showReleases = releases.filter((r) => {
 
 // External links
 const d = show.date.replace(/-/g, '/');
-const bandPath = show.band === 'gd' ? 'grateful-dead' : 'dead-and-company';
+const bandPath = show.band === 'gd' ? 'grateful-dead' : 'dead-and-co';
 const relistenUrl = `https://relisten.net/${bandPath}/${d}`;
 const archiveQuery = show.band === 'gd'
   ? `collection%3AGratefulDead%20AND%20date%3A${show.date}`
